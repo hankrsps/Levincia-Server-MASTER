@@ -1,0 +1,413 @@
+{
+  "serverTierSelected": "TIER_1",
+  "tier1prize": {
+    "min": 0,
+    "max": 0,
+    "rate": 0.0,
+    "announce": false,
+    "id": 12855,
+    "amount": 10000000,
+    "slot": 0
+  },
+  "tier2prize": {
+    "min": 0,
+    "max": 0,
+    "rate": 0.0,
+    "announce": false,
+    "id": 12855,
+    "amount": 50000000,
+    "slot": 0
+  },
+  "TIMES_ROLLED_TIER_1": 0,
+  "TIMES_ROLLED_TIER_2": 0,
+  "TIER_1_REWARDS": [
+    {
+      "firstGoldReward": {
+        "min": 0,
+        "max": 0,
+        "rate": 0.0,
+        "announce": false,
+        "id": 23359,
+        "amount": 1,
+        "slot": 0
+      },
+      "secondGoldReward": {
+        "min": 0,
+        "max": 0,
+        "rate": 0.0,
+        "announce": false,
+        "id": 23357,
+        "amount": 1,
+        "slot": 0
+      },
+      "thirdGoldReward": {
+        "min": 0,
+        "max": 0,
+        "rate": 0.0,
+        "announce": false,
+        "id": 14999,
+        "amount": 1,
+        "slot": 0
+      },
+      "regularRewards": [
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 15288,
+          "amount": 5,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 15289,
+          "amount": 5,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 15290,
+          "amount": 3,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 22219,
+          "amount": 5,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 19001,
+          "amount": 5,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 15358,
+          "amount": 3,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 20489,
+          "amount": 2,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 15359,
+          "amount": 3,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 6769,
+          "amount": 2,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 10946,
+          "amount": 5,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 10947,
+          "amount": 1,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 18404,
+          "amount": 5,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 15003,
+          "amount": 1,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 23401,
+          "amount": 2,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 23528,
+          "amount": 1,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 23529,
+          "amount": 1,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 23530,
+          "amount": 1,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 23531,
+          "amount": 1,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 23532,
+          "amount": 1,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 10507,
+          "amount": 1,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 3578,
+          "amount": 1,
+          "slot": 0
+        }
+      ]
+    }
+  ],
+  "TIER_2_REWARDS": [
+    {
+      "firstGoldReward": {
+        "min": 0,
+        "max": 0,
+        "rate": 0.0,
+        "announce": false,
+        "id": 23358,
+        "amount": 1,
+        "slot": 0
+      },
+      "secondGoldReward": {
+        "min": 0,
+        "max": 0,
+        "rate": 0.0,
+        "announce": false,
+        "id": 23360,
+        "amount": 1,
+        "slot": 0
+      },
+      "thirdGoldReward": {
+        "min": 0,
+        "max": 0,
+        "rate": 0.0,
+        "announce": false,
+        "id": 23361,
+        "amount": 1,
+        "slot": 0
+      },
+      "regularRewards": [
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 4186,
+          "amount": 10,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 22209,
+          "amount": 3,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 22211,
+          "amount": 3,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 10942,
+          "amount": 2,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 10935,
+          "amount": 1,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 10934,
+          "amount": 1,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 15355,
+          "amount": 3,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 15356,
+          "amount": 3,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 15357,
+          "amount": 3,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 15004,
+          "amount": 1,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 23239,
+          "amount": 2,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 22112,
+          "amount": 2,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 10949,
+          "amount": 2,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 23253,
+          "amount": 1,
+          "slot": 0
+        },
+        {
+          "min": 0,
+          "max": 0,
+          "rate": 0.0,
+          "announce": false,
+          "id": 23240,
+          "amount": 1,
+          "slot": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[10/10/25 05:17PM] Login. ip: 190.242.25.240, mac: Default string20201204232903.000000-360, uuid: 1C-1B-0D-C1-FE-D2	
+[10/10/25 05:20PM] (CC) Help. Said: Ty	
+[10/10/25 05:22PM] (CC) Help. Said: Votes down?	
+[10/10/25 05:24PM] (CC) Help. Said: Got it	
+[10/10/25 05:27PM] (CC) Help. Said: At phase 3	
+[10/10/25 05:29PM] (CC) Help. Said: Omq	
+[10/10/25 05:29PM]  Receiving item from trade with Kursed Id: 8412, amount: 1	
+[10/10/25 05:29PM] HOME_BANK|2783,4064,0|Said: O ty	
+[10/10/25 05:29PM] HOME_BANK|2783,4064,0|Said: Tyty	
+[10/10/25 05:37PM] Player destroying item: -1, amount: 0	
+[10/10/25 05:59PM] Player destroying item: -1, amount: 0	
+[10/10/25 06:07PM] (CC) Help. Said: Wb	
+[10/10/25 06:08PM] (CC) Help. Said: Where to get coll ammy?	
+[10/10/25 06:13PM]  Receiving item from trade with Kursed Id: 19886, amount: 1	
+[10/10/25 06:13PM] HOME_BANK|2783,4065,0|Said: Ty	
+[10/12/25 03:47PM] Login. ip: 190.242.27.5, mac: Default string20201204232903.000000-360, uuid: 1C-1B-0D-C1-FE-D2	
+[10/12/25 03:48PM] (CC) Help. Said: Votes still down?	

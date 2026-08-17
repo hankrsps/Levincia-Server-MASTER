@@ -1,0 +1,105 @@
+[10/7/25 04:52PM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Justin	
+[10/7/25 04:55PM] Player picked up item: Rancid flour, id: 7546, amount: 1, owner: Justin	
+[10/7/25 04:55PM] Player picked up item: Empty bucket, id: 3727, amount: 1, owner: Justin	
+[10/7/25 05:39PM] Player picked up item: Knife, id: 946, amount: 1, owner: Justin	
+[10/7/25 05:40PM] Player picked up item: Empty bucket, id: 3727, amount: 1, owner: Justin	
+[10/7/25 05:40PM] Player picked up item: Rancid flour, id: 7546, amount: 1, owner: Justin	
+[10/7/25 05:40PM] Player picked up item: Bowl, id: 1923, amount: 1, owner: Justin	
+[10/7/25 06:16PM] Player picked up item: Omega egg, id: 10537, amount: 1, owner: Justin	
+[10/7/25 06:35PM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Justin	
+[10/7/25 06:37PM] Player picked up item: Rotten food, id: 2960, amount: 1, owner: Justin	
+[10/7/25 06:37PM] Player picked up item: Rotten food, id: 2960, amount: 1, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Nature rune, id: 561, amount: 1003, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Dragon arrow, id: 11212, amount: 126, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Raw swordfish, id: 372, amount: 775, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Cosmic rune, id: 564, amount: 886, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Law rune, id: 563, amount: 431, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Adamant arrow, id: 890, amount: 711, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Granite legs, id: 6809, amount: 1, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Blood rune, id: 565, amount: 110, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Runite bolts, id: 9144, amount: 164, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Magic logs, id: 1514, amount: 128, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Rune boots, id: 4132, amount: 2, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Amulet of glory, id: 1705, amount: 1, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Fire rune, id: 554, amount: 1547, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Dragon bolts (e), id: 9244, amount: 21, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Adamantite ore, id: 450, amount: 55, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Earth rune, id: 557, amount: 1076, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Rune knife, id: 868, amount: 100, owner: Justin	
+[10/7/25 06:48PM] Player picked up item: Raw shark, id: 384, amount: 44, owner: Justin	
+[10/7/25 06:49PM] Player picked up item: Uncut diamond, id: 1618, amount: 10, owner: Justin	
+[10/7/25 06:49PM] Player picked up item: Cannonball, id: 2, amount: 156, owner: Justin	
+[10/7/25 06:49PM] Player picked up item: Grimy marrentill, id: 202, amount: 143, owner: Justin	
+[10/7/25 06:49PM] Player picked up item: Grimy harralander, id: 206, amount: 86, owner: Justin	
+[10/7/25 06:49PM] Player picked up item: Grimy irit, id: 210, amount: 84, owner: Justin	
+[10/7/25 06:49PM] Player picked up item: Grimy avantoe, id: 212, amount: 43, owner: Justin	
+[10/7/25 06:49PM] Player picked up item: Grimy cadantine, id: 216, amount: 37, owner: Justin	
+[10/7/25 06:49PM] Player picked up item: Grimy guam, id: 200, amount: 34, owner: Justin	
+[10/7/25 06:49PM] Player picked up item: Grimy ranarr, id: 208, amount: 27, owner: Justin	
+[10/7/25 06:49PM] Player picked up item: Grimy dwarf weed, id: 218, amount: 24, owner: Justin	
+[10/7/25 06:49PM] Player picked up item: Grimy lantadyme, id: 2486, amount: 19, owner: Justin	
+[10/7/25 06:49PM] Player picked up item: Grimy torstol, id: 220, amount: 13, owner: Justin	
+[10/7/25 06:49PM] Player picked up item: Grimy snapdragon, id: 3052, amount: 11, owner: Justin	
+[10/7/25 06:49PM] Player picked up item: Elite dragon bones, id: 18830, amount: 11, owner: Justin	
+[10/7/25 06:55PM] Player picked up item: Levincia tokens, id: 12855, amount: 136000, owner: Justin	
+[10/7/25 06:55PM] Player picked up item: Levincia tokens, id: 12855, amount: 110300, owner: Justin	
+[10/7/25 06:56PM] Player picked up item: Levincia tokens, id: 12855, amount: 169, owner: Justin	
+[10/7/25 06:59PM] Player picked up item: Levincia tokens, id: 12855, amount: 165, owner: Justin	
+[10/7/25 07:00PM] Player picked up item: Levincia tokens, id: 12855, amount: 8000, owner: Justin	
+[10/7/25 07:02PM] Player picked up item: Levincia tokens, id: 12855, amount: 50, owner: Justin	
+[10/7/25 07:03PM] Player picked up item: Levincia tokens, id: 12855, amount: 8680, owner: Justin	
+[10/7/25 07:17PM] Player picked up item: Rage Cape, id: 20591, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:17PM] Player picked up item: Starter Card Pack, id: 23276, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:17PM] Player picked up item: Cash box, id: 21221, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:17PM] Player picked up item: Verac's brassard, id: 4757, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:18PM] Player picked up item: Antique lamp, id: 11137, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:18PM] Player picked up item: PvM Box (t2), id: 22214, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:19PM] Player picked up item: Collector necklace, id: 19886, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:21PM] Player picked up item: 100% DR Scroll (30 Min), id: 15358, amount: 5, owner: PARTY CHEST	
+[10/7/25 07:21PM] Player picked up item: PvM Box, id: 7956, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:25PM] Player picked up item: Ethereal case, id: 23412, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:33PM] Player picked up item: Dragon arrow, id: 11212, amount: 52, owner: Justin	
+[10/7/25 07:33PM] Player picked up item: Runite bolts, id: 9144, amount: 78, owner: Justin	
+[10/7/25 07:33PM] Player picked up item: Earth rune, id: 557, amount: 318, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Adamant arrow, id: 890, amount: 2892, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Runite ore, id: 452, amount: 113, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Cosmic rune, id: 564, amount: 1478, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Dragon med helm, id: 1150, amount: 2, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Blood rune, id: 565, amount: 333, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Runite bolts, id: 9144, amount: 600, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Amulet of ranging, id: 15127, amount: 3, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Soul rune, id: 566, amount: 435, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Astral rune, id: 9075, amount: 780, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Raw lobster, id: 378, amount: 563, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Granite maul, id: 4154, amount: 2, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Granite helm, id: 10590, amount: 2, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Mithril knife, id: 866, amount: 5077, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Granite legs, id: 6809, amount: 1, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Granite legs, id: 6809, amount: 1, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Mithril ore, id: 448, amount: 387, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Raw manta ray, id: 390, amount: 102, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Law rune, id: 563, amount: 120, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Yew logs, id: 1516, amount: 239, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Uncut dragonstone, id: 1632, amount: 37, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Amulet of glory, id: 1705, amount: 1, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Dragon bolts (e), id: 9244, amount: 31, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Fire rune, id: 554, amount: 1982, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Body rune, id: 559, amount: 1765, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Air rune, id: 556, amount: 1467, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Raw shark, id: 384, amount: 82, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Water rune, id: 555, amount: 1203, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Adamant knife, id: 867, amount: 264, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Adamantite ore, id: 450, amount: 16, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Coal, id: 454, amount: 148, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Uncut emerald, id: 1622, amount: 125, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Uncut sapphire, id: 1624, amount: 61, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Grimy marrentill, id: 202, amount: 297, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Grimy guam, id: 200, amount: 200, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Big bones, id: 533, amount: 135, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Dragon bones, id: 537, amount: 84, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Grimy irit, id: 210, amount: 60, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Grimy lantadyme, id: 2486, amount: 17, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Grimy snapdragon, id: 3052, amount: 9, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Grimy torstol, id: 220, amount: 6, owner: Justin	
+[10/7/25 07:35PM] Player picked up item: Elite dragon bones, id: 18830, amount: 7, owner: Justin	
+[10/9/25 02:13PM] Player picked up item: Ethereal case, id: 23412, amount: 1, owner: Justin	

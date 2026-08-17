@@ -1,0 +1,16 @@
+[10/7/25 10:23AM] Login. ip: 103.206.108.39, mac: Default string20250606061847.000000+180, uuid: 00-D8-61-0E-50-AE	
+[10/7/25 10:24AM] (CC) Help. Said: Yoo	
+[10/7/25 10:30AM] Login. ip: 103.206.108.39, mac: Default string20250606061847.000000+180, uuid: 00-D8-61-0E-50-AE	
+[10/7/25 10:31AM] PROGRESSION_ZONES|3035,4119,5|Said: Thx g	
+[10/7/25 10:32AM] DEFAULT|2784,4046,0|Said: How you doing?	
+[10/7/25 10:33AM] DEFAULT|2784,4047,0|Said: I like the home looks nice	
+[10/7/25 10:34AM] Has just redeemed a $10 Bond successfully!	
+[10/7/25 10:37AM] VOTE_BOSS|3424,4117,4|Said: Whats that?	
+[10/7/25 10:38AM] VOTE_BOSS|3424,4117,4|Said: Range	
+[10/7/25 10:38AM] VOTE_BOSS|3424,4117,4|Said: What dose global tick do?	
+[10/7/25 10:39AM] VOTE_BOSS|3424,4117,4|Said: What is the best gear?	
+[10/7/25 10:40AM] VOTE_BOSS|3424,4117,4|Said: Hard to get it?	
+[10/7/25 10:40AM] Has just redeemed a $10 Bond successfully!	
+[10/7/25 10:40AM] VOTE_BOSS|3424,4117,4|Said: Ohh	
+[10/7/25 10:41AM] VOTE_BOSS|3424,4117,4|Said: Ill chack the game more	
+[10/13/25 12:12PM] Login. ip: 103.206.108.39, mac: Default string20250606061847.000000+180, uuid: 00-D8-61-0E-50-AE	

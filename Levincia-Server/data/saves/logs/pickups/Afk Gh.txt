@@ -1,0 +1,5 @@
+[10/7/25 01:16AM] Player picked up item: OP Box, id: 20488, amount: 1, owner: Afk Gh	
+[10/7/25 01:32PM] Player picked up item: Global ticket, id: 23229, amount: 1, owner: Afk Gh	
+[10/7/25 01:32PM] Player picked up item: Levincia tokens, id: 12855, amount: 5000, owner: Afk Gh	
+[10/7/25 01:32PM] Player picked up item: PVM ticket, id: 5022, amount: 1000, owner: Afk Gh	
+[10/7/25 01:32PM] Player picked up item: Crystal key, id: 989, amount: 2, owner: Afk Gh	

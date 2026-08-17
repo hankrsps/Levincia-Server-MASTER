@@ -1,0 +1,4 @@
+[7/20/25 05:44PM] Login from host 127.0.0.1, serial number: E2-BF-BE-D9-CB-41, mac address:ET8252-695320250531122636.000000-240	
+[7/20/25 05:53PM] Logout with password 123Logout from host 127.0.0.1, serial number: E2-BF-BE-D9-CB-41, mac address:ET8252-695320250531122636.000000-240	
+[7/20/25 06:03PM] Login from host 127.0.0.1, serial number: E2-BF-BE-D9-CB-41, mac address:ET8252-695320250531122636.000000-240	
+[7/20/25 06:03PM] Logout with password 123Logout from host 127.0.0.1, serial number: E2-BF-BE-D9-CB-41, mac address:ET8252-695320250531122636.000000-240	

@@ -1,0 +1,270 @@
+[10/5/25 05:20PM]  [ History Hawk ] Player received drop: x1 Hanto Costume, id: 23462, amount: 1, from: Hanto Warrior	
+[10/7/25 07:49AM]  [ History Hawk ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Hellraiser	
+[10/7/25 10:35AM]  [ Gudekompleks ] Player received drop: x1 2X Damage Scroll (30 Min), id: 15359, amount: 1, from: Vote Boss	
+[10/7/25 01:16PM]  [ Juggy ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Vote Boss	
+[10/7/25 02:48PM]  [ Juggy ] Player received drop: x1 Upgrade Token pack (25k), id: 15289, amount: 1, from: Nightmare Boss	
+[10/7/25 04:15PM]  [ Hank ] Player received drop: x1 100% DR Scroll (30 Min), id: 15358, amount: 1, from: Vote Boss	
+[10/7/25 05:05PM]  [ Ghijf ] Player received drop: x1 Collector necklace, id: 19886, amount: 1, from: Vote Boss	
+[10/7/25 05:44PM]  [ Grand ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Naraku	
+[10/7/25 06:05PM]  [ Grand ] Player received drop: x1 $5 Bond, id: 6769, amount: 1, from: Nephilim Warrior	
+[10/7/25 06:11PM]  [ Grand ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 06:11PM]  [ Evilspot ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 06:13PM]  [ Justin ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/7/25 06:18PM]  [ Justin ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 07:08PM]  [ Evilspot ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 07:09PM]  [ Grand ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 07:09PM]  [ Big Daddy D ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 07:10PM]  [ Test ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/7/25 07:11PM]  [ Vibes ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/7/25 07:11PM]  [ Big Daddy D ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 07:12PM]  [ Test ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 07:12PM]  [ Vibes ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/7/25 07:12PM]  [ Test ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 08:07PM]  [ Evilspot ] Player received drop: x1 Indravox kiteshield, id: 701, amount: 1, from: Joyx Golem	
+[10/7/25 08:15PM]  [ You ] Player received drop: x1 Webby legs, id: 19472, amount: 1, from: Arachne	
+[10/7/25 08:49PM]  [ Evilspot ] Player received drop: x1 Avatar titan helm, id: 703, amount: 1, from: Avatar Titan	
+[10/7/25 08:56PM]  [ Evilspot ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 08:56PM]  [ Hank ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 08:57PM]  [ Evilspot ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 08:59PM]  [ Hank ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 09:01PM]  [ Hank ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/7/25 09:01PM]  [ Evilspot ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 09:14PM]  [ Evilspot ] Player received drop: x1 Chance scroll, id: 22166, amount: 1, from: Vote Boss	
+[10/7/25 09:14PM]  [ Dox ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Vote Boss	
+[10/7/25 09:14PM]  [ Hank ] Player received drop: x1 2X Damage Scroll (30 Min), id: 15359, amount: 1, from: Vote Boss	
+[10/7/25 09:19PM]  [ Evilspot ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/7/25 09:19PM]  [ Dox ] Player received drop: x1 Chance scroll, id: 22166, amount: 1, from: Nephilim Warrior	
+[10/7/25 09:19PM]  [ Hank ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 10:11PM]  [ Evilspot ] Player received drop: x1 Oni platebody, id: 16023, amount: 1, from: Oni	
+[10/7/25 10:21PM]  [ Evilspot ] Player received drop: x1 Oni Wings, id: 17686, amount: 1, from: Oni	
+[10/7/25 10:36PM]  [ Evilspot ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nightmare Boss	
+[10/8/25 12:07AM]  [ Dox ] Player received drop: x1 Angels Flamethrower, id: 17712, amount: 1, from: Legendary Wyvern	
+[10/8/25 12:07AM]  [ Dox ] Player received drop: x1 Sorrow body, id: 8804, amount: 1, from: Legendary Wyvern	
+[10/8/25 12:16AM]  [ Evilspot ] Player received drop: x1 Sorrow chaps, id: 8805, amount: 1, from: Sub-Zero	
+[10/8/25 12:23AM]  [ Evilspot ] Player received drop: x1 Upgrade Token pack (25k), id: 15289, amount: 1, from: Sub-Zero	
+[10/8/25 12:25AM]  [ Ghijf ] Player received drop: x1 Boss gloves, id: 3905, amount: 1, from: Turoth	
+[10/8/25 12:26AM]  [ Evilspot ] Player received drop: x1 Sorrow chaps, id: 8805, amount: 1, from: Sub-Zero	
+[10/8/25 02:19AM]  [ Ghijf ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Dragon King	
+[10/8/25 03:11AM]  [ Grand ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nightmare Boss	
+[10/8/25 03:40AM]  [ Ghijf ] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 03:59AM]  [ Ghijf ] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 04:05AM]  [ Ghijf ] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 07:04AM]  [ Ghijf ] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 07:29AM]  [ Ghijf ] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 08:06AM]  [ Ghijf ] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 08:26AM]  [ Ghijf ] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 08:40AM]  [ You ] Player received drop: x1 Ripper helm, id: 15922, amount: 1, from: Titanium Ripper	
+[10/8/25 09:10AM]  [ Hank ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Vozzath	
+[10/8/25 09:27AM]  [ Ghijf ] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 09:56AM]  [ Ghijf ] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 02:03PM]  [ Spoon ] Player received drop: x1 Shukarhazh platebody, id: 8814, amount: 1, from: Shukarhazh	
+[10/8/25 02:23PM]  [ Spoon ] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 05:38PM]  [ Spoon ] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 07:55PM]  [ You ] Player received drop: x1 Oni off-hand, id: 15818, amount: 1, from: Oni	
+[10/8/25 07:58PM]  [ You ] Player received drop: x1 Ganopurp robe top, id: 8807, amount: 1, from: Oni	
+[10/8/25 08:40PM]  [ Vibes ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Vote Boss	
+[10/8/25 08:40PM]  [ History Hawk ] Player received drop: x1 100% DR Scroll (30 Min), id: 15358, amount: 1, from: Vote Boss	
+[10/8/25 08:42PM]  [ Evilspot ] Player received drop: x1 Zeus legs, id: 15232, amount: 1, from: Almighty Zeus	
+[10/8/25 08:49PM]  [ Spoon ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/8/25 08:53PM]  [ Spoon ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/8/25 08:53PM]  [ Vibes ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/8/25 08:53PM]  [ Dox ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/8/25 08:58PM]  [ Spoon ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/8/25 09:03PM]  [ Evilspot ] Player received drop: x1 Sorrow chaps, id: 8805, amount: 1, from: Almighty Zeus	
+[10/8/25 09:03PM]  [ Spoon ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/8/25 09:09PM]  [ Spoon ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/8/25 09:09PM]  [ Dox ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/8/25 09:37PM]  [ History Hawk ] Player received drop: x1 Arc mace, id: 19917, amount: 1, from: Energy Skeleton	
+[10/8/25 10:04PM]  [ Ghijf ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Hellraiser	
+[10/8/25 10:40PM]  [ Ghijf ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Turoth	
+[10/8/25 10:44PM]  [ Ghijf ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Energy Skeleton	
+[10/8/25 10:44PM]  [ Ghijf ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Energy Skeleton	
+[10/8/25 11:54PM]  [ Ghijf ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Demon Goddess	
+[10/9/25 12:28AM]  [ Ghijf ] Player received drop: x1 Energy Torva platelegs, id: 19934, amount: 1, from: Energy Skeleton	
+[10/9/25 12:56AM]  [ Ghijf ] Player received drop: x1 Tornado Katana, id: 14018, amount: 1, from: Turoth	
+[10/9/25 12:56AM]  [ Ghijf ] Player received drop: x1 Bulwark platebody, id: 8817, amount: 1, from: Turoth	
+[10/9/25 12:59AM]  [ Dox ] Player received drop: x1 Ganopurp staff, id: 8809, amount: 1, from: Oni	
+[10/9/25 01:56AM]  [ Ghijf ] Player received drop: x1 Arc mace, id: 19917, amount: 1, from: Energy Skeleton	
+[10/9/25 07:04AM]  [ Spoon ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/9/25 09:19AM]  [ Spoon ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/9/25 09:21AM]  [ Spoon ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/9/25 09:34AM]  [ You ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Drone	
+[10/9/25 10:08AM]  [ Spoon ] Player received drop: x1 Chance scroll, id: 22166, amount: 1, from: Nephilim Warrior	
+[10/9/25 10:08AM]  [ Delicious ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/9/25 10:13AM]  [ Mystima ] Player received drop: x1 Indravox platebody, id: 702, amount: 1, from: Joyx Golem	
+[10/9/25 10:13AM]  [ Mystima ] Player received drop: x1 Indravox platelegs, id: 700, amount: 1, from: Joyx Golem	
+[10/9/25 10:23AM]  [ Mystima ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/9/25 10:28AM]  [ Spoon ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/9/25 10:28AM]  [ Delicious ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/9/25 10:33AM]  [ History Hawk ] Player received drop: x1 Hellraiser pet (x2 KC), id: 11314, amount: 1, from: Hellraiser	
+[10/9/25 10:35AM]  [ Delicious ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Demon Goddess	
+[10/9/25 10:44AM]  [ Delicious ] Player received drop: x1 Energy Torva platelegs, id: 19934, amount: 1, from: Energy Skeleton	
+[10/9/25 10:51AM]  [ Mystima ] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Shetani	
+[10/9/25 11:09AM]  [ Delicious ] Player received drop: x1 Arc rapier, id: 19919, amount: 1, from: Energy Skeleton	
+[10/9/25 11:13AM]  [ Delicious ] Player received drop: x1 Energy ring, id: 7927, amount: 1, from: Energy Skeleton	
+[10/9/25 11:32AM]  [ Delicious ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Demon Goddess	
+[10/9/25 11:43AM]  [ You ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Drone	
+[10/9/25 12:23PM]  [ Delicious ] Player received drop: x1 Energy Torva platelegs, id: 19934, amount: 1, from: Energy Skeleton	
+[10/9/25 01:33PM]  [ History Hawk ] Player received drop: x1 Deity Attachment, id: 10947, amount: 1, from: Forest Archer	
+[10/9/25 01:46PM]  [ Justin ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Energy Skeleton	
+[10/9/25 02:01PM]  [ Ghijf ] Player received drop: x1 Ruby Mystery Box, id: 19114, amount: 1, from: Inuyasha	
+[10/9/25 02:38PM]  [ Spoon ] Player received drop: x1 100% DR Scroll (30 Min), id: 15358, amount: 1, from: Vote Boss	
+[10/9/25 02:42PM]  [ Spoon ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/9/25 02:42PM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/9/25 02:42PM]  [ Ghijf ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/9/25 02:42PM]  [ Spoon ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/9/25 03:08PM]  [ Justin ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Arachne	
+[10/9/25 03:10PM]  [ Justin ] Player received drop: x1 Webby body, id: 19473, amount: 1, from: Arachne	
+[10/9/25 03:15PM]  [ Justin ] Player received drop: x1 Webby legs, id: 19472, amount: 1, from: Arachne	
+[10/10/25 01:30AM]  [ Spoon ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Hellraiser	
+[10/10/25 01:33AM]  [ Spoon ] Player received drop: x1 Pet Fragments X250, id: 19001, amount: 1, from: Onyx Panther	
+[10/10/25 01:38AM]  [ Spoon ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/10/25 02:42AM]  [ Ghijf ] Player received drop: x1 Goodiebag box, id: 6833, amount: 1, from: Raditz	
+[10/10/25 02:42AM]  [ Dox ] Player received drop: x1 Shikruu platebody, id: 8801, amount: 1, from: Super Shenron	
+[10/10/25 05:41AM]  [ Grand ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Onyx Panther	
+[10/10/25 09:37AM]  [ Iron V33t ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/10/25 09:37AM]  [ Kursed ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/10/25 09:39AM]  [ Hank ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/10/25 09:49AM]  [ Kursed ] Player received drop: x1 Chance scroll, id: 22166, amount: 1, from: Vote Boss	
+[10/10/25 10:06AM]  [ Spoon ] Player received drop: x1 Upgrade Token pack (25k), id: 15289, amount: 1, from: Nightmare Boss	
+[10/10/25 10:36AM]  [ Vibes ] Player received drop: x1 Crest part 2, id: 780, amount: 1, from: Rusted Gargoyle	
+[10/10/25 01:45PM]  [ Ghijf ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Turoth	
+[10/10/25 01:48PM]  [ Spoon ] Player received drop: x1 Ruby Mystery Box, id: 19114, amount: 1, from: Inuyasha	
+[10/10/25 01:50PM]  [ Ghijf ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Energy Skeleton	
+[10/10/25 01:54PM]  [ Ghijf ] Player received drop: x1 Arc mace, id: 19917, amount: 1, from: Energy Skeleton	
+[10/10/25 01:54PM]  [ Spoon ] Player received drop: x1 Crystalized helm, id: 14060, amount: 1, from: Tolrokoth	
+[10/10/25 03:31PM]  [ Ghijf ] Player received drop: x2 Sapphire mystery box, id: 19116, amount: 2, from: Demon Of Deity	
+[10/10/25 03:52PM]  [ Loki ] Player received drop: x1 Ripper legs, id: 15933, amount: 1, from: Titanium Ripper	
+[10/10/25 05:16PM]  [ Ghijf ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Turoth	
+[10/10/25 05:35PM]  [ Ghijf ] Player received drop: x1 Diabolical platebody, id: 8861, amount: 1, from: Demon Goddess	
+[10/10/25 07:02PM]  [ Kursed ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Naraku	
+[10/10/25 09:45PM]  [ Tin ] Player received drop: x1 Indravox platebody, id: 702, amount: 1, from: Joyx Golem	
+[10/10/25 11:24PM]  [ Kursed ] Player received drop: x1 Ripper body, id: 16021, amount: 1, from: Titanium Ripper	
+[10/11/25 12:55AM]  [ Ghijf ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Arachne	
+[10/11/25 01:13AM]  [ Ghijf ] Player received drop: x1 Webby legs, id: 19472, amount: 1, from: Arachne	
+[10/11/25 02:25AM]  [ Kursed ] Player received drop: x1 Ganopurp mask, id: 8806, amount: 1, from: Oni	
+[10/11/25 03:48AM]  [ Kursed ] Player received drop: x1 Ganopurp robe legs, id: 8808, amount: 1, from: Oni	
+[10/11/25 04:14AM]  [ Ghijf ] Player received drop: x1 Hellraiser head, id: 13323, amount: 1, from: Hellraiser	
+[10/11/25 04:46AM]  [ Mystima ] Player received drop: x1 Crest part 2, id: 780, amount: 1, from: Wild Graahk	
+[10/11/25 04:49AM]  [ Ghijf ] Player received drop: x1 Oni helm, id: 15924, amount: 1, from: Oni	
+[10/11/25 05:10AM]  [ Ghijf ] Player received drop: x1 2X Damage Scroll (30 Min), id: 15359, amount: 1, from: Vote Boss	
+[10/11/25 05:15AM]  [ Delicious ] Player received drop: x1 Energy Torva platelegs, id: 19934, amount: 1, from: Energy Skeleton	
+[10/11/25 05:33AM]  [ Mystima ] Player received drop: x1 $5 Bond, id: 6769, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:33AM]  [ Spoon ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:35AM]  [ Spoon ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:35AM]  [ Spoon ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:37AM]  [ Delicious ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:38AM]  [ Mystima ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:38AM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:40AM]  [ History Hawk ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:40AM]  [ Spoon ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:40AM]  [ Ghijf ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:40AM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:41AM]  [ Spoon ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 06:42AM]  [ Ghijf ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Turoth	
+[10/11/25 06:44AM]  [ Ghijf ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Demon Goddess	
+[10/11/25 06:46AM]  [ Ghijf ] Player received drop: x1 Webby body, id: 19473, amount: 1, from: Arachne	
+[10/11/25 07:53AM]  [ Loki ] Player received drop: x1 Sorrow horn-coif, id: 8803, amount: 1, from: Legendary Wyvern	
+[10/11/25 07:54AM]  [ Loki ] Player received drop: x1 Legendary wings, id: 2021, amount: 1, from: Legendary Wyvern	
+[10/11/25 08:39AM]  [ Loki ] Player received drop: x1 Legendary helm, id: 17638, amount: 1, from: Legendary Wyvern	
+[10/11/25 08:39AM]  [ Loki ] Player received drop: x1 Sorrow bow, id: 20173, amount: 1, from: Legendary Wyvern	
+[10/11/25 09:00AM]  [ Loki ] Player received drop: x1 2X Damage Scroll (30 Min), id: 15359, amount: 1, from: Vote Boss	
+[10/11/25 09:01AM]  [ Spoon ] Player received drop: x1 100% DR Scroll (30 Min), id: 15358, amount: 1, from: Vote Boss	
+[10/11/25 09:03AM]  [ Spoon ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:03AM]  [ Delicious ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:03AM]  [ Charlene ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:06AM]  [ Spoon ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:06AM]  [ Loki ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:06AM]  [ Charlene ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:08AM]  [ Spoon ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:08AM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:09AM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:09AM]  [ Loki ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:09AM]  [ Charlene ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:09AM]  [ History Hawk ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:10AM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:10AM]  [ Spoon ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:10AM]  [ Loki ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:10AM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:11AM]  [ Blazed ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:12AM]  [ Spoon ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:12AM]  [ Delicious ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:12AM]  [ Charlene ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:12AM]  [ Run ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:12AM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:14AM]  [ History Hawk ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:14AM]  [ Loki ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:41AM]  [ Charlene ] Player received drop: x1 Elemental Body, id: 3728, amount: 1, from: Elemental Guardian	
+[10/11/25 11:03AM]  [ Delicious ] Player received drop: x1 Elemental legs, id: 3730, amount: 1, from: Elemental Guardian	
+[10/11/25 11:16AM]  [ Delicious ] Player received drop: x1 Ruby Mystery Box, id: 19114, amount: 1, from: Inuyasha	
+[10/11/25 11:30AM]  [ Ghijf ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Energy Skeleton	
+[10/11/25 11:31AM]  [ Ghijf ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Energy Skeleton	
+[10/11/25 11:37AM]  [ Ghijf ] Player received drop: x1 Arc mace, id: 19917, amount: 1, from: Energy Skeleton	
+[10/11/25 11:42AM]  [ Ghijf ] Player received drop: x1 Boss gloves, id: 3905, amount: 1, from: Turoth	
+[10/11/25 11:47AM]  [ Ghijf ] Player received drop: x1 Bulwark platebody, id: 8817, amount: 1, from: Turoth	
+[10/11/25 06:59PM]  [ History Hawk ] Player received drop: x1 Steadfast scale, id: 9687, amount: 1, from: Cave Snail	
+[10/11/25 10:41PM]  [ History Hawk ] Player received drop: x1 Vote Boss transformer, id: 23662, amount: 1, from: Vote Boss	
+[10/11/25 10:41PM]  [ History Hawk ] Player received drop: x1 100% DR Scroll (30 Min), id: 15358, amount: 1, from: Vote Boss	
+[10/11/25 10:47PM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 10:47PM]  [ God Tier ] Player received drop: x1 Elite Casket, id: 15002, amount: 1, from: Nephilim Warrior	
+[10/11/25 10:49PM]  [ Ghijf ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 10:49PM]  [ Delicious ] Player received drop: x1 Chance scroll, id: 22166, amount: 1, from: Nephilim Warrior	
+[10/11/25 10:49PM]  [ History Hawk ] Player received drop: x1 $10 Bond, id: 10942, amount: 1, from: Nephilim Warrior	
+[10/11/25 10:51PM]  [ History Hawk ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 10:51PM]  [ Blayko ] Player received drop: x1 Exclusive Casket, id: 15004, amount: 1, from: Nephilim Warrior	
+[10/11/25 10:51PM]  [ History Hawk ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 10:53PM]  [ God Tier ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/12/25 06:41AM]  [ Spoon ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 06:44AM]  [ Spoon ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 06:44AM]  [ Spoon ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 06:51AM]  [ Spoon ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 06:54AM]  [ Spoon ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 06:55AM]  [ Spoon ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 06:55AM]  [ Spoon ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 07:09AM]  [ Spoon ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 07:11AM]  [ Spoon ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 07:14AM]  [ Spoon ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 07:15AM]  [ Spoon ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/13/25 08:18AM]  [ Ghijf ] Player received drop: x1 Azure Casket, id: 15003, amount: 1, from: Vozzath	
+[10/13/25 08:18AM]  [ Ghijf ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Vozzath	
+[10/13/25 08:28AM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Vozzath	
+[10/13/25 06:15PM]  [ Kursed ] Player received drop: x1 100% DR Scroll (30 Min), id: 15358, amount: 1, from: Vote Boss	
+[10/13/25 06:17PM]  [ History Hawk ] Player received drop: x1 Collector necklace, id: 19886, amount: 1, from: Vote Boss	
+[10/13/25 06:22PM]  [ Kursed ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 06:23PM]  [ Kursed ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 06:23PM]  [ Skyless ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/13/25 06:28PM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Vozzath	
+[10/13/25 06:31PM]  [ Kursed ] Player received drop: x1 $5 Bond, id: 6769, amount: 1, from: Vozzath	
+[10/13/25 06:34PM]  [ History Hawk ] Player received drop: x1 $5 Bond, id: 6769, amount: 1, from: Vozzath	
+[10/13/25 06:50PM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 06:50PM]  [ Skyless ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 06:53PM]  [ Kursed ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 06:53PM]  [ Skyless ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:01PM]  [ Dracky ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:01PM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:04PM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:04PM]  [ Ghijf ] Player received drop: x1 Elite Casket, id: 15002, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:04PM]  [ Kursed ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:06PM]  [ Skyless ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:06PM]  [ Dracky ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:06PM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:08PM]  [ Ghijf ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:08PM]  [ Skyless ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:08PM]  [ Nickw ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/14/25 02:07AM]  [ Kursed ] Player received drop: x1 Energy ring, id: 7927, amount: 1, from: Energy Skeleton	
+[10/14/25 06:47AM]  [ Ghijf ] Player received drop: x1 Sorrow bow, id: 20173, amount: 1, from: Sub-Zero	
+[10/14/25 06:33PM]  [ Kursed ] Player received drop: x1 Sub-Zero body, id: 13301, amount: 1, from: Sub-Zero	
+[10/14/25 07:45PM]  [ Kursed ] Player received drop: x1 Royal hell amulet, id: 15511, amount: 1, from: Sub-Zero	
+[10/15/25 05:14AM]  [ Spoon ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Zenyte	
+[10/15/25 05:14AM]  [ Spoon ] Player received drop: x1 Deity Attachment, id: 10947, amount: 1, from: Zenyte	
+[10/15/25 07:22PM]  [ Kursed ] Player received drop: x1 Sorrow bow, id: 20173, amount: 1, from: Sub-Zero	
+[10/15/25 08:54PM]  [ History Hawk ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/15/25 08:54PM]  [ Big Daddy D ] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/15/25 08:56PM]  [ History Hawk ] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/16/25 03:13PM]  [ Kursed ] Player received drop: x5 Invention xp lamp, id: 21218, amount: 5, from: Almighty Zeus	
+[10/17/25 04:23PM]  [ Dox ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Energy Skeleton	
+[10/17/25 08:53PM]  [ Dox ] Player received drop: x1 Sorrow bow, id: 20173, amount: 1, from: Sub-Zero	
+[10/18/25 11:21AM]  [ Dracky ] Player received drop: x1 Shetani body, id: 19139, amount: 1, from: Shetani	
+[10/18/25 02:37PM]  [ Dox ] Player received drop: x1 Sorrow horn-coif, id: 8803, amount: 1, from: Sub-Zero	
+[10/18/25 03:35PM]  [ Dox ] Player received drop: x1 Upgrade Token pack (25k), id: 15289, amount: 1, from: Sub-Zero	
+[10/18/25 09:27PM]  [ Dox ] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Demon Goddess	

@@ -1,0 +1,36 @@
+[10/5/25 07:29AM] Player picked up item: PVM ticket, id: 5022, amount: 14, owner: Spoon	
+[10/5/25 07:34AM] Player picked up item: Starter bones, id: 23402, amount: 2, owner: Spoon	
+[10/5/25 07:41AM] Player picked up item: Starter bones, id: 23402, amount: 2, owner: Spoon	
+[10/5/25 07:46AM] Player picked up item: PVM ticket, id: 5022, amount: 14, owner: Spoon	
+[10/5/25 07:55AM] Player picked up item: Starter bones, id: 23402, amount: 2, owner: Spoon	
+[10/5/25 07:56AM] Player picked up item: PVM ticket, id: 5022, amount: 7, owner: Spoon	
+[10/5/25 07:56AM] Player picked up item: Starter bones, id: 23402, amount: 1, owner: Spoon	
+[10/5/25 08:02AM] Player picked up item: Global ticket, id: 23229, amount: 1, owner: Spoon	
+[10/5/25 08:02AM] Player picked up item: Levincia tokens, id: 12855, amount: 5000, owner: Spoon	
+[10/5/25 08:02AM] Player picked up item: PVM ticket, id: 5022, amount: 1000, owner: Spoon	
+[10/5/25 08:02AM] Player picked up item: Crystal key, id: 989, amount: 2, owner: Spoon	
+[10/5/25 08:06AM] Player picked up item: PVM ticket, id: 5022, amount: 14, owner: Spoon	
+[10/5/25 08:15AM] Player picked up item: Levincia tokens, id: 12855, amount: 100, owner: Spoon	
+[10/5/25 08:22AM] Player picked up item: PVM ticket, id: 5022, amount: 14, owner: Spoon	
+[10/5/25 08:26AM] Player picked up item: PVM ticket, id: 5022, amount: 14, owner: Spoon	
+[10/5/25 08:26AM] Player picked up item: PVM ticket, id: 5022, amount: 14, owner: Spoon	
+[10/5/25 08:26AM] Player picked up item: PVM ticket, id: 5022, amount: 14, owner: Spoon	
+[10/5/25 08:26AM] Player picked up item: Starter bones, id: 23402, amount: 2, owner: Spoon	
+[10/5/25 08:28AM] Player picked up item: Starter bones, id: 23402, amount: 2, owner: Spoon	
+[10/5/25 08:28AM] Player picked up item: Starter bones, id: 23402, amount: 2, owner: Spoon	
+[10/5/25 03:20PM] Player picked up item: Levincia tokens, id: 12855, amount: 100, owner: Spoon	
+[10/6/25 05:48PM] Player picked up item: PVM ticket, id: 5022, amount: 5, owner: Spoon	
+[10/6/25 05:48PM] Player picked up item: Levincia tokens, id: 12855, amount: 50, owner: Spoon	
+[10/6/25 05:54PM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Spoon	
+[10/8/25 09:11PM] Player picked up item: Levincia tokens, id: 12855, amount: 2800, owner: Spoon	
+[10/8/25 09:35PM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Spoon	
+[10/10/25 01:03PM] Player picked up item: Owner Jewelry goodiebag, id: 23240, amount: 8, owner: PARTY CHEST	
+[10/10/25 01:04PM] Player picked up item: Quill's Card Pack, id: 23277, amount: 1, owner: PARTY CHEST	
+[10/10/25 01:06PM] Player picked up item: Quill's Card Pack, id: 23277, amount: 1, owner: PARTY CHEST	
+[10/10/25 01:06PM] Player picked up item: Owner cape goodiebag, id: 3578, amount: 1, owner: PARTY CHEST	
+[10/10/25 01:06PM] Player picked up item: Owner Attachment, id: 22110, amount: 1, owner: PARTY CHEST	
+[10/11/25 06:04AM] Player picked up item: Levincia tokens, id: 12855, amount: 100000, owner: Spoon	
+[10/11/25 02:15PM] Player picked up item: Levincia tokens, id: 12855, amount: 540000, owner: Spoon	
+[10/12/25 09:18AM] Player picked up item: Rancid flour, id: 7546, amount: 1, owner: Spoon	
+[10/12/25 09:30AM] Player picked up item: Empty bucket, id: 3727, amount: 1, owner: Spoon	
+[10/12/25 09:47AM] Player picked up item: Omega egg, id: 10537, amount: 1, owner: Spoon	

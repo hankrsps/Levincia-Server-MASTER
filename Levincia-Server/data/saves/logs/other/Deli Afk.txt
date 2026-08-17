@@ -1,0 +1,48 @@
+[10/7/25 12:30AM] Login. ip: 178.118.210.128, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/7/25 12:31AM] Emptied item (id:13281, amount:1) -- Ring of slaying (8)	
+[10/7/25 12:35AM]  Receiving item from trade with Delicious Id: 1349, amount: 1	
+[10/7/25 12:35AM]  Receiving item from trade with Delicious Id: 6739, amount: 1	
+[10/7/25 12:36AM]  Receiving item from trade with Delicious Id: 15259, amount: 1	
+[10/7/25 12:36AM]  Receiving item from trade with Delicious Id: 1267, amount: 1	
+[10/7/25 12:37AM] DEFAULT|2657,3985,0|Said: Sup	
+[10/7/25 12:37AM] DEFAULT|2657,3985,0|Said: Well see	
+[10/7/25 12:37AM] DEFAULT|2657,3985,0|Said: Lol	
+[10/7/25 04:23AM] Login. ip: 81.244.175.227, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/7/25 07:40AM]  Gave item in trade to Delicious. Id: 23020, amount: 5	
+[10/7/25 07:40AM]  Gave item in trade to Delicious. Id: 23002, amount: 5	
+[10/7/25 07:40AM]  Gave item in trade to Delicious. Id: 19116, amount: 2	
+[10/7/25 07:40AM]  Gave item in trade to Delicious. Id: 12855, amount: 8640	
+[10/7/25 07:40AM]  Gave item in trade to Delicious. Id: 5022, amount: 6945	
+[10/7/25 07:40AM]  Gave item in trade to Delicious. Id: 23277, amount: 3	
+[10/7/25 07:40AM]  Gave item in trade to Delicious. Id: 7956, amount: 6	
+[10/7/25 07:40AM]  Gave item in trade to Delicious. Id: 6199, amount: 8	
+[10/7/25 09:58AM] Login. ip: 81.244.175.227, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/7/25 10:04AM] Login. ip: 81.244.175.227, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/7/25 10:30AM] Login. ip: 81.244.175.227, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/7/25 12:07PM] Login. ip: 81.244.175.227, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/7/25 12:18PM] Login. ip: 94.109.178.235, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/7/25 12:19PM] Login. ip: 94.109.178.235, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/7/25 12:19PM] Login. ip: 94.109.178.235, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/7/25 01:06PM] Login. ip: 94.109.178.235, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/8/25 08:19AM] Login. ip: 81.244.175.227, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/8/25 08:20AM]  Gave item in trade to Delicious. Id: 23253, amount: 2	
+[10/8/25 08:20AM]  Gave item in trade to Delicious. Id: 23020, amount: 5	
+[10/8/25 10:51AM] Login. ip: 81.244.175.227, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/8/25 10:52AM]  Gave item in trade to Delicious. Id: 23020, amount: 2	
+[10/8/25 10:53AM] Login. ip: 94.109.57.230, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/9/25 04:35AM] Login. ip: 81.244.175.227, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/9/25 09:27AM] Login. ip: 178.118.210.128, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/9/25 12:07PM] DEFAULT|2657,2646,0|Said: Oh nvm	
+[10/9/25 12:07PM] DEFAULT|2657,2646,0|Said: X.d	
+[10/11/25 04:31AM] Login. ip: 178.118.210.128, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/11/25 05:53AM] Login. ip: 178.118.210.128, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/11/25 07:53AM] Login. ip: 178.118.210.128, mac: H5N0CV02580718D20211126084209.000000+060, uuid: 88-D7-F6-8E-C4-FB	
+[10/11/25 08:38AM]  Gave item in trade to Delicious. Id: 23020, amount: 7	
+[10/11/25 08:38AM]  Gave item in trade to Delicious. Id: 12855, amount: 23245	
+[10/11/25 08:38AM]  Gave item in trade to Delicious. Id: 6199, amount: 18	
+[10/11/25 08:38AM]  Gave item in trade to Delicious. Id: 7956, amount: 14	
+[10/11/25 08:38AM]  Gave item in trade to Delicious. Id: 23411, amount: 1	
+[10/11/25 08:38AM]  Gave item in trade to Delicious. Id: 23264, amount: 100	
+[10/11/25 08:38AM]  Gave item in trade to Delicious. Id: 5022, amount: 33749	
+[10/11/25 08:38AM]  Gave item in trade to Delicious. Id: 5020, amount: 24205	
+[10/11/25 09:15AM]  Gave item in trade to Delicious. Id: 23278, amount: 1	

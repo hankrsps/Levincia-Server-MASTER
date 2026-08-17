@@ -1,0 +1,13 @@
+[10/12/25 12:30PM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/12/25 12:30PM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/12/25 12:30PM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/12/25 12:30PM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/12/25 12:30PM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/12/25 12:37PM] UPGRADED : PvM Box, id: 7956, amount: 1 --into-- PvM Box (t2), id: 22214, amount: 1	
+[10/12/25 12:37PM] UPGRADED : PvM Box, id: 7956, amount: 1 --into-- PvM Box (t2), id: 22214, amount: 1	
+[10/12/25 12:37PM] UPGRADED : PvM Box, id: 7956, amount: 1 --into-- PvM Box (t2), id: 22214, amount: 1	
+[10/12/25 12:37PM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/12/25 12:37PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/12/25 12:37PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/12/25 12:37PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/12/25 12:37PM] UPGRADED : Ring of Gluttony, id: 6737, amount: 1 --into-- Ring of Gluttony (u), id: 3909, amount: 1	

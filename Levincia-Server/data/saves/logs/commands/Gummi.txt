@@ -1,0 +1,4 @@
+[10/7/25 02:18PM] Gummi used command ::answer 2 | Player rights = PLAYER	
+[10/7/25 02:34PM] Gummi used command ::Starter | Player rights = PLAYER	
+[10/7/25 02:35PM] Gummi used command ::starter | Player rights = PLAYER	
+[10/7/25 02:37PM] Gummi used command ::ref | Player rights = PLAYER	

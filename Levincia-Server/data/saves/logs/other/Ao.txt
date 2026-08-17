@@ -1,0 +1,20 @@
+[10/11/25 07:01AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/11/25 11:15AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/11/25 11:16AM]  Receiving item from trade with Spoon Id: 3737, amount: 1	
+[10/11/25 11:28AM]  Gave item in trade to Spoon. Id: 10946, amount: 1	
+[10/11/25 11:28AM]  Gave item in trade to Spoon. Id: 19116, amount: 12	
+[10/11/25 11:28AM]  Gave item in trade to Spoon. Id: 23264, amount: 100	
+[10/11/25 11:28AM]  Receiving item from trade with Spoon Id: 5020, amount: 610058	
+[10/11/25 02:14PM]  Gave item in trade to Spoon. Id: 22219, amount: 4	
+[10/11/25 02:14PM]  Gave item in trade to Spoon. Id: 5022, amount: 3670	
+[10/12/25 08:57AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/12/25 09:25AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/12/25 09:56AM] (CC) Help. Said: Hooker pet needs to have some bonuses..	
+[10/12/25 09:57AM] DEFAULT|2655,3983,0|Said: Lol	
+[10/12/25 09:58AM] DEFAULT|2655,3983,0|Said: It usually gives 2x afk drops	
+[10/12/25 09:58AM] DEFAULT|2655,3983,0|Said: But not here sadly	
+[10/12/25 10:10AM] (CC) Help. Said: Not yet but huge update coming soon 	
+[10/12/25 02:47PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: 94-18-65-60-13-C7	
+[10/13/25 11:54PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: 94-18-65-60-13-C7	
+[10/14/25 12:20PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: 94-18-65-60-13-C7	
+[10/15/25 05:13AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: 94-18-65-60-13-C7	

@@ -1,0 +1,44 @@
+[10/7/25 07:18AM] UPGRADED : Blessed gloves, id: 3318, amount: 1 --into-- Boss gloves, id: 3905, amount: 1	
+[10/7/25 07:18AM] UPGRADED : Blessed gloves, id: 3318, amount: 1 --into-- Boss gloves, id: 3905, amount: 1	
+[10/7/25 07:18AM] UPGRADED : Blessed gloves, id: 3318, amount: 1 --into-- Boss gloves, id: 3905, amount: 1	
+[10/7/25 07:18AM] UPGRADED : Blessed gloves, id: 3318, amount: 1 --into-- Boss gloves, id: 3905, amount: 1	
+[10/7/25 07:32AM] UPGRADED : PvM Box, id: 7956, amount: 1 --into-- PvM Box (t2), id: 22214, amount: 1	
+[10/7/25 07:32AM] UPGRADED : PvM Box, id: 7956, amount: 1 --into-- PvM Box (t2), id: 22214, amount: 1	
+[10/7/25 07:32AM] UPGRADED : PvM Box, id: 7956, amount: 1 --into-- PvM Box (t2), id: 22214, amount: 1	
+[10/7/25 07:32AM] UPGRADED : PvM Box, id: 7956, amount: 1 --into-- PvM Box (t2), id: 22214, amount: 1	
+[10/7/25 07:32AM] UPGRADED : PvM Box, id: 7956, amount: 1 --into-- PvM Box (t2), id: 22214, amount: 1	
+[10/7/25 07:33AM] UPGRADED : Boss gloves, id: 3905, amount: 1 --into-- Avalon gloves, id: 8812, amount: 1	
+[10/7/25 07:33AM] UPGRADED : Boss gloves, id: 3905, amount: 1 --into-- Avalon gloves, id: 8812, amount: 1	
+[10/7/25 07:35AM] UPGRADED : Ice fury, id: 15418, amount: 1 --into-- Shadow necklace, id: 11195, amount: 1	
+[10/7/25 07:35AM] UPGRADED : Ice fury, id: 15418, amount: 1 --into-- Shadow necklace, id: 11195, amount: 1	
+[10/7/25 07:35AM] UPGRADED : Ice fury, id: 15418, amount: 1 --into-- Shadow necklace, id: 11195, amount: 1	
+[10/7/25 07:36AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:36AM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:36AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/7/25 07:36AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/7/25 07:36AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/7/25 07:37AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/7/25 07:37AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:37AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/7/25 07:37AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:38AM] UPGRADED : Kree'arra crossbow, id: 18799, amount: 1 --into-- Brutal Minigun, id: 19136, amount: 1	
+[10/7/25 07:38AM] UPGRADED : Shetani helm, id: 19140, amount: 1 --into-- Virtus mask, id: 6933, amount: 1	
+[10/7/25 07:38AM] UPGRADED : Shetani body, id: 19139, amount: 1 --into-- Virtus robe top, id: 6934, amount: 1	
+[10/7/25 07:38AM] UPGRADED : Shetani legs, id: 19138, amount: 1 --into-- Virtus robe legs, id: 6935, amount: 1	
+[10/7/25 07:38AM] UPGRADED : Shetani legs, id: 19138, amount: 1 --into-- Virtus robe legs, id: 6935, amount: 1	
+[10/7/25 07:39AM] UPGRADED : Exotic chainbody, id: 13913, amount: 1 --into-- Paladins platebody, id: 6928, amount: 1	
+[10/7/25 07:39AM] UPGRADED : Brutal Minigun, id: 19136, amount: 1 --into-- Sorrow bow, id: 20173, amount: 1	
+[10/7/25 07:39AM] UPGRADED : Virtus robe legs, id: 6935, amount: 1 --into-- Ganopurp robe legs, id: 8808, amount: 1	
+[10/7/25 07:39AM] UPGRADED : Fire cape, id: 6570, amount: 1 --into-- Grime Wings, id: 4411, amount: 1	
+[10/7/25 07:53AM] UPGRADED : Arts staff, id: 22092, amount: 1 --into-- Corrupt moonlight staff, id: 18629, amount: 1	
+[10/7/25 07:53AM] UPGRADED : Arts staff, id: 22092, amount: 1 --into-- Corrupt moonlight staff, id: 18629, amount: 1	
+[10/7/25 07:55AM] UPGRADED : Ganopurp mask, id: 8806, amount: 1 --into-- Magic helm (t5), id: 8323, amount: 1	
+[10/7/25 07:55AM] UPGRADED : Ganopurp mask, id: 8806, amount: 1 --into-- Magic helm (t5), id: 8323, amount: 1	
+[10/7/25 07:55AM] UPGRADED : Ganopurp mask, id: 8806, amount: 1 --into-- Magic helm (t5), id: 8323, amount: 1	
+[10/7/25 07:55AM] UPGRADED : Ganopurp mask, id: 8806, amount: 1 --into-- Magic helm (t5), id: 8323, amount: 1	
+[10/7/25 07:55AM] UPGRADED : Ganopurp robe legs, id: 8808, amount: 1 --into-- Magic legs (t5), id: 8325, amount: 1	
+[10/7/25 07:55AM] UPGRADED : Ganopurp robe legs, id: 8808, amount: 1 --into-- Magic legs (t5), id: 8325, amount: 1	
+[10/7/25 07:55AM] UPGRADED : Ganopurp robe legs, id: 8808, amount: 1 --into-- Magic legs (t5), id: 8325, amount: 1	
+[10/7/25 07:57AM] UPGRADED : Magic legs (t5), id: 8325, amount: 1 --into-- Corrupt moonlight robebottom, id: 18623, amount: 1	
+[10/7/25 08:01AM] UPGRADED : Avalon gloves, id: 8812, amount: 1 --into-- Art's gloves, id: 11140, amount: 1	
+[10/7/25 08:33AM] UPGRADED : Slayer Crate, id: 7120, amount: 1 --into-- Slayer Crate (u), id: 22123, amount: 1	

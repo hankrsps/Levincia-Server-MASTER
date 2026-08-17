@@ -1,0 +1,4 @@
+[10/6/25 04:49AM] Login from host 46.132.72.83, serial number: 02-60-C4-E7-DD-09, mac address:PF36M07J20250830053846.000000+180	
+[10/6/25 07:13AM] Logout with password pedeLogout from host 46.132.72.83, serial number: 02-60-C4-E7-DD-09, mac address:PF36M07J20250830053846.000000+180	
+[10/8/25 12:57AM] Login from host 193.210.194.235, serial number: 02-60-C4-E7-DD-09, mac address:PF36M07J20250830053846.000000+180	
+[10/8/25 01:54AM] Logout with password pedeLogout from host 193.210.194.235, serial number: 02-60-C4-E7-DD-09, mac address:PF36M07J20250830053846.000000+180	

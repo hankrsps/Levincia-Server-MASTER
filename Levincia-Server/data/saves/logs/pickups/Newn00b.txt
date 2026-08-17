@@ -1,0 +1,1 @@
+[10/7/25 12:03PM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Newn00b	

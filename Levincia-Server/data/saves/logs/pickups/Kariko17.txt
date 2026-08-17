@@ -1,0 +1,21 @@
+[10/12/25 10:01AM] Player picked up item: PVM ticket, id: 5022, amount: 150, owner: Kariko17	
+[10/12/25 10:01AM] Player picked up item: Levincia tokens, id: 12855, amount: 1000, owner: Kariko17	
+[10/12/25 10:04AM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Kariko17	
+[10/12/25 10:12AM] Player picked up item: PvM Box, id: 7956, amount: 2, owner: Kariko17	
+[10/12/25 10:21AM] Player picked up item: PvM Box, id: 7956, amount: 2, owner: Kariko17	
+[10/12/25 10:21AM] Player picked up item: Levincia tokens, id: 12855, amount: 1000, owner: Kariko17	
+[10/12/25 10:21AM] Player picked up item: Levincia tokens, id: 12855, amount: 1000, owner: Kariko17	
+[10/12/25 10:22AM] Player picked up item: PvM Box (t2), id: 22214, amount: 2, owner: Kariko17	
+[10/13/25 09:56AM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Kariko17	
+[10/13/25 09:57AM] Player picked up item: PVM ticket, id: 5022, amount: 10, owner: Kariko17	
+[10/13/25 09:59AM] Player picked up item: Levincia tokens, id: 12855, amount: 200, owner: Kariko17	
+[10/13/25 10:00AM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Kariko17	
+[10/13/25 10:01AM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Kariko17	
+[10/13/25 10:01AM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Kariko17	
+[10/13/25 10:01AM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Kariko17	
+[10/13/25 10:09AM] Player picked up item: Sapphire mystery box, id: 19116, amount: 4, owner: Kariko17	
+[10/13/25 02:03PM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Kariko17	
+[10/13/25 02:06PM] Player picked up item: Levincia tokens, id: 12855, amount: 300, owner: Kariko17	
+[10/13/25 02:06PM] Player picked up item: Elite dragon bones, id: 18830, amount: 4, owner: Kariko17	
+[10/13/25 02:08PM] Player picked up item: Elite dragon bones, id: 18830, amount: 4, owner: Kariko17	
+[10/13/25 02:08PM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Kariko17	

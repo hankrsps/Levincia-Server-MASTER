@@ -1,0 +1,4 @@
+[10/7/25 05:35AM] UPGRADED : Fire cape, id: 6570, amount: 1 --into-- Grime Wings, id: 4411, amount: 1	
+[10/7/25 05:35AM] UPGRADED : Fire cape, id: 6570, amount: 1 --into-- Grime Wings, id: 4411, amount: 1	
+[10/7/25 05:35AM] UPGRADED : Blessed gloves, id: 3318, amount: 1 --into-- Boss gloves, id: 3905, amount: 1	
+[10/7/25 05:35AM] UPGRADED : Blessed gloves, id: 3318, amount: 1 --into-- Boss gloves, id: 3905, amount: 1	

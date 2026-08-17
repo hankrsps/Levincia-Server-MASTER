@@ -1,0 +1,13 @@
+[10/7/25 02:10PM] Player picked up item: PVM ticket, id: 5022, amount: 14, owner: H8	
+[10/7/25 02:10PM] Player picked up item: Crystal key, id: 989, amount: 14, owner: H8	
+[10/7/25 02:10PM] Player picked up item: Starter bones, id: 23402, amount: 2, owner: H8	
+[10/7/25 02:10PM] Player picked up item: PVM ticket, id: 5022, amount: 14, owner: H8	
+[10/7/25 02:49PM] Player picked up item: PvM Box (t2), id: 22214, amount: 2, owner: H8	
+[10/7/25 02:50PM] Player picked up item: PVM ticket, id: 5022, amount: 150, owner: H8	
+[10/7/25 02:50PM] Player picked up item: PVM ticket, id: 5022, amount: 150, owner: H8	
+[10/7/25 02:50PM] Player picked up item: PvM Box, id: 7956, amount: 2, owner: H8	
+[10/7/25 02:54PM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: H8	
+[10/7/25 02:58PM] Player picked up item: Chilling bones, id: 3283, amount: 2, owner: H8	
+[10/7/25 02:58PM] Player picked up item: Crystal key, id: 989, amount: 2, owner: H8	
+[10/7/25 02:59PM] Player picked up item: Chilling bones, id: 3283, amount: 2, owner: H8	
+[10/7/25 02:59PM] Player picked up item: Chilling bones, id: 3283, amount: 2, owner: H8	

@@ -1,0 +1,34 @@
+[10/12/25 08:02AM] Login. ip: 199.102.204.115, mac: L8NRKD02556132520250313172521.000000-240, uuid: 24-4B-FE-BB-CE-B1	
+[10/12/25 08:09AM] PROGRESSION_ZONES|3032,4119,9|Said: Hey	
+[10/12/25 08:10AM] PROGRESSION_ZONES|3035,4118,9|Said: Good n you	
+[10/12/25 08:10AM] PROGRESSION_ZONES|3034,4119,9|Said: I nned to bank	
+[10/12/25 08:10AM] PROGRESSION_ZONES|3034,4119,9|Said: Ooo	
+[10/12/25 08:11AM] Player destroying item: -1, amount: 0	
+[10/12/25 08:13AM] Has just redeemed a $10 Bond successfully!	
+[10/12/25 08:13AM] Has just redeemed a $10 Bond successfully!	
+[10/12/25 09:59AM] Login. ip: 199.102.204.115, mac: L8NRKD02556132520250313172521.000000-240, uuid: 24-4B-FE-BB-CE-B1	
+[10/12/25 10:01AM] Picked up gr.Item PVM ticket, amount: 150	
+[10/12/25 10:01AM] Picked up gr.Item Levincia tokens, amount: 1000	
+[10/12/25 10:04AM] Picked up gr.Item Holy symbol, amount: 1	
+[10/12/25 10:05AM] Player destroying item: -1, amount: 0	
+[10/12/25 10:06AM] Player destroying item: -1, amount: 0	
+[10/12/25 10:12AM] Picked up gr.Item PvM Box, amount: 2	
+[10/12/25 10:21AM] Picked up gr.Item PvM Box, amount: 2	
+[10/12/25 10:21AM] Picked up gr.Item Levincia tokens, amount: 1000	
+[10/12/25 10:21AM] Picked up gr.Item Levincia tokens, amount: 1000	
+[10/12/25 10:22AM] Picked up gr.Item PvM Box (t2), amount: 2	
+[10/13/25 09:53AM] Login. ip: 199.102.204.115, mac: L8NRKD02556132520250313172521.000000-240, uuid: 24-4B-FE-BB-CE-B1	
+[10/13/25 09:56AM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/13/25 09:57AM] Picked up gr.Item PVM ticket, amount: 10	
+[10/13/25 09:59AM] Picked up gr.Item Levincia tokens, amount: 200	
+[10/13/25 10:00AM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/13/25 10:01AM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/13/25 10:01AM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/13/25 10:01AM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/13/25 10:09AM] Picked up gr.Item Sapphire mystery box, amount: 4	
+[10/13/25 02:01PM] Login. ip: 199.102.204.115, mac: L8NRKD02556132520250313172521.000000-240, uuid: 24-4B-FE-BB-CE-B1	
+[10/13/25 02:03PM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/13/25 02:06PM] Picked up gr.Item Levincia tokens, amount: 300	
+[10/13/25 02:06PM] Picked up gr.Item Elite dragon bones, amount: 4	
+[10/13/25 02:08PM] Picked up gr.Item Elite dragon bones, amount: 4	
+[10/13/25 02:08PM] Picked up gr.Item Elite dragon bones, amount: 2	

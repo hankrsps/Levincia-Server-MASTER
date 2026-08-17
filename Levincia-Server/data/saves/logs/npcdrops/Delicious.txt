@@ -1,0 +1,15 @@
+[10/9/25 10:08AM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/9/25 10:28AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/9/25 10:35AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Demon Goddess	
+[10/9/25 10:44AM] Player received drop: x1 Energy Torva platelegs, id: 19934, amount: 1, from: Energy Skeleton	
+[10/9/25 11:09AM] Player received drop: x1 Arc rapier, id: 19919, amount: 1, from: Energy Skeleton	
+[10/9/25 11:13AM] Player received drop: x1 Energy ring, id: 7927, amount: 1, from: Energy Skeleton	
+[10/9/25 11:32AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Demon Goddess	
+[10/9/25 12:23PM] Player received drop: x1 Energy Torva platelegs, id: 19934, amount: 1, from: Energy Skeleton	
+[10/11/25 05:15AM] Player received drop: x1 Energy Torva platelegs, id: 19934, amount: 1, from: Energy Skeleton	
+[10/11/25 05:37AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:03AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:12AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 11:03AM] Player received drop: x1 Elemental legs, id: 3730, amount: 1, from: Elemental Guardian	
+[10/11/25 11:16AM] Player received drop: x1 Ruby Mystery Box, id: 19114, amount: 1, from: Inuyasha	
+[10/11/25 10:49PM] Player received drop: x1 Chance scroll, id: 22166, amount: 1, from: Nephilim Warrior	

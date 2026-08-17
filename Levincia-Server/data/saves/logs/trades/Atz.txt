@@ -1,0 +1,5 @@
+[10/6/25 04:57AM]  Gave item to Hank. Name: Dragon bones. Id: 536, amount: 1	
+[10/6/25 04:57AM]  Received item from Hank. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/6/25 05:00AM]  Received item from Hank. Name: Elite Casket. Id: 15002, amount: 5	
+[10/6/25 05:00AM]  Received item from Hank. Name: Avalon's Card Pack. Id: 23279, amount: 1	
+[10/6/25 05:28AM]  Received item from Hank. Name: Instance Tokens. Id: 4278, amount: 300	

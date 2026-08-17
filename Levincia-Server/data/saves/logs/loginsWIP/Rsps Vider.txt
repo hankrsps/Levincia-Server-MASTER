@@ -1,0 +1,10 @@
+[10/7/25 12:13PM] Login from host 100.43.113.24, serial number: D8-F8-83-65-B0-C5, mac address:5CD0504FB720250216155222.000000-300	
+[10/7/25 01:06PM] Logout with password thurstonLogout from host 100.43.113.24, serial number: D8-F8-83-65-B0-C5, mac address:5CD0504FB720250216155222.000000-300	
+[10/7/25 02:44PM] Login from host 100.43.113.24, serial number: D8-F8-83-65-B0-C5, mac address:5CD0504FB720250216155222.000000-300	
+[10/7/25 03:45PM] Logout with password thurstonLogout from host 100.43.113.24, serial number: D8-F8-83-65-B0-C5, mac address:5CD0504FB720250216155222.000000-300	
+[10/7/25 03:46PM] Login from host 100.43.113.24, serial number: D8-F8-83-65-B0-C5, mac address:5CD0504FB720250216155222.000000-300	
+[10/7/25 03:47PM] Logout with password thurstonLogout from host 100.43.113.24, serial number: D8-F8-83-65-B0-C5, mac address:5CD0504FB720250216155222.000000-300	
+[10/7/25 04:31PM] Login from host 100.43.113.24, serial number: D8-F8-83-65-B0-C5, mac address:5CD0504FB720250216155222.000000-300	
+[10/7/25 05:17PM] Logout with password thurstonLogout from host 100.43.113.24, serial number: D8-F8-83-65-B0-C5, mac address:5CD0504FB720250216155222.000000-300	
+[10/7/25 05:18PM] Login from host 100.43.113.24, serial number: D8-F8-83-65-B0-C5, mac address:5CD0504FB720250216155222.000000-300	
+[10/7/25 05:18PM] Logout with password thurstonLogout from host 100.43.113.24, serial number: D8-F8-83-65-B0-C5, mac address:5CD0504FB720250216155222.000000-300	

@@ -1,0 +1,13 @@
+[10/7/25 07:01PM] Player picked up item: Ruby Mystery Box, id: 19114, amount: 1, owner: Evilspot	
+[10/7/25 07:17PM] Player picked up item: 100% DR Scroll (30 Min), id: 15358, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:18PM] Player picked up item: 2X Damage Scroll (30 Min), id: 15359, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:18PM] Player picked up item: Donator Aura, id: 12630, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:18PM] Player picked up item: Levincia tokens, id: 12855, amount: 20152, owner: PARTY CHEST	
+[10/7/25 07:18PM] Player picked up item: PvM ticket pack (5k), id: 23215, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:18PM] Player picked up item: Legends helmet, id: 4684, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:18PM] Player picked up item: Antique lamp, id: 11137, amount: 19, owner: PARTY CHEST	
+[10/7/25 07:18PM] Player picked up item: Shikruu platelegs, id: 8802, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:19PM] Player picked up item: Dagon'hai hat, id: 14500, amount: 10, owner: PARTY CHEST	
+[10/7/25 07:20PM] Player picked up item: Verac's helm, id: 4754, amount: 10, owner: PARTY CHEST	
+[10/7/25 07:21PM] Player picked up item: Torag's platebody, id: 4750, amount: 10, owner: PARTY CHEST	
+[10/7/25 07:21PM] Player picked up item: Legends legs, id: 4686, amount: 1, owner: PARTY CHEST	

@@ -1,0 +1,2 @@
+[10/7/25 11:03AM] Login from host 82.131.41.67, serial number: 40-8D-5C-18-D0-D7, mac address:To be filled by O.E.M.20201105214737.000000+120	
+[10/7/25 11:03AM] Logout with password 123Logout from host 82.131.41.67, serial number: 40-8D-5C-18-D0-D7, mac address:To be filled by O.E.M.20201105214737.000000+120	

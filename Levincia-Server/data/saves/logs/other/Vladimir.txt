@@ -1,0 +1,29 @@
+[10/10/25 09:04AM] Login. ip: 213.118.44.185, mac: 1B33403002010620210412124807.000000+120, uuid: B8-AE-ED-30-E1-FA	
+[10/10/25 09:06AM] Picked up gr.Item Starter bones, amount: 2	
+[10/10/25 09:06AM] Picked up gr.Item Starter bones, amount: 1	
+[10/10/25 09:06AM] Picked up gr.Item PVM ticket, amount: 7	
+[10/10/25 09:07AM] PROGRESSION_ZONES|3040,4120,1|Said: ,	
+[10/10/25 09:09AM] PROGRESSION_ZONES|3034,4121,5|Said: Hi	
+[10/10/25 09:09AM] PROGRESSION_ZONES|3035,4118,5|Said: Doing good mate 	
+[10/10/25 09:09AM] PROGRESSION_ZONES|3035,4118,5|Said: How bout you?	
+[10/10/25 09:10AM] PROGRESSION_ZONES|3035,4120,5|Said: New server?	
+[10/10/25 09:10AM] PROGRESSION_ZONES|3035,4122,5|Said: Nicee	
+[10/10/25 09:10AM] PROGRESSION_ZONES|3035,4120,5|Said: Fun minigun	
+[10/10/25 09:10AM] PROGRESSION_ZONES|3035,4120,5|Said: Oh fortune chests	
+[10/10/25 09:10AM] PROGRESSION_ZONES|3035,4120,5|Said: Ty	
+[10/10/25 09:12AM] PROGRESSION_ZONES|3035,4122,9|Said: It teleportedme :d	
+[10/10/25 09:12AM] PROGRESSION_ZONES|3035,4122,9|Said: Nice ty	
+[10/10/25 09:17AM] (CC) Help. Said: Thx	
+[10/10/25 09:17AM] Has just redeemed a $10 Bond successfully!	
+[10/10/25 09:17AM] (CC) Help. Said: Ayyy	
+[10/10/25 09:18AM] Has just redeemed a $50 Bond successfully!	
+[10/10/25 09:20AM] Has just redeemed a $5 Bond successfully!	
+[10/10/25 09:20AM] (CC) Help. Said: Hell yeah	
+[10/10/25 09:24AM] PROGRESSION_ZONES|3033,4120,17|Said: Holy l0l	
+[10/10/25 09:27AM] (CC) Help. Said: Vet for sure	
+[10/10/25 09:36AM] NEPHILIM|2142,3296,0|Said: Gf	
+[10/10/25 09:37AM] NEPHILIM|2142,3296,0|Said: Dieeeeeeeee	
+[10/10/25 09:37AM] NEPHILIM|2142,3296,0|Said: Omggggg	
+[10/10/25 09:39AM] NEPHILIM|2144,3295,0|Said: Gg	
+[10/10/25 09:41AM] VOTE_BOSS|3430,4117,4|Said: This is gonna tkae a while	
+[10/10/25 09:42AM] VOTE_BOSS|3430,4117,4|Said: Ngl	

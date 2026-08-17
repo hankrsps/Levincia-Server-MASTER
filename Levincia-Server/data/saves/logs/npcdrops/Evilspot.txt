@@ -1,0 +1,17 @@
+[10/7/25 06:11PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 07:08PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 08:07PM] Player received drop: x1 Indravox kiteshield, id: 701, amount: 1, from: Joyx Golem	
+[10/7/25 08:49PM] Player received drop: x1 Avatar titan helm, id: 703, amount: 1, from: Avatar Titan	
+[10/7/25 08:56PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 08:57PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 09:01PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/7/25 09:14PM] Player received drop: x1 Chance scroll, id: 22166, amount: 1, from: Vote Boss	
+[10/7/25 09:19PM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/7/25 10:11PM] Player received drop: x1 Oni platebody, id: 16023, amount: 1, from: Oni	
+[10/7/25 10:21PM] Player received drop: x1 Oni Wings, id: 17686, amount: 1, from: Oni	
+[10/7/25 10:36PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nightmare Boss	
+[10/8/25 12:16AM] Player received drop: x1 Sorrow chaps, id: 8805, amount: 1, from: Sub-Zero	
+[10/8/25 12:23AM] Player received drop: x1 Upgrade Token pack (25k), id: 15289, amount: 1, from: Sub-Zero	
+[10/8/25 12:26AM] Player received drop: x1 Sorrow chaps, id: 8805, amount: 1, from: Sub-Zero	
+[10/8/25 08:42PM] Player received drop: x1 Zeus legs, id: 15232, amount: 1, from: Almighty Zeus	
+[10/8/25 09:03PM] Player received drop: x1 Sorrow chaps, id: 8805, amount: 1, from: Almighty Zeus	

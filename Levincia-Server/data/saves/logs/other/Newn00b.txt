@@ -1,0 +1,2 @@
+[10/7/25 12:01PM] Login. ip: 91.129.97.51, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/7/25 12:03PM] Picked up gr.Item Holy symbol, amount: 1	

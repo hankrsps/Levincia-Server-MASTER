@@ -1,0 +1,126 @@
+[10/6/25 07:35PM] HOME_BANK|2784,4061,0|Said: Hello	
+[10/6/25 07:35PM] HOME_BANK|2782,4064,0|Said: New account and its blank	
+[10/6/25 07:36PM] HOME_BANK|2782,4064,0|Said: Should i relog?	
+[10/6/25 07:36PM] HOME_BANK|2784,4065,0|Said: Just says 1/2 chance at celebration box	
+[10/6/25 07:37PM] HOME_BANK|2784,4065,0|Said: Vote link down	
+[10/6/25 07:40PM] HOME_BANK|2783,4064,0|Said: Voted on runelocus	
+[10/6/25 07:40PM] HOME_BANK|2783,4064,0|Said: Can you help me out with some starter gear/ weap? ima go slay and zone	
+[10/6/25 07:40PM] HOME_BANK|2783,4064,0|Said: :p	
+[10/6/25 07:42PM] HOME_BANK|2783,4064,0|Said: Ty	
+[10/6/25 07:43PM] HOME_BANK|2783,4064,0|Said: Kk	
+[10/6/25 07:43PM] HOME_BANK|2783,4064,0|Said: I did runelocus	
+[10/6/25 07:58PM] PROGRESSION_ZONES|3034,4121,1|Said: Aww	
+[10/6/25 07:59PM] PROGRESSION_ZONES|3034,4120,1|Said: Was in the grind	
+[10/6/25 07:59PM] PROGRESSION_ZONES|3034,4120,1|Said: True	
+[10/6/25 07:59PM] PROGRESSION_ZONES|3034,4120,1|Said: Vet mode all day	
+[10/6/25 07:59PM] PROGRESSION_ZONES|3034,4120,1|Said: Haha	
+[10/6/25 08:00PM] PROGRESSION_ZONES|3034,4120,1|Said: Mage	
+[10/6/25 08:00PM] PROGRESSION_ZONES|3034,4120,1|Said: Do we get those boxes again :p id be exited for a re-roll on those	
+[10/6/25 08:02PM] PROGRESSION_ZONES|3033,4119,1|Said: Ty	
+[10/6/25 08:05PM] PROGRESSION_ZONES|3034,4121,5|Said: Ill trade ya diety boots for something you get :p	
+[10/6/25 08:05PM] PROGRESSION_ZONES|3034,4121,5|Said: Double rolled them	
+[10/6/25 08:05PM] PROGRESSION_ZONES|3034,4121,5|Said: 1k stats	
+[10/6/25 08:06PM] PROGRESSION_ZONES|3034,4120,5|Said: Watch ill get again xd	
+[10/6/25 08:07PM] PROGRESSION_ZONES|3034,4120,5|Said: 10$ bond	
+[10/6/25 08:07PM] PROGRESSION_ZONES|3034,4120,5|Said: Worth the trade 	
+[10/6/25 08:07PM] PROGRESSION_ZONES|3034,4120,5|Said: Ty im puimped	
+[10/6/25 08:07PM] PROGRESSION_ZONES|3034,4120,5|Said: Pumped	
+[10/6/25 08:11PM] PROGRESSION_ZONES|3034,4121,17|Said: These boots love me	
+[10/6/25 08:11PM] PROGRESSION_ZONES|3034,4121,17|Said: I keep getting	
+[10/6/25 08:11PM] PROGRESSION_ZONES|3034,4121,17|Said: Lmao	
+[10/6/25 08:11PM] PROGRESSION_ZONES|3034,4121,17|Said: Ahh	
+[10/6/25 08:13PM] PROGRESSION_ZONES|3032,4120,17|Said: Whats owner cape stats?	
+[10/6/25 08:13PM] PROGRESSION_ZONES|3030,4119,17|Said: Sick	
+[10/6/25 08:13PM] PROGRESSION_ZONES|3030,4119,17|Said: Grz	
+[10/6/25 08:16PM] PROGRESSION_ZONES|3037,4121,21|Said: Kkl	
+[10/6/25 08:16PM] PROGRESSION_ZONES|3037,4120,21|Said: We lose all what we have then?	
+[10/6/25 08:17PM] PROGRESSION_ZONES|3039,4117,21|Said: Hopefully around this same tie	
+[10/6/25 08:17PM] PROGRESSION_ZONES|3039,4117,21|Said: Time	
+[10/6/25 08:17PM] PROGRESSION_ZONES|3039,4117,21|Said: I got kids lmao	
+[10/6/25 08:18PM] PROGRESSION_ZONES|3029,4122,21|Said: Yeah 10 here	
+[10/6/25 08:26PM] SLAYERMULTI|1871,5197,0|Said: Took some educated guessing	
+[10/6/25 08:59PM] DEFAULT|2782,4047,0|Said: Yo	
+[10/6/25 09:00PM] DEFAULT|2783,4050,0|Said: You got 2 case keys i can get?	
+[10/6/25 09:00PM] DEFAULT|2783,4050,0|Said: Lol	
+[10/6/25 09:01PM] DEFAULT|2784,4049,0|Said: Yay	
+[10/6/25 09:01PM] DEFAULT|2784,4049,0|Said: I dont got the coding skills	
+[10/6/25 09:02PM] DEFAULT|2784,4049,0|Said: Productive for sure it sounds	
+[10/6/25 09:02PM] DEFAULT|2784,4049,0|Said: Lol	
+[10/6/25 09:02PM] DEFAULT|2784,4049,0|Said: Can i try out the season pass and 2 case keys?	
+[10/6/25 09:03PM] DEFAULT|2783,4047,0|Said: Lol 2 cases gave me 2 more cases	
+[10/6/25 09:04PM] DEFAULT|2783,4047,0|Said: Lmao the cases are not even on drop table	
+[10/6/25 09:04PM] DEFAULT|2783,4047,0|Said: Ill try the spinn this time	
+[10/6/25 09:04PM] DEFAULT|2783,4047,0|Said: Tokens for the in	
+[10/6/25 09:04PM] DEFAULT|2783,4047,0|Said: Win	
+[10/6/25 09:05PM] DEFAULT|2783,4045,0|Said: I f'd up and bought the supreme casket instead of 2kc pet 	
+[10/6/25 09:05PM] DEFAULT|2783,4047,0|Said: It was a failed gamble lol	
+[10/6/25 09:05PM] DEFAULT|2783,4047,0|Said: Like actual cash	
+[10/6/25 09:07PM] DEFAULT|2783,4047,0|Said: Dont got my stuff atm, thats all downstairs and tbh	
+[10/6/25 09:07PM] DEFAULT|2783,4047,0|Said: Not trying to walk through and wake kids up	
+[10/6/25 09:08PM] DEFAULT|2783,4047,0|Said: Ima try some these zones out then hit the bed	
+[10/7/25 03:25PM] HOME_BANK|2786,4064,0|Said: Well hello	
+[10/7/25 03:26PM] HOME_BANK|2786,4064,0|Said: Waiting for the wife to get home	
+[10/7/25 03:27PM] HOME_BANK|2786,4064,0|Said: Whens the reset?	
+[10/7/25 03:29PM] HOME_BANK|2786,4064,0|Said: When will vote be up and working?	
+[10/7/25 07:07PM] NEPHILIM|2145,3301,0|Said: Vote link was down	
+[10/7/25 07:08PM] NEPHILIM|2145,3301,0|Said: I can vote but how do i claim?	
+[10/7/25 07:11PM] NEPHILIM|2142,3295,0|Said: Yeah	
+[10/7/25 07:15PM] EVENTS_ROOM|1696,4262,0|Said: Rage cape ill be pumped	
+[10/7/25 07:16PM] EVENTS_ROOM|1696,4266,0|Said: Gl	
+[10/7/25 07:16PM] EVENTS_ROOM|1695,4259,0|Said: Check chest	
+[10/7/25 07:22PM] EVENTS_ROOM|1689,4253,0|Said: Anyone get rage cape?	
+[10/7/25 07:22PM] EVENTS_ROOM|1694,4252,0|Said: Anything good left?	
+[10/7/25 07:23PM] EVENTS_ROOM|1694,4255,0|Said: Nothing	
+[10/7/25 07:24PM] EVENTS_ROOM|1694,4260,0|Said: Justing 	
+[10/7/25 07:25PM] EVENTS_ROOM|1693,4262,0|Said: What do you wantfor that rage cape?	
+[10/7/25 07:25PM] EVENTS_ROOM|1693,4261,0|Said: Probably dont have... but just seing	
+[10/7/25 07:25PM] EVENTS_ROOM|1698,4261,0|Said: I got the atachment lol thats why	
+[10/7/25 07:25PM] EVENTS_ROOM|1698,4262,0|Said: I want the cape	
+[10/7/25 07:26PM] EVENTS_ROOM|1700,4261,0|Said: No cases :(	
+[10/7/25 07:26PM] EVENTS_ROOM|1697,4264,0|Said: I got diety botts	
+[10/7/25 07:26PM] EVENTS_ROOM|1695,4260,0|Said: For trade justing	
+[10/7/25 07:27PM] EVENTS_ROOM|1698,4262,0|Said: Ill add collect 2	
+[10/7/25 07:27PM] EVENTS_ROOM|1699,4257,0|Said: Whats your current boot stats?	
+[10/8/25 07:47PM] DEFAULT|2768,4064,0|Said: Vote does only say checking for votes....	
+[10/8/25 07:47PM] DEFAULT|2768,4064,0|Said: Not registering correctly yet 	
+[10/8/25 07:48PM] DEFAULT|2768,4064,0|Said: Those losers	
+[10/8/25 07:48PM] DEFAULT|2770,4064,0|Said: Tyty	
+[10/8/25 08:15PM] SOD_LOBBY|3754,9371,0|Said: Im dumb lol	
+[10/8/25 08:16PM] SOD_LOBBY|3751,9369,0|Said: Now i got nothing lol	
+[10/8/25 08:17PM] SOD_LOBBY|3751,9369,0|Said: ?	
+[10/8/25 08:17PM] SOD_LOBBY|3751,9369,0|Said: Lmao	
+[10/8/25 08:17PM] SOD_LOBBY|3751,9369,0|Said: Aye!	
+[10/8/25 08:17PM] SOD_LOBBY|3751,9369,0|Said: Thanks	
+[10/8/25 08:18PM] SOD_LOBBY|3751,9369,0|Said: Cant do that with my 45 invent lol	
+[10/8/25 08:18PM] SOD_LOBBY|3751,9370,0|Said: Thats what a normal account is for haha	
+[10/8/25 08:18PM] SOD_LOBBY|3751,9370,0|Said: Only invent	
+[10/8/25 08:19PM] SOD_LOBBY|3751,9370,0|Said: Let me check mine	
+[10/8/25 08:21PM] SOD_LOBBY|3751,9370,0|Said: Antique doesnt get invent	
+[10/8/25 08:21PM] SOD_LOBBY|3751,9370,0|Said: Really?	
+[10/8/25 08:21PM] SOD_LOBBY|3751,9370,0|Said: How to upgrade?	
+[10/8/25 08:22PM] SOD_LOBBY|3751,9370,0|Said: Im still confuesed	
+[10/8/25 08:22PM] SOD_LOBBY|3751,9370,0|Said: The lamp menue?	
+[10/8/25 08:22PM] SOD_LOBBY|3751,9370,0|Said: Menu?	
+[10/8/25 08:24PM] SOD_LOBBY|3751,9370,0|Said: I click on themoney	
+[10/8/25 08:24PM] SOD_LOBBY|3751,9370,0|Said: There is no lammp in there to upgrade	
+[10/8/25 08:24PM] SOD_LOBBY|3751,9370,0|Said: Ahh dont have 90 yet	
+[10/8/25 08:24PM] SOD_LOBBY|3751,9370,0|Said: Fff	
+[10/8/25 08:25PM] SOD_LOBBY|3751,9370,0|Said: About to get the alt to 90 	
+[10/8/25 08:26PM] SOD_LOBBY|3751,9370,0|Said: Lmao	
+[10/8/25 08:26PM] SOD_LOBBY|3751,9370,0|Said: You recommend upgrading 3 times then disolve?	
+[10/8/25 08:27PM] SOD_LOBBY|3751,9370,0|Said: Bet	
+[10/8/25 08:27PM] SOD_LOBBY|3751,9370,0|Said: Ill do it on this acct then	
+[10/8/25 08:27PM] SOD_LOBBY|3751,9370,0|Said: Not scared	
+[10/8/25 08:42PM] VOTE_BOSS|3424,4122,4|Said: 79 invent :p	
+[10/8/25 08:42PM] VOTE_BOSS|3424,4122,4|Said: Getting there hank	
+[10/8/25 08:43PM] VOTE_BOSS|3424,4122,4|Said: Hawl lol	
+[10/8/25 08:43PM] VOTE_BOSS|3424,4122,4|Said: Hawk	
+[10/8/25 08:43PM] VOTE_BOSS|3424,4122,4|Said: Cant type worth crap	
+[10/8/25 08:43PM] VOTE_BOSS|3424,4122,4|Said: Too many beers 	
+[10/8/25 09:07PM] NEPHILIM|2144,3294,0|Said: Ran out of cash 	
+[10/9/25 06:57PM] EVENTS_ROOM|1696,4262,0|Said: Aye	
+[10/9/25 06:57PM] EVENTS_ROOM|1696,4262,0|Said: Nothings dropping lol	
+[10/9/25 06:58PM] EVENTS_ROOM|1699,4259,0|Said: Im the poppin masta	
+[10/9/25 06:59PM] EVENTS_ROOM|1699,4263,0|Said: How do i activate season pass?	
+[10/9/25 07:01PM] EVENTS_ROOM|1699,4263,0|Said: The free is available, does bond shop sell for the bottom?	
+[10/10/25 08:04PM] BANDOS_AVATAR|2370,4952,0|Said: Thats my kill	

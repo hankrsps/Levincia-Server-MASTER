@@ -1,0 +1,50 @@
+[10/8/25 05:38PM] Login. ip: 163.182.110.86, mac: To Be Filled By O.E.M.20250812181843.000000-240, uuid: A8-A1-59-5D-5C-AA	
+[10/8/25 05:40PM] (CC) Help. Said: Howdy	
+[10/8/25 05:45PM] (CC) Help. Said: Am i able to retuirn to the phase starter area?	
+[10/8/25 05:47PM] HOME_BANK|2785,4063,0|Said: How to return to phase area?	
+[10/8/25 05:48PM] HOME_BANK|2785,4061,0|Said: Yo	
+[10/8/25 05:48PM] (CC) Help. Said: Gthanks	
+[10/8/25 05:52PM] Has just redeemed a $100 Bond successfully!	
+[10/8/25 05:54PM] Has just redeemed a $10 Bond successfully!	
+[10/8/25 05:54PM] Has just redeemed a $50 Bond successfully!	
+[10/8/25 05:57PM] PROGRESSION_ZONES|3033,4121,13|Said: 'omv039f290k'	
+[10/8/25 06:08PM] (CC) Help. Said: How to clai m vote?	
+[10/8/25 06:17PM] Picked up gr.Item Starter bones, amount: 2	
+[10/8/25 06:18PM] Picked up gr.Item Crystal key, amount: 14	
+[10/8/25 06:18PM] Picked up gr.Item PVM ticket, amount: 14	
+[10/8/25 06:18PM] Picked up gr.Item Starter bones, amount: 2	
+[10/8/25 06:18PM] Picked up gr.Item PvM Box, amount: 2	
+[10/8/25 06:19PM] Picked up gr.Item Holy symbol, amount: 1	
+[10/8/25 08:04PM] Login. ip: 163.182.110.86, mac: To Be Filled By O.E.M.20250812181843.000000-240, uuid: A8-A1-59-5D-5C-AA	
+[10/8/25 08:13PM] Login. ip: 163.182.110.86, mac: To Be Filled By O.E.M.20250812181843.000000-240, uuid: A8-A1-59-5D-5C-AA	
+[10/8/25 08:19PM] Picked up gr.Item Treasure key 4, amount: 1	
+[10/8/25 08:21PM] Picked up gr.Item Energy bones, amount: 1	
+[10/8/25 08:21PM] Picked up gr.Item Elite dragon bones, amount: 1	
+[10/8/25 08:21PM] Picked up gr.Item Levincia tokens, amount: 1150	
+[10/8/25 08:22PM] Picked up gr.Item Energy bones, amount: 2	
+[10/8/25 08:22PM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/8/25 08:22PM] Picked up gr.Item PVM ticket, amount: 230	
+[10/8/25 08:22PM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/8/25 08:22PM] Picked up gr.Item Energy bones, amount: 2	
+[10/8/25 08:22PM] Picked up gr.Item PVM ticket, amount: 230	
+[10/8/25 08:23PM] Picked up gr.Item PVM ticket, amount: 230	
+[10/8/25 08:23PM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/8/25 08:23PM] Picked up gr.Item Energy bones, amount: 2	
+[10/8/25 08:23PM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/8/25 08:23PM] Picked up gr.Item Energy bones, amount: 2	
+[10/8/25 08:23PM] Picked up gr.Item PVM ticket, amount: 230	
+[10/8/25 08:23PM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/8/25 08:23PM] Picked up gr.Item Energy bones, amount: 2	
+[10/8/25 08:23PM] Picked up gr.Item PVM ticket, amount: 230	
+[10/8/25 08:24PM] Picked up gr.Item PVM ticket, amount: 210	
+[10/8/25 08:35PM] (CC) Help. Said: Whiskey wednesday for me	
+[10/8/25 08:40PM] Picked up gr.Item Vote Mystery Box, amount: 2	
+[10/8/25 08:40PM] Picked up gr.Item Global ticket, amount: 4	
+[10/8/25 08:40PM] Picked up gr.Item Vote scroll, amount: 2	
+[10/8/25 08:40PM] Picked up gr.Item Antique lamp, amount: 20	
+[10/8/25 08:40PM] Picked up gr.Item Special bones, amount: 50	
+[10/8/25 08:40PM] Picked up gr.Item Reward Crate, amount: 4	
+[10/8/25 08:40PM] Picked up gr.Item OP Box, amount: 2	
+[10/8/25 08:50PM] NEPHILIM|2144,3294,0|Said: I just shit my britches	
+[10/13/25 04:39PM] Login. ip: 163.182.110.86, mac: To Be Filled By O.E.M.20250812181843.000000-240, uuid: A8-A1-59-5D-5C-AA	
+[10/13/25 07:05PM] Login. ip: 163.182.110.86, mac: To Be Filled By O.E.M.20250812181843.000000-240, uuid: A8-A1-59-5D-5C-AA	

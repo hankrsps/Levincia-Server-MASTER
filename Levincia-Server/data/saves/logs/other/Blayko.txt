@@ -1,0 +1,251 @@
+[10/10/25 11:07PM] Login. ip: 76.218.236.85, mac: 1753778-1520250410201548.000000-240, uuid: 06-68-74-29-BB-55	
+[10/10/25 11:08PM] (CC) Help. Said:  yo	
+[10/10/25 11:08PM] (CC) Help. Said:  everyone afk?	
+[10/10/25 11:08PM] (CC) Help. Said:  what game mode are you	
+[10/10/25 11:11PM] DEFAULT|2783,4052,0|Said: Yoo	
+[10/10/25 11:12PM] HOME_BANK|2784,4063,0|Said: Ty m8	
+[10/10/25 11:12PM]  Receiving item from trade with Kursed Id: 23020, amount: 5	
+[10/10/25 11:12PM]  Receiving item from trade with Kursed Id: 8802, amount: 1	
+[10/10/25 11:12PM]  Receiving item from trade with Kursed Id: 8800, amount: 1	
+[10/10/25 11:12PM]  Receiving item from trade with Kursed Id: 8801, amount: 1	
+[10/10/25 11:12PM]  Receiving item from trade with Kursed Id: 8410, amount: 1	
+[10/10/25 11:12PM]  Receiving item from trade with Kursed Id: 18830, amount: 500	
+[10/10/25 11:12PM] HOME_BANK|2784,4063,0|Said: Fr	
+[10/10/25 11:13PM] HOME_BANK|2784,4063,0|Said: Okay bet	
+[10/10/25 11:13PM] HOME_BANK|2784,4063,0|Said: How long have you played	
+[10/10/25 11:13PM] HOME_BANK|2784,4063,0|Said: Wtf just happend	
+[10/10/25 11:14PM] HOME_BANK|2785,4061,0|Said: It dossolved my items	
+[10/10/25 11:14PM] HOME_BANK|2785,4061,0|Said: When i clicked	
+[10/10/25 11:14PM] HOME_BANK|2784,4060,0|Said: Oh my god	
+[10/10/25 11:14PM] HOME_BANK|2785,4061,0|Said: Disolve is the first click?	
+[10/10/25 11:15PM] HOME_BANK|2785,4061,0|Said: Its showiing me dissolve first	
+[10/10/25 11:15PM] HOME_BANK|2785,4061,0|Said: No the armor	
+[10/10/25 11:15PM] HOME_BANK|2785,4061,0|Said: Ye but it was a gift lol	
+[10/10/25 11:16PM] HOME_BANK|2785,4061,0|Said: I never get rid of an item someone gives me	
+[10/10/25 11:16PM] HOME_BANK|2785,4061,0|Said: Lmfaoo	
+[10/10/25 11:16PM] HOME_BANK|2787,4064,0|Said: Bet	
+[10/10/25 11:16PM] DEFAULT|2793,4070,0|Said: Training prauy	
+[10/10/25 11:16PM] DEFAULT|2793,4070,0|Said: Real quick	
+[10/10/25 11:16PM] Picked up gr.Item Holy symbol, amount: 1	
+[10/10/25 11:18PM] Login. ip: 76.218.236.85, mac: 1753778-1520250410201548.000000-240, uuid: 06-68-74-29-BB-55	
+[10/10/25 11:20PM] (CC) Help. Said: I voted but but its not working	
+[10/10/25 11:22PM] (CC) Help. Said:  okay bet i was just checking for the starter tasks	
+[10/11/25 06:39AM] Login. ip: 76.218.236.85, mac: 1753778-1520250410201548.000000-240, uuid: 06-68-74-29-BB-55	
+[10/11/25 06:46AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 06:46AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 06:46AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 06:46AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 06:47AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 06:47AM] Picked up gr.Item PVM ticket, amount: 2	
+[10/11/25 06:47AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 06:47AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 06:47AM] Picked up gr.Item PVM ticket, amount: 2	
+[10/11/25 06:47AM] Picked up gr.Item Hammer, amount: 1	
+[10/11/25 06:48AM] Picked up gr.Item Levincia tokens, amount: 50	
+[10/11/25 06:48AM] Picked up gr.Item PVM ticket, amount: 2	
+[10/11/25 06:48AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 06:48AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 06:48AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 06:48AM] Picked up gr.Item PVM ticket, amount: 2	
+[10/11/25 06:48AM] Picked up gr.Item Hammer, amount: 1	
+[10/11/25 06:48AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 06:49AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 06:49AM] Picked up gr.Item PVM ticket, amount: 2	
+[10/11/25 06:49AM] Picked up gr.Item Levincia tokens, amount: 50	
+[10/11/25 07:21AM] AFK|2803,4069,0|Said: 1:shops	
+[10/11/25 07:42AM] Picked up gr.Item PVM ticket, amount: 2	
+[10/11/25 07:42AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 07:42AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 07:42AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 07:42AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 07:42AM] Picked up gr.Item Iron nails, amount: 5	
+[10/11/25 07:43AM] Picked up gr.Item Hammer, amount: 1	
+[10/11/25 07:46AM] Picked up gr.Item Holy symbol, amount: 1	
+[10/11/25 07:51AM] (CC) Help. Said:  anyone done the tuests	
+[10/11/25 07:51AM] (CC) Help. Said:  quests	
+[10/11/25 07:55AM] Player destroying item: 2959, amount: 1	
+[10/11/25 08:00AM] Picked up gr.Item Enchanted Herb, amount: 1	
+[10/11/25 08:00AM] Picked up gr.Item Dagannoth hide, amount: 1	
+[10/11/25 08:00AM] Picked up gr.Item Dagannoth bones, amount: 1	
+[10/11/25 08:00AM] Picked up gr.Item PVM ticket, amount: 15	
+[10/11/25 08:00AM] Picked up gr.Item Enchanted Herb, amount: 1	
+[10/11/25 08:00AM] Picked up gr.Item Dagannoth hide, amount: 1	
+[10/11/25 08:00AM] Picked up gr.Item Dagannoth bones, amount: 1	
+[10/11/25 08:00AM] Picked up gr.Item PVM ticket, amount: 15	
+[10/11/25 08:00AM] Picked up gr.Item Enchanted Herb, amount: 1	
+[10/11/25 08:00AM] Picked up gr.Item Dagannoth hide, amount: 1	
+[10/11/25 08:00AM] Picked up gr.Item Dagannoth bones, amount: 1	
+[10/11/25 08:00AM] Picked up gr.Item Levincia tokens, amount: 150	
+[10/11/25 08:01AM] Picked up gr.Item Crystal key, amount: 1	
+[10/11/25 08:01AM] Picked up gr.Item Crystal key, amount: 1	
+[10/11/25 08:03AM] DEFAULT|2788,4042,0|Said: 5	
+[10/11/25 08:03AM] Login. ip: 76.218.236.85, mac: 1753778-1520250410201548.000000-240, uuid: 06-68-74-29-BB-55	
+[10/11/25 08:03AM] DEFAULT|2786,4047,0|Said: 5	
+[10/11/25 08:03AM] (CC) Help. Said:  .	
+[10/11/25 08:04AM] DEFAULT|2786,4054,0|Said:  	
+[10/11/25 08:05AM] (CC) Help. Said:  is there a donor zone	
+[10/11/25 08:07AM] Picked up gr.Item Crystal key, amount: 2	
+[10/11/25 08:19AM] (CC) Help. Said:  wb	
+[10/11/25 08:21AM] Picked up gr.Item Rancid flour, amount: 1	
+[10/11/25 08:21AM] Picked up gr.Item Empty bucket, amount: 1	
+[10/11/25 08:22AM] (CC) Help. Said:  anyone have chilling gloves	
+[10/11/25 08:23AM] Picked up gr.Item Crystal key, amount: 1	
+[10/11/25 08:23AM] Picked up gr.Item Crystal key, amount: 1	
+[10/11/25 08:23AM] Picked up gr.Item Chilling bones, amount: 2	
+[10/11/25 08:23AM] Picked up gr.Item PVM ticket, amount: 1	
+[10/11/25 08:23AM] Picked up gr.Item PvM Box, amount: 1	
+[10/11/25 08:23AM] Picked up gr.Item PVM ticket, amount: 1	
+[10/11/25 08:23AM] Picked up gr.Item Chilling gloves, amount: 1	
+[10/11/25 08:23AM] Picked up gr.Item Crystal key, amount: 1	
+[10/11/25 08:25AM] DEFAULT|2788,4049,0|Said: Del	
+[10/11/25 08:25AM] DEFAULT|2788,4049,0|Said: You doing quest?	
+[10/11/25 08:26AM] DEFAULT|2788,4049,0|Said: You got the poison milk yet	
+[10/11/25 08:26AM] DEFAULT|2788,4049,0|Said: Gotta go to varrock	
+[10/11/25 08:27AM] NARAKU|3426,9565,0|Said: Yea	
+[10/11/25 08:27AM] HOME_BANK|2784,4065,0|Said: :naraku	
+[10/11/25 08:27AM] NARAKU|3426,9565,0|Said: I didnt see one	
+[10/11/25 08:27AM] NARAKU|3426,9565,0|Said: Trying to find it	
+[10/11/25 08:28AM] NARAKU|3426,9565,0|Said: Damn yall hit good	
+[10/11/25 08:30AM] NARAKU|3426,9565,0|Said: Wassup hanky panky	
+[10/11/25 08:33AM] Picked up gr.Item Global ticket, amount: 1	
+[10/11/25 08:33AM] Picked up gr.Item Levincia tokens, amount: 5000	
+[10/11/25 08:33AM] Picked up gr.Item PVM ticket, amount: 1000	
+[10/11/25 08:33AM] Picked up gr.Item Crystal key, amount: 2	
+[10/11/25 08:33AM] NARAKU|3426,9565,0|Said: Hank	
+[10/11/25 08:34AM] NARAKU|3426,9565,0|Said: Whats the best way to get to varry	
+[10/11/25 08:35AM]  Receiving item from trade with Hank Id: 8412, amount: 1	
+[10/11/25 08:35AM] NARAKU|3427,9566,0|Said: Tyvm	
+[10/11/25 08:35AM] NARAKU|3427,9566,0|Said: What deals are there?	
+[10/11/25 11:42AM] DEFAULT|2783,4045,0|Said: Yo	
+[10/11/25 11:43AM] (CC) Help. Said:  how do we claim donation	
+[10/11/25 11:46AM] Has just redeemed a $5 Bond successfully!	
+[10/11/25 11:48AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 10:10PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/11/25 10:10PM] Picked up gr.Item Starter bones, amount: 1	
+[10/11/25 10:10PM] Picked up gr.Item Starter bones, amount: 1	
+[10/11/25 10:11PM]  Receiving item from trade with Hank Id: 23277, amount: 2	
+[10/11/25 10:11PM]  Receiving item from trade with Hank Id: 23240, amount: 2	
+[10/11/25 10:11PM]  Receiving item from trade with Hank Id: 10943, amount: 1	
+[10/11/25 10:11PM] DEFAULT|2932,4117,0|Said: Thank you brother. more to come	
+[10/11/25 10:11PM] DEFAULT|2932,4117,0|Said: I appreciate you m8	
+[10/11/25 10:12PM] DEFAULT|2933,4117,0|Said: Waiting for nfl tomorrow :d	
+[10/11/25 10:17PM] (CC) Help. Said:  dont brag	
+[10/11/25 10:17PM] DEFAULT|2933,4117,0|Said: Lmaoo	
+[10/11/25 10:18PM] DEFAULT|2933,4117,0|Said: Yea	
+[10/11/25 10:18PM] DEFAULT|2933,4117,0|Said: The one you have on now is fire	
+[10/11/25 10:18PM] DEFAULT|2933,4117,0|Said: Thats crazy	
+[10/11/25 10:18PM] DEFAULT|2933,4117,0|Said: Is diyos from an actually thing?	
+[10/11/25 10:18PM] DEFAULT|2933,4117,0|Said: Like tv show or movie	
+[10/11/25 10:19PM] DEFAULT|2933,4117,0|Said: It means god right	
+[10/11/25 10:19PM] DEFAULT|2933,4117,0|Said: Most def does	
+[10/11/25 10:19PM] DEFAULT|2933,4117,0|Said: You out alot into this server	
+[10/11/25 10:20PM] DEFAULT|2933,4117,0|Said: I like it, i dont even donate lol thats how ik i like it	
+[10/11/25 10:20PM] DEFAULT|2933,4116,0|Said: Elite staff	
+[10/11/25 10:22PM] (CC) Help. Said:  why does it matter, not trynna be rude lol	
+[10/11/25 10:22PM] (CC) Help. Said:  or just mind your business a lil bitt 0.0	
+[10/11/25 10:23PM] DEFAULT|2933,4116,0|Said: . my bad	
+[10/11/25 10:23PM] (CC) Help. Said:  my bad	
+[10/11/25 10:23PM] DEFAULT|2933,4116,0|Said: Lmaooo	
+[10/11/25 10:23PM] DEFAULT|2933,4116,0|Said: Thought he was just being rude to yall fr lmaoo	
+[10/11/25 10:23PM] (CC) Help. Said:  imma take my own advice :d	
+[10/11/25 10:24PM] (CC) Help. Said:  nah i just didnt know it was a staff convo	
+[10/11/25 10:24PM] DEFAULT|2933,4116,0|Said: Lmaoo	
+[10/11/25 10:24PM] DEFAULT|2933,4116,0|Said: Hawk	
+[10/11/25 10:24PM] DEFAULT|2933,4116,0|Said: I met you when i joined right?	
+[10/11/25 10:25PM]  Receiving item from trade with History Hawk Id: 17013, amount: 1	
+[10/11/25 10:25PM] DEFAULT|2933,4116,0|Said: How are you	
+[10/11/25 10:25PM] DEFAULT|2933,4116,0|Said: Thank you	
+[10/11/25 10:25PM] DEFAULT|2933,4116,0|Said: Lmaooo	
+[10/11/25 10:25PM] DEFAULT|2933,4116,0|Said: Dude	
+[10/11/25 10:32PM] GLOBAL_BOSS|2139,5019,0|Said: Hahahha	
+[10/11/25 10:32PM] GLOBAL_BOSS|2139,5019,0|Said: You did those quests?	
+[10/11/25 10:33PM] GLOBAL_BOSS|2139,5019,0|Said: Trying to get poisoned milk but idk how to get to varrock	
+[10/11/25 10:41PM] Picked up gr.Item Vote Mystery Box, amount: 1	
+[10/11/25 10:41PM] Picked up gr.Item Antique lamp, amount: 10	
+[10/11/25 10:41PM] Picked up gr.Item Special bones, amount: 25	
+[10/11/25 10:41PM] Picked up gr.Item Reward Crate, amount: 2	
+[10/11/25 10:41PM] Picked up gr.Item Global ticket, amount: 4	
+[10/11/25 10:41PM] Picked up gr.Item Vote scroll, amount: 2	
+[10/11/25 10:43PM] Picked up gr.Item Vote Mystery Box, amount: 1	
+[10/11/25 10:43PM] Picked up gr.Item Global ticket, amount: 2	
+[10/11/25 10:43PM] Picked up gr.Item Vote scroll, amount: 1	
+[10/11/25 10:43PM] Picked up gr.Item Antique lamp, amount: 10	
+[10/11/25 10:43PM] Picked up gr.Item Special bones, amount: 25	
+[10/11/25 10:43PM] Picked up gr.Item Reward Crate, amount: 2	
+[10/11/25 10:46PM] NEPHILIM|2144,3294,0|Said: Anyone done omega quest	
+[10/11/25 10:46PM] NEPHILIM|2144,3294,0|Said: How did you get to varry	
+[10/11/25 10:46PM] NEPHILIM|2144,3294,0|Said: Wtfuckie	
+[10/11/25 10:47PM] Picked up gr.Item Global ticket, amount: 3	
+[10/11/25 10:47PM] Picked up gr.Item Ruby Mystery Box, amount: 3	
+[10/11/25 10:47PM] Picked up gr.Item Antique lamp, amount: 10	
+[10/11/25 10:47PM] Picked up gr.Item Levincia tokens, amount: 10802	
+[10/11/25 10:47PM] NEPHILIM|2143,3297,0|Said: What about the milk thooo	
+[10/11/25 10:48PM] Picked up gr.Item Celestial's Card Pack, amount: 1	
+[10/11/25 10:49PM] Picked up gr.Item Global ticket, amount: 3	
+[10/11/25 10:49PM] Picked up gr.Item Ruby Mystery Box, amount: 3	
+[10/11/25 10:49PM] Picked up gr.Item Antique lamp, amount: 10	
+[10/11/25 10:49PM] Picked up gr.Item Levincia tokens, amount: 10187	
+[10/11/25 10:50PM] NEPHILIM|2145,3297,0|Said: Mbn :-0	
+[10/11/25 10:51PM] NEPHILIM|2145,3297,0|Said: One day ill too have the biggest of bucks	
+[10/11/25 10:51PM] Blayko received x1 Exclusive Casket from Nephilim Warrior!	
+[10/11/25 10:51PM] Picked up gr.Item Exclusive Casket, amount: 1	
+[10/11/25 10:51PM] Picked up gr.Item Global ticket, amount: 3	
+[10/11/25 10:51PM] Picked up gr.Item Ruby Mystery Box, amount: 3	
+[10/11/25 10:51PM] Picked up gr.Item Antique lamp, amount: 10	
+[10/11/25 10:51PM] Picked up gr.Item Levincia tokens, amount: 10811	
+[10/11/25 10:51PM] NEPHILIM|2144,3299,0|Said: Crazy how high yalll hit lmaoo	
+[10/11/25 10:53PM] Has just redeemed a $25 Bond successfully!	
+[10/11/25 10:53PM] Has just redeemed a $25 Bond successfully!	
+[10/11/25 10:54PM] (CC) Help. Said:  who is the slayer boss	
+[10/11/25 10:54PM] Has just redeemed a $5 Bond successfully!	
+[10/11/25 10:56PM] SLAYER_CHAMPION|3488,4697,0|Said: You are not alooooone	
+[10/11/25 10:57PM] SLAYER_CHAMPION|3488,4697,0|Said: Thats michael jackson	
+[10/11/25 10:57PM] SLAYER_CHAMPION|3488,4697,0|Said: You cna have my drop bro	
+[10/11/25 10:57PM] SLAYER_CHAMPION|3488,4697,0|Said: Im just here for family time	
+[10/11/25 10:57PM] SLAYER_CHAMPION|3488,4697,0|Said: Yk?	
+[10/11/25 10:57PM] SLAYER_CHAMPION|3488,4697,0|Said: Im your family	
+[10/11/25 10:58PM] SLAYER_CHAMPION|3488,4697,0|Said: Hanky panky is your family	
+[10/11/25 10:58PM] SLAYER_CHAMPION|3488,4697,0|Said: Taste good is also your family	
+[10/11/25 11:07PM] SLAYER_CHAMPION|3488,4697,0|Said: Damn we been here for a while lol	
+[10/11/25 11:09PM] SLAYER_CHAMPION|3488,4697,0|Said: Yoshii is my vet acc	
+[10/11/25 11:09PM] (CC) Help. Said:  yoshii is my vet acc	
+[10/11/25 11:14PM] (CC) Help. Said:  damn slayer champ got alot of xp lmaoo	
+[10/11/25 11:15PM] (CC) Help. Said: -,- now why would you say that sht	
+[10/11/25 11:21PM] (CC) Help. Said:  what happened lol	
+[10/11/25 11:31PM] (CC) Help. Said:  its gonna take me 41 .6 mins to kill the rest of the champion lmao	
+[10/11/25 11:31PM] (CC) Help. Said:  gonna go poop	
+[10/11/25 11:36PM] Has just redeemed a $100 Bond successfully!	
+[10/11/25 11:37PM] (CC) Help. Said:  ruby now	
+[10/12/25 07:48PM] Login. ip: 76.218.236.85, mac: 1753778-1520250410201548.000000-240, uuid: 06-68-74-29-BB-55	
+[10/12/25 07:49PM] (CC) Help. Said:  hello people	
+[10/12/25 07:53PM] (CC) Help. Said:  everyone afk?	
+[10/12/25 08:07PM] Login. ip: 76.218.236.85, mac: 1753778-1520250410201548.000000-240, uuid: 06-68-74-29-BB-55	
+[10/12/25 08:22PM] Picked up gr.Item Omega egg, amount: 1	
+[10/12/25 08:23PM] Login. ip: 76.218.236.85, mac: 1753778-1520250410201548.000000-240, uuid: 06-68-74-29-BB-55	
+[10/12/25 08:28PM] Picked up gr.Item Empty bucket, amount: 1	
+[10/12/25 08:28PM] Picked up gr.Item Rancid flour, amount: 1	
+[10/12/25 08:29PM] (CC) Help. Said:  anyone here?	
+[10/12/25 08:31PM] (CC) Help. Said:  fuck me	
+[10/12/25 08:37PM] (CC) Help. Said:  anyone know where to get poisoned milk	
+[10/12/25 08:45PM] (CC) Help. Said:  yall suck\	
+[10/13/25 09:58PM] (CC) Help. Said: Ty	
+[10/13/25 10:00PM] (CC) Help. Said:  anyone know where to get milk for the omegga quest	
+[10/14/25 10:40AM] (CC) Help. Said: Yooo	
+[10/14/25 10:40AM] Has just redeemed a $10 Bond successfully!	
+[10/14/25 10:42AM] Has just redeemed a $1 Scroll successfully!	
+[10/14/25 10:42AM] Has just redeemed a $5 Bond successfully!	
+[10/14/25 10:42AM] Has just redeemed a $10 Bond successfully!	
+[10/14/25 03:14PM] ZONES1|2958,9493,0|Said:  ::oz	
+[10/14/25 03:37PM] (CC) Help. Said:  me	
+[10/14/25 03:38PM] (CC) Help. Said:  slayer champ and training my vet	
+[10/16/25 09:44PM] Login. ip: 76.218.236.85, mac: 1753778-1520250410201548.000000-240, uuid: 06-68-74-29-BB-55	
+[10/16/25 09:45PM] (CC) Help. Said: Whats up brodie	
+[10/16/25 09:45PM] DEFAULT|2791,4062,0|Said: Chilling	
+[10/16/25 09:45PM] DEFAULT|2791,4062,0|Said: Still trying to figure out how to get some milk	
+[10/16/25 09:45PM] Has just redeemed a $5 Bond successfully!	
+[10/16/25 09:59PM] DEFAULT|2791,4062,0|Said: Tyvmn	
+[10/16/25 09:59PM] DEFAULT|2791,4062,0|Said: I had the egg lol	
+[10/16/25 09:59PM] Picked up gr.Item Empty bucket, amount: 1	
+[10/16/25 10:00PM] Picked up gr.Item Rancid flour, amount: 1	
+[10/18/25 12:28AM] Login. ip: 76.218.236.85, mac: 1753778-1520250410201548.000000-240, uuid: 06-68-74-29-BB-55	
+[10/18/25 12:28AM] (CC) Help. Said:  yoo	

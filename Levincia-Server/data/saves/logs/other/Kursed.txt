@@ -1,0 +1,532 @@
+[10/9/25 08:23PM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/9/25 08:24PM] (CC) Help. Said: Beep beep	
+[10/9/25 08:42PM] Player destroying item: -1, amount: 0	
+[10/9/25 08:42PM] Player destroying item: -1, amount: 0	
+[10/9/25 08:43PM] Player destroying item: -1, amount: 0	
+[10/9/25 08:44PM] Player destroying item: -1, amount: 0	
+[10/9/25 08:56PM] Picked up gr.Item Holy symbol, amount: 1	
+[10/9/25 09:08PM] (CC) Help. Said: Hi	
+[10/9/25 09:40PM] (CC) Help. Said: Welcome	
+[10/9/25 09:59PM] (CC) Help. Said: Da what	
+[10/9/25 10:01PM] (CC) Help. Said: Haha probably won't have to worry about that for a long time	
+[10/9/25 10:02PM] (CC) Help. Said: Considering rn it's like playing iron man	
+[10/10/25 12:03AM] (CC) Help. Said: What balloons	
+[10/10/25 12:03AM] (CC) Help. Said: How to get there?	
+[10/10/25 12:04AM] (CC) Help. Said: O	
+[10/10/25 12:04AM] (CC) Help. Said: Dam	
+[10/10/25 01:29AM] HELLRAISER|3109,5530,0|Said: Beep beep	
+[10/10/25 01:29AM] HELLRAISER|3109,5530,0|Said: Nice dmg bois	
+[10/10/25 01:32AM] (CC) Help. Said: So uhh	
+[10/10/25 01:32AM] (CC) Help. Said: Does vote claiming just not work or whay	
+[10/10/25 01:32AM] (CC) Help. Said: Wild	
+[10/10/25 01:42AM] (CC) Help. Said: Wel	
+[10/10/25 01:43AM] (CC) Help. Said: Im out	
+[10/10/25 01:43AM] (CC) Help. Said: Cya	
+[10/10/25 08:39AM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/10/25 08:39AM] DEFAULT|2781,4047,0|Said: Hi	
+[10/10/25 08:39AM] DEFAULT|2781,4047,0|Said: Is vote claiming working yet?	
+[10/10/25 08:40AM] DEFAULT|2781,4047,0|Said: I'm alright	
+[10/10/25 08:40AM] DEFAULT|2781,4047,0|Said: Ahhh	
+[10/10/25 08:40AM] DEFAULT|2781,4047,0|Said: Ok	
+[10/10/25 08:40AM] DEFAULT|2781,4047,0|Said: Oh?	
+[10/10/25 08:40AM]  Receiving item from trade with Hank Id: 23020, amount: 5	
+[10/10/25 08:40AM]  Receiving item from trade with Hank Id: 23002, amount: 5	
+[10/10/25 08:40AM] DEFAULT|2781,4047,0|Said: Thanks :d	
+[10/10/25 08:41AM] DEFAULT|2781,4047,0|Said: Welp	
+[10/10/25 08:41AM] DEFAULT|2781,4047,0|Said: Im off to zones	
+[10/10/25 08:42AM] DEFAULT|2781,4047,0|Said: Cya around!	
+[10/10/25 08:42AM] Has just redeemed a $10 Bond successfully!	
+[10/10/25 09:24AM] (CC) Help. Said: Where do we apply?	
+[10/10/25 09:34AM] NEPHILIM|2144,3298,0|Said: Well	
+[10/10/25 09:34AM] NEPHILIM|2144,3298,0|Said: This is gonna take a while	
+[10/10/25 09:34AM] NEPHILIM|2144,3298,0|Said: Haha	
+[10/10/25 09:37AM] Kursed received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/10/25 09:37AM] NEPHILIM|2144,3298,0|Said: Nb	
+[10/10/25 09:40AM] NEPHILIM|2144,3298,0|Said: Haha	
+[10/10/25 09:42AM] VOTE_BOSS|3428,4115,4|Said: Mhm	
+[10/10/25 09:44AM] VOTE_BOSS|3428,4115,4|Said: I believe there's one later on.	
+[10/10/25 09:46AM] VOTE_BOSS|3428,4115,4|Said: Kk	
+[10/10/25 09:46AM] VOTE_BOSS|3428,4115,4|Said: I'm gonna go get food.	
+[10/10/25 09:46AM] VOTE_BOSS|3428,4115,4|Said: Haha	
+[10/10/25 09:49AM] Kursed received x1 Chance scroll from Vote Boss!	
+[10/10/25 10:19AM] (CC) Help. Said: Come home bank	
+[10/10/25 10:19AM]  Gave item in trade to Loki. Id: 19886, amount: 1	
+[10/10/25 10:19AM] DEFAULT|2780,4046,0|Said: Np	
+[10/10/25 10:21AM] Picked up gr.Item PVM ticket, amount: 150	
+[10/10/25 10:30AM] Picked up gr.Item PvM Box, amount: 2	
+[10/10/25 10:30AM] Picked up gr.Item Levincia tokens, amount: 1000	
+[10/10/25 02:03PM] (CC) Help. Said: Did hank give out giveaway rewards yet	
+[10/10/25 02:04PM] Picked up gr.Item Levincia tokens, amount: 500	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PvM Box, amount: 1	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 150	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 600	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PvM Box (t2), amount: 1	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item Levincia tokens, amount: 500	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:04PM] Picked up gr.Item PvM Box, amount: 1	
+[10/10/25 02:04PM] Picked up gr.Item PvM Box, amount: 1	
+[10/10/25 02:04PM] Picked up gr.Item PvM Box (t2), amount: 1	
+[10/10/25 02:05PM] Picked up gr.Item PvM Box, amount: 2	
+[10/10/25 02:05PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:05PM] Picked up gr.Item Sapphire mystery box, amount: 1	
+[10/10/25 02:05PM] Picked up gr.Item PvM Box, amount: 1	
+[10/10/25 02:05PM] Picked up gr.Item PvM Box, amount: 1	
+[10/10/25 02:05PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:05PM] Picked up gr.Item Levincia tokens, amount: 500	
+[10/10/25 02:05PM] Picked up gr.Item PvM Box, amount: 1	
+[10/10/25 02:05PM] Picked up gr.Item PvM Box, amount: 1	
+[10/10/25 02:05PM] Picked up gr.Item Levincia tokens, amount: 500	
+[10/10/25 02:05PM] Picked up gr.Item Levincia tokens, amount: 500	
+[10/10/25 02:05PM] Picked up gr.Item PvM Box, amount: 1	
+[10/10/25 02:05PM] Picked up gr.Item Levincia tokens, amount: 500	
+[10/10/25 02:05PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:06PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:06PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:07PM] (CC) Help. Said: The discord giveaways, friend.	
+[10/10/25 02:07PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:07PM] Picked up gr.Item Levincia tokens, amount: 500	
+[10/10/25 02:07PM] Picked up gr.Item PVM ticket, amount: 225	
+[10/10/25 02:07PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:07PM] Picked up gr.Item PvM Box (t2), amount: 1	
+[10/10/25 02:07PM] Picked up gr.Item PvM Box, amount: 1	
+[10/10/25 02:07PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:07PM] Picked up gr.Item PVM ticket, amount: 75	
+[10/10/25 02:14PM] Picked up gr.Item PVM ticket, amount: 150	
+[10/10/25 02:15PM] Picked up gr.Item Levincia tokens, amount: 2000	
+[10/10/25 02:16PM] Picked up gr.Item Levincia tokens, amount: 2000	
+[10/10/25 02:18PM] DEFAULT|2795,4066,0|Said: Sup	
+[10/10/25 02:18PM] DEFAULT|2795,4066,0|Said: Elite aoe	
+[10/10/25 02:18PM] (CC) Help. Said: There's starter tasks?	
+[10/10/25 02:19PM] DEFAULT|2795,4066,0|Said: Yup	
+[10/10/25 02:20PM] (CC) Help. Said: If anyone wants to help with the pc and raid	
+[10/10/25 02:20PM] (CC) Help. Said: Lmk i'll join	
+[10/10/25 02:21PM] (CC) Help. Said: We're here	
+[10/10/25 02:24PM] PEST_CONTROL_GAME|2656,2614,0|Said: Lol	
+[10/10/25 02:24PM] PEST_CONTROL_GAME|2656,2614,0|Said: Cant attack it	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2661,2639,0|Said:  	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2661,2639,0|Said: Haha	
+[10/10/25 02:26PM] PEST_CONTROL_GAME|2655,2573,0|Said: Lol	
+[10/10/25 02:30PM] PEST_CONTROL_GAME|2637,2591,0|Said: 4.6k	
+[10/10/25 02:31PM] DEFAULT|2657,2641,0|Said: Ty	
+[10/10/25 02:31PM] DEFAULT|2657,2641,0|Said: Raid next?	
+[10/10/25 02:33PM] ZOMBIE_LOBBY|2222,4114,0|Said: Haha we're sitting back	
+[10/10/25 02:33PM] ZOMBIE_LOBBY|2222,4114,0|Said: Letting bro do the work	
+[10/10/25 02:33PM] ZOMBIE_LOBBY|2222,4114,0|Said: We're poor	
+[10/10/25 02:35PM] ZOMBIE_LOBBY|2224,4115,0|Said: Ty	
+[10/10/25 02:45PM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/10/25 03:05PM] (CC) Help. Said: Yo hank did you already give out the rewards from giveaway?	
+[10/10/25 03:06PM] Has just redeemed a $100 Bond successfully!	
+[10/10/25 03:06PM] Has just redeemed a $100 Bond successfully!	
+[10/10/25 03:07PM] (CC) Help. Said: I won card pack as well. ;)	
+[10/10/25 03:07PM] (CC) Help. Said: Thank you.	
+[10/10/25 03:07PM] (CC) Help. Said: Gl me	
+[10/10/25 03:08PM] (CC) Help. Said: Gf me	
+[10/10/25 03:08PM] (CC) Help. Said: Haha	
+[10/10/25 03:08PM] Has just redeemed a $5 Bond successfully!	
+[10/10/25 03:08PM] Has just redeemed a $25 Bond successfully!	
+[10/10/25 03:10PM] (CC) Help. Said: You need owner cape and the pot from pvm ticket store	
+[10/10/25 03:12PM] (CC) Help. Said: Anyone sell me 200k pvm tickets?	
+[10/10/25 03:12PM] (CC) Help. Said: Hm brother	
+[10/10/25 03:13PM] (CC) Help. Said: 400k tokens?	
+[10/10/25 03:13PM] (CC) Help. Said: Okey doke	
+[10/10/25 03:14PM]  Gave item in trade to History Hawk. Id: 12855, amount: 200000	
+[10/10/25 03:14PM]  Receiving item from trade with History Hawk Id: 5022, amount: 200000	
+[10/10/25 03:14PM] HOME_BANK|2781,4064,0|Said: Ty	
+[10/10/25 03:24PM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 05:17PM] (CC) Help. Said: You mean tokens?	
+[10/10/25 05:26PM] (CC) Help. Said: Yo bishop	
+[10/10/25 05:26PM] (CC) Help. Said: Wya	
+[10/10/25 05:29PM] (CC) Help. Said: Come home	
+[10/10/25 05:29PM]  Gave item in trade to Bishop. Id: 8412, amount: 1	
+[10/10/25 05:29PM] HOME_BANK|2784,4064,0|Said: You can get back there through minigames teleports.	
+[10/10/25 06:09PM] (CC) Help. Said: I can get ya one	
+[10/10/25 06:09PM] (CC) Help. Said: You want necklace or ring?	
+[10/10/25 06:10PM] (CC) Help. Said: Oh well, i bought neck.	
+[10/10/25 06:10PM] (CC) Help. Said: Come home and trade me to get it.	
+[10/10/25 06:11PM] Player destroying item: 17815, amount: 1	
+[10/10/25 06:11PM] Player destroying item: 17815, amount: 1	
+[10/10/25 06:11PM] (CC) Help. Said: You comin or what	
+[10/10/25 06:12PM] (CC) Help. Said: ?	
+[10/10/25 06:13PM]  Gave item in trade to Bishop. Id: 19886, amount: 1	
+[10/10/25 06:13PM] HOME_BANK|2782,4065,0|Said: Np	
+[10/10/25 07:02PM] Kursed received x1 $1 Scroll from Naraku!	
+[10/10/25 07:45PM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 10:55PM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/10/25 11:08PM] (CC) Help. Said: Nope	
+[10/10/25 11:08PM] (CC) Help. Said: I'm here.	
+[10/10/25 11:08PM] (CC) Help. Said: Regular	
+[10/10/25 11:10PM] (CC) Help. Said: Come home brother	
+[10/10/25 11:11PM] (CC) Help. Said: Wya?	
+[10/10/25 11:12PM]  Gave item in trade to Blayko. Id: 23020, amount: 5	
+[10/10/25 11:12PM]  Gave item in trade to Blayko. Id: 8802, amount: 1	
+[10/10/25 11:12PM]  Gave item in trade to Blayko. Id: 8800, amount: 1	
+[10/10/25 11:12PM]  Gave item in trade to Blayko. Id: 8801, amount: 1	
+[10/10/25 11:12PM]  Gave item in trade to Blayko. Id: 8410, amount: 1	
+[10/10/25 11:12PM]  Gave item in trade to Blayko. Id: 18830, amount: 500	
+[10/10/25 11:12PM] HOME_BANK|2783,4063,0|Said: Do ::startertasks	
+[10/10/25 11:12PM] HOME_BANK|2783,4063,0|Said: That'll get you you first weapon and armor set.	
+[10/10/25 11:12PM] HOME_BANK|2783,4063,0|Said: Then after those do zones.	
+[10/10/25 11:13PM] HOME_BANK|2783,4063,0|Said: When it's time for you to do the raid, lmk. i'll carry you through it	
+[10/10/25 11:13PM] HOME_BANK|2783,4063,0|Said: As for pest control unfortunately we need someone else to be online.	
+[10/10/25 11:13PM] HOME_BANK|2783,4063,0|Said: 2 days	
+[10/10/25 11:13PM] HOME_BANK|2783,4063,0|Said: This server is brand new.	
+[10/10/25 11:14PM] HOME_BANK|2783,4063,0|Said: Hm?	
+[10/10/25 11:14PM] HOME_BANK|2783,4063,0|Said: Wit twhat?	
+[10/10/25 11:14PM] HOME_BANK|2783,4063,0|Said: Oh no	
+[10/10/25 11:15PM] HOME_BANK|2783,4063,0|Said: Nope	
+[10/10/25 11:15PM] HOME_BANK|2783,4063,0|Said: Did you lose the weapon i gave?	
+[10/10/25 11:15PM] HOME_BANK|2783,4063,0|Said: Ah that's okay	
+[10/10/25 11:15PM] HOME_BANK|2783,4063,0|Said: You just need the weapon for now really.	
+[10/10/25 11:15PM] HOME_BANK|2783,4063,0|Said: The armor isn't a huge deal.	
+[10/10/25 11:15PM] HOME_BANK|2783,4063,0|Said: You'll one shot pretty much everything with just the weapon.	
+[10/10/25 11:15PM] HOME_BANK|2783,4063,0|Said: Haha	
+[10/10/25 11:16PM] HOME_BANK|2783,4063,0|Said: I feel you.	
+[10/10/25 11:16PM] HOME_BANK|2783,4063,0|Said: Brb gonna get some ice for my drink.	
+[10/10/25 11:16PM] HOME_BANK|2783,4063,0|Said: You go ahead and get started.	
+[10/10/25 11:16PM] (CC) Help. Said: You can get back to that starter zone through minigame teleports.	
+[10/10/25 11:21PM] (CC) Help. Said: Voting is still being worked on, you have to pm hank for	
+[10/10/25 11:22PM] (CC) Help. Said: Your rewards atm.	
+[10/10/25 11:22PM] (CC) Help. Said: Luckily though i already gave you vote scrolls.	
+[10/10/25 11:23PM] (CC) Help. Said: Yup just use those scrolls.	
+[10/10/25 11:24PM] Kursed received x1 Ripper body from Titanium Ripper!	
+[10/11/25 02:25AM] Kursed received x1 Ganopurp mask from Oni!	
+[10/11/25 02:42AM] (CC) Help. Said: Welcome	
+[10/11/25 02:42AM] (CC) Help. Said: Not available atm.	
+[10/11/25 02:42AM] (CC) Help. Said: Have to pm hank to get vote rewards.	
+[10/11/25 02:42AM] (CC) Help. Said: I do believe he is asleep.	
+[10/11/25 03:30AM] (CC) Help. Said: Sup dude	
+[10/11/25 03:38AM] (CC) Help. Said: Zones	
+[10/11/25 03:38AM] (CC) Help. Said: Oni	
+[10/11/25 03:41AM] (CC) Help. Said: Haha yeah i gave up on slayer pretty quickly in favor of zones	
+[10/11/25 03:43AM] (CC) Help. Said: I think that's an automatic thing for a donator rank or something.	
+[10/11/25 03:48AM] Kursed received x1 Ganopurp robe legs from Oni!	
+[10/11/25 03:50AM] (CC) Help. Said: Oo	
+[10/11/25 03:50AM] (CC) Help. Said: Oof	
+[10/11/25 03:52AM] (CC) Help. Said: 3.4k	
+[10/11/25 03:54AM] (CC) Help. Said: Yeah	
+[10/11/25 03:57AM] (CC) Help. Said: Using sanguine	
+[10/11/25 04:00AM] (CC) Help. Said: Doubt it'll make much of a digg	
+[10/11/25 04:00AM] (CC) Help. Said: Diff	
+[10/11/25 04:01AM] (CC) Help. Said: 10k	
+[10/11/25 04:02AM] (CC) Help. Said: It's the set from starter tasks	
+[10/11/25 04:04AM] (CC) Help. Said: It's okay	
+[10/11/25 04:10AM] (CC) Help. Said: Yeah i'm sure if anything let someone else use that.	
+[10/11/25 04:16AM] (CC) Help. Said: Alright, time for me to sleep.. it's 6 am. :p	
+[10/11/25 04:16AM] (CC) Help. Said: Gn actives.	
+[10/11/25 05:07AM] (CC) Help. Said: Welp	
+[10/11/25 05:07AM] (CC) Help. Said: I couldn't sleep	
+[10/11/25 05:07AM] VOTE_BOSS|3428,4115,4|Said: Yoyo	
+[10/11/25 05:18AM] (CC) Help. Said: Who	
+[10/11/25 05:21AM] (CC) Help. Said: Ok now i'm actually gonna sleep	
+[10/11/25 02:53PM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/11/25 02:54PM] (CC) Help. Said: Hmm	
+[10/11/25 02:54PM] (CC) Help. Said: Very interesting	
+[10/11/25 03:07PM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/11/25 03:52PM] (CC) Help. Said: Meh	
+[10/11/25 04:38PM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/11/25 07:40PM] (CC) Help. Said: Lmao why ya tp to me hank	
+[10/11/25 07:47PM] (CC) Help. Said: Nope	
+[10/11/25 08:10PM] (CC) Help. Said: Fully released but still in open development.	
+[10/11/25 08:10PM] (CC) Help. Said: A lot of kinks to be worked out for sure.	
+[10/12/25 03:21PM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/12/25 03:50PM] (CC) Help. Said: Seems that way.	
+[10/12/25 03:56PM] (CC) Help. Said: Sup	
+[10/13/25 06:10PM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/13/25 06:15PM] (CC) Help. Said: Sup	
+[10/13/25 06:15PM] Kursed received x1 100% DR Scroll (30 Min) from Vote Boss!	
+[10/13/25 06:15PM] (CC) Help. Said: Decent	
+[10/13/25 06:19PM] (CC) Help. Said: Gz	
+[10/13/25 06:21PM] NEPHILIM|2142,3295,0|Said: Haha man just got more dps than me	
+[10/13/25 06:21PM] NEPHILIM|2142,3295,0|Said: That easily	
+[10/13/25 06:22PM] Kursed received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/13/25 06:23PM] Kursed received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/13/25 06:30PM] GUARDIAN|2651,3805,0|Said: ?	
+[10/13/25 06:30PM] GUARDIAN|2651,3805,0|Said: Doubt i can afford it.	
+[10/13/25 06:30PM] GUARDIAN|2651,3805,0|Said: I got 7m cash	
+[10/13/25 06:30PM] GUARDIAN|2651,3805,0|Said: That's it	
+[10/13/25 06:31PM] Kursed received x1 $5 Bond from Vozzath!	
+[10/13/25 06:32PM] GUARDIAN|2651,3805,0|Said: You're doing more than me and you haven't even done starter	
+[10/13/25 06:32PM] GUARDIAN|2651,3805,0|Said: So you're alright	
+[10/13/25 06:36PM]  Receiving item from trade with History Hawk Id: 12630, amount: 1	
+[10/13/25 06:36PM]  Receiving item from trade with History Hawk Id: 18888, amount: 1	
+[10/13/25 06:36PM] GUARDIAN|2650,3799,0|Said: Ty	
+[10/13/25 06:37PM] GUARDIAN|2650,3804,0|Said: Hm?	
+[10/13/25 06:37PM] GUARDIAN|2650,3804,0|Said: Sanguine from starter	
+[10/13/25 06:38PM]  Receiving item from trade with History Hawk Id: 17011, amount: 1	
+[10/13/25 06:38PM] GUARDIAN|2650,3804,0|Said: Thanks bud	
+[10/13/25 06:45PM] (CC) Help. Said: Welcome	
+[10/13/25 06:46PM] (CC) Help. Said: Welcome	
+[10/13/25 06:53PM] Kursed received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/13/25 06:55PM] Has just redeemed a $5 Bond successfully!	
+[10/13/25 06:55PM] VOTE_BOSS|3428,4115,4|Said: Yo hawk	
+[10/13/25 06:55PM] VOTE_BOSS|3428,4115,4|Said: Want 14 $5 bonds and 7m for the oc?	
+[10/13/25 06:56PM] VOTE_BOSS|3428,4115,4|Said: 12m*	
+[10/13/25 06:57PM] Has just redeemed a $1 Scroll successfully!	
+[10/13/25 06:57PM] VOTE_BOSS|3428,4115,4|Said: Lmao	
+[10/13/25 06:57PM] VOTE_BOSS|3428,4115,4|Said: Gz	
+[10/13/25 06:58PM] (CC) Help. Said: Oop	
+[10/13/25 06:58PM] (CC) Help. Said: Come neph hawk	
+[10/13/25 06:58PM]  Gave item in trade to History Hawk. Id: 6769, amount: 14	
+[10/13/25 06:58PM]  Gave item in trade to History Hawk. Id: 12855, amount: 13018288	
+[10/13/25 06:58PM]  Receiving item from trade with History Hawk Id: 7995, amount: 1	
+[10/13/25 06:58PM] NEPHILIM|2143,3294,0|Said: Tyty	
+[10/13/25 07:02PM] NEPHILIM|2143,3294,0|Said: Yo ghijf	
+[10/13/25 07:03PM] NEPHILIM|2143,3294,0|Said: How ya doin	
+[10/13/25 07:04PM] Kursed received x1 $1 Scroll from Nephilim Warrior!	
+[10/13/25 07:04PM] NEPHILIM|2143,3294,0|Said: I'm rich!	
+[10/13/25 07:06PM] Has just redeemed a $1 Scroll successfully!	
+[10/13/25 07:09PM] (CC) Help. Said: I need an adult?	
+[10/13/25 07:11PM] NEPHILIM|2142,3297,0|Said: Gz	
+[10/13/25 07:12PM] Has just redeemed a $25 Bond successfully!	
+[10/13/25 07:15PM] (CC) Help. Said: I have this eerie feeling that dp gonna start as soon as my food gets here	
+[10/13/25 07:15PM] (CC) Help. Said: Here and i have to go down to get it xd	
+[10/13/25 07:20PM] (CC) Help. Said: Somewhere near 100m xp	
+[10/13/25 07:20PM] (CC) Help. Said: ^	
+[10/13/25 07:51PM] Picked up gr.Item Light Attachment, amount: 1	
+[10/13/25 07:52PM] Picked up gr.Item Celestial's Card Pack, amount: 3	
+[10/13/25 07:52PM] Picked up gr.Item Light Attachment, amount: 1	
+[10/13/25 07:53PM] Picked up gr.Item Blood Scythe of Vitur, amount: 1	
+[10/13/25 07:54PM] EVENTS_ROOM|1696,4258,0|Said: Ty	
+[10/13/25 07:57PM] EVENTS_ROOM|1700,4261,0|Said: Interesting	
+[10/13/25 07:57PM] Picked up gr.Item Collector Ring III, amount: 1	
+[10/13/25 07:57PM] Picked up gr.Item Donator Aura, amount: 1	
+[10/13/25 07:58PM] EVENTS_ROOM|1702,4264,0|Said: Whats stats?	
+[10/13/25 08:00PM] Picked up gr.Item Owner cape goodiebag, amount: 1	
+[10/13/25 08:01PM] EVENTS_ROOM|1690,4259,0|Said: Still more?	
+[10/13/25 08:01PM] EVENTS_ROOM|1690,4258,0|Said: Alr	
+[10/13/25 08:01PM] EVENTS_ROOM|1690,4258,0|Said: Thanks	
+[10/13/25 08:01PM] Has just redeemed a $25 Bond successfully!	
+[10/13/25 08:18PM] Has just redeemed a $5 Bond successfully!	
+[10/13/25 08:18PM] Has just redeemed a $50 Bond successfully!	
+[10/13/25 08:18PM] Has just redeemed a $1 Scroll successfully!	
+[10/13/25 08:18PM] Has just redeemed a $25 Bond successfully!	
+[10/13/25 08:18PM] Has just redeemed a $10 Bond successfully!	
+[10/13/25 08:49PM] (CC) Help. Said: Yo	
+[10/13/25 09:01PM] (CC) Help. Said: Haha i  already had blood scythe	
+[10/13/25 09:58PM] (CC) Help. Said: Wb	
+[10/13/25 10:03PM] (CC) Help. Said: No idea.	
+[10/14/25 02:07AM] Kursed received x1 Energy ring from Energy Skeleton!	
+[10/14/25 12:21PM] Has just redeemed a $5 Bond successfully!	
+[10/14/25 06:33PM] Kursed received x1 Sub-Zero body from Sub-Zero!	
+[10/14/25 07:10PM] DARKNESS_LOBBY|3235,2915,0|Said: :hellraiser	
+[10/14/25 07:26PM] (CC) Help. Said: Gz	
+[10/14/25 07:27PM] (CC) Help. Said: Mhm	
+[10/14/25 07:27PM] (CC) Help. Said: Btw	
+[10/14/25 07:27PM] (CC) Help. Said: 3 hellraisers spawned	
+[10/14/25 07:28PM] (CC) Help. Said: Don't think so.	
+[10/14/25 07:32PM] HELLRAISER|3106,5529,0|Said: Welp	
+[10/14/25 07:32PM] HELLRAISER|3106,5529,0|Said: That was a waste	
+[10/14/25 07:32PM] HELLRAISER|3106,5529,0|Said: Haha	
+[10/14/25 07:32PM] HELLRAISER|3106,5529,0|Said: Back to zones	
+[10/14/25 07:34PM] (CC) Help. Said: Hm?	
+[10/14/25 07:35PM] (CC) Help. Said: *rubs chinbeard*	
+[10/14/25 07:36PM] (CC) Help. Said: Gn	
+[10/14/25 07:37PM] HOME_BANK|2784,4064,0|Said: L0l	
+[10/14/25 07:37PM] HOME_BANK|2784,4064,0|Said: Nice try	
+[10/14/25 07:41PM] INSTANCE2|2785,4762,27|Said: Hm?	
+[10/14/25 07:42PM] INSTANCE2|2785,4762,27|Said: Nice	
+[10/14/25 07:42PM] INSTANCE2|2785,4762,27|Said: Ye it's decent	
+[10/14/25 07:43PM] INSTANCE2|2785,4762,27|Said: Looks like something from warhammer 4k	
+[10/14/25 07:45PM] Kursed received x1 Royal hell amulet from Sub-Zero!	
+[10/14/25 08:28PM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/14/25 08:29PM] HOME_BANK|2784,4065,0|Said: I do blame you nub	
+[10/14/25 08:29PM] HOME_BANK|2784,4065,0|Said: Your server your fault	
+[10/14/25 08:29PM] HOME_BANK|2784,4065,0|Said: Haha	
+[10/14/25 08:29PM] HOME_BANK|2784,4065,0|Said: Fk	
+[10/14/25 08:29PM] HOME_BANK|2784,4065,0|Said: Brb	
+[10/14/25 08:30PM] HOME_BANK|2784,4065,0|Said: Yup	
+[10/14/25 08:40PM] HOME_BANK|2784,4065,0|Said: Lmao	
+[10/14/25 08:40PM] HOME_BANK|2784,4065,0|Said: Why u sad	
+[10/14/25 08:41PM] HOME_BANK|2784,4065,0|Said: It be like that	
+[10/14/25 08:57PM] Has just redeemed a $1 Scroll successfully!	
+[10/15/25 11:46AM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/15/25 12:44PM] GUARDIAN|2656,3801,0|Said: Lol	
+[10/15/25 12:44PM] GUARDIAN|2656,3801,0|Said: Hank isn't here	
+[10/15/25 02:01PM] (CC) Help. Said: Well dam	
+[10/15/25 02:03PM] Has just redeemed a $5 Bond successfully!	
+[10/15/25 02:03PM] Has just redeemed a $1 Scroll successfully!	
+[10/15/25 02:03PM] Has just redeemed a $25 Bond successfully!	
+[10/15/25 02:03PM] Has just redeemed a $25 Bond successfully!	
+[10/15/25 02:06PM] Has just redeemed a $50 Bond successfully!	
+[10/15/25 02:06PM] Has just redeemed a $10 Bond successfully!	
+[10/15/25 02:06PM] Has just redeemed a $25 Bond successfully!	
+[10/15/25 02:08PM] Has just redeemed a $50 Bond successfully!	
+[10/15/25 04:10PM] Player destroying item: -1, amount: 0	
+[10/15/25 06:07PM] DEFAULT|2783,4049,0|Said: Sup	
+[10/15/25 06:08PM] DEFAULT|2783,4049,0|Said: That gear is dope	
+[10/15/25 06:08PM] DEFAULT|2783,4049,0|Said: Sheeeesh	
+[10/15/25 06:08PM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/15/25 06:09PM] DEFAULT|2783,4049,0|Said: Oo	
+[10/15/25 06:09PM] DEFAULT|2783,4049,0|Said: Ty	
+[10/15/25 06:09PM] DEFAULT|2783,4048,0|Said: ?	
+[10/15/25 06:10PM] DEFAULT|2783,4048,0|Said: Why whats going on	
+[10/15/25 06:10PM] DEFAULT|2783,4048,0|Said: Haha	
+[10/15/25 06:10PM] DEFAULT|2783,4048,0|Said: Gotta get on it man	
+[10/15/25 06:11PM] DEFAULT|2783,4048,0|Said: Ahh	
+[10/15/25 06:11PM] DEFAULT|2783,4048,0|Said: Yeah	
+[10/15/25 06:11PM] DEFAULT|2783,4048,0|Said: Once votes are fixed more people will come and stay	
+[10/15/25 06:12PM] DEFAULT|2783,4048,0|Said: :p	
+[10/15/25 06:12PM] DEFAULT|2783,4048,0|Said: Tyty	
+[10/15/25 06:12PM] DEFAULT|2783,4048,0|Said: Ewwwww	
+[10/15/25 06:12PM] DEFAULT|2783,4048,0|Said: Haha	
+[10/15/25 06:12PM] DEFAULT|2783,4048,0|Said: That was so bad	
+[10/15/25 06:14PM] DEFAULT|2783,4048,0|Said: That armor looks kind of familiar.	
+[10/15/25 06:15PM] DEFAULT|2783,4048,0|Said: Can't say from where though idr.	
+[10/15/25 06:15PM] Has just redeemed a $1 Scroll successfully!	
+[10/15/25 06:15PM] Has just redeemed a $10 Bond successfully!	
+[10/15/25 06:15PM] Has just redeemed a $25 Bond successfully!	
+[10/15/25 06:15PM] DEFAULT|2783,4048,0|Said: Ahh	
+[10/15/25 06:17PM] Has just redeemed a $5 Bond successfully!	
+[10/15/25 06:17PM] Has just redeemed a $10 Bond successfully!	
+[10/15/25 06:17PM] Has just redeemed a $1 Scroll successfully!	
+[10/15/25 06:18PM] Has just redeemed a $10 Bond successfully!	
+[10/15/25 06:19PM] HOME_BANK|2784,4060,0|Said: Weird	
+[10/15/25 06:19PM] HOME_BANK|2784,4060,0|Said: Couldn't use the golden scratch card	
+[10/15/25 06:19PM] HOME_BANK|2784,4060,0|Said: Even those i was at home	
+[10/15/25 06:19PM] Has just redeemed a $25 Bond successfully!	
+[10/15/25 06:21PM] DEFAULT|2784,4057,0|Said: Yeah i like this one a lot.	
+[10/15/25 06:21PM] DEFAULT|2784,4057,0|Said: Just probably without the jack o lantern head.	
+[10/15/25 06:23PM] DEFAULT|2784,4057,0|Said: That's a badass scythe.	
+[10/15/25 06:26PM] DEFAULT|2784,4057,0|Said: I've never been a fan of the gun weapons but that's jus me.	
+[10/15/25 06:30PM] DEFAULT|2784,4057,0|Said: Yeah	
+[10/15/25 06:30PM] DEFAULT|2784,4057,0|Said: That looks endgame asf	
+[10/15/25 06:30PM] DEFAULT|2784,4057,0|Said: Lmaoo	
+[10/15/25 06:30PM] DEFAULT|2784,4057,0|Said: Did you just disappear	
+[10/15/25 06:31PM] DEFAULT|2784,4057,0|Said: Yeh	
+[10/15/25 06:31PM] DEFAULT|2784,4057,0|Said: That's the best one yet	
+[10/15/25 06:32PM] DEFAULT|2784,4057,0|Said: That 2nd best	
+[10/15/25 06:32PM] DEFAULT|2784,4057,0|Said: The last one	
+[10/15/25 07:22PM] Kursed received x1 Sorrow bow from Sub-Zero!	
+[10/15/25 11:44PM] (CC) Help. Said: :)	
+[10/15/25 11:45PM] (CC) Help. Said: Thank you.	
+[10/16/25 01:23AM] (CC) Help. Said: Gn	
+[10/16/25 06:07AM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/16/25 03:06PM] (CC) Help. Said: Good evening	
+[10/16/25 03:08PM] (CC) Help. Said: Nope	
+[10/16/25 03:13PM] Kursed received x5 Invention xp lamp from Almighty Zeus!	
+[10/16/25 03:13PM] (CC) Help. Said: I believe you can use normal lamps for slayer.	
+[10/16/25 03:13PM] (CC) Help. Said: Yeah, you can.	
+[10/16/25 03:14PM] (CC) Help. Said: I have 3k.	
+[10/16/25 03:14PM] SLAYERMULTI|1884,5228,0|Said: Trade me bud	
+[10/16/25 03:14PM]  Gave item in trade to Dracky. Id: 11137, amount: 1500	
+[10/16/25 03:14PM] SLAYERMULTI|1884,5228,0|Said: :)	
+[10/16/25 03:14PM] SLAYERMULTI|1884,5228,0|Said: No	
+[10/16/25 03:14PM] SLAYERMULTI|1884,5228,0|Said: Np	
+[10/16/25 03:16PM] (CC) Help. Said: I'm down.	
+[10/16/25 03:17PM] (CC) Help. Said: :o	
+[10/16/25 03:18PM] (CC) Help. Said: You should be able to sign back in.	
+[10/16/25 03:18PM] (CC) Help. Said: What are you doing to make it kick you?	
+[10/16/25 03:19PM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/16/25 03:19PM] ZOMBIE_LOBBY|2226,4115,0|Said: Hmm	
+[10/16/25 03:19PM] ZOMBIE_LOBBY|2226,4115,0|Said: Wait	
+[10/16/25 03:19PM] ZOMBIE_LOBBY|2226,4115,0|Said: Don't make a party.	
+[10/16/25 03:19PM] ZOMBIE_LOBBY|2226,4115,0|Said: No it does	
+[10/16/25 03:19PM] ZOMBIE_LOBBY|2226,4115,0|Said: I got carried through one.	
+[10/16/25 03:19PM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/16/25 03:19PM] ZOMBIE_LOBBY|2226,4115,0|Said: Wth	
+[10/16/25 03:19PM] ZOMBIE_LOBBY|2226,4115,0|Said: Perhaps it got broken.	
+[10/16/25 03:20PM] (CC) Help. Said: @hank	
+[10/16/25 03:20PM] (CC) Help. Said: It kicks us whenever we try to invite each other to a raid party.	
+[10/16/25 03:20PM] (CC) Help. Said: Ah	
+[10/16/25 03:21PM] ZOMBIE_LOBBY|2226,4115,0|Said: Send another	
+[10/16/25 03:21PM] ZOMBIE_LOBBY|2226,4115,0|Said: Yeah	
+[10/16/25 03:21PM] ZOMBIE_LOBBY|2226,4115,0|Said: We got it.	
+[10/16/25 03:21PM] ZOMBIE_LOBBY|2226,4115,0|Said: Xd	
+[10/16/25 03:21PM] ZOMBIE_LOBBY|2226,4115,0|Said: I need that aura	
+[10/16/25 03:21PM] ZOMBIE|2252,4113,20|Said: Pray melee	
+[10/16/25 03:22PM] ZOMBIE|2252,4113,20|Said: Basically	
+[10/16/25 03:22PM] ZOMBIE|2252,4113,20|Said: Pray melee until you see the ones that pray range	
+[10/16/25 03:22PM] ZOMBIE|2252,4113,20|Said: Then	
+[10/16/25 03:22PM] ZOMBIE|2252,4113,20|Said: Pray range	
+[10/16/25 03:22PM] ZOMBIE|2252,4113,20|Said: They hit pretty hard	
+[10/16/25 03:22PM] ZOMBIE|2252,4113,20|Said: Then after range pray mage	
+[10/16/25 03:24PM] ZOMBIE_LOBBY|2222,4114,0|Said: Yeah	
+[10/16/25 03:26PM] ZOMBIE|2253,4113,20|Said: Lmaoo	
+[10/16/25 03:27PM] ZOMBIE|2256,4116,20|Said: I wasn't looking	
+[10/16/25 03:27PM] (CC) Help. Said: Yo hank you should bless us with some invention lamp.	
+[10/16/25 03:28PM] ZOMBIE|2250,4113,20|Said: Worth a shot	
+[10/16/25 03:28PM] ZOMBIE|2250,4113,20|Said: Xd	
+[10/16/25 03:29PM] ZOMBIE_LOBBY|2222,4115,0|Said: Kk	
+[10/16/25 03:30PM] ZOMBIE_LOBBY|2224,4115,0|Said: Yoooo	
+[10/16/25 03:30PM] ZOMBIE_LOBBY|2224,4115,0|Said: Ty	
+[10/16/25 03:30PM] ZOMBIE_LOBBY|2224,4115,0|Said: Dracky lemme know when you back	
+[10/16/25 03:30PM] ZOMBIE_LOBBY|2224,4115,0|Said: I got a spare owner cape for ya	
+[10/16/25 03:37PM] ZOMBIE_LOBBY|2224,4115,0|Said: Brb	
+[10/16/25 03:53PM]  Gave item in trade to Dracky. Id: 7995, amount: 1	
+[10/16/25 03:53PM] ZOMBIE_LOBBY|2222,4115,0|Said: Mhm	
+[10/16/25 03:53PM] ZOMBIE_LOBBY|2222,4115,0|Said: Now	
+[10/16/25 03:53PM] ZOMBIE_LOBBY|2222,4115,0|Said: Brb	
+[10/16/25 03:53PM] ZOMBIE_LOBBY|2222,4115,0|Said: Xd	
+[10/16/25 04:11PM] ZOMBIE_LOBBY|2222,4115,0|Said: Im back	
+[10/16/25 04:11PM] ZOMBIE_LOBBY|2222,4114,0|Said: Lolol	
+[10/16/25 04:11PM] ZOMBIE_LOBBY|2222,4114,0|Said: W8	
+[10/16/25 04:11PM] ZOMBIE_LOBBY|2222,4114,0|Said: Drack	
+[10/16/25 04:11PM] ZOMBIE_LOBBY|2222,4114,0|Said: Im not in the party	
+[10/16/25 04:11PM] ZOMBIE_LOBBY|2222,4114,0|Said: Looool	
+[10/16/25 04:23PM] Picked up gr.Item Levincia tokens, amount: 280000	
+[10/16/25 04:30PM] Player destroying item: -1, amount: 0	
+[10/16/25 04:31PM] Picked up gr.Item Dragon 2h sword, amount: 1	
+[10/16/25 10:48PM] (CC) Help. Said: Anyone alive?	
+[10/17/25 02:35PM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/17/25 02:39PM] (CC) Help. Said: Wb	
+[10/17/25 03:19PM] (CC) Help. Said: I'm also hungover	
+[10/17/25 03:19PM] (CC) Help. Said: Lmao	
+[10/17/25 03:21PM] (CC) Help. Said: Just gotta fix votes so we can get higher on the toplist.	
+[10/17/25 03:24PM] (CC) Help. Said: The vote page is down atm	
+[10/17/25 05:43PM] HOME_BANK|2784,4065,0|Said: Fr	
+[10/17/25 05:46PM] HOME_BANK|2785,4064,0|Said: Working on music	
+[10/17/25 05:46PM] HOME_BANK|2785,4064,0|Said: About to go to the liquor store	
+[10/17/25 05:47PM] HOME_BANK|2785,4064,0|Said: Lmaoo	
+[10/17/25 05:47PM] HOME_BANK|2785,4064,0|Said: I feel that	
+[10/17/25 06:51PM] (CC) Help. Said: Lmao hank	
+[10/17/25 07:22PM] DEFAULT|2911,4114,0|Said: ?	
+[10/17/25 07:27PM] (CC) Help. Said: @hank	
+[10/17/25 07:30PM] DEFAULT|2911,4111,0|Said: Lol	
+[10/17/25 07:30PM] DEFAULT|2911,4111,0|Said: Huh	
+[10/17/25 07:30PM] DEFAULT|2911,4111,0|Said: Is that how many items you're gonna give me	
+[10/17/25 07:30PM] DEFAULT|2911,4111,0|Said: I'll take it	
+[10/17/25 07:30PM] DEFAULT|2911,4111,0|Said: Haha	
+[10/17/25 07:30PM] DEFAULT|2911,4111,0|Said: Wait	
+[10/17/25 07:30PM] DEFAULT|2911,4111,0|Said: That set	
+[10/17/25 07:30PM] DEFAULT|2911,4111,0|Said: Is dope	
+[10/17/25 07:30PM] DEFAULT|2911,4111,0|Said: Should call it	
+[10/17/25 07:30PM] DEFAULT|2911,4111,0|Said: Blood moon	
+[10/17/25 07:31PM] DEFAULT|2911,4111,0|Said: Understandable cause of the horns	
+[10/17/25 07:32PM] DEFAULT|2911,4111,0|Said: Lmao	
+[10/17/25 07:32PM] DEFAULT|2911,4111,0|Said: Looks like a brain	
+[10/18/25 04:12PM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/18/25 08:57PM] Login. ip: 172.0.26.231, mac: K3NRCV01293612A20250131003556.000000-360, uuid: 04-D4-C4-6D-51-BD	
+[10/18/25 08:58PM] DEFAULT|2911,4116,0|Said: Tyty	
+[10/18/25 08:58PM] DEFAULT|2911,4116,0|Said: Moderator eh?	
+[10/18/25 08:58PM] DEFAULT|2911,4116,0|Said: Ty :p	
+[10/18/25 08:58PM] DEFAULT|2911,4116,0|Said: Hm?	
+[10/18/25 08:59PM] (CC) Help. Said: Who's active?	
+[10/18/25 08:59PM] DEFAULT|2911,4116,0|Said: Got it.	
+[10/18/25 09:00PM] DEFAULT|2911,4116,0|Said: Ooo	
+[10/18/25 09:00PM] DEFAULT|2911,4116,0|Said: Sick	
+[10/18/25 09:00PM] DEFAULT|2911,4116,0|Said: We got a new dev	
+[10/18/25 09:00PM] DEFAULT|2911,4116,0|Said: Nicee	
+[10/18/25 09:02PM] (CC) Help. Said: Anyone wanna do some legend raids lmk	
+[10/18/25 09:10PM] (CC) Help. Said: Nice nice	
+[10/18/25 09:10PM] (CC) Help. Said: Whatcha doin	
+[10/18/25 09:11PM] (CC) Help. Said: Bout to do some legends raids here in a bit	
+[10/18/25 09:15PM] (CC) Help. Said: Hi dox	
+[10/18/25 09:28PM] (CC) Help. Said: I have 5 you can have.	

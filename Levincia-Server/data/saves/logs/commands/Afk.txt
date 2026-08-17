@@ -1,0 +1,3 @@
+[10/7/25 01:46PM] Afk used command ::afk | Player rights = PLAYER	
+[10/7/25 01:50PM] Afk used command ::afk | Player rights = PLAYER	
+[10/7/25 01:57PM] Afk used command ::sit | Player rights = PLAYER	

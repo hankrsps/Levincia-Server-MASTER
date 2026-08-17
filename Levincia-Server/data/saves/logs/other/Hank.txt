@@ -1,0 +1,1594 @@
+[10/4/25 08:19PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/4/25 08:23PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/4/25 08:30PM] Has just redeemed a $100 Bond successfully!	
+[10/4/25 08:30PM] Has just redeemed a $50 Bond successfully!	
+[10/4/25 08:31PM] Has just redeemed a $25 Bond successfully!	
+[10/4/25 08:37PM] Has just redeemed a $1 Scroll successfully!	
+[10/4/25 08:39PM] Has just redeemed a $5 Bond successfully!	
+[10/4/25 08:39PM] Has just redeemed a $50 Bond successfully!	
+[10/4/25 08:45PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/4/25 09:34PM] NEPHILIM|2149,3299,0|Said: .	
+[10/4/25 09:38PM] Has just redeemed a $100 Bond successfully!	
+[10/5/25 07:10AM] (CC) Help. Said: Sup spoon	
+[10/5/25 07:27AM] PROGRESSION_ZONES|3028,4123,9|Said: Hm	
+[10/5/25 07:27AM] PROGRESSION_ZONES|3028,4123,9|Said: Bp and bosses	
+[10/5/25 07:28AM] PROGRESSION_ZONES|3028,4123,9|Said: Im sure i made it to where you dont need key	
+[10/5/25 07:28AM] PROGRESSION_ZONES|3028,4123,9|Said: Ill have to check	
+[10/5/25 07:29AM] PROGRESSION_ZONES|3028,4123,9|Said: .yes	
+[10/5/25 07:29AM] (CC) Help. Said: Yes	
+[10/5/25 07:29AM] PROGRESSION_ZONES|3028,4123,9|Said: Hm	
+[10/5/25 07:29AM]  Gave item in trade to Spoon. Id: 4186, amount: 5	
+[10/5/25 07:29AM] PROGRESSION_ZONES|3029,4125,9|Said: Yw	
+[10/5/25 07:31AM] (CC) Help. Said: Going to be redoing the achivementt loots also	
+[10/5/25 07:47AM] PROGRESSION_ZONES|3029,4117,13|Said: You got it from creat	
+[10/5/25 07:48AM] PROGRESSION_ZONES|3032,4119,13|Said: Let me see	
+[10/5/25 07:48AM] PROGRESSION_ZONES|3032,4119,13|Said: Ok	
+[10/5/25 07:48AM] PROGRESSION_ZONES|3032,4119,13|Said: Keep it	
+[10/5/25 07:49AM] PROGRESSION_ZONES|3032,4119,13|Said: All good	
+[10/5/25 07:49AM] PROGRESSION_ZONES|3032,4119,13|Said: You opend a box for dily	
+[10/5/25 07:49AM] PROGRESSION_ZONES|3032,4119,13|Said: Daliy	
+[10/5/25 08:00AM] (CC) Help. Said: Maralu	
+[10/5/25 08:00AM] (CC) Help. Said: Naraku	
+[10/5/25 08:09AM]  Gave item in trade to Spoon. Id: 20488, amount: 5	
+[10/5/25 08:09AM]  Gave item in trade to Spoon. Id: 19114, amount: 5	
+[10/5/25 08:09AM]  Gave item in trade to Spoon. Id: 19116, amount: 3	
+[10/5/25 08:09AM]  Gave item in trade to Spoon. Id: 19115, amount: 3	
+[10/5/25 08:09AM] VBOSS|2980,2772,0|Said: Ok	
+[10/5/25 08:10AM]  Gave item in trade to History Hawk. Id: 20488, amount: 5	
+[10/5/25 08:10AM]  Gave item in trade to History Hawk. Id: 19114, amount: 5	
+[10/5/25 08:10AM]  Gave item in trade to History Hawk. Id: 19116, amount: 3	
+[10/5/25 08:10AM]  Gave item in trade to History Hawk. Id: 19115, amount: 3	
+[10/5/25 08:19AM]  Gave item in trade to History Hawk. Id: 8412, amount: 1	
+[10/5/25 08:19AM]  Gave item in trade to Spoon. Id: 8412, amount: 1	
+[10/5/25 08:20AM] (CC) Help. Said: Np	
+[10/5/25 09:32AM] (CC) Help. Said: Sup	
+[10/5/25 01:02PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/5/25 01:24PM] Picked up gr.Item Elite staff, amount: 1	
+[10/5/25 01:25PM] Picked up gr.Item OP Box, amount: 1	
+[10/5/25 01:25PM] Picked up gr.Item Elite Casket, amount: 1	
+[10/5/25 01:42PM]  Gave item in trade to History Hawk. Id: 18888, amount: 1	
+[10/5/25 01:42PM]  Gave item in trade to History Hawk. Id: 23253, amount: 15	
+[10/5/25 06:08PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/5/25 06:40PM] Emptied item (id:23447, amount:2) -- Platinum key	
+[10/5/25 06:48PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/5/25 06:48PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/5/25 06:52PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/6/25 03:52AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/6/25 04:49AM] (CC) Help. Said: Welcome bro	
+[10/6/25 04:52AM] PROGRESSION_ZONES|3036,4120,5|Said: A lot of new mobs	
+[10/6/25 04:54AM] PROGRESSION_ZONES|3032,4122,9|Said: New bosses 	
+[10/6/25 04:54AM] PROGRESSION_ZONES|3032,4122,9|Said: With new gear	
+[10/6/25 04:55AM] PROGRESSION_ZONES|3032,4122,9|Said: Im adding a lot more	
+[10/6/25 04:56AM] PROGRESSION_ZONES|3032,4120,9|Said: What	
+[10/6/25 04:57AM]  Gave item in trade to Atz. Id: 23002, amount: 5	
+[10/6/25 04:57AM]  Receiving item from trade with Atz Id: 536, amount: 1	
+[10/6/25 04:57AM] PROGRESSION_ZONES|3032,4120,9|Said: Oh	
+[10/6/25 04:59AM] PROGRESSION_ZONES|3032,4120,9|Said: Oh	
+[10/6/25 04:59AM] PROGRESSION_ZONES|3032,4120,9|Said: Nice	
+[10/6/25 05:00AM]  Gave item in trade to Atz. Id: 15002, amount: 5	
+[10/6/25 05:00AM]  Gave item in trade to Atz. Id: 23279, amount: 1	
+[10/6/25 05:01AM] PROGRESSION_ZONES|3033,4119,13|Said: Yep	
+[10/6/25 05:01AM] PROGRESSION_ZONES|3033,4119,13|Said: So when i release beta in a day or 2 im going to host droppart	
+[10/6/25 05:01AM] PROGRESSION_ZONES|3033,4119,13|Said: Y	
+[10/6/25 05:01AM] PROGRESSION_ZONES|3033,4119,13|Said: And boss spawns	
+[10/6/25 05:02AM] PROGRESSION_ZONES|3033,4119,13|Said: Used to upgrade	
+[10/6/25 05:02AM] PROGRESSION_ZONES|3033,4119,13|Said: Coming soon	
+[10/6/25 05:02AM] PROGRESSION_ZONES|3033,4119,13|Said: I have osrs dropparty working	
+[10/6/25 05:03AM] PROGRESSION_ZONES|3033,4119,13|Said: By doing ::dropparty	
+[10/6/25 05:04AM] EVENTS_ROOM|1696,4266,0|Said: Look at chest	
+[10/6/25 05:07AM] (CC) Help. Said: Come to nightmare global	
+[10/6/25 05:10AM] (CC) Help. Said: Yo	
+[10/6/25 05:10AM] DEFAULT|2765,4064,0|Said: I need to fix the prayer tele when you click on the skill	
+[10/6/25 05:11AM] DEFAULT|2765,4064,0|Said: Just a few little things	
+[10/6/25 05:11AM] (CC) Help. Said: Hmm	
+[10/6/25 05:12AM] (CC) Help. Said: Do walkchaos	
+[10/6/25 05:12AM] (CC) Help. Said: Im setting vote and donate up today	
+[10/6/25 05:14AM] PROGRESSION_ZONES|3033,4118,1|Said: :p	
+[10/6/25 05:14AM] PROGRESSION_ZONES|3033,4118,1|Said: So this not beta	
+[10/6/25 05:15AM] PROGRESSION_ZONES|3033,4118,1|Said: And i havnt made up my mind yet	
+[10/6/25 05:16AM] PROGRESSION_ZONES|3033,4118,1|Said: Nice	
+[10/6/25 05:16AM] PROGRESSION_ZONES|3033,4118,1|Said: I will	
+[10/6/25 05:17AM] PROGRESSION_ZONES|3033,4118,1|Said: 90% mobs are new	
+[10/6/25 05:17AM] (CC) Help. Said: New raids	
+[10/6/25 05:17AM] PROGRESSION_ZONES|3033,4118,1|Said:  	
+[10/6/25 05:17AM] PROGRESSION_ZONES|3033,4118,1|Said: New gloabs	
+[10/6/25 05:17AM] PROGRESSION_ZONES|3033,4118,1|Said: New maps	
+[10/6/25 05:18AM] PROGRESSION_ZONES|3033,4118,1|Said: Adding a ton more	
+[10/6/25 05:21AM] PROGRESSION_ZONES|3036,4121,1|Said: Oh	
+[10/6/25 05:21AM] PROGRESSION_ZONES|3036,4121,1|Said: Look 	
+[10/6/25 05:21AM] PROGRESSION_ZONES|3036,4121,1|Said: Bis gear so far	
+[10/6/25 05:22AM] PROGRESSION_ZONES|3036,4121,1|Said: Nice	
+[10/6/25 05:23AM] PROGRESSION_ZONES|3038,4119,1|Said: Thinking about a halloween event	
+[10/6/25 05:23AM] PROGRESSION_ZONES|3038,4119,1|Said: You get candy corn for mob drops	
+[10/6/25 05:23AM] PROGRESSION_ZONES|3038,4119,1|Said: And trade them for gear	
+[10/6/25 05:23AM] PROGRESSION_ZONES|3038,4119,1|Said: And i have a boss for it also	
+[10/6/25 05:24AM] PROGRESSION_ZONES|3038,4119,1|Said: So on beta	
+[10/6/25 05:24AM] PROGRESSION_ZONES|3038,4119,1|Said: Ill do drop party and boss events	
+[10/6/25 05:24AM] PROGRESSION_ZONES|3038,4119,1|Said: No reset	
+[10/6/25 05:24AM] PROGRESSION_ZONES|3038,4119,1|Said: I just need to get ppl	
+[10/6/25 05:25AM] PROGRESSION_ZONES|3038,4119,1|Said: So invite if you want to	
+[10/6/25 05:25AM] PROGRESSION_ZONES|3038,4119,1|Said: Ill reward you	
+[10/6/25 05:25AM] PROGRESSION_ZONES|3038,4119,1|Said: My second project will be up in 5 months prob	
+[10/6/25 05:26AM] PROGRESSION_ZONES|3034,4121,5|Said: Auto tele system for this	
+[10/6/25 05:27AM] PROGRESSION_ZONES|3036,4120,5|Said: Ok bro	
+[10/6/25 05:28AM] ZONES1|2987,9487,0|Said: Want some instance	
+[10/6/25 05:28AM]  Gave item in trade to Atz. Id: 4278, amount: 300	
+[10/6/25 05:28AM] ZONES1|2987,9487,0|Said: Yep	
+[10/6/25 05:28AM] ZONES1|2987,9487,0|Said: Im working on the spwans 	
+[10/6/25 05:28AM] ZONES1|2987,9487,0|Said: Onnly 60 atm	
+[10/6/25 05:28AM] ZONES1|2987,9487,0|Said: Making it like 500	
+[10/6/25 05:28AM] ZONES1|2987,9487,0|Said: 60 is ehh	
+[10/6/25 05:38AM] Player destroying item: -1, amount: 0	
+[10/6/25 05:40AM] DEFAULT|2916,4111,0|Said: Sup	
+[10/6/25 05:40AM] DEFAULT|2916,4111,0|Said: Looking for altar?	
+[10/6/25 05:40AM] DEFAULT|2917,4112,0|Said: Ok	
+[10/6/25 05:41AM] DEFAULT|2917,4112,0|Said: Nice	
+[10/6/25 05:41AM] DEFAULT|2917,4112,0|Said: Gl	
+[10/6/25 05:41AM] (CC) Help. Said: Yall want to do a raid?	
+[10/6/25 05:43AM] HOME_BANK|2784,4065,0|Said: Tele home	
+[10/6/25 05:43AM] HOME_BANK|2784,4065,0|Said: Then west	
+[10/6/25 05:43AM] DEFAULT|2767,4065,0|Said: Nice 2x pet	
+[10/6/25 05:47AM] Picked up gr.Item Holy symbol, amount: 1	
+[10/6/25 05:54AM] DEFAULT|2766,4062,0|Said: Here	
+[10/6/25 05:54AM] DEFAULT|2768,4064,0|Said: Yup :p	
+[10/6/25 06:12AM] GLOBAL_BOSS|2139,5019,0|Said: This guy	
+[10/6/25 06:12AM] GLOBAL_BOSS|2139,5019,0|Said: Lol	
+[10/6/25 06:13AM] GLOBAL_BOSS|2139,5019,0|Said: Invite tracker will work for now on	
+[10/6/25 06:16AM] NARAKU|3422,9571,0|Said: Look at discord for invites now	
+[10/6/25 06:16AM] NARAKU|3422,9571,0|Said: You have 1	
+[10/6/25 06:27AM] (CC) Help. Said: Lmao	
+[10/6/25 06:33AM] Player destroying item: 2347, amount: 1	
+[10/6/25 06:33AM] Player destroying item: 2347, amount: 1	
+[10/6/25 06:33AM] Player destroying item: 2347, amount: 1	
+[10/6/25 06:33AM] Player destroying item: 2347, amount: 1	
+[10/6/25 06:33AM] Player destroying item: 2347, amount: 1	
+[10/6/25 06:33AM] Player destroying item: 2347, amount: 1	
+[10/6/25 06:33AM] Player destroying item: 2347, amount: 1	
+[10/6/25 06:33AM] Player destroying item: 2347, amount: 1	
+[10/6/25 06:33AM] Player destroying item: 2347, amount: 1	
+[10/6/25 06:33AM] Player destroying item: 2347, amount: 1	
+[10/6/25 06:33AM] Player destroying item: 2347, amount: 1	
+[10/6/25 06:33AM] Player destroying item: -1, amount: 0	
+[10/6/25 06:36AM] (CC) Help. Said: You will have to open it to find out :0	
+[10/6/25 06:36AM] (CC) Help. Said: Should be home	
+[10/6/25 06:47AM] GLOBAL_BOSS|2137,5014,0|Said: Hm	
+[10/6/25 06:47AM] GLOBAL_BOSS|2137,5014,0|Said: Idk	
+[10/6/25 06:48AM] GLOBAL_BOSS|2136,5013,0|Said: Ruby boxes	
+[10/6/25 06:49AM] GLOBAL_BOSS|2136,5013,0|Said: Noone	
+[10/6/25 06:49AM] GLOBAL_BOSS|2136,5013,0|Said: Yet	
+[10/6/25 06:49AM] GLOBAL_BOSS|2136,5013,0|Said: Adding to new bosses	
+[10/6/25 06:49AM] GLOBAL_BOSS|2138,5013,0|Said: Im making packs better also	
+[10/6/25 06:49AM] GLOBAL_BOSS|2138,5013,0|Said: Yes	
+[10/6/25 06:49AM] GLOBAL_BOSS|2138,5013,0|Said: They are bis	
+[10/6/25 06:51AM] GLOBAL_BOSS|2139,5013,0|Said: 5 packs	
+[10/6/25 06:51AM] GLOBAL_BOSS|2138,5012,0|Said: These will be in donor shop	
+[10/6/25 06:51AM] GLOBAL_BOSS|2138,5012,0|Said: I will do a rest once i release beta	
+[10/6/25 06:51AM] GLOBAL_BOSS|2138,5012,0|Said: Tonight	
+[10/6/25 06:51AM] GLOBAL_BOSS|2138,5012,0|Said: If i get 15-20 players	
+[10/6/25 06:57AM] GLOBAL_BOSS|2138,5011,0|Said: Nice	
+[10/6/25 06:58AM] Has just redeemed a $10 Bond successfully!	
+[10/6/25 06:58AM] Has just redeemed a $50 Bond successfully!	
+[10/6/25 06:58AM] Has just redeemed a $25 Bond successfully!	
+[10/6/25 06:58AM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 07:07AM] Emptied item (id:30, amount:7) -- Enchanted wax	
+[10/6/25 07:23AM] (CC) Help. Said: Yea look at sneak peek on discord	
+[10/6/25 07:23AM] (CC) Help. Said: You also get cards and bonds	
+[10/6/25 07:24AM] (CC) Help. Said: To much to do	
+[10/6/25 07:24AM] (CC) Help. Said: Waiting for new players	
+[10/6/25 07:43AM] (CC) Help. Said: Is dose	
+[10/6/25 07:43AM] (CC) Help. Said: All lvls need to be 120	
+[10/6/25 07:53AM] (CC) Help. Said: You  get prestige boxes	
+[10/6/25 07:54AM] HOME_BANK|2784,4063,0|Said: :teleto grand	
+[10/6/25 05:51PM] (CC) Help. Said: Sup spoon	
+[10/6/25 05:51PM] ZONES1|2965,9494,0|Said: How s it going	
+[10/6/25 05:52PM] ZONES1|2965,9494,0|Said: Same	
+[10/6/25 05:52PM] ZONES1|2965,9494,0|Said: Got vote up and done	
+[10/6/25 05:52PM] ZONES1|2965,9494,0|Said: Just need to add them to the server	
+[10/6/25 05:52PM] ZONES1|2965,9494,0|Said: Nie	
+[10/6/25 05:52PM] ZONES1|2965,9494,0|Said: Nice	
+[10/6/25 05:54PM] ZONES1|2986,9490,0|Said: Yw	
+[10/6/25 05:54PM] ZONES1|2986,9492,0|Said: Yep	
+[10/6/25 05:55PM] ZONES1|2986,9492,0|Said: Hm	
+[10/6/25 05:55PM] ZONES1|2986,9492,0|Said: There	
+[10/6/25 05:55PM] ZONES1|2986,9492,0|Said: That will help	
+[10/6/25 05:56PM] ZONES1|2986,9492,0|Said: Oh	
+[10/6/25 05:58PM] ZONES1|2991,9490,0|Said: Monthly mebershit 20% dr and 10%ddr	
+[10/6/25 05:58PM] ZONES1|2991,9490,0|Said: Not bad	
+[10/6/25 05:58PM] ZONES1|2991,9490,0|Said: Ship	
+[10/6/25 05:59PM] ZONES1|2991,9490,0|Said: I will be doing a reset once i release beta	
+[10/6/25 05:59PM] ZONES1|2991,9490,0|Said: Buy you will get rewards for trying out before ppl	
+[10/6/25 06:02PM] ZONES1|2991,9490,0|Said: See what wep you get	
+[10/6/25 06:02PM] HOME_BANK|2785,4063,0|Said: What wep you get?	
+[10/6/25 06:02PM] HOME_BANK|2785,4063,0|Said: Oh nice	
+[10/6/25 06:02PM] HOME_BANK|2785,4063,0|Said: I open 5 and got all sythes lol	
+[10/6/25 06:03PM] HOME_BANK|2785,4063,0|Said: Scythes	
+[10/6/25 06:03PM] HOME_BANK|2785,4063,0|Said: I did	
+[10/6/25 06:03PM] HOME_BANK|2785,4063,0|Said: :)	
+[10/6/25 06:03PM] HOME_BANK|2785,4063,0|Said: Thats fire	
+[10/6/25 06:04PM] HOME_BANK|2783,4064,0|Said: Range sword	
+[10/6/25 06:04PM] HOME_BANK|2783,4064,0|Said: No	
+[10/6/25 06:04PM] HOME_BANK|2783,4064,0|Said: Its range	
+[10/6/25 06:06PM] HOME_BANK|2783,4064,0|Said: Group ironman set	
+[10/6/25 06:07PM] ZONES2|2332,3888,0|Said: Im glad it works proper	
+[10/6/25 06:08PM] ZONES2|2332,3888,0|Said: Some tixs	
+[10/6/25 06:08PM] ZONES2|2332,3888,0|Said: Not sure it might be aoe	
+[10/6/25 06:09PM] ZONES2|2332,3888,0|Said: If not ill mak it	
+[10/6/25 06:09PM] ZONES2|2332,3888,0|Said: Lol	
+[10/6/25 06:09PM] ZONES2|2332,3888,0|Said: The sword bow	
+[10/6/25 06:09PM] ZONES2|2332,3888,0|Said: Use tokens	
+[10/6/25 06:09PM] ZONES2|2332,3888,0|Said: Its faster	
+[10/6/25 06:10PM] ZONES2|2332,3888,0|Said: For kills	
+[10/6/25 06:14PM] (CC) Help. Said: Ok bro have a goodnight	
+[10/6/25 06:14PM] (CC) Help. Said: You w	
+[10/6/25 06:14PM] (CC) Help. Said: 2	
+[10/6/25 06:20PM] (CC) Help. Said: Got to the honey	
+[10/6/25 06:27PM] HOME_BANK|2784,4064,0|Said: .	
+[10/6/25 07:35PM] HOME_BANK|2784,4064,0|Said: Sup	
+[10/6/25 07:35PM] HOME_BANK|2784,4064,0|Said: Yeah should be	
+[10/6/25 07:36PM] HOME_BANK|2784,4064,0|Said: Thats weird let me check	
+[10/6/25 07:39PM] HOME_BANK|2784,4064,0|Said: Yes	
+[10/6/25 07:39PM] HOME_BANK|2784,4064,0|Said: Im updating vote and donation atm	
+[10/6/25 07:39PM] HOME_BANK|2784,4064,0|Said: Vote it on discord for now	
+[10/6/25 07:39PM] HOME_BANK|2784,4064,0|Said: Adding to server	
+[10/6/25 07:39PM] HOME_BANK|2784,4064,0|Said: This is a pre beta 	
+[10/6/25 07:39PM] HOME_BANK|2784,4064,0|Said: But here	
+[10/6/25 07:40PM] HOME_BANK|2784,4064,0|Said: Ok i got you	
+[10/6/25 07:41PM]  Gave item in trade to Vibes. Id: 18888, amount: 1	
+[10/6/25 07:41PM]  Gave item in trade to Vibes. Id: 1067, amount: 1	
+[10/6/25 07:41PM]  Gave item in trade to Vibes. Id: 1115, amount: 1	
+[10/6/25 07:41PM]  Gave item in trade to Vibes. Id: 16995, amount: 1	
+[10/6/25 07:41PM]  Gave item in trade to Vibes. Id: 1153, amount: 1	
+[10/6/25 07:41PM] HOME_BANK|2784,4064,0|Said: 1 sec	
+[10/6/25 07:42PM]  Gave item in trade to Vibes. Id: 8412, amount: 1	
+[10/6/25 07:42PM]  Gave item in trade to Vibes. Id: 8411, amount: 1	
+[10/6/25 07:42PM]  Gave item in trade to Vibes. Id: 8410, amount: 1	
+[10/6/25 07:42PM]  Gave item in trade to Vibes. Id: 23020, amount: 5	
+[10/6/25 07:42PM]  Gave item in trade to Vibes. Id: 23002, amount: 5	
+[10/6/25 07:42PM] HOME_BANK|2784,4064,0|Said: Yw	
+[10/6/25 07:42PM] HOME_BANK|2784,4064,0|Said: Ref	
+[10/6/25 07:42PM] HOME_BANK|2784,4064,0|Said: Walkchaos	
+[10/6/25 07:48PM] PROGRESSION_ZONES|3036,4118,1|Said: Yo	
+[10/6/25 07:49PM] PROGRESSION_ZONES|3036,4118,1|Said: No starter?	
+[10/6/25 07:49PM] PROGRESSION_ZONES|3036,4118,1|Said: Weird	
+[10/6/25 07:50PM] PROGRESSION_ZONES|3038,4121,1|Said: Yeah	
+[10/6/25 07:50PM] PROGRESSION_ZONES|3038,4121,1|Said: Let me check it i dont know why its happenng nothings changed	
+[10/6/25 07:51PM] PROGRESSION_ZONES|3038,4119,1|Said: Trade	
+[10/6/25 07:51PM]  Gave item in trade to You. Id: 3737, amount: 1	
+[10/6/25 07:51PM]  Gave item in trade to You. Id: 3738, amount: 1	
+[10/6/25 07:51PM]  Gave item in trade to You. Id: 3739, amount: 1	
+[10/6/25 07:51PM]  Gave item in trade to You. Id: 23087, amount: 1	
+[10/6/25 07:58PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/6/25 07:58PM] (CC) Help. Said: Better	
+[10/6/25 07:59PM] PROGRESSION_ZONES|3035,4118,1|Said: Yes	
+[10/6/25 07:59PM] PROGRESSION_ZONES|3035,4118,1|Said: Ill give weps and boxes	
+[10/6/25 07:59PM] PROGRESSION_ZONES|3035,4118,1|Said: Sorry for that	
+[10/6/25 07:59PM] PROGRESSION_ZONES|3035,4118,1|Said: Lol	
+[10/6/25 07:59PM] PROGRESSION_ZONES|3035,4118,1|Said: 1 sec	
+[10/6/25 08:00PM] PROGRESSION_ZONES|3035,4118,1|Said: What style?	
+[10/6/25 08:00PM] PROGRESSION_ZONES|3035,4118,1|Said: Range mage meele	
+[10/6/25 08:00PM] PROGRESSION_ZONES|3035,4118,1|Said: Yes 	
+[10/6/25 08:02PM]  Gave item in trade to Vibes. Id: 19888, amount: 1	
+[10/6/25 08:02PM]  Gave item in trade to Vibes. Id: 8412, amount: 1	
+[10/6/25 08:02PM]  Gave item in trade to Vibes. Id: 23002, amount: 5	
+[10/6/25 08:02PM] PROGRESSION_ZONES|3034,4119,1|Said: Yw :)	
+[10/6/25 08:02PM] PROGRESSION_ZONES|3035,4121,5|Said: Trade	
+[10/6/25 08:02PM]  Gave item in trade to You. Id: 19888, amount: 1	
+[10/6/25 08:02PM]  Gave item in trade to You. Id: 8412, amount: 1	
+[10/6/25 08:02PM]  Gave item in trade to You. Id: 23002, amount: 5	
+[10/6/25 08:02PM] PROGRESSION_ZONES|3035,4121,5|Said: Yw	
+[10/6/25 08:04PM] PROGRESSION_ZONES|3035,4121,5|Said: You voted	
+[10/6/25 08:04PM]  Gave item in trade to You. Id: 23020, amount: 5	
+[10/6/25 08:04PM] PROGRESSION_ZONES|3035,4121,5|Said: Yw	
+[10/6/25 08:05PM] PROGRESSION_ZONES|3035,4121,5|Said: Yeah	
+[10/6/25 08:05PM] PROGRESSION_ZONES|3035,4121,5|Said: I have to link it with server	
+[10/6/25 08:06PM] PROGRESSION_ZONES|3035,4121,5|Said: So like 90% mobs here are custom	
+[10/6/25 08:06PM]  Gave item in trade to Vibes. Id: 23002, amount: 1	
+[10/6/25 08:06PM]  Receiving item from trade with Vibes Id: 18881, amount: 1	
+[10/6/25 08:06PM] PROGRESSION_ZONES|3034,4119,5|Said: Dang	
+[10/6/25 08:07PM] PROGRESSION_ZONES|3036,4118,5|Said: Nice	
+[10/6/25 08:07PM] PROGRESSION_ZONES|3036,4118,5|Said: I will be upgrading the bond store 	
+[10/6/25 08:08PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/6/25 08:10PM] DEFAULT|2789,4046,0|Said: Oh	
+[10/6/25 08:10PM] (CC) Help. Said: Spoon	
+[10/6/25 08:11PM] PROGRESSION_ZONES|3035,4121,17|Said: Nice staff	
+[10/6/25 08:11PM] PROGRESSION_ZONES|3035,4121,17|Said: Thats a good upgrade	
+[10/6/25 08:11PM] PROGRESSION_ZONES|3035,4121,17|Said: Save them	
+[10/6/25 08:11PM] PROGRESSION_ZONES|3035,4121,17|Said: Upgrade them later on	
+[10/6/25 08:14PM] PROGRESSION_ZONES|3035,4119,17|Said: 6th from bis	
+[10/6/25 08:15PM] PROGRESSION_ZONES|3034,4122,21|Said: Make sure to invite ppl	
+[10/6/25 08:16PM] PROGRESSION_ZONES|3034,4122,21|Said: Give rewards for it	
+[10/6/25 08:16PM] PROGRESSION_ZONES|3034,4122,21|Said: Just go out and test server	
+[10/6/25 08:16PM] PROGRESSION_ZONES|3034,4122,21|Said: Will be a reset tomarrow for beta	
+[10/6/25 08:16PM] PROGRESSION_ZONES|3034,4122,21|Said: No reset after beta	
+[10/6/25 08:17PM] PROGRESSION_ZONES|3034,4122,21|Said: Going to host gloabal events and droppart	
+[10/6/25 08:17PM] PROGRESSION_ZONES|3034,4122,21|Said: Be ready to burst some balloons	
+[10/6/25 08:17PM] PROGRESSION_ZONES|3034,4122,21|Said: Same	
+[10/6/25 08:17PM] PROGRESSION_ZONES|3034,4122,21|Said: :p	
+[10/6/25 08:18PM] PROGRESSION_ZONES|3034,4122,21|Said: Ill work with time zones	
+[10/6/25 08:18PM] PROGRESSION_ZONES|3034,4122,21|Said: Its 11pm for me	
+[10/6/25 08:18PM] PROGRESSION_ZONES|3034,4122,21|Said: Yes?	
+[10/6/25 08:18PM] PROGRESSION_ZONES|3034,4122,21|Said: Uea	
+[10/6/25 08:19PM] PROGRESSION_ZONES|3034,4122,21|Said: Usa	
+[10/6/25 08:19PM] PROGRESSION_ZONES|3034,4122,21|Said: Fk me	
+[10/6/25 08:24PM] (CC) Help. Said: No	
+[10/6/25 08:25PM] (CC) Help. Said: I can make one soon	
+[10/6/25 08:26PM] SLAYERMULTI|1880,5196,0|Said: You found them	
+[10/6/25 08:26PM] SLAYERMULTI|1880,5196,0|Said: All stask are in dungeons 	
+[10/6/25 08:29PM] SKILLING_ISLAND|2804,2662,0|Said: Get that hatch for afking	
+[10/6/25 08:29PM] SKILLING_ISLAND|2804,2662,0|Said: Here	
+[10/6/25 08:29PM] SKILLING_ISLAND|2804,2662,0|Said: :p	
+[10/6/25 08:30PM] (CC) Help. Said: Ok bro	
+[10/6/25 08:36PM] Emptied item (id:8327, amount:1) -- Melee body (T5)	
+[10/6/25 08:48PM] (CC) Help. Said: Small update	
+[10/6/25 08:49PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/6/25 08:51PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/6/25 08:59PM] (CC) Help. Said: Nice	
+[10/6/25 08:59PM] DEFAULT|2784,4047,0|Said: Yo	
+[10/6/25 09:00PM] DEFAULT|2784,4047,0|Said: 1 more update	
+[10/6/25 09:00PM] DEFAULT|2784,4047,0|Said: See if i fiked donate	
+[10/6/25 09:00PM] DEFAULT|2784,4047,0|Said: Yea	
+[10/6/25 09:00PM] DEFAULT|2784,4047,0|Said: Fixed	
+[10/6/25 09:00PM] DEFAULT|2784,4047,0|Said: 5sec	
+[10/6/25 09:01PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/6/25 09:01PM] DEFAULT|2784,4047,0|Said: :donate	
+[10/6/25 09:01PM] DEFAULT|2784,4047,0|Said: It worked	
+[10/6/25 09:01PM] DEFAULT|2784,4047,0|Said: Not a bad night	
+[10/6/25 09:02PM] DEFAULT|2784,4047,0|Said: Neither do i	
+[10/6/25 09:02PM] DEFAULT|2784,4047,0|Said: I just wing it trust me	
+[10/6/25 09:02PM] DEFAULT|2784,4047,0|Said: Ppl way better then me	
+[10/6/25 09:02PM] DEFAULT|2784,4047,0|Said: Ye	
+[10/6/25 09:03PM]  Gave item in trade to Vibes. Id: 4186, amount: 2	
+[10/6/25 09:03PM]  Gave item in trade to Vibes. Id: 4186, amount: 10	
+[10/6/25 09:04PM] DEFAULT|2784,4047,0|Said: Oh	
+[10/6/25 09:05PM] DEFAULT|2782,4046,0|Said: Hey	
+[10/6/25 09:05PM] DEFAULT|2782,4046,0|Said: You got $1?	
+[10/6/25 09:06PM] DEFAULT|2782,4046,0|Said: If you can donate for $5 bond its $1 in store 	
+[10/6/25 09:06PM] DEFAULT|2782,4046,0|Said: I want to see if it works	
+[10/6/25 09:06PM] DEFAULT|2782,4046,0|Said: I cant donate to my own server	
+[10/6/25 09:06PM] DEFAULT|2782,4046,0|Said: Becouse my acc is set up 2 it	
+[10/6/25 09:07PM] DEFAULT|2782,4046,0|Said: Ok nw	
+[10/6/25 09:09PM] DEFAULT|2782,4046,0|Said: Ok bro	
+[10/6/25 09:16PM] PROGRESSION_ZONES|3032,4121,1|Said: Sup	
+[10/6/25 09:16PM] PROGRESSION_ZONES|3032,4121,1|Said: You get the staff?	
+[10/6/25 09:17PM] PROGRESSION_ZONES|3032,4121,1|Said: :p	
+[10/6/25 09:17PM] PROGRESSION_ZONES|3032,4123,5|Said: Some boxes	
+[10/6/25 09:17PM] PROGRESSION_ZONES|3032,4123,5|Said: Yeah np	
+[10/6/25 09:17PM] PROGRESSION_ZONES|3032,4123,5|Said: Global event tommarow	
+[10/6/25 09:18PM] PROGRESSION_ZONES|3032,4123,5|Said: Ill post on discord	
+[10/6/25 09:18PM] PROGRESSION_ZONES|3032,4123,5|Said: Yeah not to bad 10 players today for day 1	
+[10/6/25 09:34PM] VOTE_BOSS|3427,4119,4|Said: Gl	
+[10/6/25 09:34PM] VOTE_BOSS|3427,4119,4|Said: Not to bad	
+[10/6/25 09:34PM] VOTE_BOSS|3427,4119,4|Said: Yw	
+[10/6/25 09:37PM] (CC) Help. Said: Vote didint work?	
+[10/6/25 09:37PM] (CC) Help. Said: @::vote?	
+[10/6/25 09:54PM] DEFAULT|2793,4064,0|Said: Doing some slayer	
+[10/6/25 09:54PM] DEFAULT|2793,4064,0|Said: Nice	
+[10/6/25 09:55PM] DEFAULT|2793,4064,0|Said: Small update	
+[10/6/25 09:56PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/6/25 09:56PM] DEFAULT|2793,4064,0|Said: Try vote now	
+[10/6/25 09:56PM] DEFAULT|2793,4064,0|Said: Ffs	
+[10/6/25 09:56PM] DEFAULT|2793,4064,0|Said: It works for me	
+[10/6/25 09:57PM] DEFAULT|2793,4064,0|Said: Sends you to runlocus?	
+[10/6/25 09:57PM] DEFAULT|2793,4064,0|Said: You did ::claim	
+[10/6/25 09:58PM] DEFAULT|2793,4064,0|Said: Sweet	
+[10/6/25 09:58PM] DEFAULT|2793,4064,0|Said: Ahh	
+[10/6/25 09:58PM] DEFAULT|2793,4064,0|Said: Its claim for vote	
+[10/6/25 09:58PM] DEFAULT|2793,4064,0|Said: Donated for donate	
+[10/6/25 09:59PM] DEFAULT|2793,4064,0|Said: A little diffrent then the rest	
+[10/6/25 10:11PM] Emptied item (id:12855, amount:1) -- Levincia tokens	
+[10/6/25 10:43PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/7/25 05:56AM] GLOBAL_BOSS|2137,5018,0|Said: Oh yea?	
+[10/7/25 05:59AM] DEFAULT|1822,5087,2|Said: Nice doing a quest	
+[10/7/25 06:01AM] PROGRESSION_ZONES|3031,4120,17|Said: Sup	
+[10/7/25 06:01AM] PROGRESSION_ZONES|3031,4120,17|Said: Yah	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3031,4120,17|Said: 6	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3031,4120,17|Said: Here	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3031,4120,17|Said: Ok	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3031,4120,17|Said: :p	
+[10/7/25 06:03AM] PROGRESSION_ZONES|3031,4120,17|Said: Lol	
+[10/7/25 06:04AM] HOME_BANK|2784,4065,0|Said: Zoomout with mouse	
+[10/7/25 06:06AM] (CC) Help. Said: Yw and yes	
+[10/7/25 06:16AM] (CC) Help. Said: Wb spoon	
+[10/7/25 06:17AM] (CC) Help. Said: I will be fixing the claim vote today	
+[10/7/25 06:17AM] (CC) Help. Said: Ill give out vote scrolls untill its fixed	
+[10/7/25 06:30AM] (CC) Help. Said: Sorry was working on updates	
+[10/7/25 06:31AM] (CC) Help. Said: Where you started the quest	
+[10/7/25 06:31AM] (CC) Help. Said: In the portal	
+[10/7/25 06:33AM] VOTE_BOSS|3428,4115,4|Said: Guess not	
+[10/7/25 06:33AM] VOTE_BOSS|3428,4115,4|Said: Rpob	
+[10/7/25 06:33AM] VOTE_BOSS|3428,4115,4|Said: It drops 2	
+[10/7/25 06:33AM] VOTE_BOSS|3428,4115,4|Said: Yes	
+[10/7/25 06:35AM] VOTE_BOSS|3428,4115,4|Said: Grand	
+[10/7/25 06:35AM] VOTE_BOSS|3428,4115,4|Said: Nub	
+[10/7/25 06:35AM] (CC) Help. Said: 1 more spawn	
+[10/7/25 06:35AM] VOTE_BOSS|3425,4114,4|Said: Ah	
+[10/7/25 06:36AM] VOTE_BOSS|3425,4114,4|Said: Yes	
+[10/7/25 06:36AM] VOTE_BOSS|3425,4114,4|Said: He is in the white protal by altar	
+[10/7/25 06:37AM] VOTE_BOSS|3425,4114,4|Said: By the spirit	
+[10/7/25 06:37AM] VOTE_BOSS|3425,4114,4|Said: 120	
+[10/7/25 06:37AM] VOTE_BOSS|3425,4114,4|Said: Sup	
+[10/7/25 06:38AM] VOTE_BOSS|3425,4114,4|Said: Yeah	
+[10/7/25 06:38AM] VOTE_BOSS|3425,4114,4|Said: I some things to fix	
+[10/7/25 06:39AM] (CC) Help. Said: Ye	
+[10/7/25 06:39AM] DEFAULT|2768,4064,0|Said: Ok	
+[10/7/25 06:39AM] DEFAULT|2768,4064,0|Said: Talk to father reen	
+[10/7/25 06:39AM] DEFAULT|2768,4064,0|Said: Get the necklace	
+[10/7/25 06:39AM] DEFAULT|2768,4064,0|Said: Grab the holy symbol	
+[10/7/25 06:40AM] DEFAULT|2768,4064,0|Said: Talk to ghost	
+[10/7/25 06:40AM] DEFAULT|2770,4059,0|Said: Oh it closed atm	
+[10/7/25 06:54AM] Has just redeemed a $5 Bond successfully!	
+[10/7/25 06:54AM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 06:55AM] (CC) Help. Said: Yes	
+[10/7/25 06:55AM] (CC) Help. Said: Yea	
+[10/7/25 06:59AM] (CC) Help. Said: No just the starter one	
+[10/7/25 07:43AM] SLAYERMULTI|1906,5199,0|Said: Spoon looking op	
+[10/7/25 07:44AM] (CC) Help. Said: Ahh	
+[10/7/25 07:45AM] (CC) Help. Said: Lol	
+[10/7/25 08:17AM] (CC) Help. Said: Yw :)	
+[10/7/25 08:19AM] (CC) Help. Said: No	
+[10/7/25 08:19AM] (CC) Help. Said: True	
+[10/7/25 08:20AM] DEFAULT|3168,4124,0|Said: Yes some item has the inf prayer bonus	
+[10/7/25 08:20AM] (CC) Help. Said: Yes some items has the inf bouns 	
+[10/7/25 08:41AM] (CC) Help. Said: What?	
+[10/7/25 08:42AM] (CC) Help. Said: Platinum donors geet key every hour	
+[10/7/25 08:44AM] (CC) Help. Said: Ill brb in like   30 min	
+[10/7/25 08:45AM] (CC) Help. Said: Pm on discord if somthing happens	
+[10/7/25 10:07AM] (CC) Help. Said: No for reason on when more ppl online they will die fast	
+[10/7/25 10:08AM] (CC) Help. Said: I will be making the drops better tho	
+[10/7/25 10:08AM] (CC) Help. Said: Same as bosses drops will be better in the near updates	
+[10/7/25 10:09AM] (CC) Help. Said: Yes	
+[10/7/25 10:10AM] (CC) Help. Said: Click on the red tab in the quest tab and look at item stats	
+[10/7/25 10:10AM] (CC) Help. Said: Np	
+[10/7/25 10:14AM] (CC) Help. Said: No just for mobs and i think boss points 	
+[10/7/25 10:16AM] (CC) Help. Said: Walkchaos	
+[10/7/25 10:17AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/7/25 10:17AM] PROGRESSION_ZONES|3033,4121,1|Said: Sup	
+[10/7/25 10:18AM] PROGRESSION_ZONES|3033,4121,1|Said: All good	
+[10/7/25 10:19AM] PROGRESSION_ZONES|3033,4121,1|Said: Lms	
+[10/7/25 10:20AM] PROGRESSION_ZONES|3033,4121,1|Said: Np	
+[10/7/25 10:22AM] HOME_BANK|2783,4063,0|Said: Nice	
+[10/7/25 10:22AM] HOME_BANK|2783,4063,0|Said: So only  iron or vetran	
+[10/7/25 10:22AM] HOME_BANK|2783,4063,0|Said: Sadly	
+[10/7/25 10:22AM] HOME_BANK|2783,4063,0|Said: Yw	
+[10/7/25 10:22AM]  Gave item in trade to Run. Id: 18819, amount: 1	
+[10/7/25 10:23AM] HOME_BANK|2784,4064,0|Said: For slayer	
+[10/7/25 10:23AM] HOME_BANK|2784,4064,0|Said: Teleto task	
+[10/7/25 10:23AM] HOME_BANK|2784,4064,0|Said: Ok :p	
+[10/7/25 10:26AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/7/25 10:28AM] (CC) Help. Said: Adding event manager	
+[10/7/25 10:28AM] (CC) Help. Said: Rnak	
+[10/7/25 10:28AM] (CC) Help. Said: Rank	
+[10/7/25 10:28AM] (CC) Help. Said: Yes and no	
+[10/7/25 10:29AM] (CC) Help. Said: Ill have to give you the scrolls	
+[10/7/25 10:29AM] (CC) Help. Said: Donor shop	
+[10/7/25 10:29AM] (CC) Help. Said: ::vote works	
+[10/7/25 10:29AM] (CC) Help. Said: But im working on ::claim	
+[10/7/25 10:31AM] PROGRESSION_ZONES|3034,4118,5|Said: Welcome	
+[10/7/25 10:32AM] DEFAULT|2784,4048,0|Said: Im doing ok	
+[10/7/25 10:32AM] DEFAULT|2784,4048,0|Said: Working on updates	
+[10/7/25 10:33AM] DEFAULT|2784,4048,0|Said: Yeah not to bad	
+[10/7/25 10:34AM] VOTE_BOSS|3427,4119,4|Said: I spawned it	
+[10/7/25 10:34AM] VOTE_BOSS|3427,4119,4|Said: Hey its only day 1	
+[10/7/25 10:35AM] VOTE_BOSS|3427,4119,4|Said: Spoon got spoon on boxes	
+[10/7/25 10:36AM] VOTE_BOSS|3427,4119,4|Said: Ha	
+[10/7/25 10:36AM] VOTE_BOSS|3424,4119,4|Said: So	
+[10/7/25 10:37AM] VOTE_BOSS|3424,4119,4|Said: Sounds good	
+[10/7/25 10:37AM] VOTE_BOSS|3424,4119,4|Said: Let me get you a aoe	
+[10/7/25 10:37AM] VOTE_BOSS|3424,4119,4|Said: Range mage or melee	
+[10/7/25 10:38AM] VOTE_BOSS|3424,4119,4|Said: Shop	
+[10/7/25 10:38AM] VOTE_BOSS|3424,4119,4|Said: Im adding new items to all shops	
+[10/7/25 10:39AM] VOTE_BOSS|3423,4118,4|Said: Daiminished	
+[10/7/25 10:39AM] VOTE_BOSS|3423,4118,4|Said: What im wearing 	
+[10/7/25 10:39AM] VOTE_BOSS|3423,4118,4|Said: For now	
+[10/7/25 10:40AM] VOTE_BOSS|3423,4118,4|Said: Uploading new gear soon	
+[10/7/25 10:40AM] VOTE_BOSS|3423,4118,4|Said: New bis	
+[10/7/25 10:40AM] VOTE_BOSS|3423,4118,4|Said: Kinda	
+[10/7/25 10:40AM] VOTE_BOSS|3423,4118,4|Said: Its endgame	
+[10/7/25 10:44AM] (CC) Help. Said: At chest by shops	
+[10/7/25 10:47AM] PROGRESSION_ZONES|3032,4121,1|Said: Yeah	
+[10/7/25 10:47AM] PROGRESSION_ZONES|3032,4121,1|Said: It helps	
+[10/7/25 10:47AM] PROGRESSION_ZONES|3032,4121,1|Said: Chance of owner cape	
+[10/7/25 10:48AM] DEFAULT|2788,4085,0|Said: Sup	
+[10/7/25 10:48AM] DEFAULT|2788,4085,0|Said: It need to be removed	
+[10/7/25 10:49AM] DEFAULT|2788,4085,0|Said: But i dont think ppl can buy it	
+[10/7/25 10:50AM] DEFAULT|2782,4083,0|Said: At the bank	
+[10/7/25 10:50AM] DEFAULT|2782,4083,0|Said: This way	
+[10/7/25 10:50AM] DEFAULT|2783,4049,0|Said: Here	
+[10/7/25 12:54PM] (CC) Help. Said: 6	
+[10/7/25 12:55PM] (CC) Help. Said: Upgrade pets with them and pvm tickets	
+[10/7/25 01:06PM] (CC) Help. Said: For the blood quest	
+[10/7/25 01:06PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/7/25 01:13PM] (CC) Help. Said: Its for the quest	
+[10/7/25 01:13PM] (CC) Help. Said: Blood runs deep	
+[10/7/25 01:14PM] (CC) Help. Said: Quest tab purple tab scroll down	
+[10/7/25 01:27PM] (CC) Help. Said: Who wants to 1v1 me no gear 	
+[10/7/25 01:27PM] GLOBAL_BOSS|2140,5015,0|Said: Yo	
+[10/7/25 01:28PM] GLOBAL_BOSS|2140,5015,0|Said: No	
+[10/7/25 01:29PM] GLOBAL_BOSS|2140,5015,0|Said: Use upgrade 	
+[10/7/25 01:29PM] GLOBAL_BOSS|2140,5015,0|Said: For upgrading	
+[10/7/25 01:29PM] GLOBAL_BOSS|2140,5015,0|Said: Ctrl d	
+[10/7/25 01:29PM] GLOBAL_BOSS|2140,5015,0|Said: Dose the invi	
+[10/7/25 01:30PM] GLOBAL_BOSS|2140,5015,0|Said: No spam accs	
+[10/7/25 01:32PM] Picked up gr.Item Global ticket, amount: 3	
+[10/7/25 01:32PM] Picked up gr.Item Levincia tokens, amount: 15000	
+[10/7/25 01:32PM] Picked up gr.Item PVM ticket, amount: 3000	
+[10/7/25 01:32PM] Picked up gr.Item Crystal key, amount: 4	
+[10/7/25 01:34PM] DEFAULT|2660,3981,0|Said: Lol	
+[10/7/25 01:34PM] (CC) Help. Said: What rank are you	
+[10/7/25 01:35PM] (CC) Help. Said: Donor rank nub	
+[10/7/25 01:35PM] (CC) Help. Said: Do ::emerald	
+[10/7/25 01:37PM] EMERALD_ZONE|2588,2767,0|Said: Bank made	
+[10/7/25 01:40PM] HELLRAISER|3105,5529,0|Said: Daddys here	
+[10/7/25 01:40PM] HELLRAISER|3105,5529,0|Said: Thanks	
+[10/7/25 01:41PM] Has just redeemed a $50 Bond successfully!	
+[10/7/25 01:43PM] HELLRAISER|3104,5533,0|Said: Lets dule	
+[10/7/25 01:43PM] HELLRAISER|3104,5533,0|Said: W/e	
+[10/7/25 01:44PM] HELLRAISER|3102,5538,0|Said: Reaper looks sick af	
+[10/7/25 01:44PM] (CC) Help. Said: Night	
+[10/7/25 01:49PM] (CC) Help. Said: Ban spoon	
+[10/7/25 01:51PM] (CC) Help. Said: 5k is a big jump when it comes to rings	
+[10/7/25 03:00PM]  Gave item in trade to Justin. Id: 19115, amount: 400	
+[10/7/25 03:00PM]  Gave item in trade to Justin. Id: 7956, amount: 20000	
+[10/7/25 03:00PM]  Gave item in trade to Justin. Id: 23002, amount: 7	
+[10/7/25 03:00PM] DEFAULT|2785,4053,0|Said: Here	
+[10/7/25 03:01PM] DEFAULT|2785,4053,0|Said: Let me throw this in	
+[10/7/25 03:01PM] DEFAULT|2784,4054,0|Said: For being 1srt donator	
+[10/7/25 03:01PM]  Gave item in trade to Justin. Id: 23279, amount: 1	
+[10/7/25 03:01PM]  Gave item in trade to Justin. Id: 10943, amount: 1	
+[10/7/25 03:01PM] DEFAULT|2784,4054,0|Said: Yw	
+[10/7/25 03:01PM] DEFAULT|2784,4054,0|Said: Thank you	
+[10/7/25 03:03PM] DEFAULT|2784,4054,0|Said: For scythe	
+[10/7/25 03:03PM] DEFAULT|2784,4054,0|Said: Upgrades it	
+[10/7/25 03:03PM] DEFAULT|2784,4054,0|Said: Lvl up invention	
+[10/7/25 03:03PM] (CC) Help. Said: Gz justin	
+[10/7/25 03:05PM] (CC) Help. Said: Yes	
+[10/7/25 03:05PM] (CC) Help. Said: All task its random	
+[10/7/25 03:23PM] AFK|2800,4063,0|Said: Sup	
+[10/7/25 03:24PM] DEFAULT|2796,4064,0|Said: How are you	
+[10/7/25 03:24PM] DEFAULT|2796,4064,0|Said: Nice	
+[10/7/25 03:25PM] DEFAULT|2796,4064,0|Said: Glad to hear	
+[10/7/25 03:25PM] HOME_BANK|2788,4064,0|Said: Sup	
+[10/7/25 03:26PM] HOME_BANK|2788,4064,0|Said: Just checking on peeps	
+[10/7/25 03:26PM] HOME_BANK|2788,4064,0|Said: Seeing how they are doing	
+[10/7/25 03:28PM] HOME_BANK|2784,4064,0|Said: Might not do one	
+[10/7/25 03:28PM] HOME_BANK|2784,4064,0|Said: Ill make a poll on discord	
+[10/7/25 03:29PM] HOME_BANK|2784,4064,0|Said: Soon	
+[10/7/25 03:30PM] HOME_BANK|2784,4064,0|Said: We are 17 votes on runelocus 	
+[10/7/25 03:48PM] (CC) Help. Said: Hey	
+[10/7/25 03:48PM] (CC) Help. Said: I belive it 30min to an hour	
+[10/7/25 03:48PM] (CC) Help. Said: I can make perm	
+[10/7/25 03:49PM] (CC) Help. Said: 2x	
+[10/7/25 04:11PM] (CC) Help. Said: Yeah that makes me happy	
+[10/7/25 04:13PM] (CC) Help. Said: Who ready for vboss?	
+[10/7/25 04:14PM] VOTE_BOSS|3429,4118,4|Said: Thanks again bro	
+[10/7/25 04:14PM] VOTE_BOSS|3429,4122,4|Said: Try ::donated	
+[10/7/25 04:14PM] VOTE_BOSS|3429,4122,4|Said: Hm	
+[10/7/25 04:14PM] VOTE_BOSS|3429,4122,4|Said: Ill get it working	
+[10/7/25 04:15PM] VOTE_BOSS|3429,4122,4|Said: There	
+[10/7/25 04:15PM] VOTE_BOSS|3429,4122,4|Said: Better bow	
+[10/7/25 04:15PM] Hank received x1 100% DR Scroll (30 Min) from Vote Boss!	
+[10/7/25 04:16PM] VOTE_BOSS|3429,4120,4|Said: So the levincia packs 	
+[10/7/25 04:16PM] VOTE_BOSS|3429,4120,4|Said: Are bis atm	
+[10/7/25 04:17PM] VOTE_BOSS|3429,4122,4|Said: If you want to donate later on ill make a deal with you	
+[10/7/25 04:18PM] VOTE_BOSS|3429,4122,4|Said: Naraku	
+[10/7/25 04:18PM] NARAKU|3427,9565,0|Said: So slayer and raids	
+[10/7/25 04:18PM] NARAKU|3427,9565,0|Said: Are money	
+[10/7/25 04:19PM] NARAKU|3427,9565,0|Said: Get gear then hit up bosses	
+[10/7/25 04:19PM] NARAKU|3427,9565,0|Said: Im adding drops to them	
+[10/7/25 04:19PM] NARAKU|3427,9565,0|Said: Updating the store also adding weps and gear	
+[10/7/25 04:19PM] NARAKU|3426,9568,0|Said: Yeah	
+[10/7/25 04:19PM] NARAKU|3426,9568,0|Said: Its not to bad	
+[10/7/25 04:20PM] NARAKU|3426,9568,0|Said: Like 10-15 task	
+[10/7/25 04:20PM] NARAKU|3426,9568,0|Said: Its aoe also so fast	
+[10/7/25 04:21PM] NARAKU|3426,9568,0|Said: Ok bro	
+[10/7/25 04:40PM] (CC) Help. Said: Sup brother	
+[10/7/25 04:42PM] (CC) Help. Said: Nice how was it	
+[10/7/25 04:59PM] (CC) Help. Said: Lets do 3 vbossed	
+[10/7/25 05:02PM] (CC) Help. Said: Yes	
+[10/7/25 05:02PM] (CC) Help. Said: Do ::prestige	
+[10/7/25 05:03PM] VOTE_BOSS|3428,4115,4|Said: Look i like you 3	
+[10/7/25 05:05PM] VOTE_BOSS|3428,4115,4|Said: Yw	
+[10/7/25 05:09PM] VOTE_BOSS|3428,4115,4|Said: Guys	
+[10/7/25 05:09PM] VOTE_BOSS|3428,4115,4|Said: Need your advice	
+[10/7/25 05:09PM] VOTE_BOSS|3428,4115,4|Said: For memebers scroll hm should i sell it for	
+[10/7/25 05:10PM] VOTE_BOSS|3428,4115,4|Said: You get bonus ddr and dr with card packs	
+[10/7/25 05:12PM] VOTE_BOSS|3428,4115,4|Said: I ment on the donor store	
+[10/7/25 05:12PM] VOTE_BOSS|3428,4115,4|Said: Online	
+[10/7/25 05:14PM] VOTE_BOSS|3428,4115,4|Said: Stats to 240	
+[10/7/25 05:14PM] VOTE_BOSS|3428,4115,4|Said: Inf	
+[10/7/25 05:18PM] VOTE_BOSS|3428,4115,4|Said: Thats from 600 op	
+[10/7/25 05:19PM] VOTE_BOSS|3428,4115,4|Said: Hm	
+[10/7/25 05:58PM] DEFAULT|3168,4124,0|Said: Llitem 23257 10m	
+[10/7/25 06:00PM] (CC) Help. Said: Np	
+[10/7/25 06:00PM] PROGRESSION_ZONES|3035,4119,1|Said: Yo	
+[10/7/25 06:01PM] PROGRESSION_ZONES|3034,4121,1|Said: Welcome	
+[10/7/25 06:02PM]  Gave item in trade to Evilspot. Id: 23002, amount: 5	
+[10/7/25 06:02PM]  Gave item in trade to Evilspot. Id: 23253, amount: 2	
+[10/7/25 06:02PM]  Gave item in trade to Evilspot. Id: 8412, amount: 1	
+[10/7/25 06:02PM] PROGRESSION_ZONES|3035,4120,5|Said: Go to the globa;	
+[10/7/25 06:02PM] PROGRESSION_ZONES|3035,4120,5|Said: Thanks	
+[10/7/25 06:02PM] PROGRESSION_ZONES|3035,4120,5|Said: Teles global	
+[10/7/25 06:02PM] PROGRESSION_ZONES|3035,4120,5|Said: Nephilim	
+[10/7/25 06:02PM] PROGRESSION_ZONES|3035,4120,5|Said: I dont	
+[10/7/25 06:03PM] PROGRESSION_ZONES|3035,4120,5|Said: This is bis atm	
+[10/7/25 06:03PM] PROGRESSION_ZONES|3035,4120,5|Said: Same	
+[10/7/25 06:03PM] PROGRESSION_ZONES|3035,4120,5|Said: Ye :p	
+[10/7/25 06:04PM] PROGRESSION_ZONES|3035,4120,5|Said: Sure	
+[10/7/25 06:04PM]  Gave item in trade to Evilspot. Id: 8411, amount: 1	
+[10/7/25 06:04PM]  Receiving item from trade with Evilspot Id: 8412, amount: 1	
+[10/7/25 06:04PM] PROGRESSION_ZONES|3035,4120,5|Said: Yw	
+[10/7/25 06:05PM] PROGRESSION_ZONES|3035,4120,5|Said: Its not muti here	
+[10/7/25 06:08PM] (CC) Help. Said: 1 vote away from 20	
+[10/7/25 06:09PM] (CC) Help. Said: We are at 20 now i just voted lol	
+[10/7/25 06:09PM] (CC) Help. Said: Im slacking guys	
+[10/7/25 06:09PM] (CC) Help. Said: Histroy you know i can see all chats on vps? right	
+[10/7/25 06:12PM] NEPHILIM|2141,3296,0|Said: Yall slow	
+[10/7/25 06:14PM] NEPHILIM|2142,3303,0|Said: Sup	
+[10/7/25 06:15PM] NEPHILIM|2142,3303,0|Said: They are trash	
+[10/7/25 06:16PM] NEPHILIM|2144,3301,0|Said: Have a good night	
+[10/7/25 06:16PM] NEPHILIM|2144,3301,0|Said: :)	
+[10/7/25 06:18PM] NEPHILIM|2144,3301,0|Said: Gn	
+[10/7/25 08:04PM] (CC) Help. Said: Or donor shop	
+[10/7/25 08:05PM] SLAYERMULTI|1906,5237,0|Said: Sup vibes	
+[10/7/25 08:06PM] (CC) Help. Said: Nice	
+[10/7/25 08:07PM] DEFAULT|2721,4450,0|Said: Sir noob	
+[10/7/25 08:07PM] DEFAULT|2721,4450,0|Said: Ok	
+[10/7/25 08:07PM] DEFAULT|2720,4449,0|Said: And what	
+[10/7/25 08:07PM] DEFAULT|2720,4449,0|Said: Lmao	
+[10/7/25 08:07PM] DEFAULT|2720,4449,0|Said: :p	
+[10/7/25 08:08PM] DEFAULT|2720,4449,0|Said: Dang	
+[10/7/25 08:08PM] DEFAULT|2720,4449,0|Said: Game server that boaring?	
+[10/7/25 08:12PM] DEFAULT|2722,4448,0|Said: Like my staff	
+[10/7/25 08:12PM] DEFAULT|2722,4448,0|Said: Just for halloween	
+[10/7/25 08:13PM] DEFAULT|2722,4448,0|Said: Even my thongs	
+[10/7/25 08:13PM] DEFAULT|2722,4448,0|Said: Ohh	
+[10/7/25 08:13PM] DEFAULT|2722,4448,0|Said: I wear them backwards	
+[10/7/25 08:15PM] (CC) Help. Said: No	
+[10/7/25 08:33PM] HELLRAISER|3109,5530,0|Said: So	
+[10/7/25 08:34PM] HELLRAISER|3109,5530,0|Said: I just found somthing better then bis	
+[10/7/25 08:34PM] NARAKU|3426,9570,0|Said: So far what im wearing	
+[10/7/25 08:35PM] GLOBAL_BOSS|2139,5019,0|Said: Diyos	
+[10/7/25 08:35PM] GLOBAL_BOSS|2139,5019,0|Said: Is the name	
+[10/7/25 08:36PM] GLOBAL_BOSS|2141,5014,0|Said: So fast	
+[10/7/25 08:36PM] GLOBAL_BOSS|2141,5014,0|Said: Upgrading and dissolving	
+[10/7/25 08:37PM] GLOBAL_BOSS|2141,5014,0|Said: Thanks	
+[10/7/25 08:37PM] GLOBAL_BOSS|2141,5014,0|Said: Save all	
+[10/7/25 08:37PM] GLOBAL_BOSS|2141,5014,0|Said: Pvm boxes	
+[10/7/25 08:37PM] GLOBAL_BOSS|2141,5014,0|Said: And upgrade them	
+[10/7/25 08:37PM] GLOBAL_BOSS|2141,5014,0|Said: They add up fast	
+[10/7/25 08:38PM] GLOBAL_BOSS|2141,5014,0|Said: Thats good	
+[10/7/25 08:38PM] GLOBAL_BOSS|2141,5014,0|Said: Thank you	
+[10/7/25 08:51PM] (CC) Help. Said: Thinking about add bis set to store	
+[10/7/25 08:52PM] INSTANCE2|2786,4766,27|Said: Ikr	
+[10/7/25 08:52PM] (CC) Help. Said: Donation store	
+[10/7/25 08:52PM] (CC) Help. Said: Online	
+[10/7/25 08:53PM] INSTANCE2|2786,4766,27|Said: Sexy and i know it	
+[10/7/25 08:53PM] INSTANCE2|2786,4766,27|Said: Yes they do	
+[10/7/25 08:53PM] (CC) Help. Said: Yea	
+[10/7/25 08:53PM] (CC) Help. Said: ::donate	
+[10/7/25 08:55PM] NEPHILIM|2145,3301,0|Said: To easy	
+[10/7/25 08:55PM] NEPHILIM|2145,3301,0|Said: Needs more hp	
+[10/7/25 08:56PM] Hank received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/7/25 08:57PM] NEPHILIM|2141,3299,0|Said: Timer set	
+[10/7/25 08:58PM] NEPHILIM|2141,3299,0|Said: Big numbers	
+[10/7/25 08:58PM] NEPHILIM|2141,3299,0|Said: I like	
+[10/7/25 08:59PM] NEPHILIM|2141,3299,0|Said: The power of bis	
+[10/7/25 08:59PM] NEPHILIM|2141,3299,0|Said: Lmao	
+[10/7/25 08:59PM] Hank received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/7/25 09:00PM] NEPHILIM|2141,3299,0|Said: 1 sec	
+[10/7/25 09:00PM] NEPHILIM|2141,3299,0|Said: Crazy fast range	
+[10/7/25 09:01PM] Hank received x1 $1 Scroll from Nephilim Warrior!	
+[10/7/25 09:02PM] SLAYER_CHAMPION|3490,4700,0|Said: We havnt killed this one yet	
+[10/7/25 09:02PM] SLAYER_CHAMPION|3490,4700,0|Said: :p	
+[10/7/25 09:03PM] SLAYER_CHAMPION|3491,4696,0|Said: Are we	
+[10/7/25 09:03PM] SLAYER_CHAMPION|3491,4696,0|Said: I dont	
+[10/7/25 09:03PM] SLAYER_CHAMPION|3491,4696,0|Said: Oh	
+[10/7/25 09:03PM] SLAYER_CHAMPION|3491,4696,0|Said: I used this name since 2012	
+[10/7/25 09:03PM] SLAYER_CHAMPION|3491,4696,0|Said: Lol	
+[10/7/25 09:04PM] SLAYER_CHAMPION|3488,4700,0|Said: Cmnd are so fking long lol	
+[10/7/25 09:04PM] SLAYER_CHAMPION|3488,4700,0|Said: To spawn	
+[10/7/25 09:04PM] SLAYER_CHAMPION|3488,4700,0|Said: Dox made it	
+[10/7/25 09:04PM] SLAYER_CHAMPION|3488,4700,0|Said: Yes	
+[10/7/25 09:04PM] SLAYER_CHAMPION|3488,4700,0|Said: Spawn then its name	
+[10/7/25 09:05PM] SLAYER_CHAMPION|3488,4700,0|Said: Ill fix	
+[10/7/25 09:05PM] SLAYER_CHAMPION|3488,4700,0|Said: Slayerchampion	
+[10/7/25 09:05PM] SLAYER_CHAMPION|3488,4700,0|Said: Idk why slayerboss dont do it	
+[10/7/25 09:05PM] SLAYER_CHAMPION|3488,4700,0|Said: Its a party	
+[10/7/25 09:07PM] SLAYER_CHAMPION|3488,4700,0|Said: Yall slaow	
+[10/7/25 09:07PM] SLAYER_CHAMPION|3488,4700,0|Said: Slow	
+[10/7/25 09:07PM] SLAYER_CHAMPION|3488,4700,0|Said: Try harder	
+[10/7/25 09:07PM] SLAYER_CHAMPION|3488,4700,0|Said: Give me your best	
+[10/7/25 09:08PM] SLAYER_CHAMPION|3488,4700,0|Said: Put your nuts into it	
+[10/7/25 09:08PM] SLAYER_CHAMPION|3488,4700,0|Said: I mean back	
+[10/7/25 09:09PM] SLAYER_CHAMPION|3488,4700,0|Said: Oh	
+[10/7/25 09:09PM] SLAYER_CHAMPION|3488,4700,0|Said: Membership gets 2kc also	
+[10/7/25 09:09PM] SLAYER_CHAMPION|3488,4700,0|Said: Didnt know that	
+[10/7/25 09:09PM] (CC) Help. Said: Buy what?	
+[10/7/25 09:10PM] ZENYTE_BOSS|2593,2665,0|Said: :p	
+[10/7/25 09:12PM] ZENYTE_BOSS|2593,2665,0|Said: Hm	
+[10/7/25 09:12PM] ZENYTE_BOSS|2593,2665,0|Said: Cant spawn it	
+[10/7/25 09:12PM] ZENYTE_BOSS|2593,2665,0|Said: Balls	
+[10/7/25 09:14PM] Hank received x1 2X Damage Scroll (30 Min) from Vote Boss!	
+[10/7/25 09:15PM] VOTE_BOSS|3425,4119,4|Said: Says	
+[10/7/25 09:15PM] VOTE_BOSS|3425,4119,4|Said: Your next upgrade will be 1.2x the origianl value	
+[10/7/25 09:16PM] VOTE_BOSS|3425,4119,4|Said: Increased	
+[10/7/25 09:18PM] NEPHILIM|2144,3294,0|Said: Hm	
+[10/7/25 09:18PM] NEPHILIM|2144,3294,0|Said: Drop next kill	
+[10/7/25 09:18PM] NEPHILIM|2144,3294,0|Said: Lets see	
+[10/7/25 09:19PM] NEPHILIM|2144,3294,0|Said: We get 15 players tomarrow ill have a dp	
+[10/7/25 09:19PM] Hank received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/7/25 09:20PM] NEPHILIM|2144,3294,0|Said: Ooooo	
+[10/7/25 09:20PM] NEPHILIM|2144,3294,0|Said: Idk	
+[10/7/25 09:20PM] NEPHILIM|2144,3294,0|Said: Maybe	
+[10/7/25 09:20PM] NEPHILIM|2144,3294,0|Said: Lol	
+[10/7/25 09:20PM] NEPHILIM|2146,3298,0|Said: Ill make sure all timezones get somthing	
+[10/7/25 09:20PM] NEPHILIM|2146,3298,0|Said: Like its 12:20 am for me	
+[10/7/25 09:21PM] NEPHILIM|2146,3298,0|Said: Oh	
+[10/7/25 09:21PM] NEPHILIM|2146,3298,0|Said: Nice	
+[10/7/25 09:22PM] NEPHILIM|2146,3298,0|Said: Im not trying to be that guy but a dontion would help	
+[10/7/25 09:22PM] NEPHILIM|2146,3298,0|Said: I got like 1000 in the server already	
+[10/7/25 09:22PM] NEPHILIM|2146,3298,0|Said: Youtubers this weekend	
+[10/7/25 09:22PM] NEPHILIM|2146,3298,0|Said: I feel ya	
+[10/7/25 09:22PM] NEPHILIM|2146,3298,0|Said: After this weekend we will have a lot of players i belive	
+[10/7/25 09:23PM] NEPHILIM|2146,3298,0|Said: I paid 5 youtubers to have a live this weekend	
+[10/7/25 09:23PM] NEPHILIM|2146,3298,0|Said: $200 per	
+[10/7/25 09:23PM] NEPHILIM|2146,3298,0|Said: 1000 just in advertisement	
+[10/7/25 09:24PM] NEPHILIM|2146,3298,0|Said: Oh trust me my wife is not happy lmao	
+[10/7/25 09:24PM] NEPHILIM|2146,3298,0|Said: But we will see	
+[10/7/25 09:24PM] NEPHILIM|2146,3298,0|Said: Im not after money	
+[10/7/25 09:24PM] NEPHILIM|2146,3298,0|Said: If i get break even im happy	
+[10/7/25 09:25PM] NEPHILIM|2146,3298,0|Said: Ppl enjoy the server i made is good for me	
+[10/7/25 09:25PM] NEPHILIM|2146,3298,0|Said: Yeah	
+[10/7/25 09:25PM] NEPHILIM|2146,3298,0|Said: So about thaty	
+[10/7/25 09:26PM] NEPHILIM|2146,3298,0|Said: Suggest things you want to see in discord	
+[10/7/25 09:26PM] NEPHILIM|2146,3298,0|Said: We will make it happen	
+[10/7/25 09:26PM] NEPHILIM|2146,3298,0|Said: Its about the players not owners	
+[10/7/25 09:27PM] NEPHILIM|2146,3298,0|Said: Dont need 99 for it	
+[10/7/25 09:27PM] NEPHILIM|2146,3298,0|Said: No?	
+[10/7/25 09:34PM] (CC) Help. Said: Yep 	
+[10/7/25 09:34PM] (CC) Help. Said: Gz dox	
+[10/7/25 09:34PM] (CC) Help. Said: Msg me on discord if need anything	
+[10/8/25 06:57AM] (CC) Help. Said: How is it going	
+[10/8/25 07:28AM] (CC) Help. Said: Rain is a good thing	
+[10/8/25 07:30AM] (CC) Help. Said: At 23 votes on rulocus	
+[10/8/25 07:30AM] (CC) Help. Said: Yeah	
+[10/8/25 07:31AM] (CC) Help. Said: Ohh ice	
+[10/8/25 07:31AM] (CC) Help. Said: Nice	
+[10/8/25 07:33AM] DEFAULT|2090,3990,0|Said: Same	
+[10/8/25 07:33AM] DEFAULT|2090,3990,0|Said: Lol	
+[10/8/25 08:30AM] INSTANCE2|2786,4764,43|Said: Oh no	
+[10/8/25 08:31AM] INSTANCE2|2786,4764,43|Said: He went afk on me	
+[10/8/25 08:31AM] (CC) Help. Said: Wlecome back thecyb	
+[10/8/25 08:35AM] INSTANCE2|2786,4764,43|Said: Dnag bro	
+[10/8/25 08:35AM] INSTANCE2|2786,4764,43|Said: Eat and shit	
+[10/8/25 08:36AM] INSTANCE2|2786,4764,43|Said: Going to buff up some of this slayer gear	
+[10/8/25 08:38AM] INSTANCE2|2786,4764,43|Said: Hm	
+[10/8/25 08:40AM] INSTANCE2|2786,4764,43|Said: Oh	
+[10/8/25 08:41AM] INSTANCE2|2786,4764,43|Said: Inf prayer potion	
+[10/8/25 08:45AM] INSTANCE2|2787,4766,43|Said: Dilido	
+[10/8/25 09:03AM] (CC) Help. Said: Im still working on claiming part my end is good waiting on rulocus	
+[10/8/25 09:10AM] Hank received x1 Upgrade Token pack (100k) from Vozzath!	
+[10/8/25 09:22AM] (CC) Help. Said: Welcome	
+[10/8/25 09:32AM] VOTE_BOSS|3430,4118,4|Said: All	
+[10/8/25 09:32AM] VOTE_BOSS|3430,4118,4|Said: Bonuses are on	
+[10/8/25 09:32AM] VOTE_BOSS|3430,4118,4|Said: Slayer dr and exp	
+[10/8/25 10:25AM] EMERALD_ZONE|2590,2770,0|Said: Yo	
+[10/8/25 10:26AM] Hank just jailed Ghijf!	
+[10/8/25 10:34AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/8/25 10:35AM] (CC) Help. Said: Sup	
+[10/8/25 10:36AM] (CC) Help. Said: Its goign working on a few things	
+[10/8/25 10:43AM] (CC) Help. Said: I amost have it	
+[10/8/25 10:47AM] (CC) Help. Said: Ok	
+[10/8/25 10:51AM] (CC) Help. Said: Yw	
+[10/8/25 01:03PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/8/25 01:04PM] PROGRESSION_ZONES|3030,4122,17|Said: Sup	
+[10/8/25 01:05PM] PROGRESSION_ZONES|3030,4122,17|Said: Yw	
+[10/8/25 01:05PM] (CC) Help. Said: ::prestige	
+[10/8/25 01:06PM] (CC) Help. Said: Need all skills 120	
+[10/8/25 01:06PM] (CC) Help. Said: Nope	
+[10/8/25 01:06PM] (CC) Help. Said: Thats too easy	
+[10/8/25 01:07PM] (CC) Help. Said: Yup :p	
+[10/8/25 01:14PM] Hank just unjailed Ghijf!	
+[10/8/25 01:38PM] (CC) Help. Said: Thats on my list	
+[10/8/25 01:39PM] (CC) Help. Said: Sup	
+[10/8/25 01:39PM] (CC) Help. Said: What?	
+[10/8/25 01:40PM] DEFAULT|2474,3423,1|Said: Ye	
+[10/8/25 01:40PM] DEFAULT|2474,3423,1|Said: Agillity	
+[10/8/25 01:40PM] DEFAULT|2474,3423,1|Said: Buged	
+[10/8/25 01:47PM] (CC) Help. Said: Gn bro	
+[10/8/25 01:51PM] (CC) Help. Said: Soz for spam	
+[10/8/25 01:57PM] (CC) Help. Said: Its for upgrade	
+[10/8/25 02:14PM] (CC) Help. Said: Instance going from 60-120	
+[10/8/25 02:19PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/8/25 02:43PM] (CC) Help. Said: Upgrading card packs atm	
+[10/8/25 02:52PM] (CC) Help. Said: Small update on levincia card pack	
+[10/8/25 02:52PM] (CC) Help. Said: Added new items to it	
+[10/8/25 02:52PM] (CC) Help. Said: Going to reword the rest 	
+[10/8/25 02:53PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/8/25 05:16PM] (CC) Help. Said: Yo	
+[10/8/25 05:48PM] HOME_BANK|2784,4062,0|Said: Pete	
+[10/8/25 05:48PM] HOME_BANK|2784,4062,0|Said: Do::train	
+[10/8/25 05:50PM] PROGRESSION_ZONES|3037,4118,9|Said: Free aoe	
+[10/8/25 06:25PM] (CC) Help. Said: Small update for some card packs and paryer tele	
+[10/8/25 07:44PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/8/25 07:45PM] (CC) Help. Said: Yo	
+[10/8/25 07:47PM] (CC) Help. Said: Prayer tele it fixed tho	
+[10/8/25 07:48PM] (CC) Help. Said: Yes waiting on rulocus	
+[10/8/25 07:49PM] (CC) Help. Said: Thats for waiting	
+[10/8/25 07:49PM] (CC) Help. Said: Yw	
+[10/8/25 08:07PM] DEFAULT|2769,4064,0|Said: :yell fast update? i changes instance again reg 150 spawns	
+[10/8/25 08:07PM] (CC) Help. Said: Fast update for card packs and instance	
+[10/8/25 08:08PM] (CC) Help. Said: Reg will be 150 now and u will be 300 spawns	
+[10/8/25 08:09PM] (CC) Help. Said: This one will be fast i promis	
+[10/8/25 08:09PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/8/25 08:10PM] (CC) Help. Said: Vibes jesus	
+[10/8/25 08:10PM] (CC) Help. Said:  i see you clicking login	
+[10/8/25 08:10PM] (CC) Help. Said: Spam that mug	
+[10/8/25 08:11PM] (CC) Help. Said: Nice it worked	
+[10/8/25 08:15PM] SOD_LOBBY|3751,9368,0|Said: Ik	
+[10/8/25 08:16PM] SOD_LOBBY|3751,9368,0|Said: Lol	
+[10/8/25 08:16PM] SOD_LOBBY|3751,9368,0|Said: :p	
+[10/8/25 08:16PM] SOD_LOBBY|3751,9368,0|Said: Nice staff	
+[10/8/25 08:16PM] SOD_LOBBY|3751,9368,0|Said: Let me have it	
+[10/8/25 08:16PM] SOD_LOBBY|3751,9368,0|Said: I need it	
+[10/8/25 08:16PM]  Receiving item from trade with Vibes Id: 17011, amount: 1	
+[10/8/25 08:16PM] SOD_LOBBY|3751,9368,0|Said: 1 sec	
+[10/8/25 08:17PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/8/25 08:17PM] SOD_LOBBY|3751,9368,0|Said: Lol	
+[10/8/25 08:17PM] SOD_LOBBY|3751,9368,0|Said: Scammed	
+[10/8/25 08:17PM] SOD_LOBBY|3751,9368,0|Said: Shh	
+[10/8/25 08:17PM]  Gave item in trade to Vibes. Id: 17013, amount: 1	
+[10/8/25 08:17PM] SOD_LOBBY|3754,9368,0|Said: Np	
+[10/8/25 08:18PM] SOD_LOBBY|3754,9368,0|Said: Ikr	
+[10/8/25 08:18PM] SOD_LOBBY|3754,9368,0|Said: Gl with 120	
+[10/8/25 08:18PM] SOD_LOBBY|3754,9368,0|Said: Im only 91 on alt	
+[10/8/25 08:20PM] SOD_LOBBY|3754,9368,0|Said: Ah	
+[10/8/25 08:22PM] (CC) Help. Said: Yo	
+[10/8/25 08:33PM]  Gave item in trade to History Hawk. Id: 11137, amount: 5856	
+[10/8/25 08:33PM]  Gave item in trade to History Hawk. Id: 21218, amount: 787	
+[10/8/25 08:33PM]  Gave item in trade to History Hawk. Id: 15288, amount: 612	
+[10/8/25 08:33PM]  Gave item in trade to History Hawk. Id: 23253, amount: 60	
+[10/8/25 08:33PM]  Gave item in trade to History Hawk. Id: 20489, amount: 145	
+[10/8/25 08:33PM]  Gave item in trade to History Hawk. Id: 14999, amount: 15	
+[10/8/25 08:33PM]  Gave item in trade to History Hawk. Id: 15002, amount: 57	
+[10/8/25 08:33PM]  Gave item in trade to History Hawk. Id: 15003, amount: 56	
+[10/8/25 09:10PM] Attempted to equip notable item!	
+[10/8/25 09:11PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/8/25 09:26PM]  Gave item in trade to History Hawk. Id: 23279, amount: 10	
+[10/8/25 09:26PM]  Gave item in trade to History Hawk. Id: 10949, amount: 10	
+[10/8/25 09:26PM]  Gave item in trade to History Hawk. Id: 22110, amount: 1	
+[10/8/25 09:26PM]  Gave item in trade to History Hawk. Id: 22110, amount: 1	
+[10/8/25 09:26PM]  Gave item in trade to History Hawk. Id: 22110, amount: 1	
+[10/8/25 09:34PM] DEFAULT|2768,4064,0|Said: My noob	
+[10/8/25 09:35PM] DEFAULT|2767,4063,0|Said: :???	
+[10/8/25 09:35PM] DEFAULT|2767,4063,0|Said: Spoon	
+[10/8/25 09:35PM] DEFAULT|2767,4063,0|Said: Noob	
+[10/8/25 09:35PM] DEFAULT|2766,4063,0|Said: Take holy syembol	
+[10/8/25 09:35PM] DEFAULT|2766,4063,0|Said: Use on necklace you got from father	
+[10/8/25 09:36PM] DEFAULT|2768,4067,0|Said: Here	
+[10/8/25 09:50PM] (CC) Help. Said: Could be	
+[10/8/25 09:53PM] (CC) Help. Said:  1sec	
+[10/8/25 09:54PM] (CC) Help. Said: Was looking up spwan commands lol	
+[10/8/25 09:55PM] SLAYER_CHAMPION|3488,4697,0|Said: Nah	
+[10/8/25 09:57PM] SLAYER_CHAMPION|3488,4697,0|Said: Working on mini pet	
+[10/8/25 10:04PM] (CC) Help. Said: Spoon relog	
+[10/8/25 10:05PM] (CC) Help. Said: More player and i choose next helper	
+[10/9/25 07:20AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/9/25 07:20AM] (CC) Help. Said: Morning	
+[10/9/25 07:44AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/9/25 08:09AM] PLATINUM_ZONE|2269,4074,0|Said: Sup	
+[10/9/25 08:09AM] PLATINUM_ZONE|2269,4074,0|Said: All g	
+[10/9/25 08:09AM] PLATINUM_ZONE|2269,4074,0|Said: Server kinda dead	
+[10/9/25 08:09AM] PLATINUM_ZONE|2269,4074,0|Said: :(	
+[10/9/25 08:13AM] PLATINUM_ZONE|2271,4074,0|Said: Yeah	
+[10/9/25 08:15AM] ZOMBIE_LOBBY|2224,4114,0|Said: Ok lets try iy	
+[10/9/25 08:17AM] ZOMBIE_LOBBY|2222,4113,0|Said: So	
+[10/9/25 08:17AM] ZOMBIE_LOBBY|2222,4113,0|Said: I know why it dcs ppl	
+[10/9/25 08:17AM] ZOMBIE_LOBBY|2222,4113,0|Said: When you right click on invite	
+[10/9/25 08:18AM] ZOMBIE_LOBBY|2222,4113,0|Said: It trys to open the pos	
+[10/9/25 08:18AM] ZOMBIE_LOBBY|2222,4113,0|Said: So when you are a party click invite then type the name	
+[10/9/25 08:18AM] ZOMBIE_LOBBY|2222,4113,0|Said: No dc	
+[10/9/25 08:18AM] ZOMBIE_LOBBY|2222,4113,0|Said: :p	
+[10/9/25 08:19AM] ZOMBIE_LOBBY|2222,4113,0|Said: Been working on updates	
+[10/9/25 08:19AM] ZOMBIE_LOBBY|2222,4113,0|Said: Yea	
+[10/9/25 08:51AM] (CC) Help. Said: Sup	
+[10/9/25 08:51AM] (CC) Help. Said: Nice bro :)	
+[10/9/25 08:56AM] (CC) Help. Said: Working on hween event	
+[10/9/25 08:57AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/9/25 09:12AM] HOME_BANK|2784,4063,0|Said: Sup	
+[10/9/25 10:33AM] (CC) Help. Said: Ty	
+[10/9/25 10:33AM] (CC) Help. Said: For votes guys	
+[10/9/25 10:34AM] (CC) Help. Said: We are at 37	
+[10/9/25 01:12PM] (CC) Help. Said: Thecyb what are you doing?	
+[10/9/25 01:20PM] HOME_BANK|2782,4064,0|Said: I dont dc when i check players pos	
+[10/9/25 01:20PM] (CC) Help. Said: I dont dc when i check	
+[10/9/25 01:20PM] (CC) Help. Said: Its prob becouse your ironman	
+[10/9/25 01:21PM] HOME_BANK|2788,4065,0|Said: :p	
+[10/9/25 01:22PM] HOME_BANK|2788,4065,0|Said: Sup	
+[10/9/25 01:22PM] HOME_BANK|2788,4065,0|Said: Its ::perks	
+[10/9/25 01:23PM] HOME_BANK|2788,4065,0|Said: Hm	
+[10/9/25 01:23PM] HOME_BANK|2788,4065,0|Said: Lol	
+[10/9/25 01:23PM] HOME_BANK|2788,4065,0|Said: Not bad	
+[10/9/25 01:24PM] HOME_BANK|2788,4065,0|Said: 29xp per lamp	
+[10/9/25 01:24PM] HOME_BANK|2788,4065,0|Said: 29k	
+[10/9/25 01:24PM] HOME_BANK|2788,4065,0|Said: Hm	
+[10/9/25 01:24PM] HOME_BANK|2788,4065,0|Said: Sould be 29	
+[10/9/25 01:24PM] HOME_BANK|2788,4065,0|Said: Nvm	
+[10/9/25 01:25PM] HOME_BANK|2788,4065,0|Said: Nice	
+[10/9/25 01:40PM] (CC) Help. Said: I suggest finishing all zones	
+[10/9/25 01:40PM] (CC) Help. Said: Not there are not	
+[10/9/25 01:41PM] (CC) Help. Said: For endgame zones has to be done	
+[10/9/25 01:42PM] (CC) Help. Said: All stats are getting changed soon working on a big updater	
+[10/9/25 01:42PM] (CC) Help. Said: No increasing stats	
+[10/9/25 02:06PM] HOME_BANK|2785,4065,0|Said: Lol	
+[10/9/25 02:06PM] HOME_BANK|2785,4065,0|Said: Sup	
+[10/9/25 02:06PM] HOME_BANK|2785,4065,0|Said: How you doing	
+[10/9/25 02:07PM] HOME_BANK|2785,4065,0|Said: Nice bro	
+[10/9/25 02:07PM] HOME_BANK|2785,4065,0|Said: Relog	
+[10/9/25 02:08PM] HOME_BANK|2785,4065,0|Said: Plz	
+[10/9/25 02:10PM] (CC) Help. Said: Yeah that what makes it last tho	
+[10/9/25 02:11PM] (CC) Help. Said: Dont want to beat it 2 days	
+[10/9/25 02:11PM] (CC) Help. Said: A lot updates coing soon	
+[10/9/25 02:11PM] (CC) Help. Said: New bosses bis raids events minigames	
+[10/9/25 02:12PM] HOME_BANK|2785,4065,0|Said: Dang nice bro	
+[10/9/25 02:13PM] HOME_BANK|2785,4065,0|Said: O0	
+[10/9/25 02:28PM] SLAYER_CHAMPION|3488,4703,0|Said: Noobs	
+[10/9/25 02:28PM] SLAYER_CHAMPION|3488,4703,0|Said: Just kill it already	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3492,4702,0|Said: Sorry :(	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3492,4702,0|Said: Lol	
+[10/9/25 02:30PM] SLAYER_CHAMPION|3492,4702,0|Said: If i get drop ill ban you for not being good 	
+[10/9/25 02:34PM] SLAYER_CHAMPION|3492,4705,0|Said: Ask spoon	
+[10/9/25 02:34PM] SLAYER_CHAMPION|3492,4705,0|Said: Hes mod	
+[10/9/25 02:34PM] SLAYER_CHAMPION|3492,4705,0|Said: You should know as the support	
+[10/9/25 02:36PM] SLAYER_CHAMPION|3492,4705,0|Said: What one will yall do	
+[10/9/25 02:41PM] EVENTS_ROOM|1694,4264,0|Said: So you are aline	
+[10/9/25 02:41PM] EVENTS_ROOM|1694,4264,0|Said: Alive	
+[10/9/25 02:42PM] (CC) Help. Said: You burst balloons	
+[10/9/25 02:43PM] EVENTS_ROOM|1696,4266,0|Said: 1 sec	
+[10/9/25 02:45PM] EVENTS_ROOM|1696,4266,0|Said: Working on it	
+[10/9/25 02:52PM] EVENTS_ROOM|1696,4265,0|Said: Lol	
+[10/9/25 02:52PM] EVENTS_ROOM|1696,4265,0|Said: Give me a second	
+[10/9/25 02:52PM] EVENTS_ROOM|1696,4265,0|Said: Its coded weird so only staff can do it	
+[10/9/25 03:05PM] EVENTS_ROOM|1694,4257,0|Said: Hm	
+[10/9/25 06:58PM] EVENTS_ROOM|1695,4264,0|Said: Nothing it it	
+[10/9/25 06:58PM] EVENTS_ROOM|1695,4264,0|Said: In	
+[10/9/25 06:58PM] EVENTS_ROOM|1695,4264,0|Said: Was a test after i we worked it	
+[10/9/25 06:58PM] EVENTS_ROOM|1695,4264,0|Said: Re	
+[10/9/25 06:59PM] EVENTS_ROOM|1695,4264,0|Said: Lol	
+[10/9/25 06:59PM] EVENTS_ROOM|1695,4264,0|Said: I do have stuff for a dp 	
+[10/9/25 06:59PM] EVENTS_ROOM|1695,4264,0|Said: When more players get on	
+[10/9/25 07:00PM] EVENTS_ROOM|1695,4264,0|Said: Should be active already	
+[10/9/25 07:00PM] EVENTS_ROOM|1695,4264,0|Said: Go to quest tab	
+[10/9/25 07:01PM] EVENTS_ROOM|1695,4264,0|Said: No	
+[10/9/25 07:02PM] EVENTS_ROOM|1695,4264,0|Said: I dont think	
+[10/9/25 07:02PM] DEFAULT|2783,4045,0|Said: Nope	
+[10/9/25 07:04PM] DEFAULT|2785,4049,0|Said: A lot of updates coming soon	
+[10/10/25 05:24AM] (CC) Help. Said: Morning	
+[10/10/25 05:45AM] DEFAULT|2784,4054,0|Said: 3 giveaways on discord	
+[10/10/25 05:46AM] DEFAULT|2784,4054,0|Said: Ok bro	
+[10/10/25 05:53AM] PROGRESSION_ZONES|3034,4122,17|Said: Sup	
+[10/10/25 08:39AM] DEFAULT|2783,4046,0|Said: Sup	
+[10/10/25 08:39AM] DEFAULT|2783,4046,0|Said: How are you	
+[10/10/25 08:40AM] DEFAULT|2783,4046,0|Said: No not yet waiting on vps to make an ip for it	
+[10/10/25 08:40AM] DEFAULT|2783,4046,0|Said: I got scrolls for you 	
+[10/10/25 08:40AM]  Gave item in trade to Kursed. Id: 23020, amount: 5	
+[10/10/25 08:40AM]  Gave item in trade to Kursed. Id: 23002, amount: 5	
+[10/10/25 08:42AM] DEFAULT|2782,4047,0|Said: Ok bro	
+[10/10/25 08:45AM] (CC) Help. Said: Wb justin	
+[10/10/25 09:09AM] PROGRESSION_ZONES|3034,4119,5|Said: Jow are you	
+[10/10/25 09:10AM] PROGRESSION_ZONES|3034,4119,5|Said: Yes	
+[10/10/25 09:11AM] PROGRESSION_ZONES|3034,4119,5|Said: Yw	
+[10/10/25 09:12AM] PROGRESSION_ZONES|3036,4120,9|Said: Aoe will help after starterzone	
+[10/10/25 09:12AM] PROGRESSION_ZONES|3032,4120,9|Said: Yea	
+[10/10/25 09:15AM] PROGRESSION_ZONES|3035,4122,1|Said: Soz	
+[10/10/25 09:15AM] PROGRESSION_ZONES|3035,4122,1|Said: Wong item	
+[10/10/25 09:15AM] PROGRESSION_ZONES|3035,4122,1|Said: There w eog	
+[10/10/25 09:16AM] PROGRESSION_ZONES|3035,4122,1|Said: We go	
+[10/10/25 09:17AM] (CC) Help. Said: Yw	
+[10/10/25 09:24AM] (CC) Help. Said: Discord staff applications	
+[10/10/25 09:27AM] PROGRESSION_ZONES|3035,4122,1|Said: Welcome	
+[10/10/25 09:34AM] NEPHILIM|2143,3295,0|Said: Nah	
+[10/10/25 09:37AM] (CC) Help. Said: Hey twig	
+[10/10/25 09:39AM] Hank received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/10/25 09:44AM] VOTE_BOSS|3430,4117,4|Said: Later today	
+[10/10/25 09:44AM] VOTE_BOSS|3430,4117,4|Said: You  pop balloons like osrs	
+[10/10/25 10:01AM] (CC) Help. Said: Dont be a noob spoon	
+[10/10/25 10:04AM] (CC) Help. Said: All to ::nm	
+[10/10/25 12:46PM] (CC) Help. Said: Sup	
+[10/10/25 12:47PM] (CC) Help. Said: No	
+[10/10/25 12:59PM] (CC) Help. Said: Drop party now	
+[10/10/25 12:59PM] (CC) Help. Said: ::dropparty	
+[10/10/25 01:00PM] (CC) Help. Said: You going to miss it	
+[10/10/25 01:00PM] (CC) Help. Said: Come to droppraty it started	
+[10/10/25 01:01PM] EVENTS_ROOM|1696,4259,0|Said: Gz crotone	
+[10/10/25 01:03PM] EVENTS_ROOM|1696,4259,0|Said: Im going to tripple all donation deals for today only	
+[10/10/25 01:04PM] EVENTS_ROOM|1696,4259,0|Said: So like if you wany a bis you get 3	
+[10/10/25 01:04PM] EVENTS_ROOM|1694,4258,0|Said: Its all dropped	
+[10/10/25 01:04PM] EVENTS_ROOM|1694,4258,0|Said: You got to find it now	
+[10/10/25 01:05PM] EVENTS_ROOM|1694,4258,0|Said: Nice owner pot	
+[10/10/25 01:05PM] EVENTS_ROOM|1694,4258,0|Said: That op	
+[10/10/25 01:06PM] EVENTS_ROOM|1694,4258,0|Said: Gz	
+[10/10/25 01:06PM] EVENTS_ROOM|1694,4258,0|Said: Blood twisted bow	
+[10/10/25 01:06PM] EVENTS_ROOM|1694,4258,0|Said: Thats the only wep	
+[10/10/25 01:06PM] EVENTS_ROOM|1694,4258,0|Said: I put in	
+[10/10/25 01:07PM] EVENTS_ROOM|1694,4258,0|Said: Still have the best item	
+[10/10/25 01:07PM] EVENTS_ROOM|1694,4258,0|Said: In a balloon	
+[10/10/25 01:08PM] EVENTS_ROOM|1694,4258,0|Said: Oh nvm	
+[10/10/25 01:08PM] EVENTS_ROOM|1694,4258,0|Said: I didnt put it in	
+[10/10/25 01:08PM] EVENTS_ROOM|1694,4258,0|Said: Haha	
+[10/10/25 01:08PM] EVENTS_ROOM|1694,4258,0|Said: Monthly benefits pass	
+[10/10/25 01:09PM] EVENTS_ROOM|1694,4258,0|Said: Max donor rank extra dr ddr	
+[10/10/25 01:09PM] EVENTS_ROOM|1694,4258,0|Said: And more	
+[10/10/25 01:09PM] EVENTS_ROOM|1694,4258,0|Said: Oh	
+[10/10/25 01:09PM] EVENTS_ROOM|1694,4258,0|Said: Spoon	
+[10/10/25 01:09PM] EVENTS_ROOM|1694,4258,0|Said: Why you here	
+[10/10/25 01:09PM] EVENTS_ROOM|1694,4258,0|Said: U rich	
+[10/10/25 01:10PM] EVENTS_ROOM|1694,4258,0|Said: Spoon relog	
+[10/10/25 01:10PM] EVENTS_ROOM|1694,4258,0|Said: Now plz	
+[10/10/25 01:10PM] EVENTS_ROOM|1694,4258,0|Said: Dced	
+[10/10/25 01:10PM] Hank just kicked Spoon!	
+[10/10/25 01:10PM] EVENTS_ROOM|1694,4258,0|Said: I kicked spoon	
+[10/10/25 01:10PM] EVENTS_ROOM|1694,4258,0|Said: Lol	
+[10/10/25 01:11PM] (CC) Help. Said: Twigs	
+[10/10/25 01:11PM] EVENTS_ROOM|1694,4258,0|Said: He logs in then out	
+[10/10/25 01:11PM] EVENTS_ROOM|1694,4258,0|Said: Wverytime	
+[10/10/25 01:11PM] EVENTS_ROOM|1694,4258,0|Said: E	
+[10/10/25 01:11PM] EVENTS_ROOM|1694,4258,0|Said: Idk y	
+[10/10/25 01:14PM] EVENTS_ROOM|1694,4258,0|Said: Spoon	
+[10/10/25 01:15PM] EVENTS_ROOM|1694,4258,0|Said: Say somthing	
+[10/10/25 01:15PM] EVENTS_ROOM|1694,4258,0|Said: Yell test	
+[10/10/25 01:16PM] EVENTS_ROOM|1694,4258,0|Said: Say somthing	
+[10/10/25 01:16PM] EVENTS_ROOM|1694,4258,0|Said: Just testing ranks on you	
+[10/10/25 01:17PM] EVENTS_ROOM|1694,4258,0|Said: Lol	
+[10/10/25 01:17PM] EVENTS_ROOM|1694,4258,0|Said: Say somthing	
+[10/10/25 01:18PM] EVENTS_ROOM|1694,4258,0|Said: Idk	
+[10/10/25 01:18PM] EVENTS_ROOM|1694,4258,0|Said: I cant see that	
+[10/10/25 01:20PM] EVENTS_ROOM|1694,4258,0|Said: Sup	
+[10/10/25 01:21PM] EVENTS_ROOM|1694,4258,0|Said: Costmetics	
+[10/10/25 01:21PM] EVENTS_ROOM|1694,4258,0|Said: I can add dr	
+[10/10/25 01:21PM] EVENTS_ROOM|1694,4258,0|Said: Umm	
+[10/10/25 01:22PM] EVENTS_ROOM|1694,4258,0|Said: Ill see :p	
+[10/10/25 03:03PM] (CC) Help. Said: Everone afking?	
+[10/10/25 03:04PM] (CC) Help. Said: Ah nice	
+[10/10/25 03:05PM] (CC) Help. Said: As i said earlier im having a donation sale  pm for info	
+[10/10/25 03:05PM] (CC) Help. Said: Oh yeah owner pot is op	
+[10/10/25 03:06PM] (CC) Help. Said: There you go kursed	
+[10/10/25 03:07PM] (CC) Help. Said: Ah i see now	
+[10/10/25 03:08PM] (CC) Help. Said: Gl	
+[10/10/25 03:08PM] (CC) Help. Said: Yes	
+[10/10/25 03:09PM] HOME_BANK|2784,4063,0|Said: There is a potion better then owner pot tho	
+[10/10/25 03:09PM] (CC) Help. Said: There is a potion better then owner pot tho 	
+[10/10/25 03:10PM] (CC) Help. Said: Owner cape inf rage pot and 100m	
+[10/10/25 07:01PM] (CC) Help. Said: Im back girls	
+[10/10/25 07:02PM] HOME_BANK|2784,4067,0|Said: .im the mister sister	
+[10/10/25 07:48PM] IRON|3807,2851,0|Said: .	
+[10/11/25 04:58AM] INSTANCE2|2786,4768,44|Said: Sup	
+[10/11/25 04:59AM] INSTANCE2|2786,4768,44|Said: Ye	
+[10/11/25 04:59AM] INSTANCE2|2786,4768,44|Said: Soz was reading all msges	
+[10/11/25 05:00AM]  Gave item in trade to Delicious. Id: 10943, amount: 2	
+[10/11/25 05:00AM]  Gave item in trade to Delicious. Id: 23392, amount: 1	
+[10/11/25 05:00AM] INSTANCE2|2786,4768,44|Said: Yw	
+[10/11/25 05:00AM] INSTANCE2|2786,4768,44|Said: Claim it	
+[10/11/25 05:01AM] INSTANCE2|2786,4768,44|Said: Nice	
+[10/11/25 05:01AM] INSTANCE2|2786,4768,44|Said: Yeah	
+[10/11/25 05:01AM] INSTANCE2|2786,4768,44|Said: 1 sec	
+[10/11/25 05:12AM] (CC) Help. Said: Sup	
+[10/11/25 05:15AM] INSTANCE2|2785,4767,44|Said: Llitem 13101	
+[10/11/25 05:17AM]  Gave item in trade to Delicious. Id: 10942, amount: 1	
+[10/11/25 05:17AM]  Gave item in trade to Delicious. Id: 15003, amount: 1	
+[10/11/25 05:17AM]  Gave item in trade to Delicious. Id: 20489, amount: 1	
+[10/11/25 05:17AM]  Gave item in trade to Delicious. Id: 20488, amount: 1	
+[10/11/25 05:17AM]  Gave item in trade to Delicious. Id: 19116, amount: 5	
+[10/11/25 05:17AM]  Gave item in trade to Delicious. Id: 19115, amount: 3	
+[10/11/25 05:17AM]  Gave item in trade to Delicious. Id: 19114, amount: 2	
+[10/11/25 05:18AM] (CC) Help. Said: Try to do claimall	
+[10/11/25 05:19AM] INSTANCE2|2785,4767,44|Said: You do have perks	
+[10/11/25 05:19AM] INSTANCE2|2785,4767,44|Said: Dr	
+[10/11/25 05:19AM] INSTANCE2|2785,4767,44|Said: Ddr	
+[10/11/25 05:19AM] INSTANCE2|2785,4767,44|Said: Dh	
+[10/11/25 05:19AM] INSTANCE2|2785,4767,44|Said: Dl	
+[10/11/25 05:19AM] INSTANCE2|2785,4767,44|Said: Save key or box	
+[10/11/25 05:36AM] NEPHILIM|2142,3296,0|Said: Sup	
+[10/11/25 05:36AM] NEPHILIM|2142,3296,0|Said: It unlocks crimson 	
+[10/11/25 05:38AM] NEPHILIM|2142,3296,0|Said: Yes	
+[10/11/25 05:38AM] NEPHILIM|2142,3296,0|Said: I dont want the game to be easy	
+[10/11/25 05:38AM] NEPHILIM|2142,3296,0|Said: Its only going to get harder as i do updates	
+[10/11/25 05:39AM] NEPHILIM|2142,3296,0|Said: I will look at	
+[10/11/25 05:41AM] NEPHILIM|2142,3296,0|Said: To buy skilling tools	
+[10/11/25 05:53AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/11/25 06:08AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/11/25 06:11AM] PROGRESSION_ZONES|3032,4121,1|Said: Hi	
+[10/11/25 06:12AM] PROGRESSION_ZONES|3032,4121,1|Said: Walkchaos	
+[10/11/25 06:13AM] PROGRESSION_ZONES|3032,4121,1|Said: :)	
+[10/11/25 06:14AM] PROGRESSION_ZONES|3032,4121,1|Said: :)	
+[10/11/25 06:14AM] PROGRESSION_ZONES|3032,4121,1|Said: Gl	
+[10/11/25 06:14AM] PROGRESSION_ZONES|3032,4121,1|Said: I hope you enjoy the server'	
+[10/11/25 06:15AM] PROGRESSION_ZONES|3032,4121,1|Said: Oh nice	
+[10/11/25 06:15AM] PROGRESSION_ZONES|3032,4121,1|Said: Gz	
+[10/11/25 06:15AM] PROGRESSION_ZONES|3032,4121,1|Said: Very nice	
+[10/11/25 06:15AM] PROGRESSION_ZONES|3032,4121,1|Said: Packs are op lol	
+[10/11/25 06:16AM] PROGRESSION_ZONES|3032,4121,1|Said: Shops	
+[10/11/25 06:16AM] PROGRESSION_ZONES|3032,4121,1|Said: I suggest doing zones for endgame	
+[10/11/25 06:25AM] (CC) Help. Said: Ok lets see	
+[10/11/25 06:26AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/11/25 06:27AM] (CC) Help. Said: Starter zone it multi	
+[10/11/25 08:12AM] INSTANCE2|2786,4766,31|Said: Yes	
+[10/11/25 08:14AM] INSTANCE2|2786,4766,31|Said: Donate with paypal or cashapp?	
+[10/11/25 08:14AM] INSTANCE2|2786,4766,31|Said: I dont	
+[10/11/25 08:15AM] INSTANCE2|2786,4766,31|Said: Give me one sec	
+[10/11/25 08:18AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/11/25 08:20AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/11/25 08:30AM]  Gave item in trade to Charlene. Id: 23278, amount: 1	
+[10/11/25 08:30AM]  Gave item in trade to Charlene. Id: 23277, amount: 1	
+[10/11/25 08:30AM]  Gave item in trade to Charlene. Id: 23240, amount: 2	
+[10/11/25 08:30AM]  Gave item in trade to Charlene. Id: 22114, amount: 1	
+[10/11/25 08:31AM] NARAKU|3425,9565,0|Said: Thank you for donatong	
+[10/11/25 08:34AM] NARAKU|3428,9565,0|Said: Here bro	
+[10/11/25 08:35AM]  Gave item in trade to Blayko. Id: 8412, amount: 1	
+[10/11/25 08:35AM] NARAKU|3427,9565,0|Said: Yw :)	
+[10/11/25 08:35AM] NARAKU|3427,9565,0|Said: All kinds really	
+[10/11/25 08:35AM] NARAKU|3427,9565,0|Said: Depend on amount donated	
+[10/11/25 08:35AM] (CC) Help. Said: My dev is working on it	
+[10/11/25 08:36AM] NARAKU|3427,9565,0|Said: So like if you have a price ill make a good deal with	
+[10/11/25 08:41AM] NARAKU|3428,9564,0|Said: Just lmk 	
+[10/11/25 08:41AM] NARAKU|3428,9564,0|Said: Ill hook you up	
+[10/11/25 08:42AM] (CC) Help. Said: Its make bis	
+[10/11/25 08:43AM] HOME_BANK|2784,4065,0|Said: 120 invention	
+[10/11/25 08:43AM] HOME_BANK|2784,4065,0|Said: Endgame upgrade	
+[10/11/25 08:44AM] HOME_BANK|2784,4065,0|Said: New bis coming out soon	
+[10/11/25 08:44AM] HOME_BANK|2784,4065,0|Said: And mini games and more bosses	
+[10/11/25 08:46AM] DEFAULT|3167,4124,0|Said: Yo	
+[10/11/25 08:46AM] DEFAULT|3167,4124,0|Said: I like how your active on discord	
+[10/11/25 08:47AM] DEFAULT|3167,4124,0|Said: I see you answer ppl	
+[10/11/25 08:47AM] DEFAULT|3167,4124,0|Said: Also	
+[10/11/25 08:48AM] DEFAULT|3167,4124,0|Said: Relog	
+[10/11/25 08:49AM] DEFAULT|3167,4124,0|Said: All g bro	
+[10/11/25 08:49AM] DEFAULT|3167,4124,0|Said: Im not the rest of owners	
+[10/11/25 08:49AM] DEFAULT|3167,4124,0|Said: Family first	
+[10/11/25 08:50AM] DEFAULT|3167,4124,0|Said: I walk away all the for my kid	
+[10/11/25 08:50AM] DEFAULT|3167,4124,0|Said: Yes	
+[10/11/25 08:50AM] DEFAULT|3167,4124,0|Said: The server not going anywhere 	
+[10/11/25 08:50AM] DEFAULT|3167,4124,0|Said: So we got time	
+[10/11/25 08:50AM] DEFAULT|3167,4124,0|Said: A lot of updates comming tho	
+[10/11/25 08:51AM] DEFAULT|3167,4124,0|Said: Yes	
+[10/11/25 08:51AM] DEFAULT|3167,4124,0|Said: So this is ::staffzone	
+[10/11/25 08:51AM] DEFAULT|3167,4124,0|Said: Where i hide lol	
+[10/11/25 08:51AM] DEFAULT|3167,4124,0|Said: Yes	
+[10/11/25 08:52AM] DEFAULT|3167,4124,0|Said: You can afk on main	
+[10/11/25 08:52AM] DEFAULT|3167,4124,0|Said: Should be kick teleto	
+[10/11/25 08:52AM] DEFAULT|3167,4124,0|Said: Maybe mute	
+[10/11/25 08:52AM] DEFAULT|3167,4124,0|Said: Try mute on me	
+[10/11/25 08:53AM] DEFAULT|3167,4124,0|Said: Ok	
+[10/11/25 08:53AM] DEFAULT|3167,4124,0|Said: Yes	
+[10/11/25 08:53AM] DEFAULT|3167,4124,0|Said: And i think jail	
+[10/11/25 08:53AM] DEFAULT|3167,4124,0|Said: Yup	
+[10/11/25 08:54AM] DEFAULT|3167,4124,0|Said: Once we get more player you will move up to mod	
+[10/11/25 08:54AM] DEFAULT|3167,4124,0|Said: And spoon will be cm	
+[10/11/25 08:54AM] DEFAULT|3167,4124,0|Said: Still need admin	
+[10/11/25 08:54AM] DEFAULT|3167,4124,0|Said: And trying to find a co-owner maybe	
+[10/11/25 08:55AM] DEFAULT|3167,4124,0|Said: Idk yet	
+[10/11/25 08:55AM] DEFAULT|3167,4124,0|Said: Hard to trust ppl these days	
+[10/11/25 08:55AM] DEFAULT|3167,4124,0|Said: Ok	
+[10/11/25 09:10AM] (CC) Help. Said: Not for you hawk	
+[10/11/25 09:11AM] NEPHILIM|2141,3298,0|Said: Yes welcome	
+[10/11/25 09:12AM] NEPHILIM|2142,3294,0|Said: Blaze trade me	
+[10/11/25 09:13AM]  Gave item in trade to Blazed. Id: 8412, amount: 1	
+[10/11/25 09:13AM]  Gave item in trade to Blazed. Id: 23002, amount: 5	
+[10/11/25 09:13AM]  Gave item in trade to Blazed. Id: 23277, amount: 1	
+[10/11/25 09:13AM] NEPHILIM|2142,3294,0|Said: Gl	
+[10/11/25 09:14AM] Picked up gr.Item Levincia tokens, amount: 20254	
+[10/11/25 09:14AM] NEPHILIM|2140,3295,0|Said: Ill be nice	
+[10/11/25 09:15AM] NEPHILIM|2140,3295,0|Said: Yw	
+[10/11/25 09:20AM] (CC) Help. Said: For upgrading charlene	
+[10/11/25 09:22AM] SLAYER_CHAMPION|3488,4697,0|Said: 1 more slayerboss?	
+[10/11/25 09:22AM] (CC) Help. Said: 1 more slayer boss?	
+[10/11/25 09:24AM]  Gave item in trade to Twigs. Id: 8412, amount: 1	
+[10/11/25 09:24AM]  Gave item in trade to Twigs. Id: 23002, amount: 5	
+[10/11/25 09:24AM]  Gave item in trade to Twigs. Id: 23277, amount: 1	
+[10/11/25 09:24AM]  Gave item in trade to Twigs. Id: 23278, amount: 1	
+[10/11/25 09:24AM] PROGRESSION_ZONES|3036,4119,17|Said: Starter pack	
+[10/11/25 09:24AM] PROGRESSION_ZONES|3036,4119,17|Said: :p	
+[10/11/25 09:24AM] PROGRESSION_ZONES|3036,4119,17|Said: I mdae this multi today	
+[10/11/25 09:24AM] PROGRESSION_ZONES|3036,4119,17|Said: Made	
+[10/11/25 09:25AM] PROGRESSION_ZONES|3036,4119,17|Said: Thanks man	
+[10/11/25 09:25AM] PROGRESSION_ZONES|3036,4119,17|Said: Working onn updates for tonigh	
+[10/11/25 09:25AM] PROGRESSION_ZONES|3036,4119,17|Said: New bosses and gear	
+[10/11/25 09:26AM] PROGRESSION_ZONES|3036,4119,17|Said: Hell yea	
+[10/11/25 09:26AM] PROGRESSION_ZONES|3036,4119,17|Said: Im having custom donor deals also	
+[10/11/25 09:27AM] PROGRESSION_ZONES|3036,4119,17|Said: Any price really	
+[10/11/25 09:27AM] PROGRESSION_ZONES|3036,4119,17|Said: Nope	
+[10/11/25 09:27AM] PROGRESSION_ZONES|3036,4119,17|Said: Pm me	
+[10/11/25 09:28AM] PROGRESSION_ZONES|3036,4119,17|Said: Your price and ill make a package	
+[10/11/25 09:28AM] PROGRESSION_ZONES|3036,4119,17|Said: You can use paypal cashapp or revolut	
+[10/11/25 09:28AM] PROGRESSION_ZONES|3036,4119,17|Said: Ok	
+[10/11/25 09:34AM] (CC) Help. Said: We are at 55 votes	
+[10/11/25 03:24PM] PROGRESSION_ZONES|3035,4122,17|Said: Sup	
+[10/11/25 03:24PM] PROGRESSION_ZONES|3035,4122,17|Said: How are you	
+[10/11/25 03:25PM] PROGRESSION_ZONES|3035,4122,17|Said: That good 	
+[10/11/25 03:25PM] PROGRESSION_ZONES|3035,4122,17|Said: And im good	
+[10/11/25 03:26PM] PROGRESSION_ZONES|3035,4121,21|Said: Little aoe for you	
+[10/11/25 03:59PM] (CC) Help. Said: Why meh?	
+[10/11/25 07:08PM]  Gave item in trade to History Hawk. Id: 1351, amount: 1	
+[10/11/25 07:08PM]  Gave item in trade to History Hawk. Id: 6739, amount: 1	
+[10/11/25 07:08PM]  Gave item in trade to History Hawk. Id: 23447, amount: 2	
+[10/11/25 09:06PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/11/25 10:11PM]  Gave item in trade to Blayko. Id: 23277, amount: 2	
+[10/11/25 10:11PM]  Gave item in trade to Blayko. Id: 23240, amount: 2	
+[10/11/25 10:11PM]  Gave item in trade to Blayko. Id: 10943, amount: 1	
+[10/11/25 10:11PM] DEFAULT|2933,4117,0|Said: Ok	
+[10/11/25 10:12PM] DEFAULT|2933,4117,0|Said: Just lmk hm 	
+[10/11/25 10:12PM] (CC) Help. Said: Ahh	
+[10/11/25 10:12PM] DEFAULT|2932,4117,0|Said: Ahh	
+[10/11/25 10:13PM] (CC) Help. Said: I been on	
+[10/11/25 10:13PM] (CC) Help. Said: 1am	
+[10/11/25 10:13PM] (CC) Help. Said: Nope	
+[10/11/25 10:17PM] DEFAULT|2931,4116,0|Said: I got bis set that hasnt been releasted yet	
+[10/11/25 10:17PM] DEFAULT|2931,4116,0|Said: Lol	
+[10/11/25 10:17PM] DEFAULT|2931,4116,0|Said: Want to see it	
+[10/11/25 10:18PM] DEFAULT|2932,4117,0|Said: With a 3rd wep	
+[10/11/25 10:19PM] DEFAULT|2931,4117,0|Said: Looks sick	
+[10/11/25 10:19PM] DEFAULT|2931,4117,0|Said: Purple is magic	
+[10/11/25 10:19PM] DEFAULT|2931,4117,0|Said: Bluel is melee	
+[10/11/25 10:19PM] DEFAULT|2931,4117,0|Said: Green is range	
+[10/11/25 10:20PM] DEFAULT|2931,4117,0|Said: Yea new stuff coming today also	
+[10/11/25 10:20PM] DEFAULT|2931,4117,0|Said: What staff you got?	
+[10/11/25 10:21PM] DEFAULT|2931,4117,0|Said: Hmm	
+[10/11/25 10:23PM] DEFAULT|2931,4117,0|Said: I mean he is my staff :p	
+[10/11/25 10:23PM] DEFAULT|2931,4117,0|Said: All good	
+[10/11/25 10:29PM] INSTANCE2|2784,4766,11|Said: Boo	
+[10/11/25 10:29PM] INSTANCE2|2784,4766,11|Said: :p	
+[10/11/25 10:29PM] (CC) Help. Said: Vet	
+[10/11/25 10:30PM] (CC) Help. Said: Ahh	
+[10/11/25 10:31PM] PROGRESSION_ZONES|3033,4119,1|Said: Dont need 11 :p	
+[10/11/25 10:31PM] PROGRESSION_ZONES|3033,4119,1|Said: So all good	
+[10/11/25 10:32PM] PROGRESSION_ZONES|3033,4119,1|Said: Walkchaos	
+[10/11/25 10:33PM] PROGRESSION_ZONES|3033,4119,1|Said: Yw :p	
+[10/11/25 10:34PM] (CC) Help. Said: I have him for this week 	
+[10/11/25 10:35PM] PROGRESSION_ZONES|3033,4119,1|Said: Yes	
+[10/11/25 10:35PM] PROGRESSION_ZONES|3033,4119,1|Said: I have a update today for new global boss	
+[10/11/25 10:35PM] PROGRESSION_ZONES|3033,4119,1|Said: And new bis	
+[10/11/25 10:36PM] (CC) Help. Said: Yes?	
+[10/11/25 10:37PM] PROGRESSION_ZONES|3033,4119,1|Said: Upgrades legend gear	
+[10/11/25 10:37PM] (CC) Help. Said: Upgrades legend gear	
+[10/11/25 10:37PM] (CC) Help. Said: Sorry nvm thinking of somthing else	
+[10/11/25 10:42PM] (CC) Help. Said: Sup	
+[10/11/25 10:43PM] (CC) Help. Said: Im making one	
+[10/11/25 10:55PM] (CC) Help. Said: Ghijf you can kill slayer by your self?	
+[10/11/25 11:00PM] (CC) Help. Said: ::giveall purplepartyhat 1	
+[10/11/25 11:00PM] (CC) Help. Said: Opps	
+[10/11/25 11:01PM] (CC) Help. Said: Joking	
+[10/11/25 11:02PM] (CC) Help. Said: Selling bis 0 ingame	
+[10/11/25 11:03PM] (CC) Help. Said: Hm what kind of beer?	
+[10/11/25 11:05PM] (CC) Help. Said: Have these nuts	
+[10/11/25 11:05PM] (CC) Help. Said: ....	
+[10/11/25 11:05PM] (CC) Help. Said: Im 3	
+[10/11/25 11:09PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/11/25 11:09PM] (CC) Help. Said: 6	
+[10/11/25 11:10PM] (CC) Help. Said: Just dont trade items over	
+[10/11/25 11:11PM] (CC) Help. Said: Remeber i can see all trade logs pm and chat msges :p	
+[10/11/25 11:11PM] (CC) Help. Said: I let some things slide ppl talking about the server but still paly	
+[10/12/25 08:05AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/12/25 08:06AM] MAGICIANS_GUILD|2203,4512,0|Said: :yell morning everyone	
+[10/12/25 08:09AM] PROGRESSION_ZONES|3032,4121,9|Said: Hello	
+[10/12/25 08:09AM] PROGRESSION_ZONES|3032,4121,9|Said: Hoe ar you	
+[10/12/25 08:40AM] HOME_BANK|2784,4064,0|Said: :spawnterror	
+[10/12/25 08:46AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/12/25 09:03AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/12/25 09:10AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/12/25 09:17AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/12/25 09:18AM] HOME_BANK|2784,4071,0|Said: Yo	
+[10/12/25 09:33AM] (CC) Help. Said: How are you doing moonpie	
+[10/12/25 09:57AM] (CC) Help. Said: Hooker dont desver bonuses :p	
+[10/12/25 09:57AM] DEFAULT|2656,3981,0|Said: Nasty thing	
+[10/12/25 11:32AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/12/25 11:33AM] (CC) Help. Said: Thanks	
+[10/12/25 11:34AM] SLAYER_CHAMPION|3488,4703,0|Said: Ah	
+[10/12/25 12:03PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/12/25 12:03PM] (CC) Help. Said: Yes	
+[10/12/25 12:03PM] (CC) Help. Said: No	
+[10/12/25 12:04PM] DEFAULT|2656,3981,0|Said: .its being worked on	
+[10/12/25 12:04PM] (CC) Help. Said: Its being worked on	
+[10/12/25 12:05PM] (CC) Help. Said: It worked fine when opening on the vps 	
+[10/12/25 12:10PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/12/25 12:10PM] HOME_BANK|2784,4063,0|Said: L	
+[10/12/25 12:11PM] HOME_BANK|2784,4063,0|Said: Im working with them	
+[10/12/25 12:11PM] HOME_BANK|2784,4063,0|Said: I mean i did say im reworking all shops	
+[10/12/25 12:13PM] PROGRESSION_ZONES|3032,4122,5|Said: Sup	
+[10/12/25 12:14PM] PROGRESSION_ZONES|3032,4122,5|Said: Nice :p	
+[10/12/25 12:14PM] PROGRESSION_ZONES|3032,4122,5|Said: Lot of updates comming	
+[10/12/25 09:46PM] HOME_BANK|2784,4064,0|Said: Sup dox	
+[10/13/25 07:17AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/13/25 07:39AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/13/25 08:20AM] Picked up gr.Item Empty bucket, amount: 1	
+[10/13/25 08:21AM] Picked up gr.Item Rancid flour, amount: 1	
+[10/13/25 08:24AM] Attempted to redeem a Sponsor rank ticket, but was a staff member! (Unsuccessful)	
+[10/13/25 08:24AM] Attempted to redeem a Sponsor rank ticket, but was a staff member! (Unsuccessful)	
+[10/13/25 11:35AM]  Gave item in trade to History Hawk. Id: 23411, amount: 101	
+[10/13/25 11:35AM]  Gave item in trade to History Hawk. Id: 19122, amount: 1	
+[10/13/25 06:15PM] (CC) Help. Said: How are we doing	
+[10/13/25 06:17PM] (CC) Help. Said: Thats good	
+[10/13/25 06:19PM] (CC) Help. Said: There you go	
+[10/13/25 06:31PM] GUARDIAN|2663,3809,0|Said: Ill sell all 3 biss weps as a deal :p	
+[10/13/25 06:45PM] PROGRESSION_ZONES|3034,4121,1|Said: Yo	
+[10/13/25 06:46PM] PROGRESSION_ZONES|3036,4122,1|Said: How is it going	
+[10/13/25 06:46PM] PROGRESSION_ZONES|3036,4122,1|Said: Thats good	
+[10/13/25 06:46PM] PROGRESSION_ZONES|3036,4122,1|Said: Welcome :)	
+[10/13/25 06:46PM] PROGRESSION_ZONES|3036,4122,1|Said: Yea	
+[10/13/25 06:46PM] PROGRESSION_ZONES|3036,4122,1|Said: Walkchaos	
+[10/13/25 06:47PM]  Gave item in trade to Dracky. Id: 8412, amount: 1	
+[10/13/25 06:47PM]  Gave item in trade to Dracky. Id: 23277, amount: 1	
+[10/13/25 06:47PM] PROGRESSION_ZONES|3035,4121,1|Said: Yw	
+[10/13/25 06:48PM]  Gave item in trade to Nickw. Id: 8412, amount: 1	
+[10/13/25 06:48PM]  Gave item in trade to Nickw. Id: 23277, amount: 1	
+[10/13/25 06:48PM] PROGRESSION_ZONES|3035,4121,1|Said: Yw	
+[10/13/25 06:49PM] (CC) Help. Said: Yeah kinda	
+[10/13/25 06:50PM] (CC) Help. Said: Im working on some updates for new bosses minigames and gear	
+[10/13/25 07:15PM] (CC) Help. Said: Itss been on	
+[10/13/25 07:20PM] (CC) Help. Said: 104m	
+[10/13/25 07:50PM] EVENTS_ROOM|1697,4262,0|Said: Gl	
+[10/13/25 07:53PM] EVENTS_ROOM|1697,4262,0|Said: Gz	
+[10/13/25 07:54PM] EVENTS_ROOM|1697,4262,0|Said: Still more on ground	
+[10/13/25 07:55PM] EVENTS_ROOM|1697,4262,0|Said: Who wants to see the new bis	
+[10/13/25 07:56PM] EVENTS_ROOM|1697,4262,0|Said: Well one of the new bis	
+[10/13/25 07:57PM] EVENTS_ROOM|1698,4259,0|Said: Ready	
+[10/13/25 07:57PM] EVENTS_ROOM|1698,4259,0|Said: Magic wep	
+[10/13/25 07:58PM] EVENTS_ROOM|1698,4259,0|Said: Range wep	
+[10/13/25 07:58PM] EVENTS_ROOM|1698,4259,0|Said: Mele wep	
+[10/13/25 07:58PM] EVENTS_ROOM|1698,4259,0|Said: 22500	
+[10/13/25 07:59PM] EVENTS_ROOM|1698,4259,0|Said: Forgot cape	
+[10/13/25 07:59PM] EVENTS_ROOM|1696,4259,0|Said: 3x wep speen	
+[10/13/25 07:59PM] EVENTS_ROOM|1696,4259,0|Said: Fastest weps in game	
+[10/13/25 08:01PM] EVENTS_ROOM|1696,4257,0|Said: I think thats it	
+[10/13/25 08:01PM] EVENTS_ROOM|1696,4257,0|Said: Yw	
+[10/14/25 08:19AM] PLATINUM_ZONE|2274,4079,0|Said: Noob	
+[10/14/25 08:52AM] PLATINUM_ZONE|2274,4077,0|Said: Nope	
+[10/14/25 08:52AM] PLATINUM_ZONE|2274,4077,0|Said: My kill	
+[10/14/25 03:25PM] PLATINUM_ZONE|2272,4075,0|Said: Hey	
+[10/14/25 03:38PM] (CC) Help. Said: What you up 2	
+[10/14/25 03:39PM] (CC) Help. Said: Ah nice	
+[10/14/25 07:34PM] (CC) Help. Said: Hm	
+[10/14/25 07:35PM] (CC) Help. Said: Hmm	
+[10/14/25 07:36PM] (CC) Help. Said: Nooo	
+[10/14/25 07:36PM] (CC) Help. Said: I forbid it	
+[10/14/25 07:36PM] (CC) Help. Said: You must stay up	
+[10/14/25 07:37PM] (CC) Help. Said: Lol	
+[10/14/25 07:37PM] HOME_BANK|2783,4062,0|Said: :p	
+[10/14/25 07:41PM] INSTANCE2|2784,4761,27|Said: So	
+[10/14/25 07:41PM] INSTANCE2|2784,4761,27|Said: This gear	
+[10/14/25 07:41PM] INSTANCE2|2784,4761,27|Said: Its call cursed	
+[10/14/25 07:42PM] INSTANCE2|2787,4761,27|Said: Ye	
+[10/14/25 07:42PM] INSTANCE2|2787,4761,27|Said: I like it looks nice	
+[10/14/25 07:42PM] INSTANCE2|2787,4761,27|Said: Going to make it op	
+[10/14/25 07:47PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/14/25 07:47PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/14/25 07:49PM] Player destroying item: -1, amount: 0	
+[10/14/25 07:51PM] HOME_BANK|2783,4064,0|Said: :item 23437	
+[10/14/25 07:56PM] HOME_BANK|2786,4064,0|Said: Hm	
+[10/14/25 07:57PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/14/25 07:58PM] Player destroying item: -1, amount: 0	
+[10/14/25 08:00PM] Player destroying item: -1, amount: 0	
+[10/14/25 08:06PM] HOME_BANK|2788,4064,0|Said: Item 19987	
+[10/14/25 08:11PM] Player destroying item: -1, amount: 0	
+[10/14/25 08:11PM] Player destroying item: -1, amount: 0	
+[10/14/25 08:11PM] Player destroying item: -1, amount: 0	
+[10/14/25 08:20PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/14/25 08:29PM] HOME_BANK|2786,4065,0|Said: Nub blame me	
+[10/14/25 08:29PM] HOME_BANK|2786,4065,0|Said: How	
+[10/14/25 08:29PM] HOME_BANK|2786,4065,0|Said: Ahh	
+[10/14/25 08:29PM] HOME_BANK|2786,4065,0|Said: Ha	
+[10/14/25 08:29PM] HOME_BANK|2786,4065,0|Said: Just going to tele on me	
+[10/14/25 08:30PM] HOME_BANK|2786,4065,0|Said: Im getting new guy for yall	
+[10/14/25 08:30PM] HOME_BANK|2786,4065,0|Said: And bosses	
+[10/14/25 08:30PM] HOME_BANK|2786,4065,0|Said: Im sad hank	
+[10/14/25 08:40PM] HOME_BANK|2785,4064,0|Said: Idk	
+[10/14/25 08:41PM] HOME_BANK|2785,4064,0|Said: Just am	
+[10/14/25 08:41PM] HOME_BANK|2785,4064,0|Said: :(	
+[10/14/25 08:44PM] Player destroying item: -1, amount: 0	
+[10/14/25 09:21PM] Player destroying item: -1, amount: 0	
+[10/14/25 09:23PM] Player destroying item: -1, amount: 0	
+[10/14/25 09:28PM] (CC) Help. Said: Sup dox	
+[10/14/25 09:28PM] HOME_BANK|2784,4061,0|Said: Sup	
+[10/14/25 09:29PM] HOME_BANK|2784,4061,0|Said: Its hanging	
+[10/14/25 09:29PM] HOME_BANK|2784,4061,0|Said: Working on new gear	
+[10/14/25 09:29PM] HOME_BANK|2784,4061,0|Said: This glaive is going to be new with decent stats	
+[10/14/25 09:30PM] HOME_BANK|2784,4061,0|Said: Yea	
+[10/14/25 09:30PM] HOME_BANK|2784,4061,0|Said: Got some new gear also	
+[10/14/25 09:39PM] HOME_BANK|2784,4062,0|Said: Ye	
+[10/14/25 10:09PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/14/25 10:33PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/15/25 07:33AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/15/25 07:41AM] Player destroying item: -1, amount: 0	
+[10/15/25 07:46AM] Emptied item (id:12246, amount:1) -- Pouch	
+[10/15/25 07:46AM] Emptied item (id:15246, amount:1) -- Package	
+[10/15/25 07:53AM] Player destroying item: -1, amount: 0	
+[10/15/25 08:08AM] Player destroying item: -1, amount: 0	
+[10/15/25 08:14AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/15/25 09:33AM] Player destroying item: -1, amount: 0	
+[10/15/25 09:47AM] Player destroying item: -1, amount: 0	
+[10/15/25 09:51AM] Player destroying item: -1, amount: 0	
+[10/15/25 09:52AM] Player destroying item: -1, amount: 0	
+[10/15/25 09:53AM] Player destroying item: -1, amount: 0	
+[10/15/25 09:53AM] Player destroying item: -1, amount: 0	
+[10/15/25 12:16PM] (CC) Help. Said: Sup guys	
+[10/15/25 12:21PM] DEFAULT|1827,5088,2|Said: Sup	
+[10/15/25 12:21PM] DEFAULT|1827,5088,2|Said: New range gear	
+[10/15/25 12:21PM] DEFAULT|1827,5088,2|Said: :)	
+[10/15/25 12:55PM] (CC) Help. Said: So who wants to donate for bis wep set 	
+[10/15/25 12:55PM] (CC) Help. Said: So i can get the new pokemon game lol	
+[10/15/25 12:55PM] (CC) Help. Said: :)	
+[10/15/25 12:58PM] (CC) Help. Said: Yw	
+[10/15/25 06:07PM] DEFAULT|2783,4048,0|Said: Sup	
+[10/15/25 06:08PM] DEFAULT|2783,4048,0|Said: Ya new rangar	
+[10/15/25 06:08PM] DEFAULT|2783,4048,0|Said: New range bis	
+[10/15/25 06:08PM] DEFAULT|2783,4048,0|Said: Yeah	
+[10/15/25 06:08PM] DEFAULT|2783,4048,0|Said: Relog	
+[10/15/25 06:09PM] DEFAULT|2783,4048,0|Said: Gz	
+[10/15/25 06:09PM] DEFAULT|2784,4047,0|Said: Bruh	
+[10/15/25 06:09PM] DEFAULT|2784,4047,0|Said: Im like upset today	
+[10/15/25 06:10PM] DEFAULT|2784,4047,0|Said: The new pokemon game came out 	
+[10/15/25 06:10PM] DEFAULT|2784,4047,0|Said: For got about it	
+[10/15/25 06:10PM] DEFAULT|2784,4047,0|Said: I was going to buy	
+[10/15/25 06:10PM] DEFAULT|2784,4047,0|Said: But vps came first	
+[10/15/25 06:11PM] DEFAULT|2784,4047,0|Said: Keeping the server going	
+[10/15/25 06:11PM] DEFAULT|2784,4047,0|Said: We will grow	
+[10/15/25 06:11PM] DEFAULT|2784,4047,0|Said: Once i get youtubers	
+[10/15/25 06:11PM] DEFAULT|2784,4047,0|Said: Yeah	
+[10/15/25 06:11PM] DEFAULT|2784,4047,0|Said: Still working on that	
+[10/15/25 06:11PM] DEFAULT|2784,4047,0|Said: Its being a ass	
+[10/15/25 06:11PM] DEFAULT|2784,4047,0|Said: Lol	
+[10/15/25 06:13PM] DEFAULT|2784,4047,0|Said: Oh	
+[10/15/25 06:14PM] DEFAULT|2784,4047,0|Said: This also	
+[10/15/25 06:14PM] DEFAULT|2784,4049,0|Said: Kinda	
+[10/15/25 06:15PM] DEFAULT|2784,4049,0|Said: Its like the old 667	
+[10/15/25 06:15PM] DEFAULT|2784,4049,0|Said: Blood torva	
+[10/15/25 06:15PM] DEFAULT|2784,4049,0|Said: But a little difrent	
+[10/15/25 06:19PM] DEFAULT|2785,4057,0|Said: Need to fix the head	
+[10/15/25 06:19PM] DEFAULT|2785,4057,0|Said: Ah	
+[10/15/25 06:19PM] DEFAULT|2785,4057,0|Said: Oh 1 more	
+[10/15/25 06:21PM] DEFAULT|2785,4057,0|Said: Hm	
+[10/15/25 06:23PM] DEFAULT|2785,4057,0|Said: I was working on a lot of new sets last night	
+[10/15/25 06:24PM] DEFAULT|2785,4057,0|Said: Yes	
+[10/15/25 06:24PM] DEFAULT|2785,4057,0|Said: I just have to add stats to them and see where i want them at	
+[10/15/25 06:24PM] DEFAULT|2785,4057,0|Said: Might have some new bis soon	
+[10/15/25 06:26PM] DEFAULT|2785,4057,0|Said: This is nice	
+[10/15/25 06:26PM] DEFAULT|2785,4057,0|Said: Bazooka	
+[10/15/25 06:30PM] DEFAULT|2785,4057,0|Said: Yea	
+[10/15/25 06:31PM] DEFAULT|2785,4057,0|Said: This is it	
+[10/15/25 06:34PM] DEFAULT|2785,4057,0|Said: To whote	
+[10/15/25 06:35PM] DEFAULT|2785,4057,0|Said: White	
+[10/15/25 08:39PM] (CC) Help. Said: Sup	
+[10/15/25 08:41PM]  Gave item in trade to Big Daddy D. Id: 23278, amount: 5	
+[10/15/25 08:41PM] DEFAULT|2782,4054,0|Said: :p	
+[10/15/25 08:41PM] DEFAULT|2782,4054,0|Said: Gl	
+[10/15/25 08:45PM] HOME_BANK|2785,4060,0|Said: Im selling new bis cheap	
+[10/15/25 08:46PM] HOME_BANK|2785,4060,0|Said: Ohh	
+[10/15/25 08:46PM] HOME_BANK|2785,4060,0|Said: Need to do some give aways	
+[10/15/25 08:48PM] HOME_BANK|2785,4060,0|Said: Nice	
+[10/15/25 09:00PM] (CC) Help. Said: :p	
+[10/16/25 12:59PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/16/25 01:44PM] (CC) Help. Said: Ill give you vote tixs	
+[10/16/25 01:44PM] (CC) Help. Said: Im fixing it atm	
+[10/16/25 01:45PM]  Gave item in trade to Big Daddy D. Id: 23020, amount: 10	
+[10/16/25 01:45PM]  Gave item in trade to Big Daddy D. Id: 23278, amount: 1	
+[10/16/25 01:45PM] HOME_BANK|2788,4070,0|Said: :p	
+[10/16/25 01:45PM] HOME_BANK|2788,4070,0|Said: Yw	
+[10/16/25 01:49PM] (CC) Help. Said: Upgrade boxs	
+[10/16/25 01:49PM] (CC) Help. Said: Then  desovle all	
+[10/16/25 01:59PM] (CC) Help. Said: Not to bad	
+[10/16/25 03:00PM] (CC) Help. Said: Lol	
+[10/16/25 03:04PM] Picked up gr.Item Fantasy scales, amount: 3	
+[10/16/25 03:04PM] Picked up gr.Item Fantasy scales, amount: 1	
+[10/16/25 03:04PM] Picked up gr.Item Fantasy scales, amount: 1	
+[10/16/25 03:06PM] (CC) Help. Said: Get tem collection logs	
+[10/16/25 03:06PM] (CC) Help. Said: Them	
+[10/16/25 03:11PM] (CC) Help. Said: I will make a 2ck slayer pet	
+[10/16/25 03:20PM] (CC) Help. Said: Yo	
+[10/16/25 03:20PM] (CC) Help. Said: Yes dont right click	
+[10/16/25 03:21PM] ZOMBIE_LOBBY|2223,4116,0|Said: Loo	
+[10/16/25 03:21PM] ZOMBIE_LOBBY|2223,4116,0|Said: Go to party	
+[10/16/25 03:30PM] ZOMBIE_LOBBY|2222,4118,0|Said: :p	
+[10/16/25 03:52PM] ZOMBIE_LOBBY|2222,4118,0|Said: Wb	
+[10/16/25 04:00PM] ZOMBIE_LOBBY|2221,4117,0|Said: Bro	
+[10/16/25 04:00PM] ZOMBIE_LOBBY|2221,4117,0|Said: Trade me	
+[10/16/25 04:00PM] ZOMBIE_LOBBY|2221,4117,0|Said: Lol	
+[10/16/25 04:00PM]  Gave item in trade to Dracky. Id: 8136, amount: 1	
+[10/16/25 04:00PM] ZOMBIE_LOBBY|2221,4117,0|Said: :p	
+[10/16/25 04:01PM] ZOMBIE_LOBBY|2221,4117,0|Said: Ok	
+[10/16/25 04:11PM] ZOMBIE_LOBBY|2221,4117,0|Said: Wb	
+[10/16/25 05:02PM] (CC) Help. Said: :p	
+[10/16/25 05:06PM] (CC) Help. Said: Nice	
+[10/16/25 08:39PM] (CC) Help. Said: Sup	
+[10/16/25 08:40PM] (CC) Help. Said: What you need?	
+[10/16/25 08:42PM]  Gave item in trade to Big Daddy D. Id: 23279, amount: 5	
+[10/16/25 08:42PM] HOME_BANK|2784,4063,0|Said: Those are $100 each	
+[10/16/25 08:42PM] HOME_BANK|2784,4063,0|Said: Lol	
+[10/16/25 08:43PM] HOME_BANK|2784,4063,0|Said: I was hoping to get a donation soon lol	
+[10/16/25 08:43PM] HOME_BANK|2784,4063,0|Said: But its good	
+[10/16/25 08:43PM] HOME_BANK|2784,4063,0|Said: Vps up to date	
+[10/16/25 08:44PM] HOME_BANK|2784,4063,0|Said: I was going to buy the new pokemon game lmao!	
+[10/16/25 08:44PM] HOME_BANK|2784,4063,0|Said: I was watching videos of looks nice	
+[10/16/25 09:44PM] HOME_BANK|2784,4063,0|Said: Sup	
+[10/16/25 09:45PM] HOME_BANK|2784,4063,0|Said: Not much you	
+[10/16/25 09:45PM] HOME_BANK|2784,4063,0|Said: Nice :p	
+[10/16/25 09:46PM] HOME_BANK|2784,4063,0|Said: Hm	
+[10/16/25 09:55PM] DEFAULT|2785,4057,0|Said: There you go	
+[10/16/25 09:56PM] Picked up gr.Item Rancid flour, amount: 1	
+[10/16/25 09:57PM] Picked up gr.Item Empty bucket, amount: 1	
+[10/17/25 02:38PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/17/25 02:41PM] (CC) Help. Said: Thanks	
+[10/17/25 03:15PM] (CC) Help. Said: Sup dox	
+[10/17/25 03:15PM] (CC) Help. Said: How are you doing	
+[10/17/25 03:16PM] (CC) Help. Said: Thats good bro and same here lol	
+[10/17/25 03:20PM] (CC) Help. Said: Lol	
+[10/17/25 03:20PM] (CC) Help. Said: Need to get some players	
+[10/17/25 03:21PM] (CC) Help. Said: This is making me sad all of the money i put into this 	
+[10/17/25 03:22PM] (CC) Help. Said: The vote works for toplist it just conncect back to the server 	
+[10/17/25 03:22PM] (CC) Help. Said: For rewards	
+[10/17/25 03:27PM] (CC) Help. Said: Working on it	
+[10/17/25 03:28PM] (CC) Help. Said: Do::vote	
+[10/17/25 03:40PM] (CC) Help. Said: Im working on that i have to make a callback secret page on	
+[10/17/25 03:40PM] (CC) Help. Said: The website	
+[10/17/25 04:13PM] (CC) Help. Said: Dox	
+[10/17/25 04:15PM] DEFAULT|2100,5519,0|Said: Sup	
+[10/17/25 04:17PM] DEFAULT|2100,5519,0|Said: Ik	
+[10/17/25 04:17PM] DEFAULT|2100,5519,0|Said: Ill make the multi	
+[10/17/25 04:17PM] DEFAULT|2100,5519,0|Said: In next update	
+[10/17/25 06:51PM] (CC) Help. Said: :p	
+[10/17/25 06:52PM] (CC) Help. Said: Thats the good stuff	
+[10/17/25 06:58PM] DEFAULT|2911,4112,0|Said: Yo	
+[10/17/25 07:30PM] DEFAULT|2913,4112,0|Said: 65465252	
+[10/17/25 07:30PM] DEFAULT|2913,4112,0|Said: Idk	
+[10/17/25 07:30PM] DEFAULT|2913,4111,0|Said: Ikr	
+[10/17/25 07:30PM] DEFAULT|2913,4111,0|Said: Hmm	
+[10/17/25 07:31PM] DEFAULT|2913,4111,0|Said: Might change the name	
+[10/17/25 07:31PM] DEFAULT|2913,4111,0|Said: Its devil atm	
+[10/17/25 07:31PM] DEFAULT|2913,4111,0|Said: The lucifer with devil wings is dope	
+[10/17/25 07:32PM] Player destroying item: -1, amount: 0	
+[10/17/25 07:53PM] DEFAULT|2912,4112,0|Said: Woot!!!!!	
+[10/17/25 08:16PM] (CC) Help. Said: It was a joke	
+[10/17/25 08:54PM] (CC) Help. Said: Nice kc	
+[10/18/25 04:45PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/18/25 04:56PM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: CA-E7-DA-73-63-4B	
+[10/18/25 07:59PM] Player destroying item: 3062, amount: 1	
+[10/18/25 07:59PM] Player destroying item: 3062, amount: 1	
+[10/18/25 07:59PM] Player destroying item: 3062, amount: 1	
+[10/18/25 08:02PM] (CC) Help. Said: Ahh	
+[10/18/25 08:03PM] PROGRESSION_ZONES|3035,4118,1|Said: Sup	
+[10/18/25 08:03PM] PROGRESSION_ZONES|3035,4118,1|Said: Welcome	
+[10/18/25 08:04PM] PROGRESSION_ZONES|3034,4120,5|Said: :	
+[10/18/25 08:05PM] PROGRESSION_ZONES|3034,4120,5|Said: :p	
+[10/18/25 08:05PM] PROGRESSION_ZONES|3034,4120,5|Said: Thanks	
+[10/18/25 08:05PM] PROGRESSION_ZONES|3034,4120,5|Said: Open the box i have you	
+[10/18/25 08:05PM] PROGRESSION_ZONES|3034,4120,5|Said: Red box	
+[10/18/25 08:05PM] PROGRESSION_ZONES|3034,4120,5|Said: Blood wep	
+[10/18/25 08:06PM] PROGRESSION_ZONES|3034,4120,5|Said: Nice	
+[10/18/25 08:06PM] PROGRESSION_ZONES|3034,4120,5|Said: Its aoe	
+[10/18/25 08:06PM] PROGRESSION_ZONES|3034,4120,5|Said: And op	
+[10/18/25 08:07PM] PROGRESSION_ZONES|3034,4120,5|Said: Gave you donor rank	
+[10/18/25 08:07PM] PROGRESSION_ZONES|3034,4121,9|Said: Ye	
+[10/18/25 08:08PM] (CC) Help. Said: It gets harder after starter zone	
+[10/18/25 08:08PM] HOME_BANK|2784,4064,0|Said: :)	
+[10/18/25 08:09PM] HOME_BANK|2784,4064,0|Said: Im loading fast	
+[10/18/25 08:09PM] HOME_BANK|2784,4064,0|Said: Weird	
+[10/18/25 08:44PM] DEFAULT|2910,4113,0|Said: Wake the f up	
+[10/18/25 08:45PM] Hank just kicked Kursed!	
+[10/18/25 08:58PM] DEFAULT|2910,4116,0|Said: Wb	
+[10/18/25 08:58PM] DEFAULT|2910,4116,0|Said: Gz on mod	
+[10/18/25 08:58PM] DEFAULT|2910,4116,0|Said: You dont want it	
+[10/18/25 08:59PM] DEFAULT|2910,4116,0|Said: Me you and o	
+[10/18/25 08:59PM] DEFAULT|2910,4116,0|Said: Be active on discord :p	
+[10/18/25 08:59PM] DEFAULT|2910,4116,0|Said: Talk react	
+[10/18/25 08:59PM] DEFAULT|2910,4116,0|Said: :p	
+[10/18/25 09:00PM] DEFAULT|2910,4116,0|Said: We will be going places soon	
+[10/18/25 09:00PM] DEFAULT|2910,4116,0|Said: Update train	
+[10/18/25 09:00PM] DEFAULT|2910,4116,0|Said: Yes	
+[10/18/25 09:01PM] DEFAULT|2910,4116,0|Said: Yea	
+[10/18/25 09:25PM] (CC) Help. Said: Whats up dox	
+[10/18/25 09:27PM] DEFAULT|2791,4453,0|Said: That help	
+[10/18/25 09:28PM] DEFAULT|2787,4454,0|Said: Lol	
+[10/18/25 09:28PM] DEFAULT|2787,4454,0|Said: Yw	
+[10/18/25 09:28PM] DEFAULT|2787,4454,0|Said: Got a new dev	
+[10/18/25 09:28PM] DEFAULT|2787,4454,0|Said: Updates comming and fixing bugs	
+[10/18/25 09:29PM] DEFAULT|2787,4454,0|Said: Yes indeed	
+[10/18/25 09:29PM] DEFAULT|2787,4454,0|Said: Im glad	
+[10/18/25 09:33PM] (CC) Help. Said: Nice dox	

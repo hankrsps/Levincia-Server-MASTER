@@ -1,0 +1,7 @@
+[10/9/25 02:02AM] Iron Gh used command ::daily | Player rights = PLAYER	
+[10/9/25 02:04AM] Iron Gh used command ::daily | Player rights = PLAYER	
+[10/9/25 02:04AM] Iron Gh used command ::weekly | Player rights = PLAYER	
+[10/9/25 02:04AM] Iron Gh used command ::weekly | Player rights = PLAYER	
+[10/9/25 02:06AM] Iron Gh used command ::whatdrops case key | Player rights = PLAYER	
+[10/9/25 02:06AM] Iron Gh used command ::whatdrops case | Player rights = PLAYER	
+[10/9/25 02:06AM] Iron Gh used command ::whatdrops ethereal | Player rights = PLAYER	

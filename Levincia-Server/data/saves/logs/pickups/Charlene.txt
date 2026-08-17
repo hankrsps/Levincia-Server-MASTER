@@ -1,0 +1,2 @@
+[10/11/25 08:12AM] Player picked up item: 1M ticket, id: 5021, amount: 4, owner: Charlene	
+[10/11/25 08:33AM] Player picked up item: Sorrow bow, id: 20173, amount: 1, owner: Charlene	

@@ -1,0 +1,13 @@
+{
+  "name": "Help",
+  "owner": "Help",
+  "index": 0,
+  "rank-required-to-enter": -1,
+  "rank-required-to-talk": -1,
+  "rank-required-to-kick": -1,
+  "rank-required-to-visit-guild": -1,
+  "ranked-player-count": 2,
+  "Hank": 8,
+  "Kursed": 8,
+  "owns-guild": false
+}

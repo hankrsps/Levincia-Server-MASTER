@@ -1,0 +1,4 @@
+[10/7/25 05:07AM] Login. ip: 82.172.191.165, mac: Default string20250623203624.000000+120, uuid: 34-5A-60-6B-31-55	
+[10/7/25 05:08AM] Player destroying item: -1, amount: 0	
+[10/7/25 05:14AM] Player destroying item: -1, amount: 0	
+[10/7/25 05:31AM] Player destroying item: -1, amount: 0	

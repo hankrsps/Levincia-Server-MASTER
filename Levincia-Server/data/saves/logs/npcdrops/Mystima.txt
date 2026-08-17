@@ -1,0 +1,7 @@
+[10/9/25 10:13AM] Player received drop: x1 Indravox platebody, id: 702, amount: 1, from: Joyx Golem	
+[10/9/25 10:13AM] Player received drop: x1 Indravox platelegs, id: 700, amount: 1, from: Joyx Golem	
+[10/9/25 10:23AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/9/25 10:51AM] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Shetani	
+[10/11/25 04:46AM] Player received drop: x1 Crest part 2, id: 780, amount: 1, from: Wild Graahk	
+[10/11/25 05:33AM] Player received drop: x1 $5 Bond, id: 6769, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:38AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	

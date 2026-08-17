@@ -1,0 +1,16 @@
+[10/9/25 09:12AM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Mystima	
+[10/9/25 09:23AM] Player picked up item: PVM ticket, id: 5022, amount: 10, owner: Mystima	
+[10/9/25 09:23AM] Player picked up item: PVM ticket, id: 5022, amount: 10, owner: Mystima	
+[10/9/25 09:23AM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Mystima	
+[10/9/25 09:24AM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Mystima	
+[10/9/25 09:26AM] Player picked up item: Levincia tokens, id: 12855, amount: 100, owner: Mystima	
+[10/9/25 09:26AM] Player picked up item: PVM ticket, id: 5022, amount: 10, owner: Mystima	
+[10/9/25 09:26AM] Player picked up item: PVM ticket, id: 5022, amount: 10, owner: Mystima	
+[10/9/25 09:27AM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Mystima	
+[10/9/25 09:27AM] Player picked up item: PVM ticket, id: 5022, amount: 10, owner: Mystima	
+[10/9/25 09:27AM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Mystima	
+[10/9/25 10:57AM] Player picked up item: Pet fragment, id: 19000, amount: 1, owner: Mystima	
+[10/9/25 11:45AM] Player picked up item: Raw Fury shark, id: 17816, amount: 2, owner: Mystima	
+[10/11/25 06:04AM] Player picked up item: Levincia tokens, id: 12855, amount: 2000, owner: Mystima	
+[10/11/25 06:04AM] Player picked up item: Levincia tokens, id: 12855, amount: 2000, owner: Mystima	
+[10/11/25 06:04AM] Player picked up item: PVM ticket, id: 5022, amount: 150, owner: Mystima	

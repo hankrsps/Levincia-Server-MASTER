@@ -1,0 +1,281 @@
+[10/6/25 09:14PM] Login. ip: 206.83.98.72, mac: MCNRCX05M06451520230128122925.000000+780, uuid: A4-FA-9A-34-1C-5A	
+[10/6/25 09:15PM] PROGRESSION_ZONES|3034,4121,1|Said: Hello	
+[10/6/25 09:16PM] PROGRESSION_ZONES|3034,4121,1|Said: How's it going :)	
+[10/6/25 09:16PM] PROGRESSION_ZONES|3034,4121,1|Said: Ty also	
+[10/6/25 09:16PM] PROGRESSION_ZONES|3034,4121,1|Said: Yes ty	
+[10/6/25 09:17PM] PROGRESSION_ZONES|3034,4121,1|Said: Omg that heaven hahaah	
+[10/6/25 09:17PM] PROGRESSION_ZONES|3034,4121,5|Said: Legend ty	
+[10/6/25 09:17PM] PROGRESSION_ZONES|3032,4121,5|Said: Appreciate you	
+[10/6/25 09:18PM] PROGRESSION_ZONES|3032,4121,5|Said: Look forward to it	
+[10/6/25 09:23PM] (CC) Help. Said: You good bro	
+[10/6/25 09:24PM] Has just redeemed a $10 Bond successfully!	
+[10/6/25 09:24PM] Has just redeemed a $10 Bond successfully!	
+[10/6/25 09:24PM] Has just redeemed a $10 Bond successfully!	
+[10/6/25 09:26PM] Has just redeemed a $25 Bond successfully!	
+[10/6/25 09:27PM] Has just redeemed a $25 Bond successfully!	
+[10/6/25 09:34PM] VOTE_BOSS|3428,4115,4|Said: Yeah	
+[10/6/25 09:34PM] VOTE_BOSS|3428,4115,4|Said: Ty	
+[10/6/25 09:37PM] (CC) Help. Said: Nope	
+[10/6/25 09:37PM] (CC) Help. Said: Yeah i voted, how do we claim ?	
+[10/6/25 09:42PM] Picked up gr.Item Holy symbol, amount: 1	
+[10/6/25 09:54PM] DEFAULT|2796,4064,0|Said: Yeah	
+[10/6/25 09:55PM] DEFAULT|2796,4064,0|Said: Tryna bang out starter tasks	
+[10/6/25 09:55PM] DEFAULT|2796,4064,0|Said: Kk	
+[10/6/25 09:56PM] Login. ip: 206.83.98.72, mac: MCNRCX05M06451520230128122925.000000+780, uuid: A4-FA-9A-34-1C-5A	
+[10/6/25 09:56PM] DEFAULT|2796,4064,0|Said: Nope xd	
+[10/6/25 09:57PM] DEFAULT|2796,4064,0|Said: Yes	
+[10/6/25 09:57PM] DEFAULT|2796,4064,0|Said: Just vote works	
+[10/6/25 09:57PM] DEFAULT|2796,4064,0|Said: But cant claim my votes after voting	
+[10/6/25 09:58PM] DEFAULT|2796,4064,0|Said: Worked	
+[10/6/25 09:58PM] DEFAULT|2796,4064,0|Said: I tried ::voted ::claimvotes ::reward 1 	
+[10/6/25 09:58PM] DEFAULT|2796,4064,0|Said: Thought ::claim was for donations haha	
+[10/6/25 09:59PM] DEFAULT|2796,4064,0|Said: Sweet sounds good	
+[10/6/25 09:59PM] Picked up gr.Item Levincia tokens, amount: 1000	
+[10/6/25 10:01PM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 10:06PM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 10:06PM] Player destroying item: -1, amount: 0	
+[10/6/25 10:08PM] Player destroying item: -1, amount: 0	
+[10/6/25 10:11PM] (CC) Help. Said: Take care	
+[10/6/25 10:41PM] (CC) Help. Said: Gz	
+[10/6/25 10:44PM] (CC) Help. Said: Wb brb food is ready	
+[10/6/25 11:52PM] Login. ip: 206.83.98.72, mac: MCNRCX05M06451520230128122925.000000+780, uuid: A4-FA-9A-34-1C-5A	
+[10/7/25 12:09AM] (CC) Help. Said: I used runelocus	
+[10/7/25 12:11AM] (CC) Help. Said: ::startertasks	
+[10/7/25 12:11AM] (CC) Help. Said: Yw	
+[10/7/25 12:12AM] (CC) Help. Said: Yeah seen that	
+[10/7/25 12:13AM] (CC) Help. Said: Do ::claim	
+[10/7/25 12:14AM] (CC) Help. Said: Nah it's linked to your account when doing ::vote	
+[10/7/25 12:14AM] DEFAULT|2795,4065,0|Said: @hank said he fixed it, so ::claim should work	
+[10/7/25 12:15AM] (CC) Help. Said: Yeah the levincia rulocus voting page	
+[10/7/25 12:16AM] (CC) Help. Said: Worked for me so idk	
+[10/7/25 12:21AM] (CC) Help. Said: Settings	
+[10/7/25 01:41AM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 01:47AM] DEFAULT|2795,4067,0|Said: ?	
+[10/7/25 01:48AM] DEFAULT|2795,4067,0|Said: Nope	
+[10/7/25 01:51AM] (CC) Help. Said: Dinos for what	
+[10/7/25 01:51AM] (CC) Help. Said: Rub a slayer ring	
+[10/7/25 01:51AM] (CC) Help. Said: Or tele to slayer dungeons	
+[10/7/25 08:42PM] Login. ip: 206.83.99.116, mac: MCNRCX05M06451520230128122925.000000+780, uuid: A4-FA-9A-34-1C-5A	
+[10/7/25 08:52PM] INSTANCE2|2785,4764,27|Said: You look snazzy	
+[10/7/25 08:53PM] INSTANCE2|2787,4765,27|Said: Was pumping slayer onto hard tasks but need more dmg now cause	
+[10/7/25 08:53PM] INSTANCE2|2787,4765,27|Said: They have good hp xd	
+[10/7/25 08:56PM] NEPHILIM|2148,3296,0|Said: Tyty	
+[10/7/25 08:58PM] NEPHILIM|2148,3296,0|Said: This is will years	
+[10/7/25 08:58PM] NEPHILIM|2148,3296,0|Said: Lmao	
+[10/7/25 09:00PM] NEPHILIM|2148,3296,0|Said: Ty sir	
+[10/7/25 09:01PM] Player destroying item: -1, amount: 0	
+[10/7/25 09:01PM] Player destroying item: 17815, amount: 1	
+[10/7/25 09:01PM] Player destroying item: 17815, amount: 1	
+[10/7/25 09:01PM] Player destroying item: 17815, amount: 1	
+[10/7/25 09:01PM] Player destroying item: 17815, amount: 1	
+[10/7/25 09:01PM] Player destroying item: -1, amount: 0	
+[10/7/25 09:01PM] Player destroying item: -1, amount: 0	
+[10/7/25 09:01PM] NEPHILIM|2144,3294,0|Said: Globals hate me	
+[10/7/25 09:05PM] SLAYER_CHAMPION|3488,4697,0|Said: Xd	
+[10/7/25 09:08PM] SLAYER_CHAMPION|3488,4697,0|Said: Im hitting it with everything i have!!!!!	
+[10/7/25 09:11PM] ZENYTE_ZONE|2593,2661,0|Said: Legend ty	
+[10/7/25 09:11PM] Player destroying item: -1, amount: 0	
+[10/7/25 09:11PM] ZENYTE_ZONE|2593,2661,0|Said: Zenyte d zone	
+[10/7/25 09:11PM] ZENYTE_ZONE|2593,2661,0|Said: We're killing the zenyte donator boss xd	
+[10/7/25 09:14PM] Dox received x1 $1 Scroll from Vote Boss!	
+[10/7/25 09:14PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 09:14PM] VOTE_BOSS|3428,4115,4|Said: Examine it	
+[10/7/25 09:15PM] VOTE_BOSS|3428,4115,4|Said: Oh	
+[10/7/25 09:18PM] NEPHILIM|2144,3294,0|Said: Sureeellly	
+[10/7/25 09:19PM] Dox received x1 Chance scroll from Nephilim Warrior!	
+[10/7/25 09:20PM] NEPHILIM|2144,3294,0|Said: Oo	
+[10/7/25 09:20PM] NEPHILIM|2144,3294,0|Said: Damn	
+[10/7/25 09:20PM] NEPHILIM|2144,3294,0|Said: Probably while im at work xd	
+[10/7/25 09:21PM] NEPHILIM|2144,3294,0|Said: It's 5:21pm wednesday for me	
+[10/7/25 09:21PM] NEPHILIM|2144,3294,0|Said: Xd	
+[10/7/25 09:22PM] NEPHILIM|2144,3294,0|Said: Welp back to the grind	
+[10/7/25 09:22PM] NEPHILIM|2144,3294,0|Said: Ty for spawns	
+[10/7/25 09:22PM] NEPHILIM|2144,3294,0|Said: Ill see what i can do on payday bro	
+[10/7/25 09:22PM] NEPHILIM|2144,3294,0|Said: Im broke as shit rn	
+[10/7/25 09:23PM] NEPHILIM|2144,3294,0|Said: That'd be sweet	
+[10/7/25 09:23PM] NEPHILIM|2144,3294,0|Said: Crazy	
+[10/7/25 09:23PM] NEPHILIM|2144,3294,0|Said: Respect for that tho man	
+[10/7/25 09:23PM] NEPHILIM|2144,3294,0|Said: Alot of owners dont do it	
+[10/7/25 09:24PM] NEPHILIM|2144,3294,0|Said: I bet hahaha	
+[10/7/25 09:25PM] NEPHILIM|2144,3294,0|Said: Im enjoying it so far man, played this source heaps but you've edited	
+[10/7/25 09:25PM] NEPHILIM|2144,3294,0|Said: To your style and its dope	
+[10/7/25 09:26PM] NEPHILIM|2144,3294,0|Said: For sure homie	
+[10/7/25 09:27PM] NEPHILIM|2147,3295,0|Said: Needa get 99 slayer for legends raid and then pest control for	
+[10/7/25 09:27PM] NEPHILIM|2147,3295,0|Said: Starter tasks to be done	
+[10/7/25 09:27PM] NEPHILIM|2147,3295,0|Said: Yeah	
+[10/7/25 09:27PM] NEPHILIM|2147,3295,0|Said: Ive tried	
+[10/7/25 09:28PM] ZOMBIE_LOBBY|2232,4114,0|Said: Slayer	
+[10/7/25 09:28PM] ZOMBIE_LOBBY|2232,4114,0|Said: It legit says	
+[10/7/25 09:28PM] ZOMBIE_LOBBY|2232,4114,0|Said: You must be 99+ slayer to do legends raids	
+[10/7/25 09:28PM] ZOMBIE_LOBBY|2235,4115,0|Said: Im 97 too	
+[10/7/25 09:29PM] Login. ip: 206.83.99.116, mac: MCNRCX05M06451520230128122925.000000+780, uuid: A4-FA-9A-34-1C-5A	
+[10/7/25 09:29PM] (CC) Help. Said: I cant even create a raid party without it saying that message	
+[10/7/25 09:30PM] (CC) Help. Said: Try inviting me to your party	
+[10/7/25 09:31PM] Login. ip: 206.83.99.116, mac: MCNRCX05M06451520230128122925.000000+780, uuid: A4-FA-9A-34-1C-5A	
+[10/7/25 09:31PM] ZOMBIE_LOBBY|2232,4113,0|Said: And i get dc'd if i try invite you	
+[10/7/25 09:31PM] ZOMBIE_LOBBY|2232,4113,0|Said: Well gonna have to get 99 then and then try	
+[10/7/25 09:33PM] (CC) Help. Said: Take care bud, sleep well :) thankyoooou	
+[10/7/25 09:34PM] Has just redeemed a $5 Bond successfully!	
+[10/7/25 09:34PM] Has just redeemed a $5 Bond successfully!	
+[10/7/25 09:34PM] (CC) Help. Said: Ayyo	
+[10/7/25 09:35PM] (CC) Help. Said: Roger that	
+[10/7/25 09:41PM] (CC) Help. Said: Welcome!	
+[10/7/25 09:50PM] (CC) Help. Said: Is there 2 other people who would be keen to do pest control ?	
+[10/7/25 09:50PM] (CC) Help. Said: Only task i need for startertasks	
+[10/7/25 10:26PM] (CC) Help. Said: Ye	
+[10/7/25 10:27PM] VBOSS|2980,2773,0|Said: Scythe	
+[10/7/25 10:30PM] VBOSS|2980,2774,0|Said: Half way	
+[10/7/25 10:35PM] VBOSS|2980,2774,0|Said: Glgl	
+[10/7/25 10:45PM] (CC) Help. Said: Sure	
+[10/7/25 10:47PM] HOME_BANK|2784,4065,0|Said: :naraku	
+[10/7/25 10:47PM] NARAKU|3425,9568,0|Said: Hmm	
+[10/7/25 10:48PM] NARAKU|3426,9566,0|Said: I mean i doubt we would get a armour or wep peice so probabl yeh	
+[10/7/25 11:16PM] (CC) Help. Said: What are you trying to use the darts on ?	
+[10/7/25 11:17PM] (CC) Help. Said: 0.o	
+[10/7/25 11:17PM] (CC) Help. Said: They dont work on globals	
+[10/8/25 12:07AM] Dox received x1 Angels Flamethrower from Legendary Wyvern!	
+[10/8/25 12:07AM] Dox received x1 Sorrow body from Legendary Wyvern!	
+[10/8/25 12:21AM] (CC) Help. Said: Zones	
+[10/8/25 12:35AM] Has just redeemed a $5 Bond successfully!	
+[10/8/25 12:36AM] Has just redeemed a $1 Scroll successfully!	
+[10/8/25 01:17AM] Player destroying item: -1, amount: 0	
+[10/8/25 01:18AM] Player destroying item: -1, amount: 0	
+[10/8/25 08:30PM] Login. ip: 206.83.102.238, mac: MCNRCX05M06451520230128122925.000000+780, uuid: A4-FA-9A-34-1C-5A	
+[10/8/25 08:31PM] (CC) Help. Said: Good evening!	
+[10/8/25 08:34PM] (CC) Help. Said: How we all doing	
+[10/8/25 08:35PM] (CC) Help. Said: Not bad either, just got off work, 1 day to go lol	
+[10/8/25 08:40PM] VOTE_BOSS|3429,4122,4|Said: Oo	
+[10/8/25 08:43PM] VOTE_BOSS|3429,4122,4|Said: Xd	
+[10/8/25 08:43PM] VOTE_BOSS|3429,4122,4|Said: 82	
+[10/8/25 08:44PM] NEPHILIM|2145,3298,0|Said: That was rude	
+[10/8/25 08:46PM] NEPHILIM|2145,3293,0|Said: Nerd	
+[10/8/25 08:49PM] NEPHILIM|2145,3300,0|Said: Server knows you're a spoon	
+[10/8/25 08:53PM] Dox received x1 $1 Scroll from Nephilim Warrior!	
+[10/8/25 08:53PM] Has just redeemed a $1 Scroll successfully!	
+[10/8/25 08:58PM] NEPHILIM|2784,4065,0|Said: :o	
+[10/8/25 09:01PM] NEPHILIM|2143,3297,0|Said: Lolol	
+[10/8/25 09:09PM] Dox received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/8/25 09:10PM] NEPHILIM|2143,3296,0|Said: Ty for spawns	
+[10/8/25 09:20PM] (CC) Help. Said: Pog	
+[10/8/25 09:33PM] (CC) Help. Said: Tyty	
+[10/8/25 09:35PM] DEFAULT|2766,4065,0|Said: ?	
+[10/8/25 09:35PM] DEFAULT|2766,4065,0|Said: :p	
+[10/8/25 09:40PM] (CC) Help. Said: Nope	
+[10/8/25 09:42PM] (CC) Help. Said: X[)	
+[10/8/25 09:43PM] DEFAULT|2766,4065,0|Said: 1 moooore lvl	
+[10/8/25 09:53PM] Picked up gr.Item Holy symbol, amount: 1	
+[10/8/25 10:00PM] HELLRAISER|3105,5533,0|Said: Scythe	
+[10/8/25 10:01PM] HELLRAISER|3105,5533,0|Said: Of vitur	
+[10/8/25 10:03PM] HELLRAISER|3101,5535,0|Said: :o	
+[10/8/25 10:04PM] HELLRAISER|3103,5537,0|Said: Damn gz	
+[10/8/25 10:06PM] HELLRAISER|3104,5532,0|Said: Gl	
+[10/8/25 10:09PM] (CC) Help. Said: Take care hank	
+[10/9/25 12:59AM] Dox received x1 Ganopurp staff from Oni!	
+[10/9/25 09:07PM] Login. ip: 206.83.102.238, mac: MCNRCX05M06451520230128122925.000000+780, uuid: A4-FA-9A-34-1C-5A	
+[10/9/25 09:08PM] (CC) Help. Said: Evening	
+[10/9/25 09:43PM] (CC) Help. Said: Welcome	
+[10/9/25 10:01PM] (CC) Help. Said: It's end game content	
+[10/9/25 10:01PM] (CC) Help. Said: Dw about it for now	
+[10/9/25 11:08PM] Picked up gr.Item Empty bucket, amount: 1	
+[10/9/25 11:09PM] Picked up gr.Item Rancid flour, amount: 1	
+[10/9/25 11:13PM] Player destroying item: 2959, amount: 1	
+[10/9/25 11:33PM] Has just redeemed a $1 Scroll successfully!	
+[10/9/25 11:34PM] Player destroying item: -1, amount: 0	
+[10/9/25 11:42PM] DEFAULT|2783,4050,0|Said: Hank you there ?	
+[10/9/25 11:46PM] (CC) Help. Said: What	
+[10/9/25 11:48PM] EVENTS_ROOM|1701,4261,0|Said: Gg	
+[10/10/25 02:29AM] (CC) Help. Said: You apply for staff, call the server crap & then you're still here lol.....	
+[10/10/25 02:30AM] (CC) Help. Said: This isnt easy scape. it takes abit of a grind	
+[10/10/25 02:42AM] Dox received x1 Shikruu platebody from Super Shenron!	
+[10/11/25 11:20PM] Login. ip: 206.83.98.246, mac: MCNRCX05M06451520230128122925.000000+780, uuid: A4-FA-9A-34-1C-5A	
+[10/12/25 09:33PM] Login. ip: 206.83.98.246, mac: MCNRCX05M06451520230128122925.000000+780, uuid: A4-FA-9A-34-1C-5A	
+[10/12/25 09:34PM] (CC) Help. Said: Good evening	
+[10/12/25 10:29PM] HOME_BANK|2784,4062,0|Said: Hey	
+[10/12/25 10:29PM] HOME_BANK|2784,4062,0|Said: Hows it going	
+[10/13/25 08:46PM] Login. ip: 206.83.98.246, mac: MCNRCX05M06451520230128122925.000000+780, uuid: A4-FA-9A-34-1C-5A	
+[10/13/25 08:49PM] (CC) Help. Said: Good afternoon	
+[10/13/25 09:01PM] (CC) Help. Said: Gz	
+[10/13/25 09:03PM] (CC) Help. Said: Well lucky for some xd still a good pull	
+[10/14/25 09:28PM] Login. ip: 206.83.102.11, mac: MCNRCX05M06451520230128122925.000000+780, uuid: A4-FA-9A-34-1C-5A	
+[10/14/25 09:28PM] (CC) Help. Said: Good evening	
+[10/14/25 09:28PM] HOME_BANK|2783,4060,0|Said: Sup	
+[10/14/25 09:29PM] HOME_BANK|2783,4060,0|Said: Hows it hanging	
+[10/14/25 09:30PM] HOME_BANK|2783,4060,0|Said: Ooh	
+[10/14/25 09:30PM] HOME_BANK|2783,4060,0|Said: Very nice	
+[10/14/25 09:36PM] HOME_BANK|2784,4060,0|Said: Halloween ?	
+[10/15/25 08:42PM] Login. ip: 206.83.102.11, mac: MCNRCX05M06451520230128122925.000000+780, uuid: A4-FA-9A-34-1C-5A	
+[10/15/25 08:43PM] (CC) Help. Said: Hello	
+[10/15/25 08:43PM] (CC) Help. Said: Gz	
+[10/15/25 08:44PM]  Receiving item from trade with History Hawk Id: 23278, amount: 5	
+[10/15/25 08:44PM]  Receiving item from trade with History Hawk Id: 5011, amount: 1	
+[10/15/25 08:44PM] HOME_BANK|2783,4062,0|Said: Oof ty	
+[10/15/25 08:46PM] Has just redeemed a $50 Bond successfully!	
+[10/15/25 08:46PM] Has just redeemed a $10 Bond successfully!	
+[10/15/25 08:46PM] Has just redeemed a $10 Bond successfully!	
+[10/15/25 08:46PM] Has just redeemed a $25 Bond successfully!	
+[10/15/25 08:46PM] Has just redeemed a $5 Bond successfully!	
+[10/15/25 08:46PM] Has just redeemed a $25 Bond successfully!	
+[10/15/25 08:48PM] Has just redeemed a $25 Bond successfully!	
+[10/15/25 08:48PM] Has just redeemed a $5 Bond successfully!	
+[10/15/25 08:48PM] Has just redeemed a $10 Bond successfully!	
+[10/15/25 08:48PM] HOME_BANK|2783,4062,0|Said: Tyty	
+[10/15/25 08:48PM] DEFAULT|2783,4056,0|Said: Legend	
+[10/15/25 08:48PM] DEFAULT|2783,4052,0|Said: <3	
+[10/15/25 08:52PM] NEPHILIM|2144,3296,0|Said: Damn i've got to pop out rq, ill be back in like 20 sorry lads	
+[10/15/25 11:09PM] Has just redeemed a $1 Scroll successfully!	
+[10/15/25 11:09PM] (CC) Help. Said: Damn was out longer then expected	
+[10/15/25 11:10PM] Has just redeemed a $25 Bond successfully!	
+[10/15/25 11:10PM] Has just redeemed a $50 Bond successfully!	
+[10/15/25 11:11PM] Has just redeemed a $1 Scroll successfully!	
+[10/15/25 11:39PM] Has just redeemed a $5 Bond successfully!	
+[10/15/25 11:44PM] (CC) Help. Said: Gz on rank	
+[10/16/25 01:06AM] (CC) Help. Said: Gz	
+[10/16/25 01:20AM] (CC) Help. Said: Gn	
+[10/17/25 02:56PM] Login. ip: 219.89.29.123, mac: MCNRCX05M06451520230128122925.000000+780, uuid: 14-13-33-0B-67-55	
+[10/17/25 03:03PM] Has just redeemed a $1 Scroll successfully!	
+[10/17/25 03:15PM] (CC) Help. Said: Hey man	
+[10/17/25 03:15PM] (CC) Help. Said: Bro im so hungover hahaha but im doing alright, how about you ?	
+[10/17/25 03:38PM] (CC) Help. Said: How do you claim vote rewards ?	
+[10/17/25 03:41PM] (CC) Help. Said: Okay np 	
+[10/17/25 04:15PM] (CC) Help. Said: Yo	
+[10/17/25 04:15PM] DEFAULT|2098,5517,0|Said: Hello	
+[10/17/25 04:16PM] DEFAULT|2098,5517,0|Said: These hard tasls are so slooow	
+[10/17/25 04:17PM] DEFAULT|2098,5517,0|Said: Alright	
+[10/17/25 04:18PM] DEFAULT|2098,5517,0|Said: Gonna get new task	
+[10/17/25 04:23PM] Dox received x1 PvM ticket pack (10k) from Energy Skeleton!	
+[10/17/25 05:41PM] HOME_BANK|2786,4064,0|Said: Lil party going on here	
+[10/17/25 05:45PM] HOME_BANK|2786,4064,0|Said: What you upto kursed	
+[10/17/25 05:47PM] HOME_BANK|2786,4064,0|Said: Oof	
+[10/17/25 05:47PM] HOME_BANK|2786,4064,0|Said: Screw that lol i dont wanna think of alcohol rn i feel ill xd	
+[10/17/25 08:10PM] (CC) Help. Said: Damn nice pulls	
+[10/17/25 08:13PM] (CC) Help. Said: Whats this moonshine do lmao	
+[10/17/25 08:17PM] (CC) Help. Said: Ohhh	
+[10/17/25 08:53PM] Dox received x1 Sorrow bow from Sub-Zero!	
+[10/17/25 09:10PM] (CC) Help. Said: Need 5k to move on lol	
+[10/18/25 12:07PM] Login. ip: 219.89.29.123, mac: MCNRCX05M06451520230128122925.000000+780, uuid: 14-13-33-0B-67-55	
+[10/18/25 02:03PM] (CC) Help. Said: 106m i think	
+[10/18/25 02:03PM] (CC) Help. Said: Might be more for invention then	
+[10/18/25 02:37PM] Dox received x1 Sorrow horn-coif from Sub-Zero!	
+[10/18/25 02:46PM] Player destroying item: 13740, amount: 1	
+[10/18/25 02:46PM] Player destroying item: 13740, amount: 1	
+[10/18/25 03:32PM] INSTANCE2|2784,4767,27|Said:  /hank is rigged	
+[10/18/25 03:32PM] (CC) Help. Said: Hank is rigged	
+[10/18/25 03:35PM] Dox received x1 Upgrade Token pack (25k) from Sub-Zero!	
+[10/18/25 09:14PM] (CC) Help. Said: Sup bois	
+[10/18/25 09:25PM] (CC) Help. Said: Howdy	
+[10/18/25 09:26PM] (CC) Help. Said: Anyone selling invention lamps 	
+[10/18/25 09:26PM] Has just redeemed a $1 Scroll successfully!	
+[10/18/25 09:27PM] Dox received x1 PvM ticket pack (10k) from Demon Goddess!	
+[10/18/25 09:27PM] DEFAULT|2791,4453,0|Said: Oh shit didnt notice	
+[10/18/25 09:28PM] DEFAULT|2791,4453,0|Said: Should get me a couple lvls	
+[10/18/25 09:28PM] DEFAULT|2791,4453,0|Said: Ty	
+[10/18/25 09:28PM] DEFAULT|2791,4453,0|Said: Sweet	
+[10/18/25 09:28PM] DEFAULT|2790,4455,0|Said: Thats exciting	
+[10/18/25 09:29PM] DEFAULT|2790,4453,0|Said: Looking forward to it man	
+[10/18/25 09:29PM] DEFAULT|2791,4452,0|Said: Is there a exp perk you could pop so i can use these lamps xd	
+[10/18/25 09:30PM] DEFAULT|2791,4452,0|Said: Shit yeah	
+[10/18/25 09:30PM] DEFAULT|2791,4452,0|Said: Ily	
+[10/18/25 09:31PM] DEFAULT|2791,4452,0|Said: Woot 100 invention :[)	
+[10/18/25 09:31PM] DEFAULT|2791,4452,0|Said: 20 to go	
+[10/18/25 09:31PM] DEFAULT|2791,4452,0|Said: Can invent all my lamps now	
+[10/18/25 09:35PM] (CC) Help. Said: Ty sir	

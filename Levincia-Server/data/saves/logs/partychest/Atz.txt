@@ -1,0 +1,7 @@
+[10/6/25 05:04AM] Item: Collector ring, ID: 4446, Amount: 1	
+[10/6/25 05:06AM] Item: Brutal Minigun, ID: 19136, Amount: 1	
+[10/6/25 05:06AM] Item: Sorrow chaps, ID: 8805, Amount: 1	
+[10/6/25 05:07AM] Item: Premium ticket, ID: 23174, Amount: 20	
+[10/6/25 05:07AM] Item: Rage attachment, ID: 9083, Amount: 1	
+[10/6/25 05:07AM] Item: PvM Box, ID: 7956, Amount: 1	
+[10/6/25 05:07AM] Item: Starter bones, ID: 23402, Amount: 15	

@@ -1,0 +1,11 @@
+[10/7/25 07:07AM] Player picked up item: Divine spirit shield, id: 13741, amount: 2, owner: Gudekompleks	
+[10/7/25 07:07AM] Player picked up item: Sorrow bow, id: 20173, amount: 1, owner: Gudekompleks	
+[10/7/25 07:07AM] Player picked up item: Sorrow bow, id: 20173, amount: 1, owner: Gudekompleks	
+[10/7/25 07:07AM] Player picked up item: Diabolical boots, id: 15830, amount: 1, owner: Gudekompleks	
+[10/7/25 07:49AM] Player picked up item: Levincia tokens, id: 12855, amount: 90, owner: Gudekompleks	
+[10/7/25 07:50AM] Player picked up item: Levincia tokens, id: 12855, amount: 56000, owner: Gudekompleks	
+[10/7/25 07:50AM] Player picked up item: Levincia tokens, id: 12855, amount: 56000, owner: Gudekompleks	
+[10/7/25 08:43AM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Gudekompleks	
+[10/7/25 01:02PM] Player picked up item: Rancid flour, id: 7546, amount: 1, owner: Gudekompleks	
+[10/7/25 01:15PM] Player picked up item: Empty bucket, id: 3727, amount: 1, owner: Gudekompleks	
+[10/7/25 01:21PM] Player picked up item: Rancid flour, id: 7546, amount: 1, owner: Gudekompleks	

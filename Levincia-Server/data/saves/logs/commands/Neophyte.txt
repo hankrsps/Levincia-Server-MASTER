@@ -1,0 +1,7 @@
+[10/11/25 02:40AM] Neophyte used command ::vote | Player rights = PLAYER	
+[10/11/25 02:41AM] Neophyte used command ::voted | Player rights = PLAYER	
+[10/11/25 02:41AM] Neophyte used command ::claim | Player rights = PLAYER	
+[10/11/25 02:41AM] Neophyte used command ::reward 1 all | Player rights = PLAYER	
+[10/11/25 02:45AM] Neophyte used command ::zones | Player rights = PLAYER	
+[10/12/25 08:19AM] Neophyte used command ::vote | Player rights = PLAYER	
+[10/12/25 08:20AM] Neophyte used command ::bank | Player rights = PLAYER	

@@ -1,0 +1,190 @@
+[10/7/25 01:00AM]  Received item from Afk Gh. Name: Levincia tokens. Id: 12855, amount: 803	
+[10/7/25 01:00AM]  Received item from Afk Gh. Name: PVM ticket. Id: 5022, amount: 636	
+[10/7/25 01:00AM]  Received item from Afk Gh. Name: AFK ticket. Id: 5020, amount: 492	
+[10/7/25 01:17AM]  Received item from Afk Gh. Name: AFK ticket. Id: 5020, amount: 262	
+[10/7/25 01:17AM]  Received item from Afk Gh. Name: Shikruu platebody. Id: 8801, amount: 1	
+[10/7/25 01:17AM]  Received item from Afk Gh. Name: PVM ticket. Id: 5022, amount: 265	
+[10/7/25 01:17AM]  Received item from Afk Gh. Name: Levincia tokens. Id: 12855, amount: 321	
+[10/7/25 01:17AM]  Received item from Afk Gh. Name: Loot box. Id: 290, amount: 2	
+[10/7/25 01:17AM]  Received item from Afk Gh. Name: Dragon pickaxe. Id: 15259, amount: 1	
+[10/7/25 01:17AM]  Received item from Afk Gh. Name: Dragon med helm. Id: 1149, amount: 1	
+[10/7/25 01:17AM]  Received item from Afk Gh. Name: Dragon mace. Id: 1434, amount: 1	
+[10/7/25 01:17AM]  Received item from Afk Gh. Name: Dragon 2h sword. Id: 7158, amount: 1	
+[10/7/25 01:17AM]  Received item from Afk Gh. Name: Ring of slaying (8). Id: 13281, amount: 1	
+[10/7/25 01:57PM]  Received item from Afk Gh. Name: AFK ticket. Id: 5020, amount: 187	
+[10/7/25 01:57PM]  Received item from Afk Gh. Name: Levincia tokens. Id: 12855, amount: 339	
+[10/7/25 01:57PM]  Received item from Afk Gh. Name: Vote scroll. Id: 23020, amount: 5	
+[10/7/25 01:57PM]  Received item from Afk Gh. Name: Supreme Casket. Id: 23253, amount: 2	
+[10/7/25 01:57PM]  Received item from Afk Gh. Name: PVM ticket. Id: 5022, amount: 1282	
+[10/7/25 01:57PM]  Received item from Afk Gh. Name: 1k token. Id: 8851, amount: 5	
+[10/7/25 01:57PM]  Received item from Afk Gh. Name: Crystal key. Id: 989, amount: 2	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Shikruu full helm. Id: 8800, amount: 1	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Levincia tokens. Id: 12855, amount: 302577	
+[10/7/25 03:16PM]  Received item from Juggy. Name: PVM ticket. Id: 5022, amount: 111740	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Donator Aura. Id: 12630, amount: 1	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Maxiblood whip. Id: 18750, amount: 1	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Collector necklace. Id: 19886, amount: 1	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Art's boots. Id: 8334, amount: 1	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Art's amulet. Id: 19892, amount: 1	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Trinity hammers. Id: 22084, amount: 1	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Joyxox sword. Id: 17708, amount: 1	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Titan staff. Id: 17600, amount: 1	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Vote scroll. Id: 23020, amount: 4	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Death rune. Id: 560, amount: 246	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Angels Flamethrower. Id: 17712, amount: 1	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Instance Tokens. Id: 4278, amount: 19	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Legendary body. Id: 17640, amount: 1	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Inferno Wings. Id: 12634, amount: 1	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Art's ring. Id: 8335, amount: 1	
+[10/7/25 03:16PM]  Received item from Juggy. Name: Soul fragment. Id: 14639, amount: 366	
+[10/7/25 03:22PM]  Received item from Juggy. Name: Raids Box. Id: 18404, amount: 7	
+[10/7/25 03:22PM]  Received item from Juggy. Name: OP Box. Id: 20488, amount: 3	
+[10/7/25 03:22PM]  Received item from Juggy. Name: Levincia tokens. Id: 12855, amount: 10000	
+[10/7/25 06:11PM]  Received item from Afk Gh. Name: Golden Scratch Card. Id: 22121, amount: 1	
+[10/7/25 06:11PM]  Received item from Afk Gh. Name: $5 Bond. Id: 6769, amount: 3	
+[10/7/25 06:11PM]  Received item from Afk Gh. Name: Vote scroll. Id: 23020, amount: 5	
+[10/7/25 06:11PM]  Received item from Afk Gh. Name: Dragon Rider lance. Id: 8087, amount: 1	
+[10/8/25 01:21AM]  Gave item to Afk Gh. Name: Dragon Rider lance. Id: 8087, amount: 1	
+[10/8/25 01:21AM]  Gave item to Afk Gh. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/8/25 01:21AM]  Gave item to Afk Gh. Name: Tanker shield. Id: 12933, amount: 1	
+[10/8/25 01:21AM]  Gave item to Afk Gh. Name: Collector necklace. Id: 19886, amount: 1	
+[10/8/25 01:21AM]  Gave item to Afk Gh. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/8/25 01:21AM]  Gave item to Afk Gh. Name: Collector necklace II. Id: 19888, amount: 1	
+[10/8/25 01:21AM]  Gave item to Afk Gh. Name: Collector ring. Id: 4446, amount: 1	
+[10/8/25 01:21AM]  Gave item to Afk Gh. Name: Melee body (T5). Id: 8327, amount: 1	
+[10/8/25 01:21AM]  Received item from Afk Gh. Name: 1k token. Id: 8851, amount: 10275	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: PVM ticket. Id: 5022, amount: 448	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Crystal key. Id: 989, amount: 71	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Starter bones. Id: 23402, amount: 121	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Beginner Mystery box. Id: 6199, amount: 21	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: PvM Box. Id: 7956, amount: 9	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Instance Tokens. Id: 4278, amount: 4	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Levincia tokens. Id: 12855, amount: 5000	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Reward Crate. Id: 10025, amount: 3	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Emerald mystery box. Id: 19115, amount: 3	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Goodiebag box. Id: 6833, amount: 1	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Ruby Mystery Box. Id: 19114, amount: 3	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Melee body (T5). Id: 8327, amount: 1	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Collector ring. Id: 4446, amount: 1	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Tornado Katana. Id: 14018, amount: 1	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Dragon Rider lance. Id: 8087, amount: 1	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Sapphire mystery box. Id: 19116, amount: 2	
+[10/8/25 01:29AM]  Received item from Afk Gh. Name: Collector necklace II. Id: 19888, amount: 1	
+[10/8/25 01:18PM]  Received item from Ezpz Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Received item from Ezpz Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Received item from Ezpz Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Received item from Ezpz Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Received item from Ezpz Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/9/25 11:59PM]  Gave item to Ezpz Ghijf. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/9/25 11:59PM]  Gave item to Ezpz Ghijf. Name: Melee body (T5). Id: 8327, amount: 1	
+[10/9/25 11:59PM]  Gave item to Ezpz Ghijf. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/9/25 11:59PM]  Gave item to Ezpz Ghijf. Name: Trinity hammers. Id: 22084, amount: 1	
+[10/9/25 11:59PM]  Gave item to Ezpz Ghijf. Name: Ring of Gluttony. Id: 6737, amount: 1	
+[10/9/25 11:59PM]  Gave item to Ezpz Ghijf. Name: Aura (T1). Id: 23044, amount: 1	
+[10/9/25 11:59PM]  Gave item to Ezpz Ghijf. Name: Art's amulet. Id: 19892, amount: 1	
+[10/10/25 12:14AM]  Gave item to Ezpz Ghijf. Name: Fury shark. Id: 17817, amount: 395	
+[10/10/25 12:30AM]  Gave item to Ezpz Ghijf. Name: Diabolical bones. Id: 3285, amount: 1177	
+[10/10/25 12:40AM]  Received item from Ezpz Ghijf. Name: Diabolical bones. Id: 3285, amount: 662	
+[10/10/25 12:40AM]  Received item from Ezpz Ghijf. Name: Azure Casket. Id: 15003, amount: 1	
+[10/10/25 12:40AM]  Received item from Ezpz Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 1	
+[10/10/25 12:41AM]  Gave item to Ezpz Ghijf. Name: Corrupt maxiblood helm. Id: 18753, amount: 1	
+[10/10/25 04:38PM]  Gave item to Ezpz Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/10/25 04:48PM]  Received item from Ezpz Ghijf. Name: Levincia tokens. Id: 12855, amount: 32000	
+[10/10/25 04:48PM]  Received item from Ezpz Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 1	
+[10/10/25 04:48PM]  Received item from Ezpz Ghijf. Name: Upgrade Token pack (100k). Id: 15288, amount: 1	
+[10/10/25 04:48PM]  Received item from Ezpz Ghijf. Name: Launch casket. Id: 20489, amount: 3	
+[10/10/25 04:48PM]  Received item from Ezpz Ghijf. Name: Emerald mystery box. Id: 19115, amount: 2	
+[10/10/25 04:48PM]  Received item from Ezpz Ghijf. Name: Beginner Mystery box. Id: 6199, amount: 21	
+[10/10/25 04:48PM]  Received item from Ezpz Ghijf. Name: Crystal key. Id: 989, amount: 57	
+[10/10/25 06:20PM]  Received item from Ezpz Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/10/25 06:44PM]  Gave item to Ezpz Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/10/25 07:17PM]  Received item from Ezpz Ghijf. Name: Vote Mystery Box. Id: 15501, amount: 1	
+[10/10/25 07:17PM]  Received item from Ezpz Ghijf. Name: Antique lamp. Id: 11137, amount: 10	
+[10/10/25 07:17PM]  Received item from Ezpz Ghijf. Name: Special bones. Id: 2026, amount: 25	
+[10/10/25 07:17PM]  Received item from Ezpz Ghijf. Name: Vote scroll. Id: 23020, amount: 1	
+[10/10/25 07:17PM]  Received item from Ezpz Ghijf. Name: PVM ticket. Id: 5022, amount: 52742	
+[10/10/25 07:17PM]  Received item from Ezpz Ghijf. Name: Starter bones. Id: 23402, amount: 224	
+[10/10/25 07:17PM]  Received item from Ezpz Ghijf. Name: Reward Crate. Id: 10025, amount: 2	
+[10/11/25 03:38AM]  Gave item to Ezpz Ghijf. Name: Maxiblood whip. Id: 18750, amount: 1	
+[10/11/25 03:38AM]  Received item from Ezpz Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/11/25 03:40AM]  Gave item to Ezpz Ghijf. Name: Owner Potion. Id: 23242, amount: 1	
+[10/11/25 03:40AM]  Received item from Ezpz Ghijf. Name: Owner Potion. Id: 23242, amount: 1	
+[10/11/25 03:41AM]  Gave item to Ezpz Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/11/25 03:41AM]  Received item from Ezpz Ghijf. Name: Maxiblood whip. Id: 18750, amount: 1	
+[10/11/25 06:55AM]  Gave item to Ezpz Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 106	
+[10/11/25 06:55AM]  Gave item to Ezpz Ghijf. Name: Emerald mystery box. Id: 19115, amount: 41	
+[10/11/25 06:55AM]  Gave item to Ezpz Ghijf. Name: PvM Box. Id: 7956, amount: 156	
+[10/11/25 06:55AM]  Gave item to Ezpz Ghijf. Name: PvM Box (t2). Id: 22214, amount: 187	
+[10/11/25 06:56AM]  Received item from Ezpz Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 50	
+[10/11/25 06:56AM]  Received item from Ezpz Ghijf. Name: Vote scroll. Id: 23020, amount: 5	
+[10/11/25 06:56AM]  Received item from Ezpz Ghijf. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/11/25 06:56AM]  Received item from Ezpz Ghijf. Name: Trinity hammers. Id: 22084, amount: 1	
+[10/11/25 06:59AM]  Gave item to Ezpz Ghijf1. Name: Blood Twisted bow. Id: 23226, amount: 1	
+[10/11/25 07:07AM]  Received item from Ezpz Ghijf1. Name: Ruby Mystery Box. Id: 19114, amount: 3	
+[10/11/25 07:07AM]  Received item from Ezpz Ghijf1. Name: Blood Twisted bow. Id: 23226, amount: 1	
+[10/11/25 07:07AM]  Received item from Ezpz Ghijf1. Name: Reward Crate. Id: 10025, amount: 3	
+[10/11/25 07:07AM]  Received item from Ezpz Ghijf1. Name: Launch casket. Id: 20489, amount: 3	
+[10/11/25 07:07AM]  Received item from Ezpz Ghijf1. Name: Goodiebag box. Id: 6833, amount: 1	
+[10/11/25 07:07AM]  Received item from Ezpz Ghijf1. Name: Sapphire mystery box. Id: 19116, amount: 2	
+[10/11/25 07:07AM]  Received item from Ezpz Ghijf1. Name: PVM ticket. Id: 5022, amount: 51099	
+[10/11/25 07:07AM]  Received item from Ezpz Ghijf1. Name: Emerald mystery box. Id: 19115, amount: 3	
+[10/11/25 07:36AM]  Received item from Ezpz Ghijf. Name: PvM ticket pack (10k). Id: 22219, amount: 1	
+[10/11/25 07:36AM]  Received item from Ezpz Ghijf. Name: Raids Box. Id: 18404, amount: 3	
+[10/11/25 07:36AM]  Received item from Ezpz Ghijf. Name: Map scrap. Id: 4275, amount: 1	
+[10/12/25 04:29AM]  Received item from Ezpz Ghijf. Name: AFK ticket. Id: 5020, amount: 10000	
+[10/12/25 04:29AM]  Received item from Ezpz Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 2	
+[10/12/25 04:29AM]  Received item from Ezpz Ghijf. Name: Crystal key. Id: 989, amount: 1	
+[10/12/25 04:29AM]  Received item from Ezpz Ghijf. Name: Upgrade Token pack (5k). Id: 15290, amount: 1	
+[10/12/25 04:29AM]  Received item from Ezpz Ghijf. Name: Summoning charm box. Id: 20481, amount: 1	
+[10/12/25 06:06AM]  Gave item to Test. Name: Dark bow. Id: 11235, amount: 1	
+[10/12/25 06:06AM]  Gave item to Test. Name: Staff of light. Id: 15486, amount: 1	
+[10/12/25 06:08AM]  Received item from Test. Name: Elite Casket. Id: 15002, amount: 1	
+[10/12/25 06:21AM]  Gave item to Ezpz Ghijf. Name: Levincia tokens. Id: 12855, amount: 10000000	
+[10/12/25 07:13AM]  Gave item to Ezpz Ghijf. Name: Spider bones. Id: 3284, amount: 2139	
+[10/12/25 07:51AM]  Received item from Ezpz Ghijf. Name: Azure Casket. Id: 15003, amount: 2	
+[10/12/25 08:02AM]  Gave item to Ezpz Ghijf. Name: Elite dragon bones. Id: 18830, amount: 16307	
+[10/12/25 11:27AM]  Received item from Ezpz Ghijf. Name: Azure Casket. Id: 15003, amount: 1	
+[10/12/25 06:26PM]  Received item from Ezpz Ghijf. Name: Elite Casket. Id: 15002, amount: 2	
+[10/12/25 06:26PM]  Received item from Ezpz Ghijf. Name: Azure Casket. Id: 15003, amount: 1	
+[10/12/25 06:26PM]  Received item from Ezpz Ghijf. Name: Launch casket. Id: 20489, amount: 1	
+[10/13/25 04:59AM]  Received item from Ezpz Ghijf. Name: AFK ticket. Id: 5020, amount: 14668	
+[10/13/25 04:59AM]  Gave item to Ezpz Ghijf. Name: Diabolical bones. Id: 3285, amount: 740	
+[10/13/25 05:09AM]  Gave item to Hzal. Name: Light Twisted bow. Id: 5011, amount: 1	
+[10/13/25 05:16AM]  Gave item to Ezpz Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/13/25 05:16AM]  Gave item to Ezpz Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/13/25 05:27AM]  Received item from Ezpz Ghijf. Name: Case key. Id: 4186, amount: 1	
+[10/13/25 05:34AM]  Gave item to Afk Gh. Name: Babydragon bones. Id: 534, amount: 12989	
+[10/13/25 07:48AM]  Received item from Afk Gh. Name: Launch casket. Id: 20489, amount: 1	
+[10/13/25 07:48AM]  Received item from Afk Gh. Name: Azure Casket. Id: 15003, amount: 1	
+[10/13/25 08:08AM]  Received item from Ezpz Ghijf. Name: AFK ticket. Id: 5020, amount: 10000	
+[10/13/25 08:10AM]  Received item from Ezpz Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/13/25 08:10AM]  Received item from Ezpz Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/13/25 07:08PM]  Received item from Ezpz Ghijf. Name: AFK ticket. Id: 5020, amount: 15549	
+[10/13/25 07:08PM]  Received item from Ezpz Ghijf. Name: Levincia tokens. Id: 12855, amount: 30991	
+[10/13/25 07:08PM]  Received item from Ezpz Ghijf. Name: Celestial's Card Pack. Id: 23278, amount: 1	
+[10/13/25 07:08PM]  Received item from Ezpz Ghijf. Name: Quill's Card Pack. Id: 23277, amount: 2	
+[10/13/25 07:08PM]  Received item from Ezpz Ghijf. Name: Antique lamp. Id: 11137, amount: 10	
+[10/14/25 04:57AM]  Received item from Ezpz Ghijf. Name: AFK ticket. Id: 5020, amount: 13671	
+[10/14/25 04:57AM]  Received item from Ezpz Ghijf. Name: Beginner Mystery box. Id: 6199, amount: 34	
+[10/14/25 04:57AM]  Received item from Ezpz Ghijf. Name: PvM Box. Id: 7956, amount: 21	
+[10/14/25 04:57AM]  Received item from Ezpz Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 2	
+[10/14/25 04:57AM]  Received item from Ezpz Ghijf. Name: PVM ticket. Id: 5022, amount: 30830	
+[10/14/25 04:57AM]  Received item from Ezpz Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 7	
+[10/14/25 05:12AM]  Gave item to Ezpz Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/14/25 05:12AM]  Gave item to Ezpz Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/14/25 05:12AM]  Received item from Ezpz Ghijf. Name: Suffering key. Id: 23370, amount: 1	
+[10/14/25 05:14AM]  Received item from Ezpz Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/14/25 05:14AM]  Received item from Ezpz Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/14/25 07:19AM]  Received item from Afk Gh. Name: Elite Casket. Id: 15002, amount: 1	
+[10/14/25 07:19AM]  Received item from Afk Gh. Name: Emerald mystery box. Id: 19115, amount: 16	
+[10/14/25 07:19AM]  Received item from Afk Gh. Name: Sapphire mystery box. Id: 19116, amount: 12	
+[10/14/25 07:19AM]  Received item from Afk Gh. Name: OP Box. Id: 20488, amount: 2	
+[10/14/25 07:19AM]  Received item from Afk Gh. Name: Ruby Mystery Box. Id: 19114, amount: 2	
+[10/14/25 07:20AM]  Received item from Afk Gh. Name: Creeper cape. Id: 1486, amount: 1	
+[10/14/25 07:20AM]  Received item from Afk Gh. Name: Collector ring II. Id: 18823, amount: 1	
+[10/14/25 07:20AM]  Received item from Afk Gh. Name: Invention xp lamp. Id: 21218, amount: 25	
+[10/14/25 07:20AM]  Received item from Afk Gh. Name: Coin. Id: 995, amount: 49847983	
+[10/14/25 07:20AM]  Received item from Afk Gh. Name: Babydragon bones. Id: 534, amount: 4099	

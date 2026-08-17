@@ -1,0 +1,2 @@
+[10/10/25 09:24AM] Login from host 78.57.50.255, serial number: 16-AB-C5-7E-69-40, mac address:H9N0CV07E66037920240131190437.000000+120	
+[10/10/25 09:30AM] Logout with password dzemasLogout from host 78.57.50.255, serial number: 16-AB-C5-7E-69-40, mac address:H9N0CV07E66037920240131190437.000000+120	

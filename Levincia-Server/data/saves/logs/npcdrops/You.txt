@@ -1,0 +1,6 @@
+[10/7/25 08:15PM] Player received drop: x1 Webby legs, id: 19472, amount: 1, from: Arachne	
+[10/8/25 08:40AM] Player received drop: x1 Ripper helm, id: 15922, amount: 1, from: Titanium Ripper	
+[10/8/25 07:55PM] Player received drop: x1 Oni off-hand, id: 15818, amount: 1, from: Oni	
+[10/8/25 07:58PM] Player received drop: x1 Ganopurp robe top, id: 8807, amount: 1, from: Oni	
+[10/9/25 09:34AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Drone	
+[10/9/25 11:43AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Drone	

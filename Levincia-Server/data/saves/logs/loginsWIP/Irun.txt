@@ -1,0 +1,2 @@
+[10/7/25 10:45AM] Login from host 185.97.94.81, serial number: 2C-F0-5D-96-6E-F4, mac address:Default string20250130020957.000000+180	
+[10/7/25 10:53AM] Logout with password nciaLogout from host 185.97.94.81, serial number: 2C-F0-5D-96-6E-F4, mac address:Default string20250130020957.000000+180	

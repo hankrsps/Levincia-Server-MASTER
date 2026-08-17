@@ -1,0 +1,170 @@
+[10/6/25 11:50PM] PROGRESSION_ZONES|3034,4121,1|Said: :commands	
+[10/7/25 12:50AM] PROGRESSION_ZONES|3036,4121,13|Said: :answer 1	
+[10/7/25 06:00AM] DEFAULT|1824,5089,2|Said: Yeah	
+[10/7/25 06:00AM] DEFAULT|1824,5089,2|Said: :p	
+[10/7/25 06:33AM] VOTE_BOSS|3428,4115,4|Said: Nobdy wants?	
+[10/7/25 06:33AM] VOTE_BOSS|3428,4115,4|Said: Or they afk	
+[10/7/25 06:33AM] VOTE_BOSS|3428,4115,4|Said: :p	
+[10/7/25 06:33AM] VOTE_BOSS|3428,4115,4|Said: Would i get my vote scrolls aswell	
+[10/7/25 06:33AM] VOTE_BOSS|3428,4115,4|Said: I mean from voring	
+[10/7/25 06:33AM] VOTE_BOSS|3428,4115,4|Said: Voting	
+[10/7/25 06:36AM] VOTE_BOSS|3426,4120,4|Said: Hank could u show me after this vboss where king ronald is	
+[10/7/25 06:36AM] VOTE_BOSS|3426,4120,4|Said: Ty for votes	
+[10/7/25 06:37AM] VOTE_BOSS|3426,4120,4|Said: Okii	
+[10/7/25 06:39AM] DEFAULT|2768,4060,0|Said: Its bugged?	
+[10/7/25 06:39AM] DEFAULT|2768,4060,0|Said: Ive got it	
+[10/7/25 06:39AM] DEFAULT|2764,4064,0|Said: Ive got ghost ammy	
+[10/7/25 06:40AM] DEFAULT|2764,4064,0|Said: Used the holy on amulet	
+[10/7/25 06:40AM] DEFAULT|2771,4061,0|Said: Oh	
+[10/7/25 06:40AM] DEFAULT|2771,4061,0|Said: Ty	
+[10/7/25 07:51AM] GLOBAL_BOSS|2147,5016,0|Said: Creeper doesnt give invis prayer?	
+[10/7/25 07:51AM] GLOBAL_BOSS|2147,5016,0|Said: Unlim*	
+[10/7/25 07:52AM] GLOBAL_BOSS|2147,5016,0|Said: Mine dropped	
+[10/7/25 07:55AM] GLOBAL_BOSS|2139,5019,0|Said: Gl	
+[10/7/25 09:18AM] SLAYERMULTI|1870,5199,0|Said:  /think u sell stuff there	
+[10/7/25 09:20AM] HELLRAISER|3103,5533,0|Said: Got spooned by card pack	
+[10/7/25 09:20AM] HELLRAISER|3103,5533,0|Said: The wep is op	
+[10/7/25 09:21AM] HELLRAISER|3103,5533,0|Said: Raids i think	
+[10/7/25 09:21AM] HELLRAISER|3103,5533,0|Said: Or card packs & op caskets	
+[10/7/25 10:33AM] VOTE_BOSS|3428,4115,4|Said: Voting working now?	
+[10/7/25 10:34AM] VOTE_BOSS|3428,4115,4|Said: Oh	
+[10/7/25 11:25AM] DEFAULT|2784,4043,0|Said: :dk	
+[10/7/25 11:32AM] GLOBAL_BOSS|2141,5019,0|Said: Glgl	
+[10/7/25 11:33AM] GLOBAL_BOSS|2141,5019,0|Said: Hmm	
+[10/7/25 11:34AM] GLOBAL_BOSS|2139,5018,0|Said: Trade	
+[10/7/25 11:34AM] HOME_BANK|2784,4065,0|Said: Gl:)	
+[10/7/25 11:38AM] HOME_BANK|2784,4065,0|Said: Lmao	
+[10/7/25 11:38AM] HOME_BANK|2784,4065,0|Said: Ive got no clue	
+[10/7/25 12:26PM] DEFAULT|2789,4038,0|Said: N::naraku	
+[10/7/25 12:30PM] NARAKU|3428,9564,0|Said: Hopefully voting will be fixed then	
+[10/7/25 12:32PM] NARAKU|3428,9564,0|Said: Same	
+[10/7/25 01:09PM] VOTE_BOSS|3426,4120,4|Said: X.d	
+[10/8/25 11:08AM] DOOM|2345,5194,0|Said: Np	
+[10/8/25 01:35PM] DARKNESS_LOBBY|3235,2915,0|Said: Shops	
+[10/8/25 01:39PM] PYRAMID|3488,9243,0|Said:  /lol	
+[10/8/25 01:48PM] GLOBAL_BOSS|2139,5019,0|Said: Guess ill kill dk first	
+[10/8/25 01:48PM] GLOBAL_BOSS|2139,5019,0|Said: Lel	
+[10/9/25 09:59AM] GLOBAL_BOSS|2145,5018,0|Said: Damn spoon opp	
+[10/9/25 09:59AM] GLOBAL_BOSS|2145,5018,0|Said: That wep bis?	
+[10/9/25 09:59AM] GLOBAL_BOSS|2145,5018,0|Said: How you got it?	
+[10/9/25 09:59AM] GLOBAL_BOSS|2145,5018,0|Said: He gave it? :o	
+[10/9/25 10:00AM] GLOBAL_BOSS|2145,5018,0|Said: Wow..	
+[10/9/25 12:04PM] DEFAULT|2657,2639,0|Said: Need 1 extra	
+[10/9/25 12:04PM] PEST_CONTROL_BOAT|2661,2642,0|Said: Yeah	
+[10/9/25 12:04PM] PEST_CONTROL_BOAT|2661,2642,0|Said: Told u :p	
+[10/9/25 12:04PM] PEST_CONTROL_BOAT|2661,2642,0|Said: Idk if they are avaiable	
+[10/9/25 12:04PM] PEST_CONTROL_BOAT|2661,2642,0|Said: Alot seem afk	
+[10/9/25 12:05PM] PEST_CONTROL_BOAT|2661,2642,0|Said: Hmm	
+[10/9/25 12:05PM] PEST_CONTROL_BOAT|2661,2642,0|Said: No clue	
+[10/9/25 12:05PM] PEST_CONTROL_BOAT|2661,2642,0|Said: Are there rules?	
+[10/9/25 12:05PM] PEST_CONTROL_BOAT|2661,2642,0|Said: X.d	
+[10/9/25 12:05PM] PEST_CONTROL_BOAT|2661,2642,0|Said: Alright	
+[10/9/25 12:06PM] PEST_CONTROL_BOAT|2661,2642,0|Said: Its jsut for tasks anyway	
+[10/9/25 12:06PM] PEST_CONTROL_BOAT|2661,2642,0|Said: Dont think they will mind	
+[10/9/25 12:06PM] PEST_CONTROL_BOAT|2661,2642,0|Said: 3	
+[10/9/25 12:06PM] PEST_CONTROL_BOAT|2661,2642,0|Said: U got afk?	
+[10/9/25 12:07PM] PEST_CONTROL_BOAT|2661,2642,0|Said: If not ill bring mine	
+[10/9/25 12:07PM] PEST_CONTROL_BOAT|2661,2642,0|Said: Its ok	
+[10/9/25 12:07PM] PEST_CONTROL_BOAT|2661,2642,0|Said: Mine is on	
+[10/9/25 12:08PM] PEST_CONTROL_BOAT|2661,2642,0|Said: Legggooo.	
+[10/9/25 12:08PM] PEST_CONTROL_GAME|2654,2574,0|Said: Oh damn	
+[10/9/25 12:08PM] PEST_CONTROL_GAME|2654,2574,0|Said: Tought it would be faster	
+[10/9/25 12:08PM] PEST_CONTROL_GAME|2654,2574,0|Said: Ah well its only 3 runs	
+[10/9/25 12:13PM] PEST_CONTROL_GAME|2654,2594,0|Said: No point	
+[10/9/25 12:13PM] PEST_CONTROL_GAME|2654,2594,0|Said: We wait for owner i think to help us	
+[10/9/25 12:13PM] PEST_CONTROL_GAME|2654,2594,0|Said: Or lower hp	
+[10/11/25 04:58AM] INSTANCE2|2785,4772,44|Said: Sup	
+[10/11/25 04:58AM] INSTANCE2|2786,4769,44|Said: Am i able to claim my giveaways	
+[10/11/25 04:58AM] INSTANCE2|2786,4769,44|Said: :p	
+[10/11/25 04:59AM] INSTANCE2|2786,4769,44|Said: I won 2x 100$ bonds & the monthly membership pass	
+[10/11/25 04:59AM] INSTANCE2|2786,4769,44|Said: Can you gimme some info of the pass	
+[10/11/25 04:59AM] INSTANCE2|2786,4769,44|Said: What it does etc	
+[10/11/25 04:59AM] INSTANCE2|2786,4769,44|Said: Np	
+[10/11/25 05:00AM] INSTANCE2|2786,4769,44|Said: Tyvm	
+[10/11/25 05:01AM] INSTANCE2|2786,4769,44|Said: So its 1 month?	
+[10/11/25 05:01AM] INSTANCE2|2786,4769,44|Said: Sweet	
+[10/11/25 05:01AM] INSTANCE2|2786,4769,44|Said: Whats the command for the member one	
+[10/11/25 05:01AM] INSTANCE2|2786,4769,44|Said: Zone*	
+[10/11/25 05:08AM] VOTE_BOSS|3430,4123,4|Said: No	
+[10/11/25 05:08AM] VOTE_BOSS|3430,4123,4|Said: Hank did	
+[10/11/25 05:09AM] VOTE_BOSS|3430,4123,4|Said: What wep is that	
+[10/11/25 05:09AM] VOTE_BOSS|3430,4123,4|Said: Lel	
+[10/11/25 05:09AM] VOTE_BOSS|3430,4123,4|Said: Oh damn	
+[10/11/25 05:09AM] VOTE_BOSS|3430,4123,4|Said: From?	
+[10/11/25 05:09AM] VOTE_BOSS|3430,4123,4|Said: Oh lol	
+[10/11/25 05:10AM] VOTE_BOSS|3430,4123,4|Said: Many joined?	
+[10/11/25 05:10AM] VOTE_BOSS|3430,4123,4|Said: Lmao	
+[10/11/25 05:15AM] INSTANCE2|2785,4767,44|Said: You still here	
+[10/11/25 05:15AM] INSTANCE2|2785,4767,44|Said: X.d	
+[10/11/25 05:17AM] INSTANCE2|2785,4766,44|Said: Is it not working?	
+[10/11/25 05:18AM] INSTANCE2|2785,4766,44|Said: Doesnt work	
+[10/11/25 05:19AM] INSTANCE2|2785,4766,44|Said: Yeah	
+[10/11/25 05:19AM] INSTANCE2|2785,4766,44|Said: Alright	
+[10/11/25 05:41AM] NEPHILIM|2146,3297,0|Said: Prob not	
+[10/11/25 05:45AM] SLAYER_CHAMPION|3487,4703,0|Said: You guys wanna run some pc after spawns?	
+[10/11/25 05:45AM] SLAYER_CHAMPION|3487,4703,0|Said: Wanna complete these starter tasks	
+[10/11/25 05:46AM] SLAYER_CHAMPION|3487,4703,0|Said: Tried few days ago but the knight kept dying	
+[10/11/25 05:51AM] PEST_CONTROL_BOAT|2660,2642,0|Said: Yeah	
+[10/11/25 05:53AM] PEST_CONTROL_BOAT|2661,2639,0|Said: Dc?	
+[10/11/25 05:53AM] PEST_CONTROL_BOAT|2661,2639,0|Said: Ah wasnt just me	
+[10/11/25 05:53AM] PEST_CONTROL_BOAT|2661,2639,0|Said: Lel	
+[10/11/25 05:54AM] PEST_CONTROL_BOAT|2661,2639,0|Said: Yh	
+[10/11/25 08:07AM] DEFAULT|2783,4057,0|Said: Npp	
+[10/11/25 08:07AM] DEFAULT|2783,4057,0|Said: U get them from alot of mobs	
+[10/11/25 08:25AM] DEFAULT|2791,4049,0|Said: Sup	
+[10/11/25 08:25AM] DEFAULT|2791,4049,0|Said: Trying to	
+[10/11/25 08:25AM] DEFAULT|2791,4049,0|Said: X.d	
+[10/11/25 08:26AM] DEFAULT|2791,4049,0|Said: Nop	
+[10/11/25 08:26AM] DEFAULT|2791,4049,0|Said: Just started it	
+[10/11/25 08:26AM] DEFAULT|2790,4049,0|Said: How tho	
+[10/11/25 08:26AM] DEFAULT|2790,4049,0|Said: Dont see citys	
+[10/11/25 08:27AM] NARAKU|3427,9567,0|Said: Blayko	
+[10/11/25 08:27AM] NARAKU|3427,9567,0|Said: Whre u see varrock teleport	
+[10/11/25 08:34AM] NARAKU|3427,9567,0|Said: Xcdsez"&;kwssxdr't"321zeasqdxw<	
+[10/11/25 08:35AM] DEFAULT|2784,4048,0|Said: O)poi vytgfvcx k;xcv 	
+[10/11/25 08:43AM] HOME_BANK|2782,4065,0|Said: Ah	
+[10/11/25 08:44AM] HOME_BANK|2788,4065,0|Said: Oki	
+[10/11/25 08:46AM] DEFAULT|3169,4125,0|Said: Supp	
+[10/11/25 08:47AM] DEFAULT|3169,4125,0|Said: Thanks	
+[10/11/25 08:48AM] DEFAULT|3169,4125,0|Said: True id like to help when people are in need	
+[10/11/25 08:48AM] DEFAULT|3169,4125,0|Said: Could be confused at first	
+[10/11/25 08:49AM] DEFAULT|3169,4125,0|Said: Oh thanks	
+[10/11/25 08:49AM] DEFAULT|3169,4125,0|Said: Just letting u know	
+[10/11/25 08:49AM] DEFAULT|3169,4125,0|Said: Idm being support	
+[10/11/25 08:49AM] DEFAULT|3169,4125,0|Said: But ive got a little one, there goes my main time	
+[10/11/25 08:49AM] DEFAULT|3169,4125,0|Said: So it could be some days i cant be logged in too much	
+[10/11/25 08:49AM] DEFAULT|3169,4125,0|Said: Alright	
+[10/11/25 08:49AM] DEFAULT|3169,4125,0|Said: Thanks.	
+[10/11/25 08:50AM] DEFAULT|3169,4125,0|Said: True true	
+[10/11/25 08:50AM] DEFAULT|3169,4125,0|Said: Family always comes first	
+[10/11/25 08:50AM] DEFAULT|3169,4125,0|Said: Alright	
+[10/11/25 08:50AM] DEFAULT|3169,4125,0|Said: Good to know	
+[10/11/25 08:50AM] DEFAULT|3169,4125,0|Said: Im here to help whenever im online:)	
+[10/11/25 08:51AM] DEFAULT|3169,4125,0|Said: Nice nice	
+[10/11/25 08:51AM] DEFAULT|3169,4125,0|Said: Cant wait.	
+[10/11/25 08:51AM] DEFAULT|3169,4125,0|Said: Okay	
+[10/11/25 08:51AM] DEFAULT|3169,4125,0|Said: Lmao	
+[10/11/25 08:51AM] DEFAULT|3169,4125,0|Said: Oh	
+[10/11/25 08:51AM] DEFAULT|3169,4125,0|Said: How about afking 	
+[10/11/25 08:51AM] DEFAULT|3169,4125,0|Said: Can i use ::afk on main?	
+[10/11/25 08:51AM] DEFAULT|3169,4125,0|Said: Or do i need to use my afk acc	
+[10/11/25 08:52AM] DEFAULT|3169,4125,0|Said: Kk	
+[10/11/25 08:52AM] DEFAULT|3169,4125,0|Said: Fairs	
+[10/11/25 08:52AM] DEFAULT|3169,4125,0|Said: What are support commands?	
+[10/11/25 08:52AM] DEFAULT|3169,4125,0|Said: Like mute kick etc	
+[10/11/25 08:53AM] DEFAULT|3169,4125,0|Said: Yeah works	
+[10/11/25 08:53AM] DEFAULT|3169,4125,0|Said: Gotta be with hours	
+[10/11/25 08:53AM] DEFAULT|3169,4125,0|Said: Like :: mute 6h name	
+[10/11/25 08:53AM] DEFAULT|3169,4125,0|Said: Okay good to know	
+[10/11/25 08:53AM] DEFAULT|3169,4125,0|Said: Yeah	
+[10/11/25 08:53AM] DEFAULT|3169,4125,0|Said: So just basic commands	
+[10/11/25 08:53AM] DEFAULT|3169,4125,0|Said: Gotcha.	
+[10/11/25 08:54AM] DEFAULT|3169,4125,0|Said: Alright	
+[10/11/25 08:55AM] DEFAULT|3169,4125,0|Said: Im sure you find some good fits	
+[10/11/25 08:55AM] DEFAULT|3169,4125,0|Said: Thats true	
+[10/11/25 08:55AM] DEFAULT|3169,4125,0|Said: Gonna help the people at vboss	
+[10/11/25 08:55AM] DEFAULT|3169,4125,0|Said: Can always pm me whenever:)	
+[10/11/25 08:58AM] VOTE_BOSS|3429,4121,4|Said: Spook too soon	
+[10/11/25 08:58AM] VOTE_BOSS|3429,4121,4|Said: Lel	
+[10/11/25 09:03AM] NEPHILIM|2144,3294,0|Said: Lmao	
+[10/11/25 09:15AM] NEPHILIM|2144,3296,0|Said: Oo ty	

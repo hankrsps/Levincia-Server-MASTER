@@ -1,0 +1,16 @@
+[10/5/25 01:24PM] Player picked up item: Elite staff, id: 8412, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:25PM] Player picked up item: OP Box, id: 20488, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:25PM] Player picked up item: Elite Casket, id: 15002, amount: 1, owner: PARTY CHEST	
+[10/6/25 05:47AM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Hank	
+[10/7/25 01:32PM] Player picked up item: Global ticket, id: 23229, amount: 3, owner: Hank	
+[10/7/25 01:32PM] Player picked up item: Levincia tokens, id: 12855, amount: 15000, owner: Hank	
+[10/7/25 01:32PM] Player picked up item: PVM ticket, id: 5022, amount: 3000, owner: Hank	
+[10/7/25 01:32PM] Player picked up item: Crystal key, id: 989, amount: 4, owner: Hank	
+[10/11/25 09:14AM] Player picked up item: Levincia tokens, id: 12855, amount: 20254, owner: Run	
+[10/13/25 08:20AM] Player picked up item: Empty bucket, id: 3727, amount: 1, owner: Hank	
+[10/13/25 08:21AM] Player picked up item: Rancid flour, id: 7546, amount: 1, owner: Hank	
+[10/16/25 03:04PM] Player picked up item: Fantasy scales, id: 23294, amount: 3, owner: Hank	
+[10/16/25 03:04PM] Player picked up item: Fantasy scales, id: 23294, amount: 1, owner: Hank	
+[10/16/25 03:04PM] Player picked up item: Fantasy scales, id: 23294, amount: 1, owner: Hank	
+[10/16/25 09:56PM] Player picked up item: Rancid flour, id: 7546, amount: 1, owner: Hank	
+[10/16/25 09:57PM] Player picked up item: Empty bucket, id: 3727, amount: 1, owner: Hank	

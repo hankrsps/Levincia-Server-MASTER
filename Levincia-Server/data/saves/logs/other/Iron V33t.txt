@@ -1,0 +1,14 @@
+[10/10/25 07:30AM] Login. ip: 24.48.146.11, mac: Default string20250121124109.000000-300, uuid: D8-5E-D3-04-19-E2	
+[10/10/25 07:38AM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 07:40AM] Has just redeemed a $5 Bond successfully!	
+[10/10/25 09:36AM] NEPHILIM|2144,3297,0|Said: Lol	
+[10/10/25 09:36AM] NEPHILIM|2144,3297,0|Said: Gl	
+[10/10/25 09:37AM] Iron V33t received x1 $1 Scroll from Nephilim Warrior!	
+[10/10/25 09:39AM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 09:40AM] (CC) Help. Said: All to vboss	
+[10/10/25 09:46AM] VOTE_BOSS|3430,4122,4|Said: Lol	
+[10/10/25 09:47AM] VOTE_BOSS|3430,4122,4|Said: Ill take some chiken nuggies	
+[10/10/25 09:55AM] (CC) Help. Said: Sup	
+[10/10/25 09:56AM] IRON|3808,2842,0|Said: Lol	
+[10/10/25 09:56AM] (CC) Help. Said: Nice	
+[10/10/25 09:58AM] (CC) Help. Said: Gz	

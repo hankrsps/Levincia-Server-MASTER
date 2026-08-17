@@ -1,0 +1,94 @@
+[10/11/25 06:11AM] PROGRESSION_ZONES|3034,4121,1|Said: Hi	
+[10/11/25 06:12AM] PROGRESSION_ZONES|3034,4121,1|Said: Any ref codes pls ?	
+[10/11/25 06:12AM] PROGRESSION_ZONES|3034,4121,1|Said: #::ref	
+[10/11/25 06:12AM] PROGRESSION_ZONES|3034,4121,1|Said: Nice :0	
+[10/11/25 06:12AM] PROGRESSION_ZONES|3034,4121,1|Said: :tyvm u made one girl happy :)	
+[10/11/25 06:15AM] PROGRESSION_ZONES|3034,4121,1|Said: Will do :)	
+[10/11/25 06:15AM] PROGRESSION_ZONES|3034,4121,1|Said: Look at what i got :p	
+[10/11/25 06:15AM] PROGRESSION_ZONES|3035,4121,1|Said: What i do with premium ticketss pls ?	
+[10/11/25 06:16AM] PROGRESSION_ZONES|3035,4121,1|Said: Perfect will do	
+[10/11/25 07:32AM] DEFAULT|2785,4054,0|Said: Loki	
+[10/11/25 07:32AM] DEFAULT|2791,4064,0|Said: Where is the crystal box pls ?	
+[10/11/25 07:34AM] DEFAULT|2790,4047,0|Said: Loki	
+[10/11/25 07:35AM] DEFAULT|2790,4047,0|Said: Where do i open crystal keys pls ?	
+[10/11/25 07:36AM] DEFAULT|2790,4052,0|Said: Ty	
+[10/11/25 08:04AM] GLOBAL_BOSS|2140,5015,0|Said: Meh nothing good :(	
+[10/11/25 08:07AM] DEFAULT|2783,4056,0|Said: Tyvm	
+[10/11/25 08:11AM] INSTANCE2|2786,4762,31|Said: Hi hank	
+[10/11/25 08:12AM] INSTANCE2|2787,4764,31|Said: Can i ask you something pls 	
+[10/11/25 08:12AM] INSTANCE2|2785,4767,31|Said: I wanna done 30 $ can i make a goodiebag for me worth 30 $ pls ?	
+[10/11/25 08:13AM] INSTANCE2|2785,4767,31|Said: And ty <3	
+[10/11/25 08:13AM] INSTANCE2|2787,4768,31|Said: <3	
+[10/11/25 08:13AM] INSTANCE2|2785,4767,31|Said: *donate	
+[10/11/25 08:14AM] INSTANCE2|2785,4764,31|Said: U got revolut ?	
+[10/11/25 08:14AM] INSTANCE2|2788,4763,31|Said: Hmm 	
+[10/11/25 08:14AM] INSTANCE2|2785,4762,31|Said: Is there any other way to pay pls ?	
+[10/11/25 08:15AM] INSTANCE2|2786,4763,31|Said: Dont have paypall or cashapp	
+[10/11/25 08:15AM] INSTANCE2|2785,4768,31|Said: Kk	
+[10/11/25 08:29AM] NARAKU|3426,9565,0|Said: Not really 	
+[10/11/25 08:29AM] NARAKU|3426,9565,0|Said: Hitting 2ks :p	
+[10/11/25 08:30AM] NARAKU|3426,9565,0|Said:  tyvm	
+[10/11/25 09:00AM] VOTE_BOSS|3430,4119,4|Said: Dang	
+[10/11/25 09:00AM] VOTE_BOSS|3430,4119,4|Said: Missed it	
+[10/11/25 09:00AM] VOTE_BOSS|3430,4119,4|Said: Ty :)	
+[10/11/25 01:29PM] GLOBAL_BOSS|2143,5018,0|Said: Spoon	
+[10/11/25 01:29PM] GLOBAL_BOSS|2143,5018,0|Said: Are u the same spoon as anubis ?	
+[10/11/25 01:30PM] GLOBAL_BOSS|2143,5018,0|Said: Hmm ok 	
+[10/11/25 01:30PM] GLOBAL_BOSS|2143,5018,0|Said: Can u help me out a bit pls ?	
+[10/11/25 01:31PM] GLOBAL_BOSS|2143,5018,0|Said: Im looking for some mid tier mage gear pls... if u got any pls	
+[10/11/25 01:31PM] GLOBAL_BOSS|2143,5018,0|Said: Nothing	
+[10/11/25 01:32PM] GLOBAL_BOSS|2143,5018,0|Said: Does it give any gear ?	
+[10/11/25 01:33PM] GLOBAL_BOSS|2141,5018,0|Said: Hmm	
+[10/11/25 01:33PM] GLOBAL_BOSS|2141,5018,0|Said: As soon as i checked you pos i dced	
+[10/11/25 01:33PM] GLOBAL_BOSS|2141,5018,0|Said: Ahh ok 	
+[10/11/25 01:33PM] GLOBAL_BOSS|2141,5018,0|Said: Well lets do a trade	
+[10/11/25 01:33PM] GLOBAL_BOSS|2141,5018,0|Said: I got m pvp  tickets	
+[10/11/25 01:33PM] GLOBAL_BOSS|2141,5018,0|Said: 22mil	
+[10/11/25 01:34PM] GLOBAL_BOSS|2141,5018,0|Said: Ill trade for some gear	
+[10/11/25 01:34PM] GLOBAL_BOSS|2141,5018,0|Said: Mage gear vthat is	
+[10/11/25 01:34PM] GLOBAL_BOSS|2141,5018,0|Said: Really ?	
+[10/11/25 01:34PM] GLOBAL_BOSS|2141,5018,0|Said: Where is pos ?	
+[10/11/25 01:35PM] GLOBAL_BOSS|2141,5018,0|Said: But w8	
+[10/11/25 01:35PM] GLOBAL_BOSS|2141,5018,0|Said: I got 22m pvp tickets..dont have 100m  levincia tokens	
+[10/11/25 01:36PM] GLOBAL_BOSS|2141,5018,0|Said: Ahh ok	
+[10/11/25 01:36PM] GLOBAL_BOSS|2140,5019,0|Said: Ty	
+[10/11/25 01:37PM] GLOBAL_BOSS|2140,5019,0|Said: Massive	
+[10/11/25 01:37PM] GLOBAL_BOSS|2140,5019,0|Said: Now any tips on where i can get better gear pls ?	
+[10/11/25 01:38PM] GLOBAL_BOSS|2140,5019,0|Said: Welcome	
+[10/11/25 01:38PM] GLOBAL_BOSS|2140,5019,0|Said: What u buying with em ?	
+[10/11/25 01:39PM] GLOBAL_BOSS|2140,5019,0|Said: Ohhh nice	
+[10/11/25 01:39PM] GLOBAL_BOSS|2140,5019,0|Said: U need diety attachments ?	
+[10/11/25 01:39PM] GLOBAL_BOSS|2140,5019,0|Said: Legends rais	
+[10/11/25 01:40PM] GLOBAL_BOSS|2140,5019,0|Said: Pest control	
+[10/11/25 01:40PM] GLOBAL_BOSS|2140,5019,0|Said: And easy slayer task lol	
+[10/11/25 01:40PM] GLOBAL_BOSS|2140,5019,0|Said: And boxes	
+[10/11/25 01:40PM] GLOBAL_BOSS|2140,5019,0|Said: 250 let	
+[10/11/25 01:41PM] ZOMBIE_LOBBY|2223,4114,0|Said: Ty :)	
+[10/11/25 01:42PM] ZOMBIE_LOBBY|2223,4114,0|Said: Ready	
+[10/11/25 01:43PM] ZOMBIE|2253,4113,32|Said: Kk	
+[10/11/25 01:43PM] ZOMBIE|2784,4065,0|Said: Ohhhh	
+[10/11/25 01:48PM] ZOMBIE_LOBBY|2222,4115,0|Said: Ty	
+[10/11/25 01:48PM] ZOMBIE_LOBBY|2222,4115,0|Said: Pc ?	
+[10/11/25 01:55PM] DEFAULT|2785,4053,0|Said: Where slayer msters at lol	
+[10/11/25 01:56PM] AFK|2800,4063,0|Said: Ty	
+[10/11/25 02:00PM] DEFAULT|2784,4044,0|Said: Last thing pls	
+[10/11/25 02:00PM] DEFAULT|2784,4044,0|Said: How i tele to slayer task pls ?	
+[10/11/25 02:00PM] DEFAULT|2784,4044,0|Said: Kk	
+[10/11/25 02:00PM] DEFAULT|2784,4044,0|Said: Massive ty :)	
+[10/11/25 02:01PM] DEFAULT|2784,4044,0|Said: Pc ?	
+[10/11/25 02:01PM] DEFAULT|2784,4044,0|Said: Kk :)	
+[10/11/25 02:01PM] DEFAULT|2657,2643,0|Said: Need 3 runs pls	
+[10/11/25 02:02PM] PEST_CONTROL_BOAT|2662,2640,0|Said: We need 3 players??	
+[10/11/25 02:08PM] PEST_CONTROL_BOAT|2661,2639,0|Said: 0might i ask	
+[10/11/25 02:09PM] PEST_CONTROL_BOAT|2661,2639,0|Said: Do you have one vote scroll ?	
+[10/11/25 02:09PM] PEST_CONTROL_GAME|2637,2592,0|Said: Il buy pls	
+[10/11/25 02:10PM] PEST_CONTROL_GAME|2654,2602,0|Said: Ill give u 1.5 m pvm tickets	
+[10/11/25 02:12PM] PEST_CONTROL_GAME|2654,2572,0|Said: Lol visual bug ?	
+[10/11/25 02:12PM] PEST_CONTROL_GAME|2654,2572,0|Said: Portal moved ?	
+[10/11/25 02:12PM] DEFAULT|2657,2640,0|Said: Tyvm	
+[10/11/25 02:13PM] DEFAULT|2661,2648,0|Said: :)	
+[10/11/25 02:13PM] DEFAULT|2661,2648,0|Said: Last starter task	
+[10/11/25 02:13PM] DEFAULT|2661,2648,0|Said: Slayer task :p	
+[10/11/25 11:52PM] NARAKU|3425,9571,0|Said: Global boss	
+[10/12/25 12:11AM] NARAKU|3425,9571,0|Said: :afk	
+[10/12/25 08:19AM] DEFAULT|2656,3983,0|Said: Sell me aura pls ?	

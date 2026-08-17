@@ -1,0 +1,815 @@
+[10/7/25 07:41PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:41PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:41PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:41PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:41PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:41PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:41PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:41PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:41PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:41PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:41PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:41PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:41PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:41PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Kree'arra helmet, id: 18834, amount: 1 --into-- Pernix cowl, id: 6930, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Kree'arra helmet, id: 18834, amount: 1 --into-- Pernix cowl, id: 6930, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Kree'arra helmet, id: 18834, amount: 1 --into-- Pernix cowl, id: 6930, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Kree'arra helmet, id: 18834, amount: 1 --into-- Pernix cowl, id: 6930, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Kree'arra helmet, id: 18834, amount: 1 --into-- Pernix cowl, id: 6930, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Kree'arra helmet, id: 18834, amount: 1 --into-- Pernix cowl, id: 6930, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Kree'arra helmet, id: 18834, amount: 1 --into-- Pernix cowl, id: 6930, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Kree'arra helmet, id: 18834, amount: 1 --into-- Pernix cowl, id: 6930, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Kree'arra helmet, id: 18834, amount: 1 --into-- Pernix cowl, id: 6930, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Pernix cowl, id: 6930, amount: 1 --into-- Sorrow horn-coif, id: 8803, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Pernix cowl, id: 6930, amount: 1 --into-- Sorrow horn-coif, id: 8803, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Pernix cowl, id: 6930, amount: 1 --into-- Sorrow horn-coif, id: 8803, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Pernix cowl, id: 6930, amount: 1 --into-- Sorrow horn-coif, id: 8803, amount: 1	
+[10/7/25 07:42PM] UPGRADED : Kree'arra helmet, id: 18834, amount: 1 --into-- Pernix cowl, id: 6930, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra chestplate, id: 18801, amount: 1 --into-- Pernix body, id: 6931, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra chestplate, id: 18801, amount: 1 --into-- Pernix body, id: 6931, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra chestplate, id: 18801, amount: 1 --into-- Pernix body, id: 6931, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra chestplate, id: 18801, amount: 1 --into-- Pernix body, id: 6931, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra chestplate, id: 18801, amount: 1 --into-- Pernix body, id: 6931, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Pernix body, id: 6931, amount: 1 --into-- Sorrow body, id: 8804, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Pernix body, id: 6931, amount: 1 --into-- Sorrow body, id: 8804, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra chainskirt, id: 18800, amount: 1 --into-- Pernix chaps, id: 6932, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra chainskirt, id: 18800, amount: 1 --into-- Pernix chaps, id: 6932, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra chainskirt, id: 18800, amount: 1 --into-- Pernix chaps, id: 6932, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra chainskirt, id: 18800, amount: 1 --into-- Pernix chaps, id: 6932, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra chainskirt, id: 18800, amount: 1 --into-- Pernix chaps, id: 6932, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra chainskirt, id: 18800, amount: 1 --into-- Pernix chaps, id: 6932, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Pernix chaps, id: 6932, amount: 1 --into-- Sorrow chaps, id: 8805, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Pernix chaps, id: 6932, amount: 1 --into-- Sorrow chaps, id: 8805, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra crossbow, id: 18799, amount: 1 --into-- Brutal Minigun, id: 19136, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra crossbow, id: 18799, amount: 1 --into-- Brutal Minigun, id: 19136, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra crossbow, id: 18799, amount: 1 --into-- Brutal Minigun, id: 19136, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra crossbow, id: 18799, amount: 1 --into-- Brutal Minigun, id: 19136, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra crossbow, id: 18799, amount: 1 --into-- Brutal Minigun, id: 19136, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Kree'arra crossbow, id: 18799, amount: 1 --into-- Brutal Minigun, id: 19136, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Brutal Minigun, id: 19136, amount: 1 --into-- Sorrow bow, id: 20173, amount: 1	
+[10/7/25 07:43PM] UPGRADED : Brutal Minigun, id: 19136, amount: 1 --into-- Sorrow bow, id: 20173, amount: 1	
+[10/7/25 07:46PM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/7/25 07:46PM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/7/25 07:46PM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/7/25 07:46PM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/7/25 07:46PM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/7/25 07:46PM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/7/25 07:46PM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/7/25 07:46PM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/7/25 07:46PM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/7/25 07:46PM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/7/25 07:46PM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/7/25 07:46PM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/7/25 07:46PM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Exotic chainbody, id: 13913, amount: 1 --into-- Paladins platebody, id: 6928, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Exotic chainbody, id: 13913, amount: 1 --into-- Paladins platebody, id: 6928, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Exotic chainbody, id: 13913, amount: 1 --into-- Paladins platebody, id: 6928, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Exotic chainbody, id: 13913, amount: 1 --into-- Paladins platebody, id: 6928, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Exotic chainbody, id: 13913, amount: 1 --into-- Paladins platebody, id: 6928, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Exotic chainbody, id: 13913, amount: 1 --into-- Paladins platebody, id: 6928, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Paladins platebody, id: 6928, amount: 1 --into-- Shikruu platebody, id: 8801, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Paladins platebody, id: 6928, amount: 1 --into-- Shikruu platebody, id: 8801, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Shikruu platebody, id: 8801, amount: 1 --into-- Melee body (T5), id: 8327, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Exotic platelegs, id: 13919, amount: 1 --into-- Paladins platelegs, id: 6929, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Exotic platelegs, id: 13919, amount: 1 --into-- Paladins platelegs, id: 6929, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Exotic platelegs, id: 13919, amount: 1 --into-- Paladins platelegs, id: 6929, amount: 1	
+[10/7/25 07:47PM] UPGRADED : Exotic platelegs, id: 13919, amount: 1 --into-- Paladins platelegs, id: 6929, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Brutal tentacle, id: 22077, amount: 1 --into-- Demonic scythe, id: 20549, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Brutal tentacle, id: 22077, amount: 1 --into-- Demonic scythe, id: 20549, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Brutal tentacle, id: 22077, amount: 1 --into-- Demonic scythe, id: 20549, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Brutal tentacle, id: 22077, amount: 1 --into-- Demonic scythe, id: 20549, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Demonic scythe, id: 20549, amount: 1 --into-- Trinity hammers, id: 22084, amount: 1	
+[10/7/25 07:48PM] UPGRADED : Demonic scythe, id: 20549, amount: 1 --into-- Trinity hammers, id: 22084, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Exotic helmet, id: 13996, amount: 1 --into-- Paladins helmet, id: 6927, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Exotic helmet, id: 13996, amount: 1 --into-- Paladins helmet, id: 6927, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Exotic helmet, id: 13996, amount: 1 --into-- Paladins helmet, id: 6927, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Exotic helmet, id: 13996, amount: 1 --into-- Paladins helmet, id: 6927, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Exotic helmet, id: 13996, amount: 1 --into-- Paladins helmet, id: 6927, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Exotic helmet, id: 13996, amount: 1 --into-- Paladins helmet, id: 6927, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Exotic helmet, id: 13996, amount: 1 --into-- Paladins helmet, id: 6927, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Exotic helmet, id: 13996, amount: 1 --into-- Paladins helmet, id: 6927, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Exotic helmet, id: 13996, amount: 1 --into-- Paladins helmet, id: 6927, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Exotic helmet, id: 13996, amount: 1 --into-- Paladins helmet, id: 6927, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Exotic helmet, id: 13996, amount: 1 --into-- Paladins helmet, id: 6927, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Exotic helmet, id: 13996, amount: 1 --into-- Paladins helmet, id: 6927, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Exotic helmet, id: 13996, amount: 1 --into-- Paladins helmet, id: 6927, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Exotic helmet, id: 13996, amount: 1 --into-- Paladins helmet, id: 6927, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Exotic helmet, id: 13996, amount: 1 --into-- Paladins helmet, id: 6927, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Paladins helmet, id: 6927, amount: 1 --into-- Shikruu full helm, id: 8800, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Paladins helmet, id: 6927, amount: 1 --into-- Shikruu full helm, id: 8800, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Paladins helmet, id: 6927, amount: 1 --into-- Shikruu full helm, id: 8800, amount: 1	
+[10/7/25 07:49PM] UPGRADED : Paladins helmet, id: 6927, amount: 1 --into-- Shikruu full helm, id: 8800, amount: 1	
+[10/7/25 07:50PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:50PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:50PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:50PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:50PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:50PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:50PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:50PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:50PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:50PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:50PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:50PM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Kree'arra crossbow, id: 18799, amount: 1 --into-- Brutal Minigun, id: 19136, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Kree'arra crossbow, id: 18799, amount: 1 --into-- Brutal Minigun, id: 19136, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Kree'arra crossbow, id: 18799, amount: 1 --into-- Brutal Minigun, id: 19136, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Kree'arra crossbow, id: 18799, amount: 1 --into-- Brutal Minigun, id: 19136, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Kree'arra crossbow, id: 18799, amount: 1 --into-- Brutal Minigun, id: 19136, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Kree'arra crossbow, id: 18799, amount: 1 --into-- Brutal Minigun, id: 19136, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Brutal Minigun, id: 19136, amount: 1 --into-- Sorrow bow, id: 20173, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Brutal Minigun, id: 19136, amount: 1 --into-- Sorrow bow, id: 20173, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Brutal Minigun, id: 19136, amount: 1 --into-- Sorrow bow, id: 20173, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Brutal Minigun, id: 19136, amount: 1 --into-- Sorrow bow, id: 20173, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian chaps, id: 17339, amount: 1 --into-- Kree'arra chainskirt, id: 18800, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:51PM] UPGRADED : Sagittarian body, id: 17193, amount: 1 --into-- Kree'arra chestplate, id: 18801, amount: 1	
+[10/7/25 07:52PM] UPGRADED : Kree'arra chestplate, id: 18801, amount: 1 --into-- Pernix body, id: 6931, amount: 1	
+[10/7/25 07:52PM] UPGRADED : Kree'arra chestplate, id: 18801, amount: 1 --into-- Pernix body, id: 6931, amount: 1	
+[10/7/25 07:52PM] UPGRADED : Kree'arra chestplate, id: 18801, amount: 1 --into-- Pernix body, id: 6931, amount: 1	
+[10/7/25 07:52PM] UPGRADED : Kree'arra chestplate, id: 18801, amount: 1 --into-- Pernix body, id: 6931, amount: 1	
+[10/7/25 07:52PM] UPGRADED : Kree'arra chestplate, id: 18801, amount: 1 --into-- Pernix body, id: 6931, amount: 1	
+[10/7/25 07:52PM] UPGRADED : Kree'arra chainskirt, id: 18800, amount: 1 --into-- Pernix chaps, id: 6932, amount: 1	
+[10/7/25 07:52PM] UPGRADED : Kree'arra chainskirt, id: 18800, amount: 1 --into-- Pernix chaps, id: 6932, amount: 1	
+[10/7/25 07:52PM] UPGRADED : Kree'arra chainskirt, id: 18800, amount: 1 --into-- Pernix chaps, id: 6932, amount: 1	
+[10/7/25 07:52PM] UPGRADED : Kree'arra chainskirt, id: 18800, amount: 1 --into-- Pernix chaps, id: 6932, amount: 1	
+[10/7/25 07:52PM] UPGRADED : Kree'arra chainskirt, id: 18800, amount: 1 --into-- Pernix chaps, id: 6932, amount: 1	
+[10/7/25 07:52PM] UPGRADED : Kree'arra chainskirt, id: 18800, amount: 1 --into-- Pernix chaps, id: 6932, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Abyssal whip, id: 4151, amount: 1 --into-- Noxious tentacle, id: 18686, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age full helmet, id: 10350, amount: 1 --into-- Exotic helmet, id: 13996, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platebody, id: 10348, amount: 1 --into-- Exotic chainbody, id: 13913, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:49AM] UPGRADED : Third-age platelegs, id: 10346, amount: 1 --into-- Exotic platelegs, id: 13919, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dark bow, id: 11235, amount: 1 --into-- Kree'arra crossbow, id: 18799, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Sagitarian coif, id: 3751, amount: 1 --into-- Kree'arra helmet, id: 18834, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai hat, id: 14499, amount: 1 --into-- Shetani helm, id: 19140, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Staff of light, id: 15486, amount: 1 --into-- Shetani staff, id: 5095, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/10/25 10:50AM] UPGRADED : Noxious tentacle, id: 18686, amount: 1 --into-- Brutal tentacle, id: 22077, amount: 1	
+[10/10/25 10:51AM] UPGRADED : Brutal tentacle, id: 22077, amount: 1 --into-- Demonic scythe, id: 20549, amount: 1	
+[10/10/25 10:51AM] UPGRADED : Brutal tentacle, id: 22077, amount: 1 --into-- Demonic scythe, id: 20549, amount: 1	
+[10/10/25 10:51AM] UPGRADED : Brutal tentacle, id: 22077, amount: 1 --into-- Demonic scythe, id: 20549, amount: 1	
+[10/10/25 10:51AM] UPGRADED : Brutal tentacle, id: 22077, amount: 1 --into-- Demonic scythe, id: 20549, amount: 1	
+[10/10/25 10:51AM] UPGRADED : Brutal tentacle, id: 22077, amount: 1 --into-- Demonic scythe, id: 20549, amount: 1	
+[10/10/25 10:51AM] UPGRADED : Brutal tentacle, id: 22077, amount: 1 --into-- Demonic scythe, id: 20549, amount: 1	
+[10/10/25 10:51AM] UPGRADED : Brutal tentacle, id: 22077, amount: 1 --into-- Demonic scythe, id: 20549, amount: 1	

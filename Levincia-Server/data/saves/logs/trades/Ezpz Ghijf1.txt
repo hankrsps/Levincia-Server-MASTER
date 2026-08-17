@@ -1,0 +1,9 @@
+[10/11/25 06:59AM]  Received item from Ghijf. Name: Blood Twisted bow. Id: 23226, amount: 1	
+[10/11/25 07:07AM]  Gave item to Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 3	
+[10/11/25 07:07AM]  Gave item to Ghijf. Name: Blood Twisted bow. Id: 23226, amount: 1	
+[10/11/25 07:07AM]  Gave item to Ghijf. Name: Reward Crate. Id: 10025, amount: 3	
+[10/11/25 07:07AM]  Gave item to Ghijf. Name: Launch casket. Id: 20489, amount: 3	
+[10/11/25 07:07AM]  Gave item to Ghijf. Name: Goodiebag box. Id: 6833, amount: 1	
+[10/11/25 07:07AM]  Gave item to Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 2	
+[10/11/25 07:07AM]  Gave item to Ghijf. Name: PVM ticket. Id: 5022, amount: 51099	
+[10/11/25 07:07AM]  Gave item to Ghijf. Name: Emerald mystery box. Id: 19115, amount: 3	

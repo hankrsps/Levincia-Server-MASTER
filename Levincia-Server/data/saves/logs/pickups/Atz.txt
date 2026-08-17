@@ -1,0 +1,9 @@
+[10/6/25 05:05AM] Player picked up item: Brutal Minigun, id: 19136, amount: 1, owner: PARTY CHEST	
+[10/6/25 05:06AM] Player picked up item: Sorrow chaps, id: 8805, amount: 1, owner: PARTY CHEST	
+[10/6/25 05:10AM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Atz	
+[10/6/25 05:18AM] Player picked up item: Range helm (T5), id: 8330, amount: 1, owner: PARTY CHEST	
+[10/6/25 05:18AM] Player picked up item: Blast bow, id: 22083, amount: 1, owner: PARTY CHEST	
+[10/6/25 05:18AM] Player picked up item: $50 Bond, id: 10935, amount: 1, owner: PARTY CHEST	
+[10/6/25 05:19AM] Player picked up item: $25 Bond, id: 10934, amount: 1, owner: PARTY CHEST	
+[10/6/25 05:19AM] Player picked up item: Collector Necklace III, id: 18888, amount: 1, owner: PARTY CHEST	
+[10/6/25 05:19AM] Player picked up item: Elite Sword (aoe), id: 8410, amount: 1, owner: PARTY CHEST	

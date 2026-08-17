@@ -1,0 +1,10 @@
+[10/7/25 09:40PM] Login from host 139.180.94.28, serial number: 18-C0-4D-E3-21-8F, mac address:Default string20220829133323.000000+720	
+[10/8/25 02:22AM] Logout with password dewaardLogout from host 139.180.94.28, serial number: 18-C0-4D-E3-21-8F, mac address:Default string20220829133323.000000+720	
+[10/8/25 10:20PM] Login from host 139.180.94.28, serial number: 18-C0-4D-E3-21-8F, mac address:Default string20220829133323.000000+720	
+[10/8/25 10:31PM] Logout with password dewaardLogout from host 139.180.94.28, serial number: 18-C0-4D-E3-21-8F, mac address:Default string20220829133323.000000+720	
+[10/10/25 09:24PM] Login from host 139.180.94.28, serial number: 18-C0-4D-E3-21-8F, mac address:Default string20220829133323.000000+720	
+[10/11/25 12:32AM] Logout with password dewaardLogout from host 139.180.94.28, serial number: 18-C0-4D-E3-21-8F, mac address:Default string20220829133323.000000+720	
+[10/11/25 12:32AM] Login from host 139.180.94.28, serial number: 18-C0-4D-E3-21-8F, mac address:Default string20220829133323.000000+720	
+[10/11/25 01:00AM] Logout with password dewaardLogout from host 139.180.94.28, serial number: 18-C0-4D-E3-21-8F, mac address:Default string20220829133323.000000+720	
+[10/11/25 11:50PM] Login from host 139.180.94.28, serial number: 18-C0-4D-E3-21-8F, mac address:Default string20220829133323.000000+720	
+[10/12/25 12:07AM] Logout with password dewaardLogout from host 139.180.94.28, serial number: 18-C0-4D-E3-21-8F, mac address:Default string20220829133323.000000+720	

@@ -1,0 +1,57 @@
+[10/7/25 06:01AM] PROGRESSION_ZONES|3034,4118,17|Said: Ayooo	
+[10/7/25 06:01AM] PROGRESSION_ZONES|3034,4118,17|Said: This is good right?	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3034,4120,17|Said: How long does it go on for?	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3034,4120,17|Said: How many phases?	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3034,4120,17|Said: And if i teleport to the starter phases again, do i go here or 1	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3034,4120,17|Said: Wonderful	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3034,4120,17|Said: I'ma bank and open some of these things then	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3034,4120,17|Said: This whip	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3034,4120,17|Said: Is hella slushy	
+[10/7/25 06:03AM] PROGRESSION_ZONES|3034,4120,17|Said: R-rated sexual slinginess on this	
+[10/7/25 06:03AM] PROGRESSION_ZONES|3034,4120,17|Said: Xd	
+[10/7/25 06:03AM] HOME_BANK|2784,4059,0|Said: Any way to increase the fov	
+[10/7/25 06:03AM] HOME_BANK|2784,4059,0|Said: Or range generated	
+[10/7/25 06:04AM] HOME_BANK|2784,4059,0|Said: Can barely see 12 steps ahead	
+[10/7/25 06:31AM] DEFAULT|2785,4046,0|Said: Whatd u get	
+[10/7/25 06:37AM] VOTE_BOSS|3428,4115,4|Said: Wait what are max levels	
+[10/7/25 06:37AM] VOTE_BOSS|3428,4115,4|Said: Sick	
+[10/7/25 06:37AM] VOTE_BOSS|3426,4115,4|Said: Hank	
+[10/7/25 06:37AM] VOTE_BOSS|3426,4115,4|Said: In summoner icon tab	
+[10/7/25 06:38AM] VOTE_BOSS|3426,4115,4|Said: It says wolf gives 1%	
+[10/7/25 06:38AM] VOTE_BOSS|3426,4115,4|Said: When i drop or examine him	
+[10/7/25 06:38AM] VOTE_BOSS|3426,4115,4|Said: It says 7%	
+[10/7/25 06:38AM] VOTE_BOSS|3426,4115,4|Said: Which is correct	
+[10/7/25 06:38AM] VOTE_BOSS|3426,4115,4|Said: This staff is p sick	
+[10/7/25 07:20AM] DEFAULT|2786,4047,0|Said: Spoon	
+[10/7/25 07:20AM] DEFAULT|2786,4047,0|Said: You got any tips for a beginner	
+[10/7/25 07:24AM] DEFAULT|2784,4046,0|Said: Is the 2kc pet good af	
+[10/7/25 07:25AM] DEFAULT|2783,4045,0|Said: What are you working towards?	
+[10/7/25 07:38AM] DEFAULT|2790,4045,0|Said:   ::upgrade	
+[10/7/25 08:08AM] SLAYERMULTI|1884,5224,0|Said: Yoyoyooyoyoy	
+[10/7/25 08:08AM] SLAYERMULTI|1885,5218,0|Said: What the fguck	
+[10/7/25 08:08AM] SLAYERMULTI|1885,5218,0|Said: Weapon	
+[10/7/25 08:08AM] SLAYERMULTI|1885,5218,0|Said: Are you using	
+[10/7/25 08:09AM] SLAYERMULTI|1888,5222,0|Said: I need that aoe 	
+[10/7/25 08:09AM] SLAYERMULTI|1889,5224,0|Said: Holy shit	
+[10/7/25 08:10AM] SLAYERMULTI|1889,5224,0|Said: How do i get those	
+[10/7/25 08:10AM] SLAYERMULTI|1891,5229,0|Said: What shops sell it?	
+[10/7/25 08:11AM] SLAYERMULTI|1888,5230,0|Said: Ahwhawhahahahahahahha	
+[10/7/25 08:11AM] SLAYERMULTI|1888,5230,0|Said: Wtf am i shooting bandos or what	
+[10/7/25 08:11AM] SLAYERMULTI|1889,5227,0|Said: Hahahahah	
+[10/7/25 08:11AM] SLAYERMULTI|1885,5227,0|Said: Ty bro	
+[10/7/25 08:26AM] DEFAULT|2783,4045,0|Said: Yo wtf is that soulsplit effect	
+[10/7/25 08:26AM] DEFAULT|2783,4045,0|Said: You both have	
+[10/7/25 08:51AM] DEFAULT|2795,4066,0|Said: Spoon what gives u inf prayer	
+[10/7/25 08:51AM] DEFAULT|2792,4066,0|Said: Aah ok	
+[10/7/25 09:20AM] HELLRAISER|3107,5531,0|Said: Your dmg is waaay higher wtf	
+[10/7/25 09:21AM] HELLRAISER|3107,5531,0|Said: Any other way to get your wep?	
+[10/7/25 09:21AM] HELLRAISER|3107,5531,0|Said: Lemme see that in my inv realquick ;););)	
+[10/7/25 09:23AM] HELLRAISER|3110,5534,0|Said: You know what deity attachments do?	
+[10/7/25 10:34AM] VOTE_BOSS|3431,4115,4|Said: Dont laugh at mine	
+[10/7/25 10:34AM] VOTE_BOSS|3431,4115,4|Said: Spoon with the godstaff	
+[10/7/25 10:37AM] VOTE_BOSS|3429,4116,4|Said: Ima go eat bois	
+[10/7/25 10:37AM] VOTE_BOSS|3421,4122,4|Said: Catch u both later	
+[10/7/25 11:37AM] DEFAULT|2794,4066,0|Said: Wait	
+[10/7/25 11:37AM] DEFAULT|2794,4066,0|Said: Are we not smaller than before	
+[10/7/25 11:37AM] HOME_BANK|2790,4066,0|Said: Or am i retarded	
+[10/7/25 11:38AM] HOME_BANK|2788,4065,0|Said: Hahahahahah	

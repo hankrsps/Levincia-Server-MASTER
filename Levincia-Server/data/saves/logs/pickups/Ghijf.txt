@@ -1,0 +1,21 @@
+[10/7/25 12:24AM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Ghijf	
+[10/7/25 12:25AM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Ghijf	
+[10/7/25 01:01PM] Player picked up item: Rancid flour, id: 7546, amount: 1, owner: Ghijf	
+[10/7/25 01:01PM] Player picked up item: Empty bucket, id: 3727, amount: 1, owner: Ghijf	
+[10/8/25 01:01AM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Ghijf	
+[10/8/25 01:53PM] Player picked up item: Omega egg, id: 10537, amount: 1, owner: Ghijf	
+[10/8/25 11:37PM] Player picked up item: Rancid flour, id: 7546, amount: 1, owner: Ghijf	
+[10/8/25 11:39PM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Ghijf	
+[10/9/25 01:25PM] Player picked up item: Levincia tokens, id: 12855, amount: 28750, owner: Ghijf	
+[10/10/25 01:00PM] Player picked up item: $1 Scroll, id: 10946, amount: 1, owner: PARTY CHEST	
+[10/10/25 01:01PM] Player picked up item: Owner cape goodiebag, id: 3578, amount: 1, owner: PARTY CHEST	
+[10/10/25 01:02PM] Player picked up item: Owner cape goodiebag, id: 3578, amount: 1, owner: PARTY CHEST	
+[10/10/25 01:02PM] Player picked up item: $1 Scroll, id: 10946, amount: 1, owner: PARTY CHEST	
+[10/10/25 01:05PM] Player picked up item: Owner Potion, id: 23242, amount: 1, owner: PARTY CHEST	
+[10/10/25 01:06PM] Player picked up item: Blood Twisted bow, id: 23226, amount: 1, owner: PARTY CHEST	
+[10/10/25 01:11PM] Player picked up item: Fortune Chest, id: 23002, amount: 5, owner: PARTY CHEST	
+[10/10/25 01:12PM] Player picked up item: Owner cape goodiebag, id: 3578, amount: 1, owner: PARTY CHEST	
+[10/11/25 04:04AM] Player picked up item: Mind rune, id: 558, amount: 1, owner: Ghijf	
+[10/11/25 12:34PM] Player picked up item: Levincia tokens, id: 12855, amount: 338, owner: Ghijf	
+[10/11/25 12:36PM] Player picked up item: Levincia tokens, id: 12855, amount: 100, owner: Ghijf	
+[10/13/25 07:30PM] Player picked up item: Levincia tokens, id: 12855, amount: 1600, owner: Ghijf	

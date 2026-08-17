@@ -1,0 +1,2 @@
+[10/10/25 05:29PM]  Received item from Kursed. Name: Elite staff. Id: 8412, amount: 1	
+[10/10/25 06:13PM]  Received item from Kursed. Name: Collector necklace. Id: 19886, amount: 1	

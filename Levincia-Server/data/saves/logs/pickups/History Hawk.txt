@@ -1,0 +1,22 @@
+[10/5/25 01:28PM] Player picked up item: Abyssal whip, id: 4151, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:28PM] Player picked up item: Third-age platebody, id: 10348, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:28PM] Player picked up item: Dagon'hai robes set, id: 14525, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:29PM] Player picked up item: Collector's Attachment, id: 9084, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:29PM] Player picked up item: Amulet of Gluttony, id: 6585, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:29PM] Player picked up item: Azure Casket, id: 15003, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:30PM] Player picked up item: Karil's crossbow, id: 4734, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:30PM] Player picked up item: Diminished Legs, id: 14436, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:30PM] Player picked up item: Upgrade Token pack (25k), id: 15289, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:31PM] Player picked up item: Launch casket, id: 20489, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:31PM] Player picked up item: Fortune Chest, id: 23002, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:32PM] Player picked up item: Sagittarian range set, id: 19582, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:32PM] Player picked up item: Deity Spirit shield, id: 19810, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:35PM] Player picked up item: Legends Scythe of Vitur, id: 12535, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:36PM] Player picked up item: Fallen Angel's wings, id: 22105, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:37PM] Player picked up item: Rage attachment, id: 9083, amount: 1, owner: PARTY CHEST	
+[10/5/25 01:38PM] Player picked up item: Legends legs, id: 4686, amount: 1, owner: PARTY CHEST	
+[10/5/25 05:33PM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: History Hawk	
+[10/13/25 11:34AM] Player picked up item: None, id: 21412, amount: 72, owner: History Hawk	
+[10/13/25 11:34AM] Player picked up item: None, id: 21413, amount: 44, owner: History Hawk	
+[10/13/25 11:34AM] Player picked up item: None, id: 21414, amount: 16, owner: History Hawk	
+[10/15/25 12:48PM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: History Hawk	

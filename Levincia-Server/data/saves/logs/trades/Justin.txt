@@ -1,0 +1,5 @@
+[10/7/25 03:00PM]  Received item from Hank. Name: Emerald mystery box. Id: 19115, amount: 400	
+[10/7/25 03:00PM]  Received item from Hank. Name: PvM Box. Id: 7956, amount: 20000	
+[10/7/25 03:00PM]  Received item from Hank. Name: Fortune Chest. Id: 23002, amount: 7	
+[10/7/25 03:01PM]  Received item from Hank. Name: Avalon's Card Pack. Id: 23279, amount: 1	
+[10/7/25 03:01PM]  Received item from Hank. Name: $100 Bond. Id: 10943, amount: 1	

@@ -1,0 +1,10 @@
+[10/9/25 09:40PM] Login. ip: 181.58.39.81, mac: 8CC0213G0V20241212121857.000000-300, uuid: B0-5C-DA-41-51-F0	
+[10/9/25 09:40PM] (CC) Help. Said:  hola :d	
+[10/9/25 09:45PM] Player destroying item: -1, amount: 0	
+[10/9/25 09:45PM] Player destroying item: -1, amount: 0	
+[10/9/25 09:45PM] Player destroying item: -1, amount: 0	
+[10/9/25 09:45PM] Player destroying item: -1, amount: 0	
+[10/9/25 09:52PM] Player destroying item: -1, amount: 0	
+[10/9/25 09:54PM] Player destroying item: -1, amount: 0	
+[10/9/25 09:55PM] Picked up gr.Item Empty bucket, amount: 1	
+[10/9/25 09:55PM] Player destroying item: -1, amount: 0	

@@ -1,0 +1,7 @@
+[10/10/25 12:59PM] Player picked up item: Owner cape goodiebag, id: 3578, amount: 1, owner: PARTY CHEST	
+[10/10/25 01:01PM] Player picked up item: Celestial's Card Pack, id: 23278, amount: 1, owner: PARTY CHEST	
+[10/10/25 01:03PM] Player picked up item: Avalon's Card Pack, id: 23279, amount: 1, owner: PARTY CHEST	
+[10/10/25 01:04PM] Player picked up item: Gold Season Pass, id: 23275, amount: 1, owner: PARTY CHEST	
+[10/10/25 01:10PM] Player picked up item: Celestial's Card Pack, id: 23278, amount: 1, owner: PARTY CHEST	
+[10/10/25 01:11PM] Player picked up item: Avalon's Card Pack, id: 23279, amount: 1, owner: PARTY CHEST	
+[10/10/25 01:13PM] Player picked up item: Prestige box, id: 23236, amount: 8, owner: PARTY CHEST	

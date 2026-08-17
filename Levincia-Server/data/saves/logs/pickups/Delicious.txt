@@ -1,0 +1,9 @@
+[10/7/25 12:52AM] Player picked up item: Levincia tokens, id: 12855, amount: 141, owner: Delicious	
+[10/7/25 05:43AM] Player picked up item: Sagittarian range set, id: 19582, amount: 2, owner: Delicious	
+[10/7/25 05:44AM] Player picked up item: 1M ticket, id: 5021, amount: 4, owner: Delicious	
+[10/7/25 05:44AM] Player picked up item: 1M ticket, id: 5021, amount: 4, owner: Delicious	
+[10/7/25 06:27AM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Delicious	
+[10/7/25 06:39AM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Delicious	
+[10/8/25 11:49AM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Delicious	
+[10/11/25 08:25AM] Player picked up item: Empty bucket, id: 3727, amount: 1, owner: Delicious	
+[10/11/25 08:25AM] Player picked up item: Rancid flour, id: 7546, amount: 1, owner: Delicious	

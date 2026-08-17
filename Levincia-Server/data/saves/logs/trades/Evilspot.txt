@@ -1,0 +1,8 @@
+[10/7/25 06:02PM]  Received item from Hank. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/7/25 06:02PM]  Received item from Hank. Name: Supreme Casket. Id: 23253, amount: 2	
+[10/7/25 06:02PM]  Received item from Hank. Name: Elite staff. Id: 8412, amount: 1	
+[10/7/25 06:04PM]  Gave item to Hank. Name: Elite staff. Id: 8412, amount: 1	
+[10/7/25 06:04PM]  Received item from Hank. Name: Elite Crossbow (aoe). Id: 8411, amount: 1	
+[10/7/25 09:46PM]  Gave item to Tin. Name: Elemental staff (AoE). Id: 3739, amount: 1	
+[10/7/25 09:46PM]  Gave item to Tin. Name: Elite dragon bones. Id: 18830, amount: 300	
+[10/7/25 09:46PM]  Gave item to Tin. Name: Instance Tokens. Id: 4278, amount: 50	

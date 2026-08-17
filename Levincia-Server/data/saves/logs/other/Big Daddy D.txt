@@ -1,0 +1,100 @@
+[10/7/25 06:54PM] Login. ip: 120.151.227.55, mac: 4CE440BR1X20250414084259.000000+600, uuid: 24-6A-0E-7D-53-69	
+[10/7/25 06:55PM] Player destroying item: -1, amount: 0	
+[10/7/25 06:55PM] Player destroying item: -1, amount: 0	
+[10/7/25 07:01PM] Player destroying item: -1, amount: 0	
+[10/7/25 07:01PM] Player destroying item: -1, amount: 0	
+[10/7/25 07:01PM] Player destroying item: -1, amount: 0	
+[10/7/25 07:01PM] Picked up gr.Item Ruby Mystery Box, amount: 1	
+[10/7/25 07:03PM] Player destroying item: -1, amount: 0	
+[10/7/25 07:06PM] Login. ip: 120.151.227.55, mac: 4CE440BR1X20250414084259.000000+600, uuid: 24-6A-0E-7D-53-69	
+[10/7/25 07:07PM] NEPHILIM|2145,3301,0|Said: Is vote not working?	
+[10/7/25 07:07PM] NEPHILIM|2145,3301,0|Said: Kk ty	
+[10/7/25 07:09PM] Big Daddy D received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/7/25 07:11PM] NEPHILIM|2144,3301,0|Said: Sure	
+[10/7/25 07:11PM] Big Daddy D received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/7/25 07:13PM] NEPHILIM|2147,3296,0|Said: Yeah	
+[10/7/25 07:15PM] EVENTS_ROOM|1691,4258,0|Said: Lol	
+[10/7/25 07:17PM] Picked up gr.Item 100% DR Scroll (30 Min), amount: 1	
+[10/7/25 07:18PM] Picked up gr.Item 2X Damage Scroll (30 Min), amount: 1	
+[10/7/25 07:18PM] Picked up gr.Item Donator Aura, amount: 1	
+[10/7/25 07:18PM] Picked up gr.Item Levincia tokens, amount: 20152	
+[10/7/25 07:18PM] Picked up gr.Item PvM ticket pack (5k), amount: 1	
+[10/7/25 07:18PM] Picked up gr.Item Legends helmet, amount: 1	
+[10/7/25 07:18PM] Picked up gr.Item Antique lamp, amount: 19	
+[10/7/25 07:18PM] Picked up gr.Item Shikruu platelegs, amount: 1	
+[10/7/25 07:19PM] Picked up gr.Item Dagon'hai hat, amount: 10	
+[10/7/25 07:20PM] Picked up gr.Item Verac's helm, amount: 10	
+[10/7/25 07:21PM] Picked up gr.Item Torag's platebody, amount: 10	
+[10/7/25 07:21PM] Picked up gr.Item Legends legs, amount: 1	
+[10/7/25 07:21PM] Player destroying item: -1, amount: 0	
+[10/7/25 07:21PM] Player destroying item: -1, amount: 0	
+[10/7/25 07:22PM] EVENTS_ROOM|1692,4262,0|Said: Gz	
+[10/7/25 07:23PM] EVENTS_ROOM|1695,4262,0|Said: Nohting	
+[10/7/25 07:32PM] (CC) Help. Said:  are there any referrals?	
+[10/9/25 08:02PM] Login. ip: 120.151.227.55, mac: 4CE440BR1X20250414084259.000000+600, uuid: 24-6A-0E-7D-53-69	
+[10/9/25 08:03PM] (CC) Help. Said:  hey is voting working atm?	
+[10/9/25 08:10PM] Player destroying item: -1, amount: 0	
+[10/15/25 08:38PM] Login. ip: 120.151.227.55, mac: 4CE440BR1X20250414084259.000000+600, uuid: 24-6A-0E-7D-53-69	
+[10/15/25 08:40PM] Login. ip: 120.151.227.55, mac: 4CE440BR1X20250414084259.000000+600, uuid: 24-6A-0E-7D-53-69	
+[10/15/25 08:41PM] DEFAULT|2783,4056,0|Said: Hi	
+[10/15/25 08:41PM]  Receiving item from trade with Hank Id: 23278, amount: 5	
+[10/15/25 08:41PM] DEFAULT|2783,4056,0|Said: Ty sir	
+[10/15/25 08:42PM] Has just redeemed a $25 Bond successfully!	
+[10/15/25 08:42PM] Has just redeemed a $1 Scroll successfully!	
+[10/15/25 08:43PM] Player destroying item: -1, amount: 0	
+[10/15/25 08:43PM] (CC) Help. Said:  noice	
+[10/15/25 08:43PM] Has just redeemed a $25 Bond successfully!	
+[10/15/25 08:44PM] HOME_BANK|2784,4065,0|Said: Yo	
+[10/15/25 08:45PM]  Receiving item from trade with History Hawk Id: 5011, amount: 1	
+[10/15/25 08:45PM] HOME_BANK|2783,4064,0|Said: Ty sir	
+[10/15/25 08:47PM] Has just redeemed a $1 Scroll successfully!	
+[10/15/25 08:54PM] Big Daddy D received x1 $1 Scroll from Nephilim Warrior!	
+[10/15/25 08:54PM] Has just redeemed a $1 Scroll successfully!	
+[10/15/25 08:59PM] (CC) Help. Said: Gz	
+[10/16/25 01:40PM] Login. ip: 120.151.227.55, mac: 4CE440BR1X20250414084259.000000+600, uuid: 24-6A-0E-7D-53-69	
+[10/16/25 01:41PM] (CC) Help. Said:  yo is voting working?	
+[10/16/25 01:43PM] Player destroying item: -1, amount: 0	
+[10/16/25 01:44PM] (CC) Help. Said:  okay sweet	
+[10/16/25 01:45PM]  Receiving item from trade with Hank Id: 23020, amount: 10	
+[10/16/25 01:45PM]  Receiving item from trade with Hank Id: 23278, amount: 1	
+[10/16/25 01:45PM] HOME_BANK|2786,4071,0|Said: Thanks man	
+[10/16/25 01:45PM] Has just redeemed a $25 Bond successfully!	
+[10/16/25 01:45PM] Has just redeemed a $1 Scroll successfully!	
+[10/16/25 01:45PM] Has just redeemed a $5 Bond successfully!	
+[10/16/25 01:47PM] (CC) Help. Said:  hey man whats fastest way to 120 invention?	
+[10/16/25 01:50PM] (CC) Help. Said:  like the pvm boxs	
+[10/16/25 01:53PM] Player destroying item: -1, amount: 0	
+[10/16/25 01:54PM] Player destroying item: -1, amount: 0	
+[10/16/25 01:54PM] Player destroying item: -1, amount: 0	
+[10/16/25 02:07PM] Has just redeemed a $1 Scroll successfully!	
+[10/16/25 02:59PM] Login. ip: 120.151.227.55, mac: 4CE440BR1X20250414084259.000000+600, uuid: 24-6A-0E-7D-53-69	
+[10/16/25 04:58PM] Login. ip: 120.151.227.55, mac: 4CE440BR1X20250414084259.000000+600, uuid: 24-6A-0E-7D-53-69	
+[10/16/25 04:59PM] (CC) Help. Said: Gzzzzzz!	
+[10/16/25 05:07PM] (CC) Help. Said: :0)	
+[10/16/25 05:07PM] (CC) Help. Said: :)	
+[10/16/25 07:26PM] Login. ip: 120.151.227.55, mac: 4CE440BR1X20250414084259.000000+600, uuid: 24-6A-0E-7D-53-69	
+[10/16/25 08:08PM] Login. ip: 120.151.227.55, mac: 4CE440BR1X20250414084259.000000+600, uuid: 24-6A-0E-7D-53-69	
+[10/16/25 08:28PM] Has just redeemed a $1 Scroll successfully!	
+[10/16/25 08:29PM] Player destroying item: -1, amount: 0	
+[10/16/25 08:29PM] (CC) Help. Said:  yo you online hank?	
+[10/16/25 08:40PM] (CC) Help. Said:  was going to ask for ahnd out lol	
+[10/16/25 08:40PM] (CC) Help. Said:  but im slowly making my way	
+[10/16/25 08:40PM] (CC) Help. Said:  just anyhting lol love thoes card thing you gave when i voted	
+[10/16/25 08:42PM]  Receiving item from trade with Hank Id: 23279, amount: 5	
+[10/16/25 08:42PM] HOME_BANK|2785,4064,0|Said: Thanks man your the est	
+[10/16/25 08:42PM] HOME_BANK|2785,4064,0|Said: Best	
+[10/16/25 08:42PM] HOME_BANK|2785,4064,0|Said: Im rich now	
+[10/16/25 08:44PM] HOME_BANK|2785,4064,0|Said: Nice nice	
+[10/16/25 08:44PM] HOME_BANK|2785,4064,0|Said: True i was looking at that	
+[10/16/25 08:45PM] Has just redeemed a $25 Bond successfully!	
+[10/16/25 08:45PM] Has just redeemed a $25 Bond successfully!	
+[10/16/25 08:45PM] Has just redeemed a $10 Bond successfully!	
+[10/16/25 08:45PM] Player destroying item: -1, amount: 0	
+[10/16/25 08:46PM] Has just redeemed a $100 Bond successfully!	
+[10/16/25 08:46PM] Has just redeemed a $10 Bond successfully!	
+[10/16/25 08:47PM] Has just redeemed a $10 Bond successfully!	
+[10/16/25 08:49PM] Has just redeemed a $25 Bond successfully!	
+[10/16/25 08:49PM] Has just redeemed a $50 Bond successfully!	
+[10/16/25 08:49PM] Has just redeemed a $5 Bond successfully!	
+[10/16/25 08:49PM] Has just redeemed a $1 Scroll successfully!	
+[10/16/25 08:56PM] Has just redeemed a $25 Bond successfully!	

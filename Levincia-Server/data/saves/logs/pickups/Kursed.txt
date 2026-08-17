@@ -1,0 +1,68 @@
+[10/9/25 08:56PM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Kursed	
+[10/10/25 10:21AM] Player picked up item: PVM ticket, id: 5022, amount: 150, owner: Kursed	
+[10/10/25 10:30AM] Player picked up item: PvM Box, id: 7956, amount: 2, owner: Kursed	
+[10/10/25 10:30AM] Player picked up item: Levincia tokens, id: 12855, amount: 1000, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: Levincia tokens, id: 12855, amount: 500, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PvM Box, id: 7956, amount: 1, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 150, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 600, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PvM Box (t2), id: 22214, amount: 1, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: Levincia tokens, id: 12855, amount: 500, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PvM Box, id: 7956, amount: 1, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PvM Box, id: 7956, amount: 1, owner: Kursed	
+[10/10/25 02:04PM] Player picked up item: PvM Box (t2), id: 22214, amount: 1, owner: Kursed	
+[10/10/25 02:05PM] Player picked up item: PvM Box, id: 7956, amount: 2, owner: Kursed	
+[10/10/25 02:05PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:05PM] Player picked up item: Sapphire mystery box, id: 19116, amount: 1, owner: Kursed	
+[10/10/25 02:05PM] Player picked up item: PvM Box, id: 7956, amount: 1, owner: Kursed	
+[10/10/25 02:05PM] Player picked up item: PvM Box, id: 7956, amount: 1, owner: Kursed	
+[10/10/25 02:05PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:05PM] Player picked up item: Levincia tokens, id: 12855, amount: 500, owner: Kursed	
+[10/10/25 02:05PM] Player picked up item: PvM Box, id: 7956, amount: 1, owner: Kursed	
+[10/10/25 02:05PM] Player picked up item: PvM Box, id: 7956, amount: 1, owner: Kursed	
+[10/10/25 02:05PM] Player picked up item: Levincia tokens, id: 12855, amount: 500, owner: Kursed	
+[10/10/25 02:05PM] Player picked up item: Levincia tokens, id: 12855, amount: 500, owner: Kursed	
+[10/10/25 02:05PM] Player picked up item: PvM Box, id: 7956, amount: 1, owner: Kursed	
+[10/10/25 02:05PM] Player picked up item: Levincia tokens, id: 12855, amount: 500, owner: Kursed	
+[10/10/25 02:05PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:06PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:06PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:07PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:07PM] Player picked up item: Levincia tokens, id: 12855, amount: 500, owner: Kursed	
+[10/10/25 02:07PM] Player picked up item: PVM ticket, id: 5022, amount: 225, owner: Kursed	
+[10/10/25 02:07PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:07PM] Player picked up item: PvM Box (t2), id: 22214, amount: 1, owner: Kursed	
+[10/10/25 02:07PM] Player picked up item: PvM Box, id: 7956, amount: 1, owner: Kursed	
+[10/10/25 02:07PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:07PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Kursed	
+[10/10/25 02:14PM] Player picked up item: PVM ticket, id: 5022, amount: 150, owner: Kursed	
+[10/10/25 02:15PM] Player picked up item: Levincia tokens, id: 12855, amount: 2000, owner: Kursed	
+[10/10/25 02:16PM] Player picked up item: Levincia tokens, id: 12855, amount: 2000, owner: Kursed	
+[10/13/25 07:51PM] Player picked up item: Light Attachment, id: 10949, amount: 1, owner: PARTY CHEST	
+[10/13/25 07:52PM] Player picked up item: Celestial's Card Pack, id: 23278, amount: 3, owner: PARTY CHEST	
+[10/13/25 07:52PM] Player picked up item: Light Attachment, id: 10949, amount: 1, owner: PARTY CHEST	
+[10/13/25 07:53PM] Player picked up item: Blood Scythe of Vitur, id: 8136, amount: 1, owner: PARTY CHEST	
+[10/13/25 07:57PM] Player picked up item: Collector Ring III, id: 18818, amount: 1, owner: PARTY CHEST	
+[10/13/25 07:57PM] Player picked up item: Donator Aura, id: 12630, amount: 1, owner: PARTY CHEST	
+[10/13/25 08:00PM] Player picked up item: Owner cape goodiebag, id: 3578, amount: 1, owner: PARTY CHEST	
+[10/16/25 04:23PM] Player picked up item: Levincia tokens, id: 12855, amount: 280000, owner: Kursed	
+[10/16/25 04:31PM] Player picked up item: Dragon 2h sword, id: 7158, amount: 1, owner: Kursed	

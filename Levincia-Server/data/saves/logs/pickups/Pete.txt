@@ -1,0 +1,27 @@
+[10/8/25 08:19PM] Player picked up item: Treasure key 4, id: 23106, amount: 1, owner: Pete	
+[10/8/25 08:21PM] Player picked up item: Energy bones, id: 3286, amount: 1, owner: Pete	
+[10/8/25 08:21PM] Player picked up item: Elite dragon bones, id: 18830, amount: 1, owner: Pete	
+[10/8/25 08:21PM] Player picked up item: Levincia tokens, id: 12855, amount: 1150, owner: Pete	
+[10/8/25 08:22PM] Player picked up item: Energy bones, id: 3286, amount: 2, owner: Pete	
+[10/8/25 08:22PM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Pete	
+[10/8/25 08:22PM] Player picked up item: PVM ticket, id: 5022, amount: 230, owner: Pete	
+[10/8/25 08:22PM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Pete	
+[10/8/25 08:22PM] Player picked up item: Energy bones, id: 3286, amount: 2, owner: Pete	
+[10/8/25 08:22PM] Player picked up item: PVM ticket, id: 5022, amount: 230, owner: Pete	
+[10/8/25 08:23PM] Player picked up item: PVM ticket, id: 5022, amount: 230, owner: Pete	
+[10/8/25 08:23PM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Pete	
+[10/8/25 08:23PM] Player picked up item: Energy bones, id: 3286, amount: 2, owner: Pete	
+[10/8/25 08:23PM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Pete	
+[10/8/25 08:23PM] Player picked up item: Energy bones, id: 3286, amount: 2, owner: Pete	
+[10/8/25 08:23PM] Player picked up item: PVM ticket, id: 5022, amount: 230, owner: Pete	
+[10/8/25 08:23PM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Pete	
+[10/8/25 08:23PM] Player picked up item: Energy bones, id: 3286, amount: 2, owner: Pete	
+[10/8/25 08:23PM] Player picked up item: PVM ticket, id: 5022, amount: 230, owner: Pete	
+[10/8/25 08:24PM] Player picked up item: PVM ticket, id: 5022, amount: 210, owner: Pete	
+[10/8/25 08:40PM] Player picked up item: Vote Mystery Box, id: 15501, amount: 2, owner: Pete	
+[10/8/25 08:40PM] Player picked up item: Global ticket, id: 23229, amount: 4, owner: Pete	
+[10/8/25 08:40PM] Player picked up item: Vote scroll, id: 23020, amount: 2, owner: Pete	
+[10/8/25 08:40PM] Player picked up item: Antique lamp, id: 11137, amount: 20, owner: Pete	
+[10/8/25 08:40PM] Player picked up item: Special bones, id: 2026, amount: 50, owner: Pete	
+[10/8/25 08:40PM] Player picked up item: Reward Crate, id: 10025, amount: 4, owner: Pete	
+[10/8/25 08:40PM] Player picked up item: OP Box, id: 20488, amount: 2, owner: Pete	

@@ -1,0 +1,90 @@
+[10/8/25 01:18PM]  Gave item to Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Gave item to Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Gave item to Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Gave item to Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Gave item to Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/9/25 11:59PM]  Received item from Ghijf. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/9/25 11:59PM]  Received item from Ghijf. Name: Melee body (T5). Id: 8327, amount: 1	
+[10/9/25 11:59PM]  Received item from Ghijf. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/9/25 11:59PM]  Received item from Ghijf. Name: Trinity hammers. Id: 22084, amount: 1	
+[10/9/25 11:59PM]  Received item from Ghijf. Name: Ring of Gluttony. Id: 6737, amount: 1	
+[10/9/25 11:59PM]  Received item from Ghijf. Name: Aura (T1). Id: 23044, amount: 1	
+[10/9/25 11:59PM]  Received item from Ghijf. Name: Art's amulet. Id: 19892, amount: 1	
+[10/10/25 12:14AM]  Received item from Ghijf. Name: Fury shark. Id: 17817, amount: 395	
+[10/10/25 12:30AM]  Received item from Ghijf. Name: Diabolical bones. Id: 3285, amount: 1177	
+[10/10/25 12:40AM]  Gave item to Ghijf. Name: Diabolical bones. Id: 3285, amount: 662	
+[10/10/25 12:40AM]  Gave item to Ghijf. Name: Azure Casket. Id: 15003, amount: 1	
+[10/10/25 12:40AM]  Gave item to Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 1	
+[10/10/25 12:41AM]  Received item from Ghijf. Name: Corrupt maxiblood helm. Id: 18753, amount: 1	
+[10/10/25 04:38PM]  Received item from Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/10/25 04:48PM]  Gave item to Ghijf. Name: Levincia tokens. Id: 12855, amount: 32000	
+[10/10/25 04:48PM]  Gave item to Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 1	
+[10/10/25 04:48PM]  Gave item to Ghijf. Name: Upgrade Token pack (100k). Id: 15288, amount: 1	
+[10/10/25 04:48PM]  Gave item to Ghijf. Name: Launch casket. Id: 20489, amount: 3	
+[10/10/25 04:48PM]  Gave item to Ghijf. Name: Emerald mystery box. Id: 19115, amount: 2	
+[10/10/25 04:48PM]  Gave item to Ghijf. Name: Beginner Mystery box. Id: 6199, amount: 21	
+[10/10/25 04:48PM]  Gave item to Ghijf. Name: Crystal key. Id: 989, amount: 57	
+[10/10/25 06:20PM]  Gave item to Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/10/25 06:44PM]  Received item from Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/10/25 07:17PM]  Gave item to Ghijf. Name: Vote Mystery Box. Id: 15501, amount: 1	
+[10/10/25 07:17PM]  Gave item to Ghijf. Name: Antique lamp. Id: 11137, amount: 10	
+[10/10/25 07:17PM]  Gave item to Ghijf. Name: Special bones. Id: 2026, amount: 25	
+[10/10/25 07:17PM]  Gave item to Ghijf. Name: Vote scroll. Id: 23020, amount: 1	
+[10/10/25 07:17PM]  Gave item to Ghijf. Name: PVM ticket. Id: 5022, amount: 52742	
+[10/10/25 07:17PM]  Gave item to Ghijf. Name: Starter bones. Id: 23402, amount: 224	
+[10/10/25 07:17PM]  Gave item to Ghijf. Name: Reward Crate. Id: 10025, amount: 2	
+[10/11/25 03:38AM]  Gave item to Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/11/25 03:38AM]  Received item from Ghijf. Name: Maxiblood whip. Id: 18750, amount: 1	
+[10/11/25 03:40AM]  Received item from Ghijf. Name: Owner Potion. Id: 23242, amount: 1	
+[10/11/25 03:40AM]  Gave item to Ghijf. Name: Owner Potion. Id: 23242, amount: 1	
+[10/11/25 03:41AM]  Gave item to Ghijf. Name: Maxiblood whip. Id: 18750, amount: 1	
+[10/11/25 03:41AM]  Received item from Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/11/25 04:15AM]  Gave item to Mystima. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/11/25 06:55AM]  Received item from Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 106	
+[10/11/25 06:55AM]  Received item from Ghijf. Name: Emerald mystery box. Id: 19115, amount: 41	
+[10/11/25 06:55AM]  Received item from Ghijf. Name: PvM Box. Id: 7956, amount: 156	
+[10/11/25 06:55AM]  Received item from Ghijf. Name: PvM Box (t2). Id: 22214, amount: 187	
+[10/11/25 06:56AM]  Gave item to Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 50	
+[10/11/25 06:56AM]  Gave item to Ghijf. Name: Vote scroll. Id: 23020, amount: 5	
+[10/11/25 06:56AM]  Gave item to Ghijf. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/11/25 06:56AM]  Gave item to Ghijf. Name: Trinity hammers. Id: 22084, amount: 1	
+[10/11/25 07:36AM]  Gave item to Ghijf. Name: PvM ticket pack (10k). Id: 22219, amount: 1	
+[10/11/25 07:36AM]  Gave item to Ghijf. Name: Raids Box. Id: 18404, amount: 3	
+[10/11/25 07:36AM]  Gave item to Ghijf. Name: Map scrap. Id: 4275, amount: 1	
+[10/12/25 04:29AM]  Gave item to Ghijf. Name: AFK ticket. Id: 5020, amount: 10000	
+[10/12/25 04:29AM]  Gave item to Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 2	
+[10/12/25 04:29AM]  Gave item to Ghijf. Name: Crystal key. Id: 989, amount: 1	
+[10/12/25 04:29AM]  Gave item to Ghijf. Name: Upgrade Token pack (5k). Id: 15290, amount: 1	
+[10/12/25 04:29AM]  Gave item to Ghijf. Name: Summoning charm box. Id: 20481, amount: 1	
+[10/12/25 06:21AM]  Received item from Ghijf. Name: Levincia tokens. Id: 12855, amount: 10000000	
+[10/12/25 07:13AM]  Received item from Ghijf. Name: Spider bones. Id: 3284, amount: 2139	
+[10/12/25 07:51AM]  Gave item to Ghijf. Name: Azure Casket. Id: 15003, amount: 2	
+[10/12/25 08:02AM]  Received item from Ghijf. Name: Elite dragon bones. Id: 18830, amount: 16307	
+[10/12/25 11:27AM]  Gave item to Ghijf. Name: Azure Casket. Id: 15003, amount: 1	
+[10/12/25 06:26PM]  Gave item to Ghijf. Name: Elite Casket. Id: 15002, amount: 2	
+[10/12/25 06:26PM]  Gave item to Ghijf. Name: Azure Casket. Id: 15003, amount: 1	
+[10/12/25 06:26PM]  Gave item to Ghijf. Name: Launch casket. Id: 20489, amount: 1	
+[10/13/25 04:59AM]  Gave item to Ghijf. Name: AFK ticket. Id: 5020, amount: 14668	
+[10/13/25 04:59AM]  Received item from Ghijf. Name: Diabolical bones. Id: 3285, amount: 740	
+[10/13/25 05:16AM]  Received item from Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/13/25 05:16AM]  Received item from Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/13/25 05:27AM]  Gave item to Ghijf. Name: Case key. Id: 4186, amount: 1	
+[10/13/25 08:08AM]  Gave item to Ghijf. Name: AFK ticket. Id: 5020, amount: 10000	
+[10/13/25 08:10AM]  Gave item to Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/13/25 08:10AM]  Gave item to Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/13/25 07:08PM]  Gave item to Ghijf. Name: AFK ticket. Id: 5020, amount: 15549	
+[10/13/25 07:08PM]  Gave item to Ghijf. Name: Levincia tokens. Id: 12855, amount: 30991	
+[10/13/25 07:08PM]  Gave item to Ghijf. Name: Celestial's Card Pack. Id: 23278, amount: 1	
+[10/13/25 07:08PM]  Gave item to Ghijf. Name: Quill's Card Pack. Id: 23277, amount: 2	
+[10/13/25 07:08PM]  Gave item to Ghijf. Name: Antique lamp. Id: 11137, amount: 10	
+[10/14/25 04:57AM]  Gave item to Ghijf. Name: AFK ticket. Id: 5020, amount: 13671	
+[10/14/25 04:57AM]  Gave item to Ghijf. Name: Beginner Mystery box. Id: 6199, amount: 34	
+[10/14/25 04:57AM]  Gave item to Ghijf. Name: PvM Box. Id: 7956, amount: 21	
+[10/14/25 04:57AM]  Gave item to Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 2	
+[10/14/25 04:57AM]  Gave item to Ghijf. Name: PVM ticket. Id: 5022, amount: 30830	
+[10/14/25 04:57AM]  Gave item to Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 7	
+[10/14/25 05:12AM]  Received item from Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/14/25 05:12AM]  Received item from Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/14/25 05:12AM]  Gave item to Ghijf. Name: Suffering key. Id: 23370, amount: 1	
+[10/14/25 05:14AM]  Gave item to Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/14/25 05:14AM]  Gave item to Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	

@@ -1,0 +1,3 @@
+[10/10/25 09:33AM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Loki	
+[10/10/25 10:17AM] Player picked up item: PvM Box, id: 7956, amount: 2, owner: Loki	
+[10/11/25 09:38AM] Player picked up item: Levincia tokens, id: 12855, amount: 360, owner: Loki	

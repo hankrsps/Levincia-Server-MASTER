@@ -1,0 +1,46 @@
+[10/8/25 02:03PM] Player received drop: x1 Shukarhazh platebody, id: 8814, amount: 1, from: Shukarhazh	
+[10/8/25 02:23PM] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 05:38PM] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 08:49PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/8/25 08:53PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/8/25 08:58PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/8/25 09:03PM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/8/25 09:09PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/9/25 07:04AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/9/25 09:19AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/9/25 09:21AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/9/25 10:08AM] Player received drop: x1 Chance scroll, id: 22166, amount: 1, from: Nephilim Warrior	
+[10/9/25 10:28AM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/9/25 02:38PM] Player received drop: x1 100% DR Scroll (30 Min), id: 15358, amount: 1, from: Vote Boss	
+[10/9/25 02:42PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/9/25 02:42PM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/10/25 01:30AM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Hellraiser	
+[10/10/25 01:33AM] Player received drop: x1 Pet Fragments X250, id: 19001, amount: 1, from: Onyx Panther	
+[10/10/25 01:38AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/10/25 10:06AM] Player received drop: x1 Upgrade Token pack (25k), id: 15289, amount: 1, from: Nightmare Boss	
+[10/10/25 01:48PM] Player received drop: x1 Ruby Mystery Box, id: 19114, amount: 1, from: Inuyasha	
+[10/10/25 01:54PM] Player received drop: x1 Crystalized helm, id: 14060, amount: 1, from: Tolrokoth	
+[10/11/25 05:33AM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:35AM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:35AM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:40AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:41AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:01AM] Player received drop: x1 100% DR Scroll (30 Min), id: 15358, amount: 1, from: Vote Boss	
+[10/11/25 09:03AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:06AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:08AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:10AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:12AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/12/25 06:41AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 06:44AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 06:44AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 06:51AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 06:54AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 06:55AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 06:55AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 07:09AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 07:11AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 07:14AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/12/25 07:15AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Cave Mutant	
+[10/15/25 05:14AM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Zenyte	
+[10/15/25 05:14AM] Player received drop: x1 Deity Attachment, id: 10947, amount: 1, from: Zenyte	

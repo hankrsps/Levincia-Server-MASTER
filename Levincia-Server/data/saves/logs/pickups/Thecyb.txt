@@ -1,0 +1,3 @@
+[10/7/25 12:06PM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Thecyb	
+[10/12/25 02:08PM] Player picked up item: Brutal Minigun, id: 19136, amount: 1, owner: Thecyb	
+[10/12/25 02:24PM] Player picked up item: Levincia tokens, id: 12855, amount: 80000, owner: Thecyb	

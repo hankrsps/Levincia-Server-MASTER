@@ -1,0 +1,4 @@
+[10/16/25 03:17PM] Login. ip: 71.241.199.11, mac: Default string20250327013147.000000-240, uuid: A8-4F-A4-7C-04-A3	
+[10/16/25 03:17PM] (CC) Help. Said: It kicked me	
+[10/16/25 03:18PM] (CC) Help. Said: Ok ty	
+[10/16/25 03:18PM] Login. ip: 71.241.199.11, mac: Default string20250327013147.000000-240, uuid: A8-4F-A4-7C-04-A3	

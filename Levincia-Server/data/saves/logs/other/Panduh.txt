@@ -1,0 +1,5 @@
+[10/10/25 02:13AM] Login. ip: 24.210.67.30, mac: Default string20250211154548.000000-300, uuid: D8-BB-C1-1A-A9-32	
+[10/10/25 02:14AM] Login. ip: 24.210.67.30, mac: Default string20250211154548.000000-300, uuid: D8-BB-C1-1A-A9-32	
+[10/10/25 02:19AM] Player destroying item: -1, amount: 0	
+[10/10/25 02:19AM] Player destroying item: -1, amount: 0	
+[10/10/25 02:23AM] Player destroying item: -1, amount: 0	

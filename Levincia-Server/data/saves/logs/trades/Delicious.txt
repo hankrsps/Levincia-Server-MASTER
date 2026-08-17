@@ -1,0 +1,35 @@
+[10/7/25 12:35AM]  Gave item to Deli Afk. Name: Iron hatchet. Id: 1349, amount: 1	
+[10/7/25 12:35AM]  Gave item to Deli Afk. Name: Dragon hatchet. Id: 6739, amount: 1	
+[10/7/25 12:36AM]  Gave item to Deli Afk. Name: Dragon pickaxe. Id: 15259, amount: 1	
+[10/7/25 12:36AM]  Gave item to Deli Afk. Name: Iron pickaxe. Id: 1267, amount: 1	
+[10/7/25 07:40AM]  Received item from Deli Afk. Name: Vote scroll. Id: 23020, amount: 5	
+[10/7/25 07:40AM]  Received item from Deli Afk. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/7/25 07:40AM]  Received item from Deli Afk. Name: Sapphire mystery box. Id: 19116, amount: 2	
+[10/7/25 07:40AM]  Received item from Deli Afk. Name: Levincia tokens. Id: 12855, amount: 8640	
+[10/7/25 07:40AM]  Received item from Deli Afk. Name: PVM ticket. Id: 5022, amount: 6945	
+[10/7/25 07:40AM]  Received item from Deli Afk. Name: Quill's Card Pack. Id: 23277, amount: 3	
+[10/7/25 07:40AM]  Received item from Deli Afk. Name: PvM Box. Id: 7956, amount: 6	
+[10/7/25 07:40AM]  Received item from Deli Afk. Name: Beginner Mystery box. Id: 6199, amount: 8	
+[10/7/25 11:34AM]  Gave item to Run. Name: Ruby Mystery Box. Id: 19114, amount: 10	
+[10/8/25 08:20AM]  Received item from Deli Afk. Name: Supreme Casket. Id: 23253, amount: 2	
+[10/8/25 08:20AM]  Received item from Deli Afk. Name: Vote scroll. Id: 23020, amount: 5	
+[10/8/25 10:52AM]  Received item from Deli Afk. Name: Vote scroll. Id: 23020, amount: 2	
+[10/11/25 05:00AM]  Received item from Hank. Name: $100 Bond. Id: 10943, amount: 2	
+[10/11/25 05:00AM]  Received item from Hank. Name: Monthly Membership Pass. Id: 23392, amount: 1	
+[10/11/25 05:17AM]  Received item from Hank. Name: $10 Bond. Id: 10942, amount: 1	
+[10/11/25 05:17AM]  Received item from Hank. Name: Azure Casket. Id: 15003, amount: 1	
+[10/11/25 05:17AM]  Received item from Hank. Name: Launch casket. Id: 20489, amount: 1	
+[10/11/25 05:17AM]  Received item from Hank. Name: OP Box. Id: 20488, amount: 1	
+[10/11/25 05:17AM]  Received item from Hank. Name: Sapphire mystery box. Id: 19116, amount: 5	
+[10/11/25 05:17AM]  Received item from Hank. Name: Emerald mystery box. Id: 19115, amount: 3	
+[10/11/25 05:17AM]  Received item from Hank. Name: Ruby Mystery Box. Id: 19114, amount: 2	
+[10/11/25 08:07AM]  Gave item to Charlene. Name: Instance Tokens. Id: 4278, amount: 50	
+[10/11/25 08:38AM]  Received item from Deli Afk. Name: Vote scroll. Id: 23020, amount: 7	
+[10/11/25 08:38AM]  Received item from Deli Afk. Name: Levincia tokens. Id: 12855, amount: 23245	
+[10/11/25 08:38AM]  Received item from Deli Afk. Name: Beginner Mystery box. Id: 6199, amount: 18	
+[10/11/25 08:38AM]  Received item from Deli Afk. Name: PvM Box. Id: 7956, amount: 14	
+[10/11/25 08:38AM]  Received item from Deli Afk. Name: Seraphic case. Id: 23411, amount: 1	
+[10/11/25 08:38AM]  Received item from Deli Afk. Name: Instance token (u). Id: 23264, amount: 100	
+[10/11/25 08:38AM]  Received item from Deli Afk. Name: PVM ticket. Id: 5022, amount: 33749	
+[10/11/25 08:38AM]  Received item from Deli Afk. Name: AFK ticket. Id: 5020, amount: 24205	
+[10/11/25 09:15AM]  Received item from Deli Afk. Name: Celestial's Card Pack. Id: 23278, amount: 1	

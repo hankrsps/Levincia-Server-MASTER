@@ -1,0 +1,60 @@
+[10/7/25 01:36PM] Login. ip: 212.129.74.241, mac: YD03ZY5Y20221219132835.000000+000, uuid: 0C-54-15-97-68-2D	
+[10/7/25 01:53PM] Has just redeemed a $100 Bond successfully!	
+[10/7/25 01:58PM] Login. ip: 212.129.74.241, mac: YD03ZY5Y20221219132835.000000+000, uuid: 0C-54-15-97-68-2D	
+[10/7/25 02:04PM] Login. ip: 212.129.74.241, mac: YD03ZY5Y20221219132835.000000+000, uuid: 0C-54-15-97-68-2D	
+[10/7/25 02:08PM] PROGRESSION_ZONES|3032,4122,21|Said: Sorry	
+[10/7/25 02:10PM] Picked up gr.Item PVM ticket, amount: 14	
+[10/7/25 02:10PM] Picked up gr.Item Crystal key, amount: 14	
+[10/7/25 02:10PM] Picked up gr.Item Starter bones, amount: 2	
+[10/7/25 02:10PM] Picked up gr.Item PVM ticket, amount: 14	
+[10/7/25 02:12PM] Player destroying item: -1, amount: 0	
+[10/7/25 02:12PM] Player destroying item: -1, amount: 0	
+[10/7/25 02:12PM] Player destroying item: -1, amount: 0	
+[10/7/25 02:14PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 02:20PM] (CC) Help. Said: How do you upgrade items	
+[10/7/25 02:20PM] (CC) Help. Said: Got it	
+[10/7/25 02:22PM] (CC) Help. Said: No dzone?	
+[10/7/25 02:26PM] DEFAULT|2796,4064,0|Said: :nm	
+[10/7/25 02:26PM] DEFAULT|2796,4064,0|Said: #::nm	
+[10/7/25 02:32PM] VBOSS|2979,2768,0|Said: I been on for 18mins i cant wait to see my upgrades within a hour	
+[10/7/25 02:37PM] VBOSS|2979,2768,0|Said: Nearly there need 120 def for my boots :l	
+[10/7/25 02:37PM] VBOSS|2979,2768,0|Said: Arts boots	
+[10/7/25 02:38PM] VBOSS|2979,2768,0|Said: Box	
+[10/7/25 02:38PM] VBOSS|2979,2768,0|Said: I got arts staff boots and ring	
+[10/7/25 02:38PM] VBOSS|2979,2768,0|Said: Pretty strong magic gear	
+[10/7/25 02:39PM] VBOSS|2979,2768,0|Said: Ah i love magic	
+[10/7/25 02:39PM] VBOSS|2979,2768,0|Said: Lol	
+[10/7/25 02:40PM] VBOSS|2979,2768,0|Said: 3 more lvls	
+[10/7/25 02:45PM] VBOSS|2979,2768,0|Said: Lets gooo	
+[10/7/25 02:46PM] VBOSS|2979,2768,0|Said: Need do some prayer after this	
+[10/7/25 02:49PM] Picked up gr.Item PvM Box (t2), amount: 2	
+[10/7/25 02:50PM] Picked up gr.Item PVM ticket, amount: 150	
+[10/7/25 02:50PM] Picked up gr.Item PVM ticket, amount: 150	
+[10/7/25 02:50PM] Picked up gr.Item PvM Box, amount: 2	
+[10/7/25 02:54PM] Picked up gr.Item Holy symbol, amount: 1	
+[10/7/25 02:58PM] Picked up gr.Item Chilling bones, amount: 2	
+[10/7/25 02:58PM] Picked up gr.Item Crystal key, amount: 2	
+[10/7/25 02:59PM] Picked up gr.Item Chilling bones, amount: 2	
+[10/7/25 02:59PM] Picked up gr.Item Chilling bones, amount: 2	
+[10/7/25 03:24PM] DEFAULT|2793,4064,0|Said: Hey man	
+[10/7/25 03:24PM] DEFAULT|2792,4064,0|Said: Smashing it	
+[10/7/25 03:34PM] DEFAULT|3360,9307,0|Said: @@dr	
+[10/7/25 03:42PM] (CC) Help. Said: I got a supreme dark beast spawned but cant attack it	
+[10/7/25 03:42PM] (CC) Help. Said: Nvm got it	
+[10/8/25 10:43AM] Login. ip: 212.129.74.244, mac: YD03ZY5Y20221219132835.000000+000, uuid: 0C-54-15-97-68-2D	
+[10/8/25 10:44AM] Login. ip: 212.129.74.244, mac: YD03ZY5Y20221219132835.000000+000, uuid: 0C-54-15-97-68-2D	
+[10/8/25 10:48AM] Login. ip: 212.129.74.244, mac: YD03ZY5Y20221219132835.000000+000, uuid: 0C-54-15-97-68-2D	
+[10/8/25 10:51AM] (CC) Help. Said: Ty han	
+[10/8/25 11:05AM] Player destroying item: -1, amount: 0	
+[10/8/25 11:05AM] Player destroying item: -1, amount: 0	
+[10/8/25 11:05AM] Player destroying item: -1, amount: 0	
+[10/8/25 11:05AM] Player destroying item: -1, amount: 0	
+[10/8/25 11:05AM] Player destroying item: -1, amount: 0	
+[10/8/25 11:07AM] Player destroying item: -1, amount: 0	
+[10/8/25 11:07AM] Player destroying item: -1, amount: 0	
+[10/8/25 11:07AM] Player destroying item: -1, amount: 0	
+[10/8/25 11:07AM] Player destroying item: -1, amount: 0	
+[10/8/25 11:07AM] Player destroying item: -1, amount: 0	
+[10/8/25 11:08AM] DOOM|2349,5201,0|Said: Nearly done	
+[10/8/25 12:00PM] Login. ip: 212.129.74.244, mac: YD03ZY5Y20221219132835.000000+000, uuid: 0C-54-15-97-68-2D	
+[10/8/25 12:14PM] DEFAULT|2724,4448,0|Said: 22222222222222222222222222222222222222222222222222222222222222222222222222222222	

@@ -1,0 +1,52 @@
+[10/7/25 09:40PM] Login. ip: 139.180.94.28, mac: Default string20220829133323.000000+720, uuid: 18-C0-4D-E3-21-8F	
+[10/7/25 09:43PM] Player destroying item: -1, amount: 0	
+[10/7/25 09:46PM] (CC) Help. Said: Yo 	
+[10/7/25 09:46PM]  Receiving item from trade with Evilspot Id: 3739, amount: 1	
+[10/7/25 09:46PM]  Receiving item from trade with Evilspot Id: 18830, amount: 300	
+[10/7/25 09:46PM]  Receiving item from trade with Evilspot Id: 4278, amount: 50	
+[10/7/25 09:46PM] HOME_BANK|2784,4065,0|Said: Wicked thanks dude	
+[10/7/25 09:47PM] HOME_BANK|2784,4065,0|Said: :d	
+[10/7/25 09:55PM] PROGRESSION_ZONES|3039,4120,9|Said: That's fine 	
+[10/7/25 09:57PM] Player destroying item: -1, amount: 0	
+[10/7/25 09:57PM] Player destroying item: -1, amount: 0	
+[10/7/25 09:57PM] Player destroying item: -1, amount: 0	
+[10/7/25 09:57PM] Player destroying item: -1, amount: 0	
+[10/7/25 09:57PM] Player destroying item: -1, amount: 0	
+[10/7/25 09:57PM] Player destroying item: -1, amount: 0	
+[10/7/25 10:05PM] Player destroying item: -1, amount: 0	
+[10/7/25 10:06PM] Player destroying item: -1, amount: 0	
+[10/7/25 10:06PM] Player destroying item: -1, amount: 0	
+[10/8/25 12:32AM] HELLRAISER|3109,5530,0|Said: Shivvers im trash	
+[10/8/25 12:53AM] ZONES1|2958,9490,0|Said: Ill go	
+[10/8/25 12:53AM] ZONES1|2958,9490,0|Said: Copy	
+[10/8/25 01:47AM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/8/25 02:04AM] GLOBAL_BOSS|2149,5009,0|Said: 1i have zero dmg	
+[10/8/25 02:06AM] GLOBAL_BOSS|2149,5009,0|Said: Yeah no luck yet	
+[10/8/25 02:06AM] GLOBAL_BOSS|2149,5009,0|Said: Ill get there king	
+[10/8/25 02:13AM] GLOBAL_BOSS|2143,5013,0|Said: Lmao	
+[10/8/25 02:15AM] GLOBAL_BOSS|2143,5013,0|Said: Im off to sleep after this :p	
+[10/8/25 02:17AM] GLOBAL_BOSS|2143,5013,0|Said: Ill upgrade weps for future onbes of these lmao	
+[10/8/25 02:17AM] GLOBAL_BOSS|2143,5013,0|Said: New server 	
+[10/8/25 02:19AM] Picked up gr.Item Levincia tokens, amount: 10000	
+[10/8/25 10:20PM] Login. ip: 139.180.94.28, mac: Default string20220829133323.000000+720, uuid: 18-C0-4D-E3-21-8F	
+[10/10/25 09:24PM] Login. ip: 139.180.94.28, mac: Default string20220829133323.000000+720, uuid: 18-C0-4D-E3-21-8F	
+[10/10/25 09:31PM] Player destroying item: -1, amount: 0	
+[10/10/25 09:32PM] Player destroying item: -1, amount: 0	
+[10/10/25 09:42PM] Picked up gr.Item Nuetron Dagger, amount: 1	
+[10/10/25 09:42PM] Picked up gr.Item Nuetron Dagger, amount: 1	
+[10/10/25 09:45PM] Tin received x1 Indravox platebody from Joyx Golem!	
+[10/10/25 11:43PM] Picked up gr.Item Levincia tokens, amount: 400	
+[10/11/25 12:32AM] Login. ip: 139.180.94.28, mac: Default string20220829133323.000000+720, uuid: 18-C0-4D-E3-21-8F	
+[10/11/25 11:50PM] Login. ip: 139.180.94.28, mac: Default string20220829133323.000000+720, uuid: 18-C0-4D-E3-21-8F	
+[10/11/25 11:52PM] (CC) Help. Said: Where king	
+[10/11/25 11:54PM] GLOBAL_BOSS|2139,5019,0|Said: Yo king	
+[10/11/25 11:54PM] GLOBAL_BOSS|2139,5019,0|Said: How do i go about getting a gear upgrade, i'm getting through zones	
+[10/11/25 11:54PM] GLOBAL_BOSS|2139,5019,0|Said: Hahah trying that :p always losing my shiiiit ;)	
+[10/11/25 11:55PM] GLOBAL_BOSS|2139,5019,0|Said: Ahh i see	
+[10/11/25 11:55PM] GLOBAL_BOSS|2139,5019,0|Said: Trying to get a better armour/wep atm	
+[10/11/25 11:55PM] GLOBAL_BOSS|2139,5019,0|Said: You got anything spare laying around big dog	
+[10/11/25 11:56PM] GLOBAL_BOSS|2139,5019,0|Said: Copy	
+[10/11/25 11:56PM] Picked up gr.Item Global ticket, amount: 2	
+[10/11/25 11:56PM] GLOBAL_BOSS|2137,5019,0|Said: Dang	
+[10/12/25 12:02AM] Player destroying item: -1, amount: 0	
+[10/12/25 12:05AM] Has just redeemed a $5 Bond successfully!	

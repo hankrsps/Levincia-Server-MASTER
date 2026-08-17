@@ -1,0 +1,4 @@
+[10/7/25 10:46AM] PROGRESSION_ZONES|3032,4120,1|Said: My man!	
+[10/7/25 10:47AM] PROGRESSION_ZONES|3032,4120,1|Said: Fortune chests?	
+[10/7/25 10:48AM] PROGRESSION_ZONES|3032,4120,1|Said: I see	
+[10/7/25 10:49AM] DEFAULT|2784,4084,0|Said: Where do you spend donator points?	

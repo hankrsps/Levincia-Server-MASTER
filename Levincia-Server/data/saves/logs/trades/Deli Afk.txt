@@ -1,0 +1,24 @@
+[10/7/25 12:35AM]  Received item from Delicious. Name: Iron hatchet. Id: 1349, amount: 1	
+[10/7/25 12:35AM]  Received item from Delicious. Name: Dragon hatchet. Id: 6739, amount: 1	
+[10/7/25 12:36AM]  Received item from Delicious. Name: Dragon pickaxe. Id: 15259, amount: 1	
+[10/7/25 12:36AM]  Received item from Delicious. Name: Iron pickaxe. Id: 1267, amount: 1	
+[10/7/25 07:40AM]  Gave item to Delicious. Name: Vote scroll. Id: 23020, amount: 5	
+[10/7/25 07:40AM]  Gave item to Delicious. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/7/25 07:40AM]  Gave item to Delicious. Name: Sapphire mystery box. Id: 19116, amount: 2	
+[10/7/25 07:40AM]  Gave item to Delicious. Name: Levincia tokens. Id: 12855, amount: 8640	
+[10/7/25 07:40AM]  Gave item to Delicious. Name: PVM ticket. Id: 5022, amount: 6945	
+[10/7/25 07:40AM]  Gave item to Delicious. Name: Quill's Card Pack. Id: 23277, amount: 3	
+[10/7/25 07:40AM]  Gave item to Delicious. Name: PvM Box. Id: 7956, amount: 6	
+[10/7/25 07:40AM]  Gave item to Delicious. Name: Beginner Mystery box. Id: 6199, amount: 8	
+[10/8/25 08:20AM]  Gave item to Delicious. Name: Supreme Casket. Id: 23253, amount: 2	
+[10/8/25 08:20AM]  Gave item to Delicious. Name: Vote scroll. Id: 23020, amount: 5	
+[10/8/25 10:52AM]  Gave item to Delicious. Name: Vote scroll. Id: 23020, amount: 2	
+[10/11/25 08:38AM]  Gave item to Delicious. Name: Vote scroll. Id: 23020, amount: 7	
+[10/11/25 08:38AM]  Gave item to Delicious. Name: Levincia tokens. Id: 12855, amount: 23245	
+[10/11/25 08:38AM]  Gave item to Delicious. Name: Beginner Mystery box. Id: 6199, amount: 18	
+[10/11/25 08:38AM]  Gave item to Delicious. Name: PvM Box. Id: 7956, amount: 14	
+[10/11/25 08:38AM]  Gave item to Delicious. Name: Seraphic case. Id: 23411, amount: 1	
+[10/11/25 08:38AM]  Gave item to Delicious. Name: Instance token (u). Id: 23264, amount: 100	
+[10/11/25 08:38AM]  Gave item to Delicious. Name: PVM ticket. Id: 5022, amount: 33749	
+[10/11/25 08:38AM]  Gave item to Delicious. Name: AFK ticket. Id: 5020, amount: 24205	
+[10/11/25 09:15AM]  Gave item to Delicious. Name: Celestial's Card Pack. Id: 23278, amount: 1	

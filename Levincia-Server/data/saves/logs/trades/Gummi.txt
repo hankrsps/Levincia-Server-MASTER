@@ -1,0 +1,17 @@
+[10/7/25 02:39PM]  Gave item to Juggy. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: Instance Tokens. Id: 4278, amount: 3	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: Shikruu full helm. Id: 8800, amount: 1	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: Levincia tokens. Id: 12855, amount: 25510	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: Upgrade Token pack (100k). Id: 15288, amount: 1	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: Zara Xp Lamp. Id: 3907, amount: 1	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: Brutal staff. Id: 6936, amount: 1	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: Crystal key. Id: 989, amount: 58	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: Beginner Mystery box. Id: 6199, amount: 14	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: Tornado Katana. Id: 14018, amount: 1	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: PvM Box. Id: 7956, amount: 2	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: Legendary helm. Id: 17638, amount: 1	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: Diabolical platelegs. Id: 8862, amount: 1	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: PVM ticket. Id: 5022, amount: 50455	
+[10/7/25 02:39PM]  Gave item to Juggy. Name: Death rune. Id: 560, amount: 246	

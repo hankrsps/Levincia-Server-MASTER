@@ -1,0 +1,20 @@
+[10/7/25 06:54PM] Login from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/7/25 07:06PM] Logout with password golden11Logout from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/7/25 07:06PM] Login from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/7/25 07:50PM] Logout with password golden11Logout from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/9/25 08:02PM] Login from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/9/25 08:19PM] Logout with password golden11Logout from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/15/25 08:38PM] Login from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/15/25 08:40PM] Logout with password golden11Logout from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/15/25 08:40PM] Login from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/15/25 09:18PM] Logout with password golden11Logout from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/16/25 01:40PM] Login from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/16/25 02:11PM] Logout with password golden11Logout from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/16/25 02:59PM] Login from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/16/25 03:07PM] Logout with password golden11Logout from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/16/25 04:58PM] Login from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/16/25 05:11PM] Logout with password golden11Logout from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/16/25 07:26PM] Login from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/16/25 07:28PM] Logout with password golden11Logout from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/16/25 08:08PM] Login from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	
+[10/16/25 08:59PM] Logout with password golden11Logout from host 120.151.227.55, serial number: 24-6A-0E-7D-53-69, mac address:4CE440BR1X20250414084259.000000+600	

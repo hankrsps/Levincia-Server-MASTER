@@ -1,0 +1,8 @@
+[10/7/25 12:21PM] Login from host 169.238.24.178, serial number: 00-FF-A4-96-C6-04, mac address:39MH72420250210023623.000000-360	
+[10/7/25 01:06PM] Logout with password 01030227AALogout from host 169.238.24.178, serial number: 00-FF-A4-96-C6-04, mac address:39MH72420250210023623.000000-360	
+[10/7/25 01:06PM] Login from host 169.238.24.178, serial number: 00-FF-A4-96-C6-04, mac address:39MH72420250210023623.000000-360	
+[10/7/25 02:01PM] Logout with password 01030227AALogout from host 169.238.24.178, serial number: 00-FF-A4-96-C6-04, mac address:39MH72420250210023623.000000-360	
+[10/7/25 02:30PM] Login from host 169.238.24.178, serial number: 00-FF-A4-96-C6-04, mac address:39MH72420250210023623.000000-360	
+[10/7/25 03:17PM] Logout with password 01030227AALogout from host 169.238.24.178, serial number: 00-FF-A4-96-C6-04, mac address:39MH72420250210023623.000000-360	
+[10/7/25 03:18PM] Login from host 169.238.24.178, serial number: 00-FF-A4-96-C6-04, mac address:39MH72420250210023623.000000-360	
+[10/7/25 03:22PM] Logout with password 01030227AALogout from host 169.238.24.178, serial number: 00-FF-A4-96-C6-04, mac address:39MH72420250210023623.000000-360	

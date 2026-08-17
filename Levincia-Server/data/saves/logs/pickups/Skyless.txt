@@ -1,0 +1,11 @@
+[10/13/25 07:49PM] Player picked up item: Donator Aura, id: 12630, amount: 1, owner: PARTY CHEST	
+[10/13/25 07:49PM] Player picked up item: Quill's Card Pack, id: 23277, amount: 3, owner: PARTY CHEST	
+[10/13/25 07:50PM] Player picked up item: Owner cape goodiebag, id: 3578, amount: 1, owner: PARTY CHEST	
+[10/13/25 07:50PM] Player picked up item: Collector Necklace III, id: 18888, amount: 1, owner: PARTY CHEST	
+[10/13/25 07:50PM] Player picked up item: Owner cape, id: 7995, amount: 1, owner: PARTY CHEST	
+[10/13/25 07:50PM] Player picked up item: Sanguinesti Legends staff, id: 17011, amount: 1, owner: PARTY CHEST	
+[10/13/25 07:51PM] Player picked up item: Collector Necklace III, id: 18888, amount: 1, owner: PARTY CHEST	
+[10/13/25 07:51PM] Player picked up item: Collector Ring III, id: 18818, amount: 1, owner: PARTY CHEST	
+[10/13/25 07:52PM] Player picked up item: Owner cape goodiebag, id: 3578, amount: 1, owner: PARTY CHEST	
+[10/13/25 07:54PM] Player picked up item: Owner cape goodiebag, id: 3578, amount: 1, owner: PARTY CHEST	
+[10/13/25 07:54PM] Player picked up item: Sanguinesti Legends staff, id: 17011, amount: 1, owner: PARTY CHEST	

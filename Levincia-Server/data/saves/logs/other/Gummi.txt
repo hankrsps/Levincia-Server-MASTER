@@ -1,0 +1,29 @@
+[10/7/25 02:02PM] Login. ip: 169.238.24.178, mac: 39MH72420250210023623.000000-360, uuid: 00-FF-A4-96-C6-04	
+[10/7/25 02:17PM] Player destroying item: -1, amount: 0	
+[10/7/25 02:17PM] Player destroying item: -1, amount: 0	
+[10/7/25 02:18PM] Player destroying item: -1, amount: 0	
+[10/7/25 02:18PM] Player destroying item: -1, amount: 0	
+[10/7/25 02:18PM] (CC) Help. Said: First try :o	
+[10/7/25 02:20PM] Player destroying item: -1, amount: 0	
+[10/7/25 02:21PM] Player destroying item: -1, amount: 0	
+[10/7/25 02:21PM] Player destroying item: -1, amount: 0	
+[10/7/25 02:29PM] Player destroying item: -1, amount: 0	
+[10/7/25 02:29PM] Player destroying item: -1, amount: 0	
+[10/7/25 02:35PM] Player destroying item: -1, amount: 0	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 13740, amount: 1	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 13740, amount: 1	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 13740, amount: 1	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 4278, amount: 3	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 8800, amount: 1	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 12855, amount: 25510	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 15288, amount: 1	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 3907, amount: 1	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 6936, amount: 1	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 989, amount: 58	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 6199, amount: 14	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 14018, amount: 1	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 7956, amount: 2	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 17638, amount: 1	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 8862, amount: 1	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 5022, amount: 50455	
+[10/7/25 02:39PM]  Gave item in trade to Juggy. Id: 560, amount: 246	

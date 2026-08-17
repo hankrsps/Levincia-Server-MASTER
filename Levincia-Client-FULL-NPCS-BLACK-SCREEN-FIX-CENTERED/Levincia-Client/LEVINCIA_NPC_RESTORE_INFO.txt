@@ -1,0 +1,14 @@
+LEVINCIA NPC RESTORE BUILD
+
+Preserved:
+- centered login layout
+- black-screen object fallbacks for missing models 22374 and 22375
+- Maven/Java 11 build setup
+
+Restored:
+- full split MobDefinition.java
+- 751 unique NPC case IDs from the progression client
+- NPC IDs 10050-10055 included
+
+The large legacy NPC switch remains split across helper methods to avoid
+the JVM 'code too large' compiler error.

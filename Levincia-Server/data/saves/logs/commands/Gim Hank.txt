@@ -1,0 +1,5 @@
+[10/14/25 03:30PM] Gim Hank used command ::train | Player rights = PLAYER	
+[10/14/25 03:31PM] Gim Hank used command ::train | Player rights = PLAYER	
+[10/14/25 03:32PM] Gim Hank used command ::train | Player rights = PLAYER	
+[10/14/25 03:49PM] Gim Hank used command ::train | Player rights = PLAYER	
+[10/14/25 03:52PM] Gim Hank used command ::train | Player rights = PLAYER	

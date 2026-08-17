@@ -1,0 +1,20 @@
+[10/8/25 01:36PM] UPGRADED : Blessed gloves, id: 3318, amount: 1 --into-- Boss gloves, id: 3905, amount: 1	
+[10/8/25 01:36PM] UPGRADED : Blessed gloves, id: 3318, amount: 1 --into-- Boss gloves, id: 3905, amount: 1	
+[10/9/25 11:47AM] UPGRADED : Dagon'hai robe top, id: 14497, amount: 1 --into-- Shetani body, id: 19139, amount: 1	
+[10/9/25 11:47AM] UPGRADED : Dagon'hai robe bottom, id: 14501, amount: 1 --into-- Shetani legs, id: 19138, amount: 1	
+[10/9/25 11:47AM] UPGRADED : Shetani legs, id: 19138, amount: 1 --into-- Virtus robe legs, id: 6935, amount: 1	
+[10/12/25 03:36AM] UPGRADED : Tanker shield, id: 12933, amount: 1 --into-- Grime necklace, id: 19887, amount: 1	
+[10/12/25 03:36AM] UPGRADED : Tanker shield, id: 12933, amount: 1 --into-- Grime necklace, id: 19887, amount: 1	
+[10/12/25 03:37AM] UPGRADED : Champion gloves, id: 7462, amount: 1 --into-- Blessed gloves, id: 3318, amount: 1	
+[10/12/25 03:37AM] UPGRADED : Champion gloves, id: 7462, amount: 1 --into-- Blessed gloves, id: 3318, amount: 1	
+[10/12/25 03:37AM] UPGRADED : Champion gloves, id: 7462, amount: 1 --into-- Blessed gloves, id: 3318, amount: 1	
+[10/12/25 03:37AM] UPGRADED : Champion gloves, id: 7462, amount: 1 --into-- Blessed gloves, id: 3318, amount: 1	
+[10/12/25 03:37AM] UPGRADED : Champion gloves, id: 7462, amount: 1 --into-- Blessed gloves, id: 3318, amount: 1	
+[10/12/25 03:37AM] UPGRADED : Champion gloves, id: 7462, amount: 1 --into-- Blessed gloves, id: 3318, amount: 1	
+[10/12/25 03:37AM] UPGRADED : Blessed gloves, id: 3318, amount: 1 --into-- Boss gloves, id: 3905, amount: 1	
+[10/12/25 03:37AM] UPGRADED : Blessed gloves, id: 3318, amount: 1 --into-- Boss gloves, id: 3905, amount: 1	
+[10/12/25 03:37AM] UPGRADED : Blessed gloves, id: 3318, amount: 1 --into-- Boss gloves, id: 3905, amount: 1	
+[10/12/25 03:37AM] UPGRADED : Blessed gloves, id: 3318, amount: 1 --into-- Boss gloves, id: 3905, amount: 1	
+[10/12/25 03:37AM] UPGRADED : Blessed gloves, id: 3318, amount: 1 --into-- Boss gloves, id: 3905, amount: 1	
+[10/12/25 03:37AM] UPGRADED : Boss gloves, id: 3905, amount: 1 --into-- Avalon gloves, id: 8812, amount: 1	
+[10/12/25 03:37AM] UPGRADED : Boss gloves, id: 3905, amount: 1 --into-- Avalon gloves, id: 8812, amount: 1	

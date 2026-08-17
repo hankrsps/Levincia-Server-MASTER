@@ -1,0 +1,21 @@
+[10/11/25 02:48PM] Login. ip: 47.233.32.220, mac: 5CD6031Q6M20221008013546.000000-300, uuid: 48-E2-44-C3-CC-CC	
+[10/11/25 02:54PM] (CC) Help. Said: Hmmm	
+[10/11/25 02:56PM] Player destroying item: -1, amount: 0	
+[10/11/25 02:58PM] Player destroying item: -1, amount: 0	
+[10/11/25 02:58PM] Player destroying item: -1, amount: 0	
+[10/11/25 02:58PM] Player destroying item: -1, amount: 0	
+[10/11/25 03:02PM] Player destroying item: -1, amount: 0	
+[10/11/25 03:02PM] Player destroying item: -1, amount: 0	
+[10/11/25 03:02PM] Player destroying item: -1, amount: 0	
+[10/11/25 03:02PM] Player destroying item: -1, amount: 0	
+[10/11/25 03:02PM] Player destroying item: -1, amount: 0	
+[10/11/25 03:02PM] Player destroying item: -1, amount: 0	
+[10/11/25 03:04PM] Player destroying item: -1, amount: 0	
+[10/11/25 03:24PM] PROGRESSION_ZONES|3036,4123,17|Said: Yo	
+[10/11/25 03:24PM] PROGRESSION_ZONES|3037,4123,17|Said: Nb	
+[10/11/25 03:24PM] PROGRESSION_ZONES|3037,4123,17|Said: U	
+[10/11/25 03:26PM] PROGRESSION_ZONES|3032,4120,21|Said: O ty	
+[10/11/25 03:28PM] Has just redeemed a $10 Bond successfully!	
+[10/11/25 03:28PM] Has just redeemed a $25 Bond successfully!	
+[10/11/25 03:28PM] Has just redeemed a $50 Bond successfully!	
+[10/11/25 03:29PM] Has just redeemed a $1 Scroll successfully!	

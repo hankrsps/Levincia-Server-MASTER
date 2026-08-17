@@ -1,0 +1,305 @@
+[10/6/25 05:09AM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/6/25 05:10AM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/6/25 05:10AM] (CC) Help. Said: Yo	
+[10/6/25 05:11AM] (CC) Help. Said: Ref code?	
+[10/6/25 05:11AM] (CC) Help. Said: Vote didnt work?	
+[10/6/25 05:14AM] PROGRESSION_ZONES|3033,4120,1|Said: Ty	
+[10/6/25 05:14AM] PROGRESSION_ZONES|3033,4120,1|Said: After beta we get reset?	
+[10/6/25 05:15AM] PROGRESSION_ZONES|3035,4117,1|Said: We not get reset? :0	
+[10/6/25 05:15AM] PROGRESSION_ZONES|3036,4119,1|Said: Nice	
+[10/6/25 05:15AM] PROGRESSION_ZONES|3036,4119,1|Said: :)	
+[10/6/25 05:16AM] PROGRESSION_ZONES|3036,4119,1|Said: Wooo 100 bond :)	
+[10/6/25 05:16AM] PROGRESSION_ZONES|3036,4119,1|Said: Lmk when vote site is up :)	
+[10/6/25 05:17AM] PROGRESSION_ZONES|3036,4119,1|Said: Shit per one tab lossed battlepass :(	
+[10/6/25 05:17AM] PROGRESSION_ZONES|3036,4119,1|Said: Wety goood :)	
+[10/6/25 05:17AM] PROGRESSION_ZONES|3036,4119,1|Said: Nice	
+[10/6/25 05:17AM] PROGRESSION_ZONES|3036,4119,1|Said: I like this source :)	
+[10/6/25 05:17AM] PROGRESSION_ZONES|3036,4119,1|Said: Nice	
+[10/6/25 05:18AM] Has just redeemed a $100 Bond successfully!	
+[10/6/25 05:18AM] Has just redeemed a $100 Bond successfully!	
+[10/6/25 05:18AM] Has just redeemed a $10 Bond successfully!	
+[10/6/25 05:18AM] Has just redeemed a $10 Bond successfully!	
+[10/6/25 05:21AM] PROGRESSION_ZONES|3036,4120,1|Said: Nice	
+[10/6/25 05:21AM] Player destroying item: -1, amount: 0	
+[10/6/25 05:22AM] PROGRESSION_ZONES|3036,4120,1|Said: Ooo	
+[10/6/25 05:22AM] Player destroying item: -1, amount: 0	
+[10/6/25 05:23AM] Has just redeemed a $50 Bond successfully!	
+[10/6/25 05:23AM] Has just redeemed a $25 Bond successfully!	
+[10/6/25 05:23AM] PROGRESSION_ZONES|3036,4120,1|Said: Thats sounds good	
+[10/6/25 05:23AM] PROGRESSION_ZONES|3036,4121,1|Said: Ye thats good	
+[10/6/25 05:24AM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 05:24AM] Picked up gr.Item Instance Tokens, amount: 1	
+[10/6/25 05:24AM] PROGRESSION_ZONES|3036,4121,1|Said: Gooooooooooooooodddd	
+[10/6/25 05:24AM] PROGRESSION_ZONES|3036,4121,1|Said: Yay!	
+[10/6/25 05:25AM] PROGRESSION_ZONES|3036,4121,1|Said: Okey :)	
+[10/6/25 05:25AM] Player destroying item: -1, amount: 0	
+[10/6/25 05:25AM] PROGRESSION_ZONES|3035,4121,1|Said: Nice	
+[10/6/25 05:27AM] PROGRESSION_ZONES|3034,4121,5|Said: Brb	
+[10/6/25 05:27AM] PROGRESSION_ZONES|3034,4121,5|Said: Smoketime :)	
+[10/6/25 05:36AM] Player destroying item: -1, amount: 0	
+[10/6/25 05:40AM] DEFAULT|2915,4112,0|Said: Yo	
+[10/6/25 05:40AM] DEFAULT|2915,4112,0|Said: Let me try open supreme casket :)	
+[10/6/25 05:41AM] DEFAULT|2915,4112,0|Said: Plss weapon!	
+[10/6/25 05:41AM] DEFAULT|2915,4112,0|Said: Shit lossed scythe per one tab :(	
+[10/6/25 05:41AM] DEFAULT|2915,4112,0|Said: Got owner goodiebag	
+[10/6/25 05:41AM] DEFAULT|2915,4112,0|Said: 50 bond	
+[10/6/25 05:41AM] DEFAULT|2915,4112,0|Said: Ops	
+[10/6/25 05:41AM] DEFAULT|2915,4112,0|Said: 25	
+[10/6/25 05:41AM] Has just redeemed a $25 Bond successfully!	
+[10/6/25 05:42AM] Has just redeemed a $100 Bond successfully!	
+[10/6/25 05:42AM] DEFAULT|2921,4111,0|Said: Where altar?	
+[10/6/25 05:43AM] DEFAULT|2774,4064,0|Said: Ty	
+[10/6/25 05:43AM] Picked up gr.Item Holy symbol, amount: 1	
+[10/6/25 05:43AM] DEFAULT|2766,4067,0|Said: :)	
+[10/6/25 05:54AM] DEFAULT|2773,4063,0|Said: Where can change prayer book?	
+[10/6/25 05:54AM] DEFAULT|2770,4063,0|Said: Invited some ppls	
+[10/6/25 05:54AM] DEFAULT|2770,4063,0|Said: Some need wait for wake up :)	
+[10/6/25 05:54AM] DEFAULT|2766,4062,0|Said: Ty	
+[10/6/25 05:54AM] Player destroying item: -1, amount: 0	
+[10/6/25 06:09AM] (CC) Help. Said: Guys come ::dk  help :)	
+[10/6/25 06:15AM] GLOBAL_BOSS|2141,5017,0|Said: Ok	
+[10/6/25 06:15AM] Player destroying item: -1, amount: 0	
+[10/6/25 06:15AM] GLOBAL_BOSS|2141,5017,0|Said: Naraku?	
+[10/6/25 06:16AM] NARAKU|3426,9566,0|Said: Ye	
+[10/6/25 06:16AM] NARAKU|3426,9566,0|Said: Good	
+[10/6/25 06:16AM] NARAKU|3426,9566,0|Said:  :)	
+[10/6/25 06:17AM] NARAKU|3426,9566,0|Said: Ok i go iron boss :)	
+[10/6/25 06:17AM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 06:17AM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 06:21AM] (CC) Help. Said: How tele donator zone?	
+[10/6/25 06:27AM] (CC) Help. Said: Lol	
+[10/6/25 06:27AM] (CC) Help. Said: Lol	
+[10/6/25 06:31AM] (CC) Help. Said: Pirifier staff same aoe?	
+[10/6/25 06:35AM] (CC) Help. Said: What loots from diminished key?	
+[10/6/25 06:36AM] (CC) Help. Said: Where this chest? :p	
+[10/6/25 06:37AM] (CC) Help. Said: Find	
+[10/6/25 06:38AM] (CC) Help. Said: Got diminished shards and cant claim it	
+[10/6/25 06:42AM] (CC) Help. Said:  ::dk	
+[10/6/25 06:48AM] GLOBAL_BOSS|2139,5014,0|Said: Tokens	
+[10/6/25 06:48AM] GLOBAL_BOSS|2141,5014,0|Said: Who drops packs?	
+[10/6/25 06:49AM] GLOBAL_BOSS|2141,5014,0|Said: Avalons cark pack is op	
+[10/6/25 06:51AM] GLOBAL_BOSS|2141,5015,0|Said: Soul of suffering drops bronze card :p	
+[10/6/25 06:51AM] GLOBAL_BOSS|2141,5015,0|Said: Ooo thx bro!!!	
+[10/6/25 06:51AM] GLOBAL_BOSS|2141,5015,0|Said: Nice!	
+[10/6/25 06:51AM] GLOBAL_BOSS|2141,5015,0|Said: Go rest some :)	
+[10/6/25 06:52AM] GLOBAL_BOSS|2141,5015,0|Said: Im invited about 20 players	
+[10/6/25 06:52AM] GLOBAL_BOSS|2141,5015,0|Said: But think sleeping	
+[10/6/25 06:53AM] GLOBAL_BOSS|2141,5015,0|Said: Dark scythe!	
+[10/6/25 06:53AM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 06:53AM] GLOBAL_BOSS|2140,5014,0|Said: Nice	
+[10/6/25 06:54AM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 06:54AM] Has just redeemed a $25 Bond successfully!	
+[10/6/25 06:54AM] Has just redeemed a $5 Bond successfully!	
+[10/6/25 06:55AM] Has just redeemed a $25 Bond successfully!	
+[10/6/25 06:56AM] Has just redeemed a $10 Bond successfully!	
+[10/6/25 06:56AM] Has just redeemed a $5 Bond successfully!	
+[10/6/25 06:56AM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 06:57AM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 06:57AM] Has just redeemed a $5 Bond successfully!	
+[10/6/25 06:58AM] Has just redeemed a $100 Bond successfully!	
+[10/6/25 06:59AM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 06:59AM] Has just redeemed a $10 Bond successfully!	
+[10/6/25 07:00AM] Player destroying item: -1, amount: 0	
+[10/6/25 07:00AM] Has just redeemed a $50 Bond successfully!	
+[10/6/25 07:00AM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 07:22AM] (CC) Help. Said: Nice	
+[10/6/25 07:23AM] (CC) Help. Said: Nice	
+[10/6/25 07:23AM] (CC) Help. Said: Why u didnt go rest? :)	
+[10/6/25 07:40AM] (CC) Help. Said: Prestige didnt work?	
+[10/6/25 07:49AM] (CC) Help. Said: Whats reward?	
+[10/6/25 10:14AM] SLAYERMULTI|1875,5197,0|Said: .::answer r	
+[10/6/25 12:27PM] (CC) Help. Said: Gnn	
+[10/7/25 12:51AM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/7/25 12:56AM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/7/25 06:20AM] (CC) Help. Said: Lets go..til spawn hellriseer	
+[10/7/25 06:34AM] VOTE_BOSS|3425,4117,4|Said: Cant kill	
+[10/7/25 06:35AM] VOTE_BOSS|3425,4117,4|Said: Lol	
+[10/7/25 06:35AM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/7/25 06:35AM] VOTE_BOSS|3425,4117,4|Said: Ty :)	
+[10/7/25 06:35AM] VOTE_BOSS|3425,4117,4|Said: Till go to work :/	
+[10/7/25 06:36AM] VOTE_BOSS|3425,4117,4|Said: Ty	
+[10/7/25 06:37AM] VOTE_BOSS|3425,4117,4|Said: 120	
+[10/7/25 07:09AM] (CC) Help. Said: Ok cya guys..time to work	
+[10/7/25 04:40PM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/7/25 04:40PM] (CC) Help. Said: Sup	
+[10/7/25 04:41PM] (CC) Help. Said: Back from work :)	
+[10/7/25 04:58PM] (CC) Help. Said: Me	
+[10/7/25 05:01PM] (CC) Help. Said: 97 atm	
+[10/7/25 05:01PM] (CC) Help. Said: Hank for prestige box need all skills 120?	
+[10/7/25 05:02PM] (CC) Help. Said: But where prestige master?	
+[10/7/25 05:02PM] (CC) Help. Said: Or only on any skill click prestige?	
+[10/7/25 05:02PM] (CC) Help. Said: Ty	
+[10/7/25 05:04PM] VOTE_BOSS|3429,4122,4|Said: Glll guys :)	
+[10/7/25 05:05PM] VOTE_BOSS|3429,4122,4|Said: Gz	
+[10/7/25 05:10PM] VOTE_BOSS|3429,4122,4|Said: Just voted :)	
+[10/7/25 05:15PM] VOTE_BOSS|3429,4122,4|Said: Thx!!!	
+[10/7/25 05:16PM] VOTE_BOSS|3429,4122,4|Said: Bought ethereal case from travel merchant :)	
+[10/7/25 05:16PM] VOTE_BOSS|3429,4122,4|Said: After vboss trying check lucky :)	
+[10/7/25 05:17PM] VOTE_BOSS|3429,4122,4|Said: Offcc gz	
+[10/7/25 05:18PM] VOTE_BOSS|3429,4122,4|Said: Gll	
+[10/7/25 05:19PM] VOTE_BOSS|3429,4122,4|Said: Thx	
+[10/7/25 05:23PM] (CC) Help. Said: Upgrades	
+[10/7/25 05:23PM] Player destroying item: -1, amount: 0	
+[10/7/25 05:25PM] Has just redeemed a $50 Bond successfully!	
+[10/7/25 05:25PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 05:28PM] Has just redeemed a $10 Bond successfully!	
+[10/7/25 05:29PM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/7/25 05:30PM] Has just redeemed a $100 Bond successfully!	
+[10/7/25 05:30PM] Has just redeemed a $10 Bond successfully!	
+[10/7/25 05:31PM] (CC) Help. Said: Gz	
+[10/7/25 05:34PM] (CC) Help. Said: Ty	
+[10/7/25 05:35PM] HOME_BANK|2790,4066,0|Said: Nb	
+[10/7/25 05:35PM] (CC) Help. Said: Ty	
+[10/7/25 05:36PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 05:37PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 05:37PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 05:42PM] (CC) Help. Said: Come naraku	
+[10/7/25 05:44PM] Grand received x1 $1 Scroll from Naraku!	
+[10/7/25 05:47PM] (CC) Help. Said: Gz	
+[10/7/25 05:48PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 05:49PM] (CC) Help. Said: Check in quest tab>possible loots	
+[10/7/25 05:49PM] (CC) Help. Said: Think in any chest	
+[10/7/25 05:50PM] (CC) Help. Said: Rip	
+[10/7/25 05:51PM] (CC) Help. Said: Lol	
+[10/7/25 05:53PM] (CC) Help. Said: Gzzz	
+[10/7/25 05:54PM] Has just redeemed a $5 Bond successfully!	
+[10/7/25 05:54PM] Has just redeemed a $5 Bond successfully!	
+[10/7/25 05:54PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 05:55PM] Picked up gr.Item Levincia tokens, amount: 56000	
+[10/7/25 05:55PM] Picked up gr.Item Levincia tokens, amount: 112000	
+[10/7/25 05:55PM] Picked up gr.Item Levincia tokens, amount: 56000	
+[10/7/25 05:58PM] Picked up gr.Item Levincia tokens, amount: 168000	
+[10/7/25 05:59PM] (CC) Help. Said: Ty	
+[10/7/25 06:01PM] NEPHILIM|2142,3295,0|Said: Hawk	
+[10/7/25 06:01PM] NEPHILIM|2142,3295,0|Said: What your armor?	
+[10/7/25 06:03PM] NEPHILIM|2142,3295,0|Said: Dissolve all stuffs	
+[10/7/25 06:03PM] NEPHILIM|2142,3295,0|Said: Do slayer and upgrade pvm boxes	
+[10/7/25 06:04PM] NEPHILIM|2142,3295,0|Said:  ::dissolveall	
+[10/7/25 06:04PM] NEPHILIM|2142,3295,0|Said: In inventor	
+[10/7/25 06:04PM] (CC) Help. Said: Gz	
+[10/7/25 06:05PM] NEPHILIM|2142,3295,0|Said: Gll	
+[10/7/25 06:05PM] NEPHILIM|2142,3295,0|Said: Plss staff	
+[10/7/25 06:05PM] Grand received x1 $5 Bond from Nephilim Warrior!	
+[10/7/25 06:06PM] NEPHILIM|2142,3295,0|Said: No hank	
+[10/7/25 06:06PM] NEPHILIM|2142,3295,0|Said: Like weapon staff	
+[10/7/25 06:06PM] (CC) Help. Said: Tyyy :)	
+[10/7/25 06:06PM] NEPHILIM|2142,3295,0|Said: Lol	
+[10/7/25 06:07PM] NEPHILIM|2142,3295,0|Said: Youre hank?	
+[10/7/25 06:07PM] NEPHILIM|2142,3295,0|Said: Lol	
+[10/7/25 06:07PM] Has just redeemed a $5 Bond successfully!	
+[10/7/25 06:08PM] (CC) Help. Said: Thx hank :)	
+[10/7/25 06:08PM] (CC) Help. Said: Nice :)	
+[10/7/25 06:09PM] (CC) Help. Said: Today many ppls now :)	
+[10/7/25 06:09PM] (CC) Help. Said: :)	
+[10/7/25 06:10PM] NEPHILIM|2143,3296,0|Said: Glll	
+[10/7/25 06:10PM] (CC) Help. Said: :d	
+[10/7/25 06:11PM] Grand received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/7/25 06:11PM] (CC) Help. Said: Thx!!!	
+[10/7/25 06:12PM] NEPHILIM|2145,3296,0|Said: Tyty :)	
+[10/7/25 06:13PM] NEPHILIM|2145,3296,0|Said: Incoming weapon!	
+[10/7/25 06:13PM] NEPHILIM|2145,3296,0|Said: Gl	
+[10/7/25 06:15PM] NEPHILIM|2147,3298,0|Said: Shitty..need go sleep :(	
+[10/7/25 06:15PM] NEPHILIM|2147,3298,0|Said: 04.15	
+[10/7/25 06:15PM] (CC) Help. Said: And two beer atm left still	
+[10/7/25 06:15PM] NEPHILIM|2147,3298,0|Said: Dont hawe time drink beer :d	
+[10/7/25 06:15PM] NEPHILIM|2147,3298,0|Said: Brb	
+[10/7/25 06:16PM] NEPHILIM|2144,3294,0|Said: 4.15	
+[10/7/25 06:16PM] NEPHILIM|2144,3294,0|Said: But hawe two beer still	
+[10/7/25 06:17PM] NEPHILIM|2144,3294,0|Said: Wanna drink it and go sleep :)	
+[10/7/25 06:17PM] NEPHILIM|2144,3294,0|Said: Im play some :)	
+[10/7/25 06:17PM] (CC) Help. Said: Then go rest :)	
+[10/7/25 06:18PM] NEPHILIM|2144,3294,0|Said: Glll	
+[10/7/25 06:18PM] NEPHILIM|2144,3294,0|Said: Try vozath?	
+[10/7/25 06:18PM] NEPHILIM|2144,3294,0|Said: Gnn :)	
+[10/7/25 06:19PM] (CC) Help. Said: All good :)	
+[10/7/25 06:20PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 06:20PM] Picked up gr.Item Levincia tokens, amount: 56000	
+[10/7/25 06:26PM] Has just redeemed a $100 Bond successfully!	
+[10/7/25 06:27PM] Has just redeemed a $50 Bond successfully!	
+[10/7/25 06:30PM] (CC) Help. Said: Tyyyyy	
+[10/7/25 06:32PM] Has just redeemed a $100 Bond successfully!	
+[10/7/25 06:32PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 06:34PM] Has just redeemed a $100 Bond successfully!	
+[10/7/25 06:35PM] DEFAULT|2783,4045,0|Said: Nm	
+[10/7/25 06:51PM] (CC) Help. Said: Dissolve or at ::shops	
+[10/7/25 06:52PM] (CC) Help. Said: Find it	
+[10/7/25 06:53PM] (CC) Help. Said: Och same cant find	
+[10/7/25 06:55PM] (CC) Help. Said: Cant find where can sell junks	
+[10/7/25 07:06PM] (CC) Help. Said: Oo	
+[10/7/25 07:07PM] (CC) Help. Said: :)	
+[10/7/25 07:07PM] NEPHILIM|2145,3301,0|Said: U can vote	
+[10/7/25 07:07PM] NEPHILIM|2145,3301,0|Said: But cant claim atm	
+[10/7/25 07:08PM] NEPHILIM|2145,3301,0|Said: Gll	
+[10/7/25 07:09PM] Grand received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/7/25 07:12PM] NEPHILIM|2145,3301,0|Said: Ok time to sleep guys :)	
+[10/7/25 07:12PM] NEPHILIM|2145,3301,0|Said: Zones	
+[10/7/25 07:12PM] NEPHILIM|2145,3301,0|Said: Glllllllllllllll	
+[10/7/25 07:12PM] NEPHILIM|2145,3301,0|Said: Zones	
+[10/7/25 07:12PM] NEPHILIM|2145,3301,0|Said: For better monsters	
+[10/7/25 07:15PM] EVENTS_ROOM|1696,4266,0|Said: Lol	
+[10/7/25 07:17PM] EVENTS_ROOM|1694,4264,0|Said: Gll	
+[10/7/25 07:18PM] EVENTS_ROOM|1704,4261,0|Said: I cant pick items	
+[10/7/25 07:19PM] EVENTS_ROOM|1704,4263,0|Said: Ddmg scrolls 5x	
+[10/7/25 07:19PM] EVENTS_ROOM|1703,4263,0|Said: Cant take any	
+[10/7/25 07:20PM]  Receiving item from trade with Test Id: 8089, amount: 1	
+[10/7/25 07:20PM] EVENTS_ROOM|1701,4263,0|Said: Ty	
+[10/7/25 07:21PM] EVENTS_ROOM|1704,4258,0|Said: And there see can everyone take mine drops?	
+[10/7/25 07:21PM] EVENTS_ROOM|1703,4257,0|Said: I puched rage cape	
+[10/7/25 07:21PM] EVENTS_ROOM|1703,4257,0|Said: And taked anything	
+[10/7/25 07:28PM] (CC) Help. Said: Gnnn guys :) and thx hank :)	
+[10/8/25 02:44AM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/8/25 03:11AM] Grand received x1 $1 Scroll from Nightmare Boss!	
+[10/8/25 03:11AM] (CC) Help. Said: Gz	
+[10/8/25 03:29AM] Has just redeemed a $1 Scroll successfully!	
+[10/8/25 06:46AM] (CC) Help. Said: Yo	
+[10/8/25 04:47PM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/8/25 04:48PM] (CC) Help. Said: Yo	
+[10/8/25 05:26PM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/8/25 05:28PM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/8/25 05:31PM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/8/25 06:10PM] (CC) Help. Said: Gnn	
+[10/9/25 04:01AM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/9/25 04:16AM] Picked up gr.Item Levincia tokens, amount: 112000	
+[10/9/25 04:32AM] Picked up gr.Item OP Box, amount: 1	
+[10/9/25 05:01AM] (CC) Help. Said: Instanc do?	
+[10/9/25 02:04PM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/9/25 02:06PM] HOME_BANK|2784,4064,0|Said: ?	
+[10/9/25 02:06PM] HOME_BANK|2784,4064,0|Said: Yo	
+[10/9/25 02:07PM] HOME_BANK|2784,4064,0|Said: Just back from work	
+[10/9/25 02:09PM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/9/25 02:09PM] HOME_BANK|2784,4064,0|Said: Checking discord	
+[10/9/25 02:09PM] HOME_BANK|2784,4064,0|Said: Oo thx bro!	
+[10/9/25 02:09PM] (CC) Help. Said: Tyy :)	
+[10/9/25 02:10PM] (CC) Help. Said: Lol	
+[10/9/25 02:11PM] (CC) Help. Said: Nice!	
+[10/9/25 02:12PM] HOME_BANK|2784,4064,0|Said: 114 inventon	
+[10/9/25 02:12PM] HOME_BANK|2784,4064,0|Said: Waiting for 120	
+[10/9/25 02:13PM] HOME_BANK|2784,4064,0|Said: Oo hellraiser	
+[10/9/25 02:13PM] (CC) Help. Said: All to hellraiser	
+[10/9/25 02:15PM] HELLRAISER|3104,5534,0|Said: Naraku	
+[10/9/25 02:17PM] (CC) Help. Said: Nm	
+[10/9/25 02:20PM] (CC) Help. Said: How spawn slayer champion if still 300 tasks left?	
+[10/9/25 02:20PM] (CC) Help. Said: Didnt count slayer tasks?	
+[10/9/25 02:23PM] SLAYER_CHAMPION|3491,4701,0|Said: This is op hp	
+[10/9/25 02:32PM] SLAYER_CHAMPION|3491,4701,0|Said: Oo new perk 2x raids loots	
+[10/9/25 02:32PM] SLAYER_CHAMPION|3491,4701,0|Said: Thats what i wanna	
+[10/9/25 02:32PM] SLAYER_CHAMPION|3491,4701,0|Said: Offcc 45m :o	
+[10/9/25 02:34PM] SLAYER_CHAMPION|3491,4701,0|Said: What can do with onyx fragments?	
+[10/9/25 02:34PM] SLAYER_CHAMPION|3491,4701,0|Said: Spoon?	
+[10/9/25 02:37PM] SLAYER_CHAMPION|3491,4701,0|Said: Next vboss	
+[10/9/25 02:37PM] VOTE_BOSS|3430,4120,4|Said: Next nephilim	
+[10/9/25 02:42PM] (CC) Help. Said: I can take items on ground with ironman?	
+[10/9/25 02:44PM] EVENTS_ROOM|1696,4264,0|Said: Incoming card packs!	
+[10/9/25 02:44PM] EVENTS_ROOM|1696,4264,0|Said: :d	
+[10/9/25 02:48PM] IRON|3811,2839,0|Said: :teleto hank	
+[10/9/25 02:49PM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/9/25 02:55PM] EVENTS_ROOM|1696,4263,0|Said: Only owner can this dropparty think	
+[10/9/25 03:24PM] (CC) Help. Said: Afk.. need go to shave	
+[10/9/25 04:56PM] (CC) Help. Said: Back	
+[10/10/25 05:21AM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	
+[10/10/25 05:25AM] (CC) Help. Said: Sup	
+[10/10/25 05:41AM] Grand received x1 $1 Scroll from Onyx Panther!	
+[10/10/25 05:41AM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 05:45AM] DEFAULT|2783,4045,0|Said: Nice	
+[10/10/25 05:45AM] DEFAULT|2783,4045,0|Said: Im go some afkworking at home	
+[10/13/25 04:47AM] Login. ip: 84.32.199.72, mac: NXMNYEL008424371B8340020250117133750.000000+120, uuid: 9C-AD-97-58-58-30	

@@ -1,0 +1,77 @@
+[10/6/25 04:49AM] Login. ip: 46.132.72.83, mac: PF36M07J20250830053846.000000+180, uuid: 02-60-C4-E7-DD-09	
+[10/6/25 04:52AM] PROGRESSION_ZONES|3034,4121,5|Said: Tye	
+[10/6/25 04:52AM] PROGRESSION_ZONES|3034,4121,5|Said: *+9*+//	
+[10/6/25 04:52AM] PROGRESSION_ZONES|3034,4121,5|Said: +	
+[10/6/25 04:54AM] PROGRESSION_ZONES|3034,4121,9|Said: -+	
+[10/6/25 04:55AM] PROGRESSION_ZONES|3032,4119,9|Said: Ye	
+[10/6/25 04:56AM] Player destroying item: -1, amount: 0	
+[10/6/25 04:56AM] PROGRESSION_ZONES|3032,4119,9|Said: +55555	
+[10/6/25 04:56AM] PROGRESSION_ZONES|3032,4119,9|Said: 9*	
+[10/6/25 04:56AM] PROGRESSION_ZONES|3032,4119,9|Said: Lil kid spa,miigm	
+[10/6/25 04:57AM]  Gave item in trade to Hank. Id: 536, amount: 1	
+[10/6/25 04:57AM]  Receiving item from trade with Hank Id: 23002, amount: 5	
+[10/6/25 04:59AM] PROGRESSION_ZONES|3032,4119,9|Said: Ye ez :	
+[10/6/25 04:59AM] Has just redeemed a $25 Bond successfully!	
+[10/6/25 04:59AM] Has just redeemed a $10 Bond successfully!	
+[10/6/25 05:00AM]  Receiving item from trade with Hank Id: 15002, amount: 5	
+[10/6/25 05:00AM]  Receiving item from trade with Hank Id: 23279, amount: 1	
+[10/6/25 05:00AM] PROGRESSION_ZONES|3034,4121,13|Said: Thx	
+[10/6/25 05:01AM] Player destroying item: -1, amount: 0	
+[10/6/25 05:01AM] Player destroying item: -1, amount: 0	
+[10/6/25 05:01AM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 05:01AM] PROGRESSION_ZONES|3034,4121,13|Said: Oke	
+[10/6/25 05:01AM] PROGRESSION_ZONES|3034,4121,13|Said: What is premium tickets?	
+[10/6/25 05:02AM] Has just redeemed a $5 Bond successfully!	
+[10/6/25 05:02AM] PROGRESSION_ZONES|3031,4119,13|Said: Oke	
+[10/6/25 05:03AM] Has just redeemed a $50 Bond successfully!	
+[10/6/25 05:03AM] PROGRESSION_ZONES|3031,4118,13|Said: Oh nie	
+[10/6/25 05:03AM] PROGRESSION_ZONES|3030,4119,13|Said: Nice	
+[10/6/25 05:03AM] PROGRESSION_ZONES|3032,4120,13|Said: Lets check	
+[10/6/25 05:04AM] EVENTS_ROOM|1696,4266,0|Said: Ye	
+[10/6/25 05:04AM] EVENTS_ROOM|1696,4266,0|Said: :d	
+[10/6/25 05:05AM] Picked up gr.Item Brutal Minigun, amount: 1	
+[10/6/25 05:06AM] Picked up gr.Item Sorrow chaps, amount: 1	
+[10/6/25 05:10AM] Picked up gr.Item Holy symbol, amount: 1	
+[10/6/25 05:10AM] DEFAULT|2767,4063,0|Said: Ye	
+[10/6/25 05:11AM] Player destroying item: -1, amount: 0	
+[10/6/25 05:18AM] Picked up gr.Item Range helm (T5), amount: 1	
+[10/6/25 05:18AM] Picked up gr.Item Blast bow, amount: 1	
+[10/6/25 05:18AM] Picked up gr.Item $50 Bond, amount: 1	
+[10/6/25 05:19AM] Picked up gr.Item $25 Bond, amount: 1	
+[10/6/25 05:19AM] Picked up gr.Item Collector Necklace III, amount: 1	
+[10/6/25 05:19AM] Picked up gr.Item Elite Sword (aoe), amount: 1	
+[10/6/25 05:19AM] Has just redeemed a $25 Bond successfully!	
+[10/6/25 05:19AM] Has just redeemed a $50 Bond successfully!	
+[10/6/25 05:22AM] Player destroying item: -1, amount: 0	
+[10/6/25 05:28AM] ZONES1|2987,9489,0|Said: Sure	
+[10/6/25 05:28AM]  Receiving item from trade with Hank Id: 4278, amount: 300	
+[10/6/25 05:28AM] ZONES1|2986,9487,0|Said: Ty	
+[10/6/25 05:31AM] Player destroying item: -1, amount: 0	
+[10/6/25 05:31AM] Player destroying item: -1, amount: 0	
+[10/6/25 06:27AM] (CC) Help. Said: Ur a fuckinng noob	
+[10/6/25 06:27AM] (CC) Help. Said: This hawk	
+[10/6/25 06:27AM] (CC) Help. Said: Teled home told im noob i told back now :d	
+[10/6/25 06:27AM] (CC) Help. Said: Xdd'	
+[10/6/25 06:39AM] (CC) Help. Said: Come to ::naraku	
+[10/6/25 06:40AM] NARAKU|3427,9566,0|Said: Noob die	
+[10/6/25 06:42AM] NARAKU|3422,9569,0|Said: I got loot	
+[10/6/25 06:42AM] NARAKU|3422,9569,0|Said: L0l	
+[10/6/25 06:46AM] GLOBAL_BOSS|2140,5015,0|Said: Give us boxes	
+[10/6/25 06:46AM] GLOBAL_BOSS|2140,5015,0|Said: For freeeeee	
+[10/6/25 06:46AM] GLOBAL_BOSS|2140,5015,0|Said: Everyone free boxesssssssssssssss	
+[10/6/25 06:46AM] GLOBAL_BOSS|2140,5015,0|Said: Aiaiaiiiiiii	
+[10/6/25 06:47AM] GLOBAL_BOSS|2140,5015,0|Said: Everyone free boxesssss	
+[10/6/25 06:47AM] GLOBAL_BOSS|2140,5015,0|Said: Nothinggggggggg	
+[10/6/25 06:47AM] GLOBAL_BOSS|2140,5015,0|Said: Scammm bosssssssssssssss	
+[10/6/25 06:51AM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 06:52AM] Has just redeemed a $5 Bond successfully!	
+[10/6/25 06:54AM] Has just redeemed a $50 Bond successfully!	
+[10/6/25 06:58AM] GLOBAL_BOSS|2137,5014,0|Said: Me to caskets	
+[10/6/25 06:59AM] Has just redeemed a $25 Bond successfully!	
+[10/6/25 07:06AM] Has just redeemed a $25 Bond successfully!	
+[10/6/25 07:07AM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 07:08AM] HOME_BANK|2784,4059,0|Said: .:afkboss	
+[10/8/25 12:57AM] Login. ip: 193.210.194.235, mac: PF36M07J20250830053846.000000+180, uuid: 02-60-C4-E7-DD-09	
+[10/8/25 01:04AM] PROGRESSION_ZONES|3034,4119,17|Said: :donatorzone	
+[10/8/25 01:12AM] (CC) Help. Said: Noob	
+[10/8/25 01:52AM] Player destroying item: -1, amount: 0	

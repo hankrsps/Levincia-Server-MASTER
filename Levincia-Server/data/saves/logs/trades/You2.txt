@@ -1,0 +1,2 @@
+[10/8/25 07:49AM]  Gave item to You. Name: Quill's Card Pack. Id: 23277, amount: 2	
+[10/8/25 07:49AM]  Gave item to You. Name: Vote scroll. Id: 23020, amount: 2	

@@ -1,0 +1,80 @@
+[10/10/25 09:12AM] Login. ip: 99.88.137.117, mac: 20251006094923.000000-240, uuid: 50-EB-F6-1E-42-54	
+[10/10/25 09:14AM] (CC) Help. Said: Sup	
+[10/10/25 09:16AM] (CC) Help. Said: Ty	
+[10/10/25 09:27AM] DEFAULT|2785,4054,0|Said: Levling is prettyt fast id say	
+[10/10/25 09:27AM] DEFAULT|2785,4054,0|Said: I just took vet	
+[10/10/25 09:33AM] Picked up gr.Item Holy symbol, amount: 1	
+[10/10/25 09:38AM] Player destroying item: -1, amount: 0	
+[10/10/25 09:38AM] Player destroying item: 15259, amount: 1	
+[10/10/25 09:51AM] Player destroying item: -1, amount: 0	
+[10/10/25 09:54AM] Has just redeemed a $10 Bond successfully!	
+[10/10/25 09:54AM] Has just redeemed a $10 Bond successfully!	
+[10/10/25 09:56AM] Has just redeemed a $100 Bond successfully!	
+[10/10/25 09:56AM] (CC) Help. Said: 100dollars	
+[10/10/25 09:58AM] (CC) Help. Said: Ooooo fuk	
+[10/10/25 10:03AM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 10:03AM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 10:11AM] (CC) Help. Said: Where will dp be	
+[10/10/25 10:17AM] Picked up gr.Item PvM Box, amount: 2	
+[10/10/25 10:18AM] (CC) Help. Said: Where do i get a collectors ring, my ammy ran out	
+[10/10/25 10:19AM]  Receiving item from trade with Kursed Id: 19886, amount: 1	
+[10/10/25 10:19AM] DEFAULT|2781,4046,0|Said: Ty	
+[10/10/25 10:33AM] Login. ip: 99.88.137.117, mac: 20251006094923.000000-240, uuid: 50-EB-F6-1E-42-54	
+[10/10/25 10:42AM] Player destroying item: -1, amount: 0	
+[10/10/25 11:30AM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 11:42AM] Player destroying item: -1, amount: 0	
+[10/10/25 11:43AM] Player destroying item: -1, amount: 0	
+[10/10/25 12:06PM] Player destroying item: 436, amount: 1	
+[10/10/25 12:06PM] Player destroying item: 436, amount: 1	
+[10/10/25 12:06PM] Player destroying item: -1, amount: 0	
+[10/10/25 12:09PM] Player destroying item: -1, amount: 0	
+[10/10/25 12:09PM] Player destroying item: -1, amount: 0	
+[10/10/25 02:26PM] Has just redeemed a $5 Bond successfully!	
+[10/10/25 03:03PM] (CC) Help. Said: Na	
+[10/10/25 03:04PM] (CC) Help. Said: Zones	
+[10/10/25 03:45PM] Player destroying item: 17815, amount: 1	
+[10/10/25 03:52PM] Loki received x1 Ripper legs from Titanium Ripper!	
+[10/10/25 04:21PM] Player destroying item: -1, amount: 0	
+[10/10/25 04:21PM] Player destroying item: -1, amount: 0	
+[10/10/25 04:21PM] Player destroying item: -1, amount: 0	
+[10/10/25 04:21PM] Player destroying item: -1, amount: 0	
+[10/10/25 06:06PM] Player destroying item: -1, amount: 0	
+[10/10/25 06:09PM] (CC) Help. Said: One of the shops at home	
+[10/11/25 06:38AM] Login. ip: 99.88.137.117, mac: 20251006094923.000000-240, uuid: 50-EB-F6-1E-42-54	
+[10/11/25 06:39AM] Login. ip: 99.88.137.117, mac: 20251006094923.000000-240, uuid: 50-EB-F6-1E-42-54	
+[10/11/25 06:55AM] (CC) Help. Said: Need to be able to note items so we can easily dissolve	
+[10/11/25 06:56AM] (CC) Help. Said: Ah i see. the custom gear tho you cant note	
+[10/11/25 06:56AM] (CC) Help. Said: Im tryin	
+[10/11/25 07:26AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 07:32AM] (CC) Help. Said: Sup	
+[10/11/25 07:34AM] (CC) Help. Said: Sup	
+[10/11/25 07:35AM] DEFAULT|2790,4047,0|Said: Mm	
+[10/11/25 07:35AM] DEFAULT|2790,4047,0|Said: I havent opened any 	
+[10/11/25 07:35AM] DEFAULT|2790,4047,0|Said: Ill look tho	
+[10/11/25 07:36AM] (CC) Help. Said: Where do u use crystal keys	
+[10/11/25 07:36AM] HOME_BANK|2789,4063,0|Said: Yo	
+[10/11/25 07:36AM] HOME_BANK|2789,4059,0|Said: Here	
+[10/11/25 07:50AM] (CC) Help. Said: :daily	
+[10/11/25 07:50AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 07:51AM] (CC) Help. Said: Na, been in zones	
+[10/11/25 07:53AM] Loki received x1 Sorrow horn-coif from Legendary Wyvern!	
+[10/11/25 07:54AM] Loki received x1 Legendary wings from Legendary Wyvern!	
+[10/11/25 07:57AM] (CC) Help. Said: After my instance	
+[10/11/25 07:57AM] (CC) Help. Said: ::dk	
+[10/11/25 08:06AM] (CC) Help. Said:  :: whatver your rank is	
+[10/11/25 08:13AM] (CC) Help. Said: Ty	
+[10/11/25 08:39AM] Loki received x1 Legendary helm from Legendary Wyvern!	
+[10/11/25 08:39AM] Loki received x1 Sorrow bow from Legendary Wyvern!	
+[10/11/25 08:54AM] (CC) Help. Said: ::vboss	
+[10/11/25 09:00AM] Loki received x1 2X Damage Scroll (30 Min) from Vote Boss!	
+[10/11/25 09:06AM] Loki received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/11/25 09:09AM] Loki received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/11/25 09:10AM] Loki received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/11/25 09:14AM] Loki received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/11/25 09:15AM] NEPHILIM|2144,3298,0|Said: Ty	
+[10/11/25 09:19AM] Has just redeemed a $25 Bond successfully!	
+[10/11/25 09:32AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 09:32AM] Has just redeemed a $5 Bond successfully!	
+[10/11/25 09:33AM] DEFAULT|2790,4047,0|Said: Ty	
+[10/11/25 09:33AM] (CC) Help. Said: Ty	
+[10/11/25 09:38AM] Picked up gr.Item Levincia tokens, amount: 360	

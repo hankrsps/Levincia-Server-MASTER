@@ -1,0 +1,329 @@
+[10/7/25 11:50AM] Login. ip: 91.129.97.51, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/7/25 11:59AM] Login. ip: 91.129.97.51, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/7/25 11:59AM] (CC) Help. Said:  can we vote? 	
+[10/7/25 12:04PM] (CC) Help. Said:  and its not beta ? 	
+[10/7/25 12:05PM] Player destroying item: -1, amount: 0	
+[10/7/25 12:06PM] Player destroying item: -1, amount: 0	
+[10/7/25 12:06PM] Picked up gr.Item Holy symbol, amount: 1	
+[10/7/25 12:29PM] NARAKU|3426,9565,0|Said: Jeez boys , how long u been played	
+[10/7/25 12:29PM] NARAKU|3426,9565,0|Said: Xd	
+[10/7/25 12:29PM] NARAKU|3426,9565,0|Said: It came out today xd	
+[10/7/25 12:29PM] NARAKU|3426,9565,0|Said: Or?	
+[10/7/25 12:30PM] NARAKU|3426,9565,0|Said: Wtf	
+[10/7/25 12:30PM] NARAKU|3426,9565,0|Said: This is beta ? 	
+[10/7/25 12:32PM] NARAKU|3426,9565,0|Said: I didnt find a voteing site ,where to put name 	
+[10/7/25 12:32PM] NARAKU|3426,9565,0|Said: So , basicly  	
+[10/7/25 12:32PM] NARAKU|3426,9565,0|Said: How he can possibly know , thant we voted	
+[10/7/25 12:32PM] NARAKU|3426,9565,0|Said: Xd	
+[10/7/25 12:44PM] PROGRESSION_ZONES|3033,4121,17|Said: Do u know , will there be eco reset? 	
+[10/7/25 12:44PM] PROGRESSION_ZONES|3031,4118,17|Said: Same 	
+[10/7/25 12:44PM] PROGRESSION_ZONES|3030,4116,17|Said: Someone told me this is alpha	
+[10/7/25 12:45PM] PROGRESSION_ZONES|3030,4116,17|Said: Yessssss	
+[10/7/25 12:45PM] PROGRESSION_ZONES|3030,4116,17|Said: :p	
+[10/7/25 12:49PM] PROGRESSION_ZONES|3032,4119,17|Said: Okay 	
+[10/7/25 12:51PM] PROGRESSION_ZONES|3032,4119,17|Said: Cant wait next xd	
+[10/7/25 12:52PM] PROGRESSION_ZONES|3032,4119,17|Said: The ref ones ? 	
+[10/7/25 12:52PM] PROGRESSION_ZONES|3032,4119,17|Said: Xd	
+[10/7/25 12:52PM] PROGRESSION_ZONES|3032,4119,17|Said: Do ::ref	
+[10/7/25 12:52PM] PROGRESSION_ZONES|3032,4119,17|Said: And wr3ckedyou	
+[10/7/25 12:52PM] PROGRESSION_ZONES|3032,4119,17|Said: Gl	
+[10/7/25 12:53PM] PROGRESSION_ZONES|3032,4119,17|Said: Ooo 	
+[10/7/25 12:54PM] (CC) Help. Said: Tyty	
+[10/7/25 12:56PM] (CC) Help. Said:  pickup ur pet	
+[10/7/25 12:56PM] Has just redeemed a $50 Bond successfully!	
+[10/7/25 12:56PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 12:59PM] Login. ip: 91.129.97.51, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/7/25 01:03PM] PROGRESSION_ZONES|3032,4121,21|Said: Gg	
+[10/7/25 01:03PM] PROGRESSION_ZONES|3032,4121,21|Said: I need 55 invent 	
+[10/7/25 01:03PM] PROGRESSION_ZONES|3032,4121,21|Said: 1 lvl more	
+[10/7/25 01:03PM] PROGRESSION_ZONES|3030,4119,21|Said: Nah	
+[10/7/25 01:03PM] PROGRESSION_ZONES|3030,4119,21|Said: Got lucky with box	
+[10/7/25 01:04PM] PROGRESSION_ZONES|3029,4119,21|Said: Yea	
+[10/7/25 01:04PM] PROGRESSION_ZONES|3029,4119,21|Said: U?	
+[10/7/25 01:04PM] PROGRESSION_ZONES|3029,4119,21|Said: :o	
+[10/7/25 01:04PM] PROGRESSION_ZONES|3029,4119,21|Said: Wtf	
+[10/7/25 01:04PM] PROGRESSION_ZONES|3029,4119,21|Said: Xd	
+[10/7/25 01:04PM] PROGRESSION_ZONES|3029,4119,21|Said: I dont even know if this last train is nessesary x	
+[10/7/25 01:04PM] PROGRESSION_ZONES|3029,4119,21|Said: D	
+[10/7/25 01:05PM] PROGRESSION_ZONES|3031,4119,21|Said: Nb	
+[10/7/25 01:05PM] PROGRESSION_ZONES|3031,4119,21|Said: Nice	
+[10/7/25 01:06PM] PROGRESSION_ZONES|3031,4121,21|Said: Gl with that	
+[10/7/25 01:07PM] Login. ip: 91.129.97.51, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/7/25 01:07PM] PROGRESSION_ZONES|3031,4121,21|Said: Niceee	
+[10/7/25 01:07PM] PROGRESSION_ZONES|3031,4121,21|Said: Glgl	
+[10/7/25 01:07PM] PROGRESSION_ZONES|3031,4121,21|Said: Noice	
+[10/7/25 01:11PM] VOTE_BOSS|3424,4123,4|Said: Juggy xddd	
+[10/7/25 01:11PM] VOTE_BOSS|3424,4123,4|Said: I got upgrade	
+[10/7/25 01:11PM] VOTE_BOSS|3424,4123,4|Said: Xd	
+[10/7/25 01:13PM] VOTE_BOSS|3424,4123,4|Said: Juggy is too strpmg xd	
+[10/7/25 01:13PM] VOTE_BOSS|3424,4123,4|Said: Strong 	
+[10/7/25 01:16PM] VOTE_BOSS|3424,4123,4|Said: Glgl	
+[10/7/25 01:23PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 01:27PM] (CC) Help. Said:  help at ::dk xd	
+[10/7/25 01:27PM] (CC) Help. Said:  this shit is op 	
+[10/7/25 01:28PM] GLOBAL_BOSS|2141,5019,0|Said: Why u need runes	
+[10/7/25 01:29PM] GLOBAL_BOSS|2141,5019,0|Said: Xd	
+[10/7/25 01:30PM] Login. ip: 91.129.97.51, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/7/25 01:31PM] GLOBAL_BOSS|2141,5019,0|Said: Lol	
+[10/7/25 01:31PM] GLOBAL_BOSS|2141,5019,0|Said: Mf xd	
+[10/7/25 01:31PM] GLOBAL_BOSS|2141,5019,0|Said: Nah xd	
+[10/7/25 01:31PM] GLOBAL_BOSS|2141,5019,0|Said: Theyre too hurry	
+[10/7/25 01:31PM] GLOBAL_BOSS|2141,5019,0|Said: Xd	
+[10/7/25 01:32PM] GLOBAL_BOSS|2141,5019,0|Said: U made it	
+[10/7/25 01:32PM] GLOBAL_BOSS|2141,5019,0|Said: Gl	
+[10/7/25 01:32PM] GLOBAL_BOSS|2139,5017,0|Said: Ty hank	
+[10/7/25 01:33PM] PROGRESSION_ZONES|3028,4120,21|Said: Need def	
+[10/7/25 01:33PM] PROGRESSION_ZONES|3028,4120,21|Said: 120	
+[10/7/25 01:33PM] PROGRESSION_ZONES|3037,4119,21|Said: What next	
+[10/7/25 01:33PM] PROGRESSION_ZONES|3037,4119,21|Said: Zones? 	
+[10/7/25 01:34PM] PROGRESSION_ZONES|3038,4121,21|Said: There donor zones?	
+[10/7/25 01:34PM] (CC) Help. Said:  hank there donor zones?	
+[10/7/25 01:34PM] PROGRESSION_ZONES|3038,4119,21|Said: Xdddd	
+[10/7/25 01:35PM] (CC) Help. Said:  eeerm 75 idk	
+[10/7/25 01:35PM] (CC) Help. Said:  xd emerald	
+[10/7/25 01:36PM] (CC) Help. Said:  tyty	
+[10/7/25 01:36PM] EMERALD_ZONE|2592,2774,0|Said: Oh shit	
+[10/7/25 01:36PM] EMERALD_ZONE|2592,2774,0|Said: Xd	
+[10/7/25 01:36PM] EMERALD_ZONE|2592,2774,0|Said: Nice droprates	
+[10/7/25 01:37PM] EMERALD_ZONE|2589,2777,0|Said: Lol	
+[10/7/25 01:37PM] EMERALD_ZONE|2589,2777,0|Said: Xd	
+[10/7/25 01:37PM] EMERALD_ZONE|2589,2777,0|Said: Need aoe	
+[10/7/25 01:37PM] EMERALD_ZONE|2589,2777,0|Said: Xd	
+[10/7/25 01:38PM] HELLRAISER|3107,5530,0|Said: Oh shit , nice pet	
+[10/7/25 01:39PM] HELLRAISER|3107,5530,0|Said: Fckkkk 	
+[10/7/25 01:39PM] HELLRAISER|3107,5530,0|Said: That take ages	
+[10/7/25 01:39PM] HELLRAISER|3107,5530,0|Said: Xd	
+[10/7/25 01:40PM] HELLRAISER|3107,5530,0|Said: Me toooo 	
+[10/7/25 01:40PM] HELLRAISER|3107,5530,0|Said: Tyty	
+[10/7/25 01:41PM] HELLRAISER|3104,5533,0|Said: Fckkk	
+[10/7/25 01:42PM] HELLRAISER|3104,5533,0|Said: Xd	
+[10/7/25 01:42PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 01:42PM] HELLRAISER|3104,5533,0|Said: Gz juggy	
+[10/7/25 01:43PM] HELLRAISER|3105,5534,0|Said: Duel ? 	
+[10/7/25 01:43PM] HELLRAISER|3105,5534,0|Said: Kk 	
+[10/7/25 01:43PM] HELLRAISER|3105,5534,0|Said: Eee	
+[10/7/25 01:43PM] HELLRAISER|3105,5534,0|Said: Tell me again 	
+[10/7/25 01:43PM] HELLRAISER|3105,5534,0|Said: Im nub 	
+[10/7/25 01:43PM] HELLRAISER|3105,5534,0|Said: Xd	
+[10/7/25 01:43PM] HELLRAISER|3105,5534,0|Said: What tele	
+[10/7/25 01:43PM] HELLRAISER|3105,5534,0|Said: Xd	
+[10/7/25 01:50PM] (CC) Help. Said:  xddddddddddddd	
+[10/7/25 02:07PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 02:10PM] Login. ip: 91.129.97.51, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/7/25 02:20PM] (CC) Help. Said:  ctrl u	
+[10/7/25 02:22PM] (CC) Help. Said:  ::emerald	
+[10/7/25 08:57PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 09:05PM] SLAYER_CHAMPION|3488,4697,0|Said: Creeper cape doest work ? 	
+[10/7/25 09:05PM] SLAYER_CHAMPION|3488,4697,0|Said: Slayeebos is good wtf xd	
+[10/7/25 09:06PM] SLAYER_CHAMPION|3488,4697,0|Said: Bslayer xd	
+[10/7/25 09:06PM] SLAYER_CHAMPION|3488,4697,0|Said: Slayebb	
+[10/7/25 09:06PM] SLAYER_CHAMPION|3488,4697,0|Said: Slayerb	
+[10/7/25 09:06PM] SLAYER_CHAMPION|3488,4697,0|Said: Wtf	
+[10/7/25 09:06PM] SLAYER_CHAMPION|3488,4697,0|Said: Xd	
+[10/8/25 06:27AM] Login. ip: 91.129.97.51, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/8/25 08:31AM] Login. ip: 91.129.109.79, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/8/25 08:31AM] (CC) Help. Said:  long day , xd tyy	
+[10/8/25 10:34AM] Login. ip: 91.129.109.79, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/8/25 10:43AM] (CC) Help. Said: Cant claim votes yet?	
+[10/8/25 10:43AM] (CC) Help. Said:  niceeee	
+[10/8/25 10:51AM] (CC) Help. Said: Tyty	
+[10/9/25 10:59AM] Login. ip: 91.129.103.189, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/9/25 12:02PM] (CC) Help. Said:  what up :) 	
+[10/9/25 12:03PM] (CC) Help. Said:  lets do some	
+[10/9/25 12:03PM] (CC) Help. Said:  where i see starter tasks	
+[10/9/25 12:04PM] (CC) Help. Said:  ofc xd	
+[10/9/25 12:04PM] PEST_CONTROL_BOAT|2662,2640,0|Said: Oh wtf	
+[10/9/25 12:04PM] PEST_CONTROL_BOAT|2662,2640,0|Said: 3 ppl	
+[10/9/25 12:04PM] (CC) Help. Said:  can i add here afk ? 	
+[10/9/25 12:04PM] PEST_CONTROL_BOAT|2662,2640,0|Said: Xd	
+[10/9/25 12:04PM] PEST_CONTROL_BOAT|2662,2640,0|Said: Can i run this with afk 	
+[10/9/25 12:05PM] PEST_CONTROL_BOAT|2662,2640,0|Said: Dont think so 	
+[10/9/25 12:05PM] PEST_CONTROL_BOAT|2662,2640,0|Said: Ill take afk 	
+[10/9/25 12:05PM] PEST_CONTROL_BOAT|2662,2640,0|Said: Lvl 1 xd	
+[10/9/25 12:06PM] PEST_CONTROL_BOAT|2662,2640,0|Said: Yeah	
+[10/9/25 12:06PM] PEST_CONTROL_BOAT|2662,2640,0|Said: How many we need to run 	
+[10/9/25 12:06PM] PEST_CONTROL_BOAT|2662,2640,0|Said: Kk 	
+[10/9/25 12:07PM] PEST_CONTROL_BOAT|2662,2640,0|Said: No 	
+[10/9/25 12:07PM] PEST_CONTROL_BOAT|2662,2640,0|Said: Eeee	
+[10/9/25 12:07PM] PEST_CONTROL_BOAT|2662,2640,0|Said: Too some time to load	
+[10/9/25 12:07PM] PEST_CONTROL_BOAT|2662,2640,0|Said: Oo nice	
+[10/9/25 12:08PM] PEST_CONTROL_GAME|2654,2574,0|Said: Ye	
+[10/9/25 12:11PM] (CC) Help. Said: Ye	
+[10/9/25 12:28PM] Has just redeemed a $1 Scroll successfully!	
+[10/9/25 12:29PM] (CC) Help. Said:  erm , what happend with damage xd	
+[10/9/25 12:49PM] Login. ip: 91.129.103.189, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/9/25 12:50PM] HELLRAISER|3110,5532,0|Said: :startertasks	
+[10/9/25 12:58PM] (CC) Help. Said:  tried this raid , but, im too fcking noob	
+[10/9/25 12:59PM] (CC) Help. Said:  legends	
+[10/9/25 01:00PM] HOME_BANK|2784,4063,0|Said: Let it be xd need to get stronger	
+[10/9/25 01:11PM] Login. ip: 91.129.103.189, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/9/25 01:14PM] (CC) Help. Said:  yo hank xd i tried to log in xd something kicks me 	
+[10/9/25 01:14PM] (CC) Help. Said:  hank , its testing xddd	
+[10/9/25 01:18PM] (CC) Help. Said:  if you click on voting streak , u understand xd	
+[10/9/25 01:18PM] (CC) Help. Said: Yoyo	
+[10/9/25 01:20PM] (CC) Help. Said:  hmm 	
+[10/9/25 01:20PM] (CC) Help. Said:  im not gonna try again xd	
+[10/9/25 01:21PM] (CC) Help. Said:  maybe 	
+[10/9/25 01:21PM] HOME_BANK|2789,4065,0|Said: Looking good :) 	
+[10/9/25 01:42PM] (CC) Help. Said:  nerf incomeing ? xd	
+[10/9/25 01:42PM] (CC) Help. Said:  nice	
+[10/10/25 09:43AM] Login. ip: 91.129.105.236, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/10/25 09:43AM] DEFAULT|2775,4063,0|Said: >>vboss	
+[10/10/25 09:43AM] VOTE_BOSS|3428,4115,4|Said: Yo	
+[10/10/25 09:44AM] VOTE_BOSS|3428,4115,4|Said: Dp is over?	
+[10/10/25 09:44AM] VOTE_BOSS|3428,4115,4|Said: Cant pickup anyway xd	
+[10/10/25 09:45AM] VOTE_BOSS|3428,4115,4|Said: Niceee	
+[10/10/25 09:50AM] (CC) Help. Said:  hell ? 	
+[10/10/25 09:52AM] HELLRAISER|3107,5532,0|Said: Scam xddd	
+[10/10/25 09:54AM] (CC) Help. Said:  v33t iron ? 	
+[10/10/25 09:55AM] (CC) Help. Said:  come ::iron	
+[10/10/25 09:55AM] IRON|3810,2841,0|Said: Gl	
+[10/10/25 09:56AM] IRON|3810,2841,0|Said: Scam xd	
+[10/10/25 10:01AM] SLAYER_CHAMPION|3487,4703,0|Said: Jeez fck	
+[10/10/25 10:01AM] SLAYER_CHAMPION|3487,4703,0|Said: :d 	
+[10/10/25 10:01AM] SLAYER_CHAMPION|3487,4703,0|Said: Why so many hp 	
+[10/10/25 10:02AM] SLAYER_CHAMPION|3487,4702,0|Said: Hm season pass costs ?	
+[10/10/25 10:06AM] VBOSS|2981,2767,0|Said: V33t , iron 	
+[10/10/25 10:06AM] (CC) Help. Said: Which bosss u kill	
+[10/10/25 10:08AM] NARAKU|3427,9569,0|Said: 1,	
+[10/10/25 10:08AM] HOME_BANK|2785,4063,0|Said: 00000000000	
+[10/10/25 10:08AM] DEFAULT|2794,4065,0|Said: 184,	
+[10/10/25 10:08AM] AFK|2798,4064,0|Said: ,1	
+[10/10/25 10:09AM] DEFAULT|2783,4048,0|Said: 0--	
+[10/10/25 10:09AM] DEFAULT|2785,4046,0|Said: 1-	
+[10/10/25 10:09AM] DEFAULT|2788,4047,0|Said:  ,i 	
+[10/10/25 10:09AM] DEFAULT|2783,4042,0|Said: --1  0m.01	
+[10/10/25 10:09AM] DEFAULT|2783,4042,0|Said: _	
+[10/10/25 10:09AM] DEFAULT|2779,4045,0|Said: ,,00	
+[10/10/25 10:10AM] DEFAULT|2773,4063,0|Said: 1_1111	
+[10/10/25 10:11AM] DEFAULT|2784,4085,0|Said:       1   0 0n n  b13 22,    1 - m  ;:                  c j ey0ucv 0 zff ljkhvbc	
+[10/10/25 10:22AM] INSTANCE2|2785,4768,43|Said:  ::fb   vvnbnbhnm-n nn m nkkmm ,n .fvn ,.,mj      , 1	
+[10/10/25 10:57AM] Login. ip: 91.129.105.236, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/10/25 10:58AM] HOME_BANK|2784,4065,0|Said: >>droppaty	
+[10/10/25 11:06AM] Player destroying item: 17815, amount: 1	
+[10/10/25 11:06AM] Player destroying item: 17815, amount: 1	
+[10/10/25 11:14AM] INSTANCE2|2785,4767,39|Said: .	
+[10/10/25 11:15AM] (CC) Help. Said:  yo , who helps me end the startertasks	
+[10/10/25 11:15AM] (CC) Help. Said:  need run legends raid	
+[10/10/25 11:15AM] (CC) Help. Said:  and pc	
+[10/10/25 02:17PM] Login. ip: 91.129.105.236, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/10/25 02:18PM] (CC) Help. Said: Yoyo , can someone help me finish the starter tasks	
+[10/10/25 02:18PM] (CC) Help. Said:  need few pc and raid	
+[10/10/25 02:18PM] (CC) Help. Said:  ::startertasks	
+[10/10/25 02:20PM] (CC) Help. Said:  me too , low damage but 	
+[10/10/25 02:21PM] (CC) Help. Said:  need 3 players	
+[10/10/25 02:22PM] PEST_CONTROL_GAME|2673,2594,0|Said: Ez	
+[10/10/25 02:22PM] PEST_CONTROL_GAME|2673,2594,0|Said: Tyy	
+[10/10/25 02:24PM] PEST_CONTROL_GAME|2637,2593,0|Said: Xd	
+[10/10/25 02:24PM] PEST_CONTROL_GAME|2637,2593,0|Said: I need that 	
+[10/10/25 02:24PM] PEST_CONTROL_GAME|2637,2593,0|Said: Mf raid also 	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2662,2641,0|Said: Ty	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2662,2641,0|Said: What that sanguine seed does	
+[10/10/25 02:26PM] PEST_CONTROL_GAME|2655,2574,0|Said: Dp is over ye ? 	
+[10/10/25 02:26PM] PEST_CONTROL_GAME|2655,2574,0|Said: Tried to kick balloons but	
+[10/10/25 02:26PM] PEST_CONTROL_GAME|2655,2574,0|Said: Cant pick up	
+[10/10/25 02:27PM] PEST_CONTROL_GAME|2637,2592,0|Said: Doest really matter wich portal u kill i guess xd	
+[10/10/25 02:27PM] PEST_CONTROL_GAME|2654,2602,0|Said: In chat it says 	
+[10/10/25 02:27PM] PEST_CONTROL_GAME|2673,2593,0|Said: Wich u can kill 	
+[10/10/25 02:27PM] PEST_CONTROL_GAME|2673,2593,0|Said: But i think its 	
+[10/10/25 02:27PM] PEST_CONTROL_GAME|2673,2593,0|Said: Bugged xd	
+[10/10/25 02:28PM] PEST_CONTROL_GAME|2655,2615,0|Said: Xdd	
+[10/10/25 02:29PM] PEST_CONTROL_GAME|2655,2574,0|Said: Lol	
+[10/10/25 02:30PM] PEST_CONTROL_GAME|2637,2592,0|Said: Haaaaa	
+[10/10/25 02:30PM] PEST_CONTROL_GAME|2637,2592,0|Said: 6	
+[10/10/25 02:30PM] PEST_CONTROL_GAME|2637,2592,0|Said: Xddd	
+[10/10/25 02:31PM] DEFAULT|2657,2639,0|Said: Lets try raid	
+[10/10/25 02:32PM] DEFAULT|2657,2639,0|Said: U need? 	
+[10/10/25 02:32PM] DEFAULT|2657,2640,0|Said: Lets do raid 	
+[10/10/25 02:32PM] DEFAULT|2657,2640,0|Said: Then we help ya 	
+[10/10/25 02:32PM] DEFAULT|2657,2640,0|Said: Xd	
+[10/10/25 02:32PM] (CC) Help. Said:  where tf is teleport	
+[10/10/25 02:32PM] (CC) Help. Said:  saw ty	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2224,4117,0|Said: Holy shit	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2224,4117,0|Said: Xd	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2223,4116,0|Said: Wtf	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2223,4116,0|Said: Actually	
+[10/10/25 02:37PM] ZOMBIE_LOBBY|2222,4113,0|Said: Kkk , spoon need 2 pc more	
+[10/10/25 02:38PM] PEST_CONTROL_GAME|2637,2591,0|Said: Yea	
+[10/10/25 02:39PM] PEST_CONTROL_GAME|2655,2615,0|Said: What u wear lol xd	
+[10/10/25 02:40PM] PEST_CONTROL_GAME|2655,2567,0|Said: Wtf u wear lol xd	
+[10/10/25 02:40PM] PEST_CONTROL_BOAT|2662,2641,0|Said: Hmmmmmm 	
+[10/10/25 02:40PM] PEST_CONTROL_BOAT|2662,2641,0|Said: Xd	
+[10/10/25 02:43PM] DEFAULT|2657,2649,0|Said: Sooo gh	
+[10/10/25 02:43PM] DEFAULT|2657,2649,0|Said: Xd	
+[10/10/25 02:43PM] DEFAULT|2657,2649,0|Said: Wheres the hole 	
+[10/10/25 02:43PM] DEFAULT|2657,2649,0|Said: Xd	
+[10/10/25 02:44PM] DEFAULT|2657,2649,0|Said: To get itmes u have	
+[10/10/25 02:44PM] DEFAULT|2657,2649,0|Said: Xd	
+[10/10/25 02:44PM] DEFAULT|2657,2648,0|Said: From dp ? 	
+[10/10/25 02:44PM] DEFAULT|2657,2648,0|Said: Or , how 	
+[10/10/25 02:44PM] DEFAULT|2657,2648,0|Said: To get	
+[10/10/25 02:44PM] DEFAULT|2657,2648,0|Said: Items 	
+[10/10/25 02:44PM] DEFAULT|2657,2648,0|Said: Xd	
+[10/10/25 02:45PM] DEFAULT|2657,2648,0|Said: Oh shit	
+[10/10/25 02:45PM] DEFAULT|2657,2648,0|Said: Mmhm	
+[10/10/25 02:45PM] DEFAULT|2657,2648,0|Said: 1k	
+[10/10/25 02:45PM] DEFAULT|2657,2648,0|Said: Yeah 	
+[10/10/25 02:46PM] DEFAULT|2657,2648,0|Said: :) ill go slayy	
+[10/10/25 02:47PM] DEFAULT|2657,2648,0|Said: Rusted	
+[10/10/25 02:47PM] DEFAULT|2657,2648,0|Said: Gl	
+[10/10/25 03:03PM] (CC) Help. Said:  nope 	
+[10/10/25 03:04PM] (CC) Help. Said: Trying to get some damage xd	
+[10/10/25 11:25PM] Login. ip: 91.129.105.236, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/10/25 11:42PM] Login. ip: 91.129.105.236, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/12/25 12:50PM] Login. ip: 91.129.106.250, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/12/25 12:52PM] GLOBAL_BOSS|2137,5019,0|Said: Nneeed hellpa 	
+[10/12/25 12:52PM] GLOBAL_BOSS|2137,5019,0|Said: Xd	
+[10/12/25 12:53PM] GLOBAL_BOSS|2137,5019,0|Said: Did u do ::startertasks already ? 	
+[10/12/25 12:54PM] GLOBAL_BOSS|2137,5019,0|Said: Note yet 	
+[10/12/25 12:54PM] GLOBAL_BOSS|2137,5019,0|Said: If hank comes online from afk 	
+[10/12/25 12:54PM] GLOBAL_BOSS|2137,5019,0|Said: U can ask 	
+[10/12/25 12:55PM] GLOBAL_BOSS|2137,5019,0|Said: I need 120 invetion xd	
+[10/12/25 12:56PM] (CC) Help. Said:  can someone help at dk 	
+[10/12/25 12:56PM] GLOBAL_BOSS|2137,5019,0|Said: Aight 	
+[10/12/25 01:03PM] GLOBAL_BOSS|2142,5023,0|Said: Hot tf u get the items xd	
+[10/12/25 01:03PM] GLOBAL_BOSS|2142,5023,0|Said: Im like fcking noob 	
+[10/12/25 01:04PM] GLOBAL_BOSS|2142,5023,0|Said: Like afk ::afk ?	
+[10/12/25 01:04PM] GLOBAL_BOSS|2141,5020,0|Said: No shit ?	
+[10/12/25 01:05PM] GLOBAL_BOSS|2141,5020,0|Said: Aight 	
+[10/12/25 01:05PM] GLOBAL_BOSS|2141,5020,0|Said: Xd	
+[10/12/25 01:05PM] GLOBAL_BOSS|2141,5020,0|Said: Chao	
+[10/12/25 01:05PM] GLOBAL_BOSS|2141,5020,0|Said: Gn 	
+[10/12/25 01:28PM] Has just redeemed a $1 Scroll successfully!	
+[10/12/25 01:41PM] (CC) Help. Said:  at ::afk ? 	
+[10/12/25 02:02PM] Has just redeemed a $50 Bond successfully!	
+[10/12/25 02:08PM] Picked up gr.Item Brutal Minigun, amount: 1	
+[10/12/25 02:12PM] DEFAULT|2788,4080,0|Said:  ::afk	
+[10/12/25 02:24PM] Picked up gr.Item Levincia tokens, amount: 80000	
+[10/12/25 02:24PM] Has just redeemed a $1 Scroll successfully!	
+[10/12/25 02:37PM] UNKNOWN_MINIGAME|1751,5132,0|Said: D::mage	
+[10/12/25 02:38PM] Login. ip: 91.129.106.250, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/12/25 03:59PM] Login. ip: 91.129.106.250, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/13/25 04:57AM] Login. ip: 91.129.101.247, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/13/25 05:00AM] DEFAULT|2766,4065,0|Said: Need bones 	
+[10/13/25 05:00AM] DEFAULT|2766,4065,0|Said: Xd	
+[10/16/25 11:46AM] Login. ip: 91.129.100.90, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/18/25 11:41AM] Login. ip: 91.129.109.5, mac: KBN0CV13J82547220250924014337.000000+180, uuid: 24-41-8C-B6-CC-1C	
+[10/18/25 11:42AM] (CC) Help. Said:  yo hank u online ? 	
+[10/18/25 11:44AM] Has just redeemed a $1 Scroll successfully!	
+[10/18/25 11:45AM] Has just redeemed a $50 Bond successfully!	
+[10/18/25 11:48AM] Has just redeemed a $5 Bond successfully!	
+[10/18/25 11:48AM] Has just redeemed a $1 Scroll successfully!	
+[10/18/25 11:53AM] (CC) Help. Said:  my lucky 19 	
+[10/18/25 11:54AM] (CC) Help. Said:  damn it takes time to 120 invention 	
+[10/18/25 11:54AM] (CC) Help. Said:  same	
+[10/18/25 12:01PM] (CC) Help. Said:  -....- 114 here xd	
+[10/18/25 12:02PM] (CC) Help. Said:  wish that tier 2,3 items can be noted xd	
+[10/18/25 12:02PM] (CC) Help. Said:  for faster upgrade	
+[10/18/25 12:03PM] (CC) Help. Said:  slayer 	
+[10/18/25 12:03PM] (CC) Help. Said:  but hard slayer doesnt have zones	
+[10/18/25 12:04PM] (CC) Help. Said:  yea 	
+[10/18/25 12:06PM] (CC) Help. Said:  scroll for that some npc ? 	
+[10/18/25 12:09PM] Has just redeemed a $1 Scroll successfully!	
+[10/18/25 12:10PM] (CC) Help. Said:  still cant claim votes?	
+[10/18/25 01:19PM] (CC) Help. Said:  gzzzz	
+[10/18/25 01:53PM] (CC) Help. Said:  hm xp needed for 120 ? 	
+[10/18/25 02:03PM] (CC) Help. Said:  im at 110 xd	
+[10/18/25 02:09PM] (CC) Help. Said:  115m 	
+[10/18/25 02:09PM] (CC) Help. Said:  jeez crist xd	
+[10/18/25 02:13PM] Has just redeemed a $1 Scroll successfully!	

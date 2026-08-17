@@ -1,0 +1,42 @@
+[7/14/25 04:14PM] Player picked up item: Sapphire mystery box, id: 19116, amount: 1, owner: Test	
+[7/14/25 04:14PM] Player picked up item: PvM Box, id: 7956, amount: 1, owner: Test
+[7/14/25 04:15PM] Player picked up item: PvM Box (t2), id: 22214, amount: 1, owner: Test
+[7/14/25 04:15PM] Player picked up item: PvM Box, id: 7956, amount: 1, owner: Test
+[7/14/25 04:16PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Test	
+[7/14/25 04:16PM] Player picked up item: PVM ticket, id: 5022, amount: 75, owner: Test	
+[7/14/25 04:16PM] Player picked up item: PvM Box, id: 7956, amount: 1, owner: Test
+[7/14/25 04:16PM] Player picked up item: PvM Box, id: 7956, amount: 1, owner: Test
+[7/19/25 10:30AM] Player picked up item: Empty bucket, id: 3727, amount: 1, owner: Test	
+[7/19/25 03:09PM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Test	
+[7/20/25 03:59PM] Player picked up item: PVM ticket, id: 5022, amount: 516, owner: Test	
+[8/10/25 06:26AM] Player picked up item: Starter bones, id: 23402, amount: 1, owner: Test	
+[8/10/25 06:26AM] Player picked up item: Starter bones, id: 23402, amount: 1, owner: Test	
+[10/5/25 12:11PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:11PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:12PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:15PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:16PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:16PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:16PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:16PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:16PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:16PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:17PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:17PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:17PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:17PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:18PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:18PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:18PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:18PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:19PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:19PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:19PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:19PM] Player picked up item: Diminished Helmet, id: 10823, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:48PM] Player picked up item: Sanguinesti Legends staff, id: 17011, amount: 1, owner: PARTY CHEST	
+[10/5/25 12:48PM] Player picked up item: Elite Sword (aoe), id: 8410, amount: 1, owner: PARTY CHEST	
+[10/5/25 05:06PM] Player picked up item: Rage Cape, id: 20591, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:19PM] Player picked up item: 2X Damage Scroll (30 Min), id: 15359, amount: 5, owner: PARTY CHEST	
+[10/7/25 07:19PM] Player picked up item: Purifier Staff, id: 8089, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:21PM] Player picked up item: Dagon'hai robes set, id: 14525, amount: 50, owner: PARTY CHEST	
+[10/7/25 07:23PM] Player picked up item: Elite Sword (aoe), id: 8410, amount: 1, owner: PARTY CHEST	

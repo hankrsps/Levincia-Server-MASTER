@@ -1,0 +1,990 @@
+[10/5/25 07:29AM]  [ Hank ]  Gave item to Spoon. Name: Case key. Id: 4186, amount: 5	
+[10/5/25 07:29AM]  [ Spoon ]  Received item from Hank. Name: Case key. Id: 4186, amount: 5	
+[10/5/25 08:09AM]  [ Spoon ]  Received item from Hank. Name: OP Box. Id: 20488, amount: 5	
+[10/5/25 08:09AM]  [ Spoon ]  Received item from Hank. Name: Ruby Mystery Box. Id: 19114, amount: 5	
+[10/5/25 08:09AM]  [ Spoon ]  Received item from Hank. Name: Sapphire mystery box. Id: 19116, amount: 3	
+[10/5/25 08:09AM]  [ Spoon ]  Received item from Hank. Name: Emerald mystery box. Id: 19115, amount: 3	
+[10/5/25 08:09AM]  [ Hank ]  Gave item to Spoon. Name: OP Box. Id: 20488, amount: 5	
+[10/5/25 08:09AM]  [ Hank ]  Gave item to Spoon. Name: Ruby Mystery Box. Id: 19114, amount: 5	
+[10/5/25 08:09AM]  [ Hank ]  Gave item to Spoon. Name: Sapphire mystery box. Id: 19116, amount: 3	
+[10/5/25 08:09AM]  [ Hank ]  Gave item to Spoon. Name: Emerald mystery box. Id: 19115, amount: 3	
+[10/5/25 08:10AM]  [ Hank ]  Gave item to History Hawk. Name: OP Box. Id: 20488, amount: 5	
+[10/5/25 08:10AM]  [ Hank ]  Gave item to History Hawk. Name: Ruby Mystery Box. Id: 19114, amount: 5	
+[10/5/25 08:10AM]  [ Hank ]  Gave item to History Hawk. Name: Sapphire mystery box. Id: 19116, amount: 3	
+[10/5/25 08:10AM]  [ Hank ]  Gave item to History Hawk. Name: Emerald mystery box. Id: 19115, amount: 3	
+[10/5/25 08:10AM]  [ History Hawk ]  Received item from Hank. Name: OP Box. Id: 20488, amount: 5	
+[10/5/25 08:10AM]  [ History Hawk ]  Received item from Hank. Name: Ruby Mystery Box. Id: 19114, amount: 5	
+[10/5/25 08:10AM]  [ History Hawk ]  Received item from Hank. Name: Sapphire mystery box. Id: 19116, amount: 3	
+[10/5/25 08:10AM]  [ History Hawk ]  Received item from Hank. Name: Emerald mystery box. Id: 19115, amount: 3	
+[10/5/25 08:19AM]  [ Hank ]  Gave item to History Hawk. Name: Elite staff. Id: 8412, amount: 1	
+[10/5/25 08:19AM]  [ History Hawk ]  Received item from Hank. Name: Elite staff. Id: 8412, amount: 1	
+[10/5/25 08:19AM]  [ Hank ]  Gave item to Spoon. Name: Elite staff. Id: 8412, amount: 1	
+[10/5/25 08:19AM]  [ Spoon ]  Received item from Hank. Name: Elite staff. Id: 8412, amount: 1	
+[10/5/25 01:42PM]  [ Hank ]  Gave item to History Hawk. Name: Collector Necklace III. Id: 18888, amount: 1	
+[10/5/25 01:42PM]  [ Hank ]  Gave item to History Hawk. Name: Supreme Casket. Id: 23253, amount: 15	
+[10/5/25 01:42PM]  [ History Hawk ]  Received item from Hank. Name: Collector Necklace III. Id: 18888, amount: 1	
+[10/5/25 01:42PM]  [ History Hawk ]  Received item from Hank. Name: Supreme Casket. Id: 23253, amount: 15	
+[10/6/25 04:57AM]  [ Atz ]  Gave item to Hank. Name: Dragon bones. Id: 536, amount: 1	
+[10/6/25 04:57AM]  [ Atz ]  Received item from Hank. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/6/25 04:57AM]  [ Hank ]  Gave item to Atz. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/6/25 04:57AM]  [ Hank ]  Received item from Atz. Name: Dragon bones. Id: 536, amount: 1	
+[10/6/25 05:00AM]  [ Hank ]  Gave item to Atz. Name: Elite Casket. Id: 15002, amount: 5	
+[10/6/25 05:00AM]  [ Hank ]  Gave item to Atz. Name: Avalon's Card Pack. Id: 23279, amount: 1	
+[10/6/25 05:00AM]  [ Atz ]  Received item from Hank. Name: Elite Casket. Id: 15002, amount: 5	
+[10/6/25 05:00AM]  [ Atz ]  Received item from Hank. Name: Avalon's Card Pack. Id: 23279, amount: 1	
+[10/6/25 05:28AM]  [ Hank ]  Gave item to Atz. Name: Instance Tokens. Id: 4278, amount: 300	
+[10/6/25 05:28AM]  [ Atz ]  Received item from Hank. Name: Instance Tokens. Id: 4278, amount: 300	
+[10/6/25 07:41PM]  [ Vibes ]  Received item from Hank. Name: Collector Necklace III. Id: 18888, amount: 1	
+[10/6/25 07:41PM]  [ Vibes ]  Received item from Hank. Name: Starter platelegs. Id: 1067, amount: 1	
+[10/6/25 07:41PM]  [ Vibes ]  Received item from Hank. Name: Starter platebody. Id: 1115, amount: 1	
+[10/6/25 07:41PM]  [ Vibes ]  Received item from Hank. Name: Starter staff. Id: 16995, amount: 1	
+[10/6/25 07:41PM]  [ Vibes ]  Received item from Hank. Name: Starter helm. Id: 1153, amount: 1	
+[10/6/25 07:41PM]  [ Hank ]  Gave item to Vibes. Name: Collector Necklace III. Id: 18888, amount: 1	
+[10/6/25 07:41PM]  [ Hank ]  Gave item to Vibes. Name: Starter platelegs. Id: 1067, amount: 1	
+[10/6/25 07:41PM]  [ Hank ]  Gave item to Vibes. Name: Starter platebody. Id: 1115, amount: 1	
+[10/6/25 07:41PM]  [ Hank ]  Gave item to Vibes. Name: Starter staff. Id: 16995, amount: 1	
+[10/6/25 07:41PM]  [ Hank ]  Gave item to Vibes. Name: Starter helm. Id: 1153, amount: 1	
+[10/6/25 07:42PM]  [ Vibes ]  Received item from Hank. Name: Elite staff. Id: 8412, amount: 1	
+[10/6/25 07:42PM]  [ Vibes ]  Received item from Hank. Name: Elite Crossbow (aoe). Id: 8411, amount: 1	
+[10/6/25 07:42PM]  [ Vibes ]  Received item from Hank. Name: Elite Sword (aoe). Id: 8410, amount: 1	
+[10/6/25 07:42PM]  [ Vibes ]  Received item from Hank. Name: Vote scroll. Id: 23020, amount: 5	
+[10/6/25 07:42PM]  [ Vibes ]  Received item from Hank. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/6/25 07:42PM]  [ Hank ]  Gave item to Vibes. Name: Elite staff. Id: 8412, amount: 1	
+[10/6/25 07:42PM]  [ Hank ]  Gave item to Vibes. Name: Elite Crossbow (aoe). Id: 8411, amount: 1	
+[10/6/25 07:42PM]  [ Hank ]  Gave item to Vibes. Name: Elite Sword (aoe). Id: 8410, amount: 1	
+[10/6/25 07:42PM]  [ Hank ]  Gave item to Vibes. Name: Vote scroll. Id: 23020, amount: 5	
+[10/6/25 07:42PM]  [ Hank ]  Gave item to Vibes. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/6/25 07:51PM]  [ Hank ]  Gave item to You. Name: Enraged sword (AoE). Id: 3737, amount: 1	
+[10/6/25 07:51PM]  [ Hank ]  Gave item to You. Name: Herbal AoE bow. Id: 3738, amount: 1	
+[10/6/25 07:51PM]  [ Hank ]  Gave item to You. Name: Elemental staff (AoE). Id: 3739, amount: 1	
+[10/6/25 07:51PM]  [ Hank ]  Gave item to You. Name: Collectors necklace. Id: 23087, amount: 1	
+[10/6/25 07:51PM]  [ You ]  Received item from Hank. Name: Enraged sword (AoE). Id: 3737, amount: 1	
+[10/6/25 07:51PM]  [ You ]  Received item from Hank. Name: Herbal AoE bow. Id: 3738, amount: 1	
+[10/6/25 07:51PM]  [ You ]  Received item from Hank. Name: Elemental staff (AoE). Id: 3739, amount: 1	
+[10/6/25 07:51PM]  [ You ]  Received item from Hank. Name: Collectors necklace. Id: 23087, amount: 1	
+[10/6/25 08:02PM]  [ Hank ]  Gave item to Vibes. Name: Collector necklace II. Id: 19888, amount: 1	
+[10/6/25 08:02PM]  [ Hank ]  Gave item to Vibes. Name: Elite staff. Id: 8412, amount: 1	
+[10/6/25 08:02PM]  [ Hank ]  Gave item to Vibes. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/6/25 08:02PM]  [ Vibes ]  Received item from Hank. Name: Collector necklace II. Id: 19888, amount: 1	
+[10/6/25 08:02PM]  [ Vibes ]  Received item from Hank. Name: Elite staff. Id: 8412, amount: 1	
+[10/6/25 08:02PM]  [ Vibes ]  Received item from Hank. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/6/25 08:02PM]  [ Hank ]  Gave item to You. Name: Collector necklace II. Id: 19888, amount: 1	
+[10/6/25 08:02PM]  [ Hank ]  Gave item to You. Name: Elite staff. Id: 8412, amount: 1	
+[10/6/25 08:02PM]  [ Hank ]  Gave item to You. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/6/25 08:02PM]  [ You ]  Received item from Hank. Name: Collector necklace II. Id: 19888, amount: 1	
+[10/6/25 08:02PM]  [ You ]  Received item from Hank. Name: Elite staff. Id: 8412, amount: 1	
+[10/6/25 08:02PM]  [ You ]  Received item from Hank. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/6/25 08:04PM]  [ Hank ]  Gave item to You. Name: Vote scroll. Id: 23020, amount: 5	
+[10/6/25 08:04PM]  [ You ]  Received item from Hank. Name: Vote scroll. Id: 23020, amount: 5	
+[10/6/25 08:06PM]  [ Hank ]  Gave item to Vibes. Name: Fortune Chest. Id: 23002, amount: 1	
+[10/6/25 08:06PM]  [ Hank ]  Received item from Vibes. Name: Deity Boots. Id: 18881, amount: 1	
+[10/6/25 08:06PM]  [ Vibes ]  Gave item to Hank. Name: Deity Boots. Id: 18881, amount: 1	
+[10/6/25 08:06PM]  [ Vibes ]  Received item from Hank. Name: Fortune Chest. Id: 23002, amount: 1	
+[10/6/25 09:03PM]  [ Hank ]  Gave item to Vibes. Name: Case key. Id: 4186, amount: 2	
+[10/6/25 09:03PM]  [ Vibes ]  Received item from Hank. Name: Case key. Id: 4186, amount: 2	
+[10/6/25 09:03PM]  [ Hank ]  Gave item to Vibes. Name: Case key. Id: 4186, amount: 10	
+[10/6/25 09:03PM]  [ Vibes ]  Received item from Hank. Name: Case key. Id: 4186, amount: 10	
+[10/7/25 12:35AM]  [ Deli Afk ]  Received item from Delicious. Name: Iron hatchet. Id: 1349, amount: 1	
+[10/7/25 12:35AM]  [ Deli Afk ]  Received item from Delicious. Name: Dragon hatchet. Id: 6739, amount: 1	
+[10/7/25 12:35AM]  [ Delicious ]  Gave item to Deli Afk. Name: Iron hatchet. Id: 1349, amount: 1	
+[10/7/25 12:35AM]  [ Delicious ]  Gave item to Deli Afk. Name: Dragon hatchet. Id: 6739, amount: 1	
+[10/7/25 12:36AM]  [ Delicious ]  Gave item to Deli Afk. Name: Dragon pickaxe. Id: 15259, amount: 1	
+[10/7/25 12:36AM]  [ Delicious ]  Gave item to Deli Afk. Name: Iron pickaxe. Id: 1267, amount: 1	
+[10/7/25 12:36AM]  [ Deli Afk ]  Received item from Delicious. Name: Dragon pickaxe. Id: 15259, amount: 1	
+[10/7/25 12:36AM]  [ Deli Afk ]  Received item from Delicious. Name: Iron pickaxe. Id: 1267, amount: 1	
+[10/7/25 01:00AM]  [ Ghijf ]  Received item from Afk Gh. Name: Levincia tokens. Id: 12855, amount: 803	
+[10/7/25 01:00AM]  [ Ghijf ]  Received item from Afk Gh. Name: PVM ticket. Id: 5022, amount: 636	
+[10/7/25 01:00AM]  [ Ghijf ]  Received item from Afk Gh. Name: AFK ticket. Id: 5020, amount: 492	
+[10/7/25 01:00AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Levincia tokens. Id: 12855, amount: 803	
+[10/7/25 01:00AM]  [ Afk Gh ]  Gave item to Ghijf. Name: PVM ticket. Id: 5022, amount: 636	
+[10/7/25 01:00AM]  [ Afk Gh ]  Gave item to Ghijf. Name: AFK ticket. Id: 5020, amount: 492	
+[10/7/25 01:17AM]  [ Afk Gh ]  Gave item to Ghijf. Name: AFK ticket. Id: 5020, amount: 262	
+[10/7/25 01:17AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Shikruu platebody. Id: 8801, amount: 1	
+[10/7/25 01:17AM]  [ Afk Gh ]  Gave item to Ghijf. Name: PVM ticket. Id: 5022, amount: 265	
+[10/7/25 01:17AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Levincia tokens. Id: 12855, amount: 321	
+[10/7/25 01:17AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Loot box. Id: 290, amount: 2	
+[10/7/25 01:17AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Dragon pickaxe. Id: 15259, amount: 1	
+[10/7/25 01:17AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Dragon med helm. Id: 1149, amount: 1	
+[10/7/25 01:17AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Dragon mace. Id: 1434, amount: 1	
+[10/7/25 01:17AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Dragon 2h sword. Id: 7158, amount: 1	
+[10/7/25 01:17AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Ring of slaying (8). Id: 13281, amount: 1	
+[10/7/25 01:17AM]  [ Ghijf ]  Received item from Afk Gh. Name: AFK ticket. Id: 5020, amount: 262	
+[10/7/25 01:17AM]  [ Ghijf ]  Received item from Afk Gh. Name: Shikruu platebody. Id: 8801, amount: 1	
+[10/7/25 01:17AM]  [ Ghijf ]  Received item from Afk Gh. Name: PVM ticket. Id: 5022, amount: 265	
+[10/7/25 01:17AM]  [ Ghijf ]  Received item from Afk Gh. Name: Levincia tokens. Id: 12855, amount: 321	
+[10/7/25 01:17AM]  [ Ghijf ]  Received item from Afk Gh. Name: Loot box. Id: 290, amount: 2	
+[10/7/25 01:17AM]  [ Ghijf ]  Received item from Afk Gh. Name: Dragon pickaxe. Id: 15259, amount: 1	
+[10/7/25 01:17AM]  [ Ghijf ]  Received item from Afk Gh. Name: Dragon med helm. Id: 1149, amount: 1	
+[10/7/25 01:17AM]  [ Ghijf ]  Received item from Afk Gh. Name: Dragon mace. Id: 1434, amount: 1	
+[10/7/25 01:17AM]  [ Ghijf ]  Received item from Afk Gh. Name: Dragon 2h sword. Id: 7158, amount: 1	
+[10/7/25 01:17AM]  [ Ghijf ]  Received item from Afk Gh. Name: Ring of slaying (8). Id: 13281, amount: 1	
+[10/7/25 07:40AM]  [ Delicious ]  Received item from Deli Afk. Name: Vote scroll. Id: 23020, amount: 5	
+[10/7/25 07:40AM]  [ Delicious ]  Received item from Deli Afk. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/7/25 07:40AM]  [ Delicious ]  Received item from Deli Afk. Name: Sapphire mystery box. Id: 19116, amount: 2	
+[10/7/25 07:40AM]  [ Delicious ]  Received item from Deli Afk. Name: Levincia tokens. Id: 12855, amount: 8640	
+[10/7/25 07:40AM]  [ Delicious ]  Received item from Deli Afk. Name: PVM ticket. Id: 5022, amount: 6945	
+[10/7/25 07:40AM]  [ Delicious ]  Received item from Deli Afk. Name: Quill's Card Pack. Id: 23277, amount: 3	
+[10/7/25 07:40AM]  [ Delicious ]  Received item from Deli Afk. Name: PvM Box. Id: 7956, amount: 6	
+[10/7/25 07:40AM]  [ Delicious ]  Received item from Deli Afk. Name: Beginner Mystery box. Id: 6199, amount: 8	
+[10/7/25 07:40AM]  [ Deli Afk ]  Gave item to Delicious. Name: Vote scroll. Id: 23020, amount: 5	
+[10/7/25 07:40AM]  [ Deli Afk ]  Gave item to Delicious. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/7/25 07:40AM]  [ Deli Afk ]  Gave item to Delicious. Name: Sapphire mystery box. Id: 19116, amount: 2	
+[10/7/25 07:40AM]  [ Deli Afk ]  Gave item to Delicious. Name: Levincia tokens. Id: 12855, amount: 8640	
+[10/7/25 07:40AM]  [ Deli Afk ]  Gave item to Delicious. Name: PVM ticket. Id: 5022, amount: 6945	
+[10/7/25 07:40AM]  [ Deli Afk ]  Gave item to Delicious. Name: Quill's Card Pack. Id: 23277, amount: 3	
+[10/7/25 07:40AM]  [ Deli Afk ]  Gave item to Delicious. Name: PvM Box. Id: 7956, amount: 6	
+[10/7/25 07:40AM]  [ Deli Afk ]  Gave item to Delicious. Name: Beginner Mystery box. Id: 6199, amount: 8	
+[10/7/25 08:09AM]  [ History Hawk ]  Gave item to Gudekompleks. Name: Elite staff. Id: 8412, amount: 1	
+[10/7/25 08:09AM]  [ Gudekompleks ]  Received item from History Hawk. Name: Elite staff. Id: 8412, amount: 1	
+[10/7/25 10:22AM]  [ Run ]  Received item from Hank. Name: Infinity Slayer Ring. Id: 18819, amount: 1	
+[10/7/25 10:22AM]  [ Hank ]  Gave item to Run. Name: Infinity Slayer Ring. Id: 18819, amount: 1	
+[10/7/25 11:34AM]  [ Run ]  Received item from Delicious. Name: Ruby Mystery Box. Id: 19114, amount: 10	
+[10/7/25 11:34AM]  [ Delicious ]  Gave item to Run. Name: Ruby Mystery Box. Id: 19114, amount: 10	
+[10/7/25 01:57PM]  [ Afk Gh ]  Gave item to Ghijf. Name: AFK ticket. Id: 5020, amount: 187	
+[10/7/25 01:57PM]  [ Afk Gh ]  Gave item to Ghijf. Name: Levincia tokens. Id: 12855, amount: 339	
+[10/7/25 01:57PM]  [ Afk Gh ]  Gave item to Ghijf. Name: Vote scroll. Id: 23020, amount: 5	
+[10/7/25 01:57PM]  [ Afk Gh ]  Gave item to Ghijf. Name: Supreme Casket. Id: 23253, amount: 2	
+[10/7/25 01:57PM]  [ Afk Gh ]  Gave item to Ghijf. Name: PVM ticket. Id: 5022, amount: 1282	
+[10/7/25 01:57PM]  [ Afk Gh ]  Gave item to Ghijf. Name: 1k token. Id: 8851, amount: 5	
+[10/7/25 01:57PM]  [ Afk Gh ]  Gave item to Ghijf. Name: Crystal key. Id: 989, amount: 2	
+[10/7/25 01:57PM]  [ Ghijf ]  Received item from Afk Gh. Name: AFK ticket. Id: 5020, amount: 187	
+[10/7/25 01:57PM]  [ Ghijf ]  Received item from Afk Gh. Name: Levincia tokens. Id: 12855, amount: 339	
+[10/7/25 01:57PM]  [ Ghijf ]  Received item from Afk Gh. Name: Vote scroll. Id: 23020, amount: 5	
+[10/7/25 01:57PM]  [ Ghijf ]  Received item from Afk Gh. Name: Supreme Casket. Id: 23253, amount: 2	
+[10/7/25 01:57PM]  [ Ghijf ]  Received item from Afk Gh. Name: PVM ticket. Id: 5022, amount: 1282	
+[10/7/25 01:57PM]  [ Ghijf ]  Received item from Afk Gh. Name: 1k token. Id: 8851, amount: 5	
+[10/7/25 01:57PM]  [ Ghijf ]  Received item from Afk Gh. Name: Crystal key. Id: 989, amount: 2	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: Instance Tokens. Id: 4278, amount: 3	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: Shikruu full helm. Id: 8800, amount: 1	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: Levincia tokens. Id: 12855, amount: 25510	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: Upgrade Token pack (100k). Id: 15288, amount: 1	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: Zara Xp Lamp. Id: 3907, amount: 1	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: Brutal staff. Id: 6936, amount: 1	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: Crystal key. Id: 989, amount: 58	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: Beginner Mystery box. Id: 6199, amount: 14	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: Tornado Katana. Id: 14018, amount: 1	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: PvM Box. Id: 7956, amount: 2	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: Legendary helm. Id: 17638, amount: 1	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: Diabolical platelegs. Id: 8862, amount: 1	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: PVM ticket. Id: 5022, amount: 50455	
+[10/7/25 02:39PM]  [ Gummi ]  Gave item to Juggy. Name: Death rune. Id: 560, amount: 246	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: Instance Tokens. Id: 4278, amount: 3	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: Shikruu full helm. Id: 8800, amount: 1	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: Levincia tokens. Id: 12855, amount: 25510	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: Upgrade Token pack (100k). Id: 15288, amount: 1	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: Zara Xp Lamp. Id: 3907, amount: 1	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: Brutal staff. Id: 6936, amount: 1	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: Crystal key. Id: 989, amount: 58	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: Beginner Mystery box. Id: 6199, amount: 14	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: Tornado Katana. Id: 14018, amount: 1	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: PvM Box. Id: 7956, amount: 2	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: Legendary helm. Id: 17638, amount: 1	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: Diabolical platelegs. Id: 8862, amount: 1	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: PVM ticket. Id: 5022, amount: 50455	
+[10/7/25 02:39PM]  [ Juggy ]  Received item from Gummi. Name: Death rune. Id: 560, amount: 246	
+[10/7/25 03:00PM]  [ Justin ]  Received item from Hank. Name: Emerald mystery box. Id: 19115, amount: 400	
+[10/7/25 03:00PM]  [ Justin ]  Received item from Hank. Name: PvM Box. Id: 7956, amount: 20000	
+[10/7/25 03:00PM]  [ Justin ]  Received item from Hank. Name: Fortune Chest. Id: 23002, amount: 7	
+[10/7/25 03:00PM]  [ Hank ]  Gave item to Justin. Name: Emerald mystery box. Id: 19115, amount: 400	
+[10/7/25 03:00PM]  [ Hank ]  Gave item to Justin. Name: PvM Box. Id: 7956, amount: 20000	
+[10/7/25 03:00PM]  [ Hank ]  Gave item to Justin. Name: Fortune Chest. Id: 23002, amount: 7	
+[10/7/25 03:01PM]  [ Justin ]  Received item from Hank. Name: Avalon's Card Pack. Id: 23279, amount: 1	
+[10/7/25 03:01PM]  [ Justin ]  Received item from Hank. Name: $100 Bond. Id: 10943, amount: 1	
+[10/7/25 03:01PM]  [ Hank ]  Gave item to Justin. Name: Avalon's Card Pack. Id: 23279, amount: 1	
+[10/7/25 03:01PM]  [ Hank ]  Gave item to Justin. Name: $100 Bond. Id: 10943, amount: 1	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Shikruu full helm. Id: 8800, amount: 1	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Levincia tokens. Id: 12855, amount: 302577	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: PVM ticket. Id: 5022, amount: 111740	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Donator Aura. Id: 12630, amount: 1	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Maxiblood whip. Id: 18750, amount: 1	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Collector necklace. Id: 19886, amount: 1	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Art's boots. Id: 8334, amount: 1	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Art's amulet. Id: 19892, amount: 1	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Trinity hammers. Id: 22084, amount: 1	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Joyxox sword. Id: 17708, amount: 1	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Titan staff. Id: 17600, amount: 1	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Vote scroll. Id: 23020, amount: 4	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Death rune. Id: 560, amount: 246	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Angels Flamethrower. Id: 17712, amount: 1	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Instance Tokens. Id: 4278, amount: 19	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Legendary body. Id: 17640, amount: 1	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Inferno Wings. Id: 12634, amount: 1	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Art's ring. Id: 8335, amount: 1	
+[10/7/25 03:16PM]  [ Ghijf ]  Received item from Juggy. Name: Soul fragment. Id: 14639, amount: 366	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Shikruu full helm. Id: 8800, amount: 1	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Levincia tokens. Id: 12855, amount: 302577	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: PVM ticket. Id: 5022, amount: 111740	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Donator Aura. Id: 12630, amount: 1	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Maxiblood whip. Id: 18750, amount: 1	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Collector necklace. Id: 19886, amount: 1	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Art's boots. Id: 8334, amount: 1	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Art's amulet. Id: 19892, amount: 1	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Trinity hammers. Id: 22084, amount: 1	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Joyxox sword. Id: 17708, amount: 1	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Titan staff. Id: 17600, amount: 1	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Vote scroll. Id: 23020, amount: 4	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Death rune. Id: 560, amount: 246	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Angels Flamethrower. Id: 17712, amount: 1	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Instance Tokens. Id: 4278, amount: 19	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Legendary body. Id: 17640, amount: 1	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Inferno Wings. Id: 12634, amount: 1	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Art's ring. Id: 8335, amount: 1	
+[10/7/25 03:16PM]  [ Juggy ]  Gave item to Ghijf. Name: Soul fragment. Id: 14639, amount: 366	
+[10/7/25 03:22PM]  [ Ghijf ]  Received item from Juggy. Name: Raids Box. Id: 18404, amount: 7	
+[10/7/25 03:22PM]  [ Ghijf ]  Received item from Juggy. Name: OP Box. Id: 20488, amount: 3	
+[10/7/25 03:22PM]  [ Ghijf ]  Received item from Juggy. Name: Levincia tokens. Id: 12855, amount: 10000	
+[10/7/25 03:22PM]  [ Juggy ]  Gave item to Ghijf. Name: Raids Box. Id: 18404, amount: 7	
+[10/7/25 03:22PM]  [ Juggy ]  Gave item to Ghijf. Name: OP Box. Id: 20488, amount: 3	
+[10/7/25 03:22PM]  [ Juggy ]  Gave item to Ghijf. Name: Levincia tokens. Id: 12855, amount: 10000	
+[10/7/25 06:02PM]  [ Hank ]  Gave item to Evilspot. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/7/25 06:02PM]  [ Hank ]  Gave item to Evilspot. Name: Supreme Casket. Id: 23253, amount: 2	
+[10/7/25 06:02PM]  [ Hank ]  Gave item to Evilspot. Name: Elite staff. Id: 8412, amount: 1	
+[10/7/25 06:02PM]  [ Evilspot ]  Received item from Hank. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/7/25 06:02PM]  [ Evilspot ]  Received item from Hank. Name: Supreme Casket. Id: 23253, amount: 2	
+[10/7/25 06:02PM]  [ Evilspot ]  Received item from Hank. Name: Elite staff. Id: 8412, amount: 1	
+[10/7/25 06:04PM]  [ Hank ]  Gave item to Evilspot. Name: Elite Crossbow (aoe). Id: 8411, amount: 1	
+[10/7/25 06:04PM]  [ Hank ]  Received item from Evilspot. Name: Elite staff. Id: 8412, amount: 1	
+[10/7/25 06:04PM]  [ Evilspot ]  Gave item to Hank. Name: Elite staff. Id: 8412, amount: 1	
+[10/7/25 06:04PM]  [ Evilspot ]  Received item from Hank. Name: Elite Crossbow (aoe). Id: 8411, amount: 1	
+[10/7/25 06:11PM]  [ Afk Gh ]  Gave item to Ghijf. Name: Golden Scratch Card. Id: 22121, amount: 1	
+[10/7/25 06:11PM]  [ Afk Gh ]  Gave item to Ghijf. Name: $5 Bond. Id: 6769, amount: 3	
+[10/7/25 06:11PM]  [ Afk Gh ]  Gave item to Ghijf. Name: Vote scroll. Id: 23020, amount: 5	
+[10/7/25 06:11PM]  [ Afk Gh ]  Gave item to Ghijf. Name: Dragon Rider lance. Id: 8087, amount: 1	
+[10/7/25 06:11PM]  [ Ghijf ]  Received item from Afk Gh. Name: Golden Scratch Card. Id: 22121, amount: 1	
+[10/7/25 06:11PM]  [ Ghijf ]  Received item from Afk Gh. Name: $5 Bond. Id: 6769, amount: 3	
+[10/7/25 06:11PM]  [ Ghijf ]  Received item from Afk Gh. Name: Vote scroll. Id: 23020, amount: 5	
+[10/7/25 06:11PM]  [ Ghijf ]  Received item from Afk Gh. Name: Dragon Rider lance. Id: 8087, amount: 1	
+[10/7/25 07:20PM]  [ Grand ]  Received item from Test. Name: Purifier Staff. Id: 8089, amount: 1	
+[10/7/25 07:20PM]  [ Test ]  Gave item to Grand. Name: Purifier Staff. Id: 8089, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Diabolical sword. Id: 8834, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Demonic scythe. Id: 20549, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Demonic scythe. Id: 20549, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Diabolical boots. Id: 15830, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Diabolical full helm. Id: 8860, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Ice fury. Id: 15418, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Upgrade Token pack (5k). Id: 15290, amount: 5	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Diabolical boots. Id: 15830, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: PvM Box (t2). Id: 22214, amount: 81	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Sapphire mystery box. Id: 19116, amount: 4	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Levincia tokens. Id: 12855, amount: 2672968	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Collector necklace II. Id: 19888, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Deity Boots. Id: 18881, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Amulet of Gluttony. Id: 6585, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Amulet of Gluttony. Id: 6585, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Ice fury. Id: 15418, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Crystal key. Id: 989, amount: 11	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Art's ring. Id: 8335, amount: 1	
+[10/7/25 07:38PM]  [ Vibes ]  Gave item to Sun. Name: Elite staff. Id: 8412, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Diabolical sword. Id: 8834, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Demonic scythe. Id: 20549, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Demonic scythe. Id: 20549, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Diabolical boots. Id: 15830, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Diabolical full helm. Id: 8860, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Ice fury. Id: 15418, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Upgrade Token pack (5k). Id: 15290, amount: 5	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Diabolical boots. Id: 15830, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: PvM Box (t2). Id: 22214, amount: 81	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Sapphire mystery box. Id: 19116, amount: 4	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Levincia tokens. Id: 12855, amount: 2672968	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Collector necklace II. Id: 19888, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Deity Boots. Id: 18881, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Amulet of Gluttony. Id: 6585, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Amulet of Gluttony. Id: 6585, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Ice fury. Id: 15418, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Crystal key. Id: 989, amount: 11	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Art's ring. Id: 8335, amount: 1	
+[10/7/25 07:38PM]  [ Sun ]  Received item from Vibes. Name: Elite staff. Id: 8412, amount: 1	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Sagitarian coif. Id: 3752, amount: 20	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Sagittarian body. Id: 17194, amount: 16	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Sagittarian chaps. Id: 17340, amount: 15	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Dark bow. Id: 11236, amount: 15	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Shikruu platelegs. Id: 8802, amount: 1	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Shikruu platelegs. Id: 8802, amount: 1	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Third-age melee set. Id: 11859, amount: 7	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Legends Scythe of Vitur. Id: 12535, amount: 1	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Third-age full helmet. Id: 10351, amount: 18	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Sagittarian range set. Id: 19582, amount: 10	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Shikruu platelegs. Id: 8802, amount: 1	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Shikruu platelegs. Id: 8802, amount: 1	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Art's boots. Id: 8334, amount: 1	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Shikruu full helm. Id: 8800, amount: 1	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Diabolical offhand. Id: 8835, amount: 1	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Dragon dagger. Id: 1216, amount: 5	
+[10/7/25 07:39PM]  [ Vibes ]  Gave item to Sun. Name: Diabolical offhand. Id: 8835, amount: 1	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Sagitarian coif. Id: 3752, amount: 20	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Sagittarian body. Id: 17194, amount: 16	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Sagittarian chaps. Id: 17340, amount: 15	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Dark bow. Id: 11236, amount: 15	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Shikruu platelegs. Id: 8802, amount: 1	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Shikruu platelegs. Id: 8802, amount: 1	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Third-age melee set. Id: 11859, amount: 7	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Legends Scythe of Vitur. Id: 12535, amount: 1	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Third-age full helmet. Id: 10351, amount: 18	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Sagittarian range set. Id: 19582, amount: 10	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Shikruu platelegs. Id: 8802, amount: 1	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Shikruu platelegs. Id: 8802, amount: 1	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Art's boots. Id: 8334, amount: 1	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Shikruu full helm. Id: 8800, amount: 1	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Diabolical offhand. Id: 8835, amount: 1	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Dragon dagger. Id: 1216, amount: 5	
+[10/7/25 07:39PM]  [ Sun ]  Received item from Vibes. Name: Diabolical offhand. Id: 8835, amount: 1	
+[10/7/25 09:46PM]  [ Evilspot ]  Gave item to Tin. Name: Elemental staff (AoE). Id: 3739, amount: 1	
+[10/7/25 09:46PM]  [ Evilspot ]  Gave item to Tin. Name: Elite dragon bones. Id: 18830, amount: 300	
+[10/7/25 09:46PM]  [ Evilspot ]  Gave item to Tin. Name: Instance Tokens. Id: 4278, amount: 50	
+[10/7/25 09:46PM]  [ Tin ]  Received item from Evilspot. Name: Elemental staff (AoE). Id: 3739, amount: 1	
+[10/7/25 09:46PM]  [ Tin ]  Received item from Evilspot. Name: Elite dragon bones. Id: 18830, amount: 300	
+[10/7/25 09:46PM]  [ Tin ]  Received item from Evilspot. Name: Instance Tokens. Id: 4278, amount: 50	
+[10/8/25 01:21AM]  [ Ghijf ]  Gave item to Afk Gh. Name: Dragon Rider lance. Id: 8087, amount: 1	
+[10/8/25 01:21AM]  [ Ghijf ]  Gave item to Afk Gh. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/8/25 01:21AM]  [ Ghijf ]  Gave item to Afk Gh. Name: Tanker shield. Id: 12933, amount: 1	
+[10/8/25 01:21AM]  [ Ghijf ]  Gave item to Afk Gh. Name: Collector necklace. Id: 19886, amount: 1	
+[10/8/25 01:21AM]  [ Ghijf ]  Gave item to Afk Gh. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/8/25 01:21AM]  [ Ghijf ]  Gave item to Afk Gh. Name: Collector necklace II. Id: 19888, amount: 1	
+[10/8/25 01:21AM]  [ Ghijf ]  Gave item to Afk Gh. Name: Collector ring. Id: 4446, amount: 1	
+[10/8/25 01:21AM]  [ Ghijf ]  Gave item to Afk Gh. Name: Melee body (T5). Id: 8327, amount: 1	
+[10/8/25 01:21AM]  [ Ghijf ]  Received item from Afk Gh. Name: 1k token. Id: 8851, amount: 10275	
+[10/8/25 01:21AM]  [ Afk Gh ]  Gave item to Ghijf. Name: 1k token. Id: 8851, amount: 10275	
+[10/8/25 01:21AM]  [ Afk Gh ]  Received item from Ghijf. Name: Dragon Rider lance. Id: 8087, amount: 1	
+[10/8/25 01:21AM]  [ Afk Gh ]  Received item from Ghijf. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/8/25 01:21AM]  [ Afk Gh ]  Received item from Ghijf. Name: Tanker shield. Id: 12933, amount: 1	
+[10/8/25 01:21AM]  [ Afk Gh ]  Received item from Ghijf. Name: Collector necklace. Id: 19886, amount: 1	
+[10/8/25 01:21AM]  [ Afk Gh ]  Received item from Ghijf. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/8/25 01:21AM]  [ Afk Gh ]  Received item from Ghijf. Name: Collector necklace II. Id: 19888, amount: 1	
+[10/8/25 01:21AM]  [ Afk Gh ]  Received item from Ghijf. Name: Collector ring. Id: 4446, amount: 1	
+[10/8/25 01:21AM]  [ Afk Gh ]  Received item from Ghijf. Name: Melee body (T5). Id: 8327, amount: 1	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: PVM ticket. Id: 5022, amount: 448	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Crystal key. Id: 989, amount: 71	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Starter bones. Id: 23402, amount: 121	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Beginner Mystery box. Id: 6199, amount: 21	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: PvM Box. Id: 7956, amount: 9	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Instance Tokens. Id: 4278, amount: 4	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Levincia tokens. Id: 12855, amount: 5000	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Reward Crate. Id: 10025, amount: 3	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Emerald mystery box. Id: 19115, amount: 3	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Goodiebag box. Id: 6833, amount: 1	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 3	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Melee body (T5). Id: 8327, amount: 1	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Collector ring. Id: 4446, amount: 1	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Tornado Katana. Id: 14018, amount: 1	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Dragon Rider lance. Id: 8087, amount: 1	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 2	
+[10/8/25 01:29AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Collector necklace II. Id: 19888, amount: 1	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: PVM ticket. Id: 5022, amount: 448	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Crystal key. Id: 989, amount: 71	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Starter bones. Id: 23402, amount: 121	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Beginner Mystery box. Id: 6199, amount: 21	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: PvM Box. Id: 7956, amount: 9	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Instance Tokens. Id: 4278, amount: 4	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Levincia tokens. Id: 12855, amount: 5000	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Reward Crate. Id: 10025, amount: 3	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Emerald mystery box. Id: 19115, amount: 3	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Goodiebag box. Id: 6833, amount: 1	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Ruby Mystery Box. Id: 19114, amount: 3	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Melee body (T5). Id: 8327, amount: 1	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Collector ring. Id: 4446, amount: 1	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Tornado Katana. Id: 14018, amount: 1	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Dragon Rider lance. Id: 8087, amount: 1	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Sapphire mystery box. Id: 19116, amount: 2	
+[10/8/25 01:29AM]  [ Ghijf ]  Received item from Afk Gh. Name: Collector necklace II. Id: 19888, amount: 1	
+[10/8/25 07:49AM]  [ You ]  Received item from You2. Name: Quill's Card Pack. Id: 23277, amount: 2	
+[10/8/25 07:49AM]  [ You ]  Received item from You2. Name: Vote scroll. Id: 23020, amount: 2	
+[10/8/25 07:49AM]  [ You2 ]  Gave item to You. Name: Quill's Card Pack. Id: 23277, amount: 2	
+[10/8/25 07:49AM]  [ You2 ]  Gave item to You. Name: Vote scroll. Id: 23020, amount: 2	
+[10/8/25 08:20AM]  [ Delicious ]  Received item from Deli Afk. Name: Supreme Casket. Id: 23253, amount: 2	
+[10/8/25 08:20AM]  [ Delicious ]  Received item from Deli Afk. Name: Vote scroll. Id: 23020, amount: 5	
+[10/8/25 08:20AM]  [ Deli Afk ]  Gave item to Delicious. Name: Supreme Casket. Id: 23253, amount: 2	
+[10/8/25 08:20AM]  [ Deli Afk ]  Gave item to Delicious. Name: Vote scroll. Id: 23020, amount: 5	
+[10/8/25 10:52AM]  [ Deli Afk ]  Gave item to Delicious. Name: Vote scroll. Id: 23020, amount: 2	
+[10/8/25 10:52AM]  [ Delicious ]  Received item from Deli Afk. Name: Vote scroll. Id: 23020, amount: 2	
+[10/8/25 01:18PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Ruby ring. Id: 1641, amount: 1	
+[10/8/25 08:16PM]  [ Hank ]  Received item from Vibes. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/8/25 08:16PM]  [ Vibes ]  Gave item to Hank. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/8/25 08:17PM]  [ Vibes ]  Received item from Hank. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/8/25 08:17PM]  [ Hank ]  Gave item to Vibes. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/8/25 08:21PM]  [ History Hawk ]  Gave item to Vibes. Name: Antique lamp. Id: 11137, amount: 2182	
+[10/8/25 08:21PM]  [ Vibes ]  Received item from History Hawk. Name: Antique lamp. Id: 11137, amount: 2182	
+[10/8/25 08:26PM]  [ Vibes ]  Gave item to Sun. Name: PVM ticket. Id: 5022, amount: 7000000	
+[10/8/25 08:26PM]  [ Vibes ]  Gave item to Sun. Name: Antique lamp. Id: 11137, amount: 2182	
+[10/8/25 08:26PM]  [ Sun ]  Received item from Vibes. Name: PVM ticket. Id: 5022, amount: 7000000	
+[10/8/25 08:26PM]  [ Sun ]  Received item from Vibes. Name: Antique lamp. Id: 11137, amount: 2182	
+[10/8/25 08:28PM]  [ Vibes ]  Received item from Sun. Name: Legends Scythe of Vitur. Id: 12535, amount: 1	
+[10/8/25 08:28PM]  [ Vibes ]  Received item from Sun. Name: Elite staff. Id: 8412, amount: 1	
+[10/8/25 08:28PM]  [ Vibes ]  Received item from Sun. Name: PVM ticket. Id: 5022, amount: 3851650	
+[10/8/25 08:28PM]  [ Vibes ]  Received item from Sun. Name: Antique lamp. Id: 11137, amount: 2182	
+[10/8/25 08:28PM]  [ Vibes ]  Received item from Sun. Name: Abyssal whip. Id: 4152, amount: 2100	
+[10/8/25 08:28PM]  [ Vibes ]  Received item from Sun. Name: Levincia tokens. Id: 12855, amount: 2792303	
+[10/8/25 08:28PM]  [ Vibes ]  Received item from Sun. Name: Instance Tokens. Id: 4278, amount: 2	
+[10/8/25 08:28PM]  [ Sun ]  Gave item to Vibes. Name: Legends Scythe of Vitur. Id: 12535, amount: 1	
+[10/8/25 08:28PM]  [ Sun ]  Gave item to Vibes. Name: Elite staff. Id: 8412, amount: 1	
+[10/8/25 08:28PM]  [ Sun ]  Gave item to Vibes. Name: PVM ticket. Id: 5022, amount: 3851650	
+[10/8/25 08:28PM]  [ Sun ]  Gave item to Vibes. Name: Antique lamp. Id: 11137, amount: 2182	
+[10/8/25 08:28PM]  [ Sun ]  Gave item to Vibes. Name: Abyssal whip. Id: 4152, amount: 2100	
+[10/8/25 08:28PM]  [ Sun ]  Gave item to Vibes. Name: Levincia tokens. Id: 12855, amount: 2792303	
+[10/8/25 08:28PM]  [ Sun ]  Gave item to Vibes. Name: Instance Tokens. Id: 4278, amount: 2	
+[10/8/25 08:33PM]  [ Hank ]  Gave item to History Hawk. Name: Antique lamp. Id: 11137, amount: 5856	
+[10/8/25 08:33PM]  [ Hank ]  Gave item to History Hawk. Name: Invention xp lamp. Id: 21218, amount: 787	
+[10/8/25 08:33PM]  [ Hank ]  Gave item to History Hawk. Name: Upgrade Token pack (100k). Id: 15288, amount: 612	
+[10/8/25 08:33PM]  [ Hank ]  Gave item to History Hawk. Name: Supreme Casket. Id: 23253, amount: 60	
+[10/8/25 08:33PM]  [ Hank ]  Gave item to History Hawk. Name: Launch casket. Id: 20489, amount: 145	
+[10/8/25 08:33PM]  [ Hank ]  Gave item to History Hawk. Name: Legendary Casket. Id: 14999, amount: 15	
+[10/8/25 08:33PM]  [ Hank ]  Gave item to History Hawk. Name: Elite Casket. Id: 15002, amount: 57	
+[10/8/25 08:33PM]  [ Hank ]  Gave item to History Hawk. Name: Azure Casket. Id: 15003, amount: 56	
+[10/8/25 08:33PM]  [ History Hawk ]  Received item from Hank. Name: Antique lamp. Id: 11137, amount: 5856	
+[10/8/25 08:33PM]  [ History Hawk ]  Received item from Hank. Name: Invention xp lamp. Id: 21218, amount: 787	
+[10/8/25 08:33PM]  [ History Hawk ]  Received item from Hank. Name: Upgrade Token pack (100k). Id: 15288, amount: 612	
+[10/8/25 08:33PM]  [ History Hawk ]  Received item from Hank. Name: Supreme Casket. Id: 23253, amount: 60	
+[10/8/25 08:33PM]  [ History Hawk ]  Received item from Hank. Name: Launch casket. Id: 20489, amount: 145	
+[10/8/25 08:33PM]  [ History Hawk ]  Received item from Hank. Name: Legendary Casket. Id: 14999, amount: 15	
+[10/8/25 08:33PM]  [ History Hawk ]  Received item from Hank. Name: Elite Casket. Id: 15002, amount: 57	
+[10/8/25 08:33PM]  [ History Hawk ]  Received item from Hank. Name: Azure Casket. Id: 15003, amount: 56	
+[10/8/25 08:33PM]  [ Sun ]  Gave item to Vibes. Name: Deity Boots. Id: 18881, amount: 1	
+[10/8/25 08:33PM]  [ Sun ]  Gave item to Vibes. Name: Sapphire mystery box. Id: 19116, amount: 10	
+[10/8/25 08:33PM]  [ Sun ]  Gave item to Vibes. Name: Ring of Gluttony. Id: 6737, amount: 1	
+[10/8/25 08:33PM]  [ Sun ]  Gave item to Vibes. Name: Ring of Gluttony. Id: 6737, amount: 1	
+[10/8/25 08:33PM]  [ Sun ]  Gave item to Vibes. Name: Tanker shield. Id: 12933, amount: 1	
+[10/8/25 08:33PM]  [ Sun ]  Gave item to Vibes. Name: Tanker shield. Id: 12933, amount: 1	
+[10/8/25 08:33PM]  [ Vibes ]  Received item from Sun. Name: Deity Boots. Id: 18881, amount: 1	
+[10/8/25 08:33PM]  [ Vibes ]  Received item from Sun. Name: Sapphire mystery box. Id: 19116, amount: 10	
+[10/8/25 08:33PM]  [ Vibes ]  Received item from Sun. Name: Ring of Gluttony. Id: 6737, amount: 1	
+[10/8/25 08:33PM]  [ Vibes ]  Received item from Sun. Name: Ring of Gluttony. Id: 6737, amount: 1	
+[10/8/25 08:33PM]  [ Vibes ]  Received item from Sun. Name: Tanker shield. Id: 12933, amount: 1	
+[10/8/25 08:33PM]  [ Vibes ]  Received item from Sun. Name: Tanker shield. Id: 12933, amount: 1	
+[10/8/25 09:06PM]  [ Sun ]  Received item from Vibes. Name: Invention xp lamp. Id: 21218, amount: 19	
+[10/8/25 09:06PM]  [ Vibes ]  Gave item to Sun. Name: Invention xp lamp. Id: 21218, amount: 19	
+[10/8/25 09:20PM]  [ Sun ]  Received item from Vibes. Name: Invention xp lamp. Id: 21218, amount: 290	
+[10/8/25 09:20PM]  [ Vibes ]  Gave item to Sun. Name: Invention xp lamp. Id: 21218, amount: 290	
+[10/8/25 09:22PM]  [ Sun ]  Gave item to Vibes. Name: Starter bones. Id: 23402, amount: 1	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: Ruby Mystery Box. Id: 19114, amount: 15	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: Beginner Mystery box. Id: 6199, amount: 6	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: Sapphire mystery box. Id: 19116, amount: 1	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: Reward Crate. Id: 10025, amount: 4	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: Diabolical platebody. Id: 8861, amount: 1	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: Diabolical platelegs. Id: 8862, amount: 1	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: Magic helm (t5). Id: 8323, amount: 1	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: Ganopurp staff. Id: 8809, amount: 1	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: Diabolical boots. Id: 15830, amount: 1	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: Range helm (T5). Id: 8330, amount: 1	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: Diabolical boots. Id: 15830, amount: 1	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: Ganopurp staff. Id: 8809, amount: 1	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: Ice fury. Id: 15418, amount: 1	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: Range body (T5). Id: 8331, amount: 1	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: Diabolical boots. Id: 15830, amount: 1	
+[10/8/25 09:22PM]  [ Sun ]  Received item from Vibes. Name: PVM ticket. Id: 5022, amount: 32214	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: Ruby Mystery Box. Id: 19114, amount: 15	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: Beginner Mystery box. Id: 6199, amount: 6	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: Sapphire mystery box. Id: 19116, amount: 1	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: Reward Crate. Id: 10025, amount: 4	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: Diabolical platebody. Id: 8861, amount: 1	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: Diabolical platelegs. Id: 8862, amount: 1	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: Magic helm (t5). Id: 8323, amount: 1	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: Ganopurp staff. Id: 8809, amount: 1	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: Diabolical boots. Id: 15830, amount: 1	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: Range helm (T5). Id: 8330, amount: 1	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: Diabolical boots. Id: 15830, amount: 1	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: Ganopurp staff. Id: 8809, amount: 1	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: Ice fury. Id: 15418, amount: 1	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: Range body (T5). Id: 8331, amount: 1	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: Diabolical boots. Id: 15830, amount: 1	
+[10/8/25 09:22PM]  [ Vibes ]  Gave item to Sun. Name: PVM ticket. Id: 5022, amount: 32214	
+[10/8/25 09:22PM]  [ Vibes ]  Received item from Sun. Name: Starter bones. Id: 23402, amount: 1	
+[10/8/25 09:26PM]  [ History Hawk ]  Received item from Hank. Name: Avalon's Card Pack. Id: 23279, amount: 10	
+[10/8/25 09:26PM]  [ History Hawk ]  Received item from Hank. Name: Light Attachment. Id: 10949, amount: 10	
+[10/8/25 09:26PM]  [ History Hawk ]  Received item from Hank. Name: Owner Attachment. Id: 22110, amount: 1	
+[10/8/25 09:26PM]  [ History Hawk ]  Received item from Hank. Name: Owner Attachment. Id: 22110, amount: 1	
+[10/8/25 09:26PM]  [ History Hawk ]  Received item from Hank. Name: Owner Attachment. Id: 22110, amount: 1	
+[10/8/25 09:26PM]  [ Hank ]  Gave item to History Hawk. Name: Avalon's Card Pack. Id: 23279, amount: 10	
+[10/8/25 09:26PM]  [ Hank ]  Gave item to History Hawk. Name: Light Attachment. Id: 10949, amount: 10	
+[10/8/25 09:26PM]  [ Hank ]  Gave item to History Hawk. Name: Owner Attachment. Id: 22110, amount: 1	
+[10/8/25 09:26PM]  [ Hank ]  Gave item to History Hawk. Name: Owner Attachment. Id: 22110, amount: 1	
+[10/8/25 09:26PM]  [ Hank ]  Gave item to History Hawk. Name: Owner Attachment. Id: 22110, amount: 1	
+[10/9/25 11:59PM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/9/25 11:59PM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Melee body (T5). Id: 8327, amount: 1	
+[10/9/25 11:59PM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/9/25 11:59PM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Trinity hammers. Id: 22084, amount: 1	
+[10/9/25 11:59PM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Ring of Gluttony. Id: 6737, amount: 1	
+[10/9/25 11:59PM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Aura (T1). Id: 23044, amount: 1	
+[10/9/25 11:59PM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Art's amulet. Id: 19892, amount: 1	
+[10/9/25 11:59PM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/9/25 11:59PM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Melee body (T5). Id: 8327, amount: 1	
+[10/9/25 11:59PM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/9/25 11:59PM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Trinity hammers. Id: 22084, amount: 1	
+[10/9/25 11:59PM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Ring of Gluttony. Id: 6737, amount: 1	
+[10/9/25 11:59PM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Aura (T1). Id: 23044, amount: 1	
+[10/9/25 11:59PM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Art's amulet. Id: 19892, amount: 1	
+[10/10/25 12:14AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Fury shark. Id: 17817, amount: 395	
+[10/10/25 12:14AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Fury shark. Id: 17817, amount: 395	
+[10/10/25 12:30AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Diabolical bones. Id: 3285, amount: 1177	
+[10/10/25 12:30AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Diabolical bones. Id: 3285, amount: 1177	
+[10/10/25 12:40AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Diabolical bones. Id: 3285, amount: 662	
+[10/10/25 12:40AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Azure Casket. Id: 15003, amount: 1	
+[10/10/25 12:40AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 1	
+[10/10/25 12:40AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Diabolical bones. Id: 3285, amount: 662	
+[10/10/25 12:40AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Azure Casket. Id: 15003, amount: 1	
+[10/10/25 12:40AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 1	
+[10/10/25 12:41AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Corrupt maxiblood helm. Id: 18753, amount: 1	
+[10/10/25 12:41AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Corrupt maxiblood helm. Id: 18753, amount: 1	
+[10/10/25 08:40AM]  [ Kursed ]  Received item from Hank. Name: Vote scroll. Id: 23020, amount: 5	
+[10/10/25 08:40AM]  [ Kursed ]  Received item from Hank. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/10/25 08:40AM]  [ Hank ]  Gave item to Kursed. Name: Vote scroll. Id: 23020, amount: 5	
+[10/10/25 08:40AM]  [ Hank ]  Gave item to Kursed. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/10/25 10:19AM]  [ Loki ]  Received item from Kursed. Name: Collector necklace. Id: 19886, amount: 1	
+[10/10/25 10:19AM]  [ Kursed ]  Gave item to Loki. Name: Collector necklace. Id: 19886, amount: 1	
+[10/10/25 10:45AM]  [ Sun ]  Received item from Vibes. Name: Slayer Crate. Id: 7120, amount: 3	
+[10/10/25 10:45AM]  [ Sun ]  Received item from Vibes. Name: OP Box. Id: 20488, amount: 6	
+[10/10/25 10:45AM]  [ Sun ]  Received item from Vibes. Name: PvM ticket pack (1k). Id: 21220, amount: 3	
+[10/10/25 10:45AM]  [ Sun ]  Received item from Vibes. Name: PvM Box. Id: 7956, amount: 534	
+[10/10/25 10:45AM]  [ Sun ]  Received item from Vibes. Name: Ruby Mystery Box. Id: 19114, amount: 15	
+[10/10/25 10:45AM]  [ Sun ]  Received item from Vibes. Name: PvM Box (t2). Id: 22214, amount: 103	
+[10/10/25 10:45AM]  [ Sun ]  Received item from Vibes. Name: Sapphire mystery box. Id: 19116, amount: 32	
+[10/10/25 10:45AM]  [ Sun ]  Received item from Vibes. Name: Blast bow. Id: 22083, amount: 1	
+[10/10/25 10:45AM]  [ Sun ]  Received item from Vibes. Name: Corrupt archie bow. Id: 18636, amount: 1	
+[10/10/25 10:45AM]  [ Vibes ]  Gave item to Sun. Name: Slayer Crate. Id: 7120, amount: 3	
+[10/10/25 10:45AM]  [ Vibes ]  Gave item to Sun. Name: OP Box. Id: 20488, amount: 6	
+[10/10/25 10:45AM]  [ Vibes ]  Gave item to Sun. Name: PvM ticket pack (1k). Id: 21220, amount: 3	
+[10/10/25 10:45AM]  [ Vibes ]  Gave item to Sun. Name: PvM Box. Id: 7956, amount: 534	
+[10/10/25 10:45AM]  [ Vibes ]  Gave item to Sun. Name: Ruby Mystery Box. Id: 19114, amount: 15	
+[10/10/25 10:45AM]  [ Vibes ]  Gave item to Sun. Name: PvM Box (t2). Id: 22214, amount: 103	
+[10/10/25 10:45AM]  [ Vibes ]  Gave item to Sun. Name: Sapphire mystery box. Id: 19116, amount: 32	
+[10/10/25 10:45AM]  [ Vibes ]  Gave item to Sun. Name: Blast bow. Id: 22083, amount: 1	
+[10/10/25 10:45AM]  [ Vibes ]  Gave item to Sun. Name: Corrupt archie bow. Id: 18636, amount: 1	
+[10/10/25 10:50AM]  [ Vibes ]  Received item from Sun. Name: $5 Bond. Id: 6769, amount: 1	
+[10/10/25 10:50AM]  [ Sun ]  Gave item to Vibes. Name: $5 Bond. Id: 6769, amount: 1	
+[10/10/25 10:56AM]  [ Vibes ]  Gave item to Sun. Name: Antique lamp. Id: 11137, amount: 92	
+[10/10/25 10:56AM]  [ Sun ]  Received item from Vibes. Name: Antique lamp. Id: 11137, amount: 92	
+[10/10/25 03:14PM]  [ History Hawk ]  Gave item to Kursed. Name: PVM ticket. Id: 5022, amount: 200000	
+[10/10/25 03:14PM]  [ History Hawk ]  Received item from Kursed. Name: Levincia tokens. Id: 12855, amount: 200000	
+[10/10/25 03:14PM]  [ Kursed ]  Gave item to History Hawk. Name: Levincia tokens. Id: 12855, amount: 200000	
+[10/10/25 03:14PM]  [ Kursed ]  Received item from History Hawk. Name: PVM ticket. Id: 5022, amount: 200000	
+[10/10/25 03:24PM]  [ Spoon ]  Gave item to History Hawk. Name: Owner cape. Id: 7995, amount: 1	
+[10/10/25 03:24PM]  [ Spoon ]  Gave item to History Hawk. Name: Levincia tokens. Id: 12855, amount: 100000000	
+[10/10/25 03:24PM]  [ Spoon ]  Received item from History Hawk. Name: Owner Potion. Id: 23242, amount: 1	
+[10/10/25 03:24PM]  [ History Hawk ]  Gave item to Spoon. Name: Owner Potion. Id: 23242, amount: 1	
+[10/10/25 03:24PM]  [ History Hawk ]  Received item from Spoon. Name: Owner cape. Id: 7995, amount: 1	
+[10/10/25 03:24PM]  [ History Hawk ]  Received item from Spoon. Name: Levincia tokens. Id: 12855, amount: 100000000	
+[10/10/25 03:25PM]  [ History Hawk ]  Received item from Spoon. Name: Levincia tokens. Id: 12855, amount: 50000000	
+[10/10/25 03:25PM]  [ Spoon ]  Gave item to History Hawk. Name: Levincia tokens. Id: 12855, amount: 50000000	
+[10/10/25 04:38PM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/10/25 04:38PM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/10/25 04:48PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Levincia tokens. Id: 12855, amount: 32000	
+[10/10/25 04:48PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 1	
+[10/10/25 04:48PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Upgrade Token pack (100k). Id: 15288, amount: 1	
+[10/10/25 04:48PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Launch casket. Id: 20489, amount: 3	
+[10/10/25 04:48PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Emerald mystery box. Id: 19115, amount: 2	
+[10/10/25 04:48PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Beginner Mystery box. Id: 6199, amount: 21	
+[10/10/25 04:48PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Crystal key. Id: 989, amount: 57	
+[10/10/25 04:48PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Levincia tokens. Id: 12855, amount: 32000	
+[10/10/25 04:48PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 1	
+[10/10/25 04:48PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Upgrade Token pack (100k). Id: 15288, amount: 1	
+[10/10/25 04:48PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Launch casket. Id: 20489, amount: 3	
+[10/10/25 04:48PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Emerald mystery box. Id: 19115, amount: 2	
+[10/10/25 04:48PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Beginner Mystery box. Id: 6199, amount: 21	
+[10/10/25 04:48PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Crystal key. Id: 989, amount: 57	
+[10/10/25 05:29PM]  [ Bishop ]  Received item from Kursed. Name: Elite staff. Id: 8412, amount: 1	
+[10/10/25 05:29PM]  [ Kursed ]  Gave item to Bishop. Name: Elite staff. Id: 8412, amount: 1	
+[10/10/25 06:13PM]  [ Bishop ]  Received item from Kursed. Name: Collector necklace. Id: 19886, amount: 1	
+[10/10/25 06:13PM]  [ Kursed ]  Gave item to Bishop. Name: Collector necklace. Id: 19886, amount: 1	
+[10/10/25 06:20PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/10/25 06:20PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/10/25 06:44PM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/10/25 06:44PM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/10/25 07:17PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Vote Mystery Box. Id: 15501, amount: 1	
+[10/10/25 07:17PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Antique lamp. Id: 11137, amount: 10	
+[10/10/25 07:17PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Special bones. Id: 2026, amount: 25	
+[10/10/25 07:17PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Vote scroll. Id: 23020, amount: 1	
+[10/10/25 07:17PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: PVM ticket. Id: 5022, amount: 52742	
+[10/10/25 07:17PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Starter bones. Id: 23402, amount: 224	
+[10/10/25 07:17PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Reward Crate. Id: 10025, amount: 2	
+[10/10/25 07:17PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Vote Mystery Box. Id: 15501, amount: 1	
+[10/10/25 07:17PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Antique lamp. Id: 11137, amount: 10	
+[10/10/25 07:17PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Special bones. Id: 2026, amount: 25	
+[10/10/25 07:17PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Vote scroll. Id: 23020, amount: 1	
+[10/10/25 07:17PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: PVM ticket. Id: 5022, amount: 52742	
+[10/10/25 07:17PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Starter bones. Id: 23402, amount: 224	
+[10/10/25 07:17PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Reward Crate. Id: 10025, amount: 2	
+[10/10/25 11:12PM]  [ Blayko ]  Received item from Kursed. Name: Vote scroll. Id: 23020, amount: 5	
+[10/10/25 11:12PM]  [ Blayko ]  Received item from Kursed. Name: Shikruu platelegs. Id: 8802, amount: 1	
+[10/10/25 11:12PM]  [ Blayko ]  Received item from Kursed. Name: Shikruu full helm. Id: 8800, amount: 1	
+[10/10/25 11:12PM]  [ Blayko ]  Received item from Kursed. Name: Shikruu platebody. Id: 8801, amount: 1	
+[10/10/25 11:12PM]  [ Blayko ]  Received item from Kursed. Name: Elite Sword (aoe). Id: 8410, amount: 1	
+[10/10/25 11:12PM]  [ Blayko ]  Received item from Kursed. Name: Elite dragon bones. Id: 18830, amount: 500	
+[10/10/25 11:12PM]  [ Kursed ]  Gave item to Blayko. Name: Vote scroll. Id: 23020, amount: 5	
+[10/10/25 11:12PM]  [ Kursed ]  Gave item to Blayko. Name: Shikruu platelegs. Id: 8802, amount: 1	
+[10/10/25 11:12PM]  [ Kursed ]  Gave item to Blayko. Name: Shikruu full helm. Id: 8800, amount: 1	
+[10/10/25 11:12PM]  [ Kursed ]  Gave item to Blayko. Name: Shikruu platebody. Id: 8801, amount: 1	
+[10/10/25 11:12PM]  [ Kursed ]  Gave item to Blayko. Name: Elite Sword (aoe). Id: 8410, amount: 1	
+[10/10/25 11:12PM]  [ Kursed ]  Gave item to Blayko. Name: Elite dragon bones. Id: 18830, amount: 500	
+[10/11/25 03:38AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/11/25 03:38AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Maxiblood whip. Id: 18750, amount: 1	
+[10/11/25 03:38AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Maxiblood whip. Id: 18750, amount: 1	
+[10/11/25 03:38AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/11/25 03:40AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Owner Potion. Id: 23242, amount: 1	
+[10/11/25 03:40AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Owner Potion. Id: 23242, amount: 1	
+[10/11/25 03:40AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Owner Potion. Id: 23242, amount: 1	
+[10/11/25 03:40AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Owner Potion. Id: 23242, amount: 1	
+[10/11/25 03:41AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/11/25 03:41AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Maxiblood whip. Id: 18750, amount: 1	
+[10/11/25 03:41AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Maxiblood whip. Id: 18750, amount: 1	
+[10/11/25 03:41AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/11/25 04:15AM]  [ Mystima ]  Received item from Ezpz Ghijf. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/11/25 04:15AM]  [ Ezpz Ghijf ]  Gave item to Mystima. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/11/25 05:00AM]  [ Hank ]  Gave item to Delicious. Name: $100 Bond. Id: 10943, amount: 2	
+[10/11/25 05:00AM]  [ Hank ]  Gave item to Delicious. Name: Monthly Membership Pass. Id: 23392, amount: 1	
+[10/11/25 05:00AM]  [ Delicious ]  Received item from Hank. Name: $100 Bond. Id: 10943, amount: 2	
+[10/11/25 05:00AM]  [ Delicious ]  Received item from Hank. Name: Monthly Membership Pass. Id: 23392, amount: 1	
+[10/11/25 05:17AM]  [ Hank ]  Gave item to Delicious. Name: $10 Bond. Id: 10942, amount: 1	
+[10/11/25 05:17AM]  [ Hank ]  Gave item to Delicious. Name: Azure Casket. Id: 15003, amount: 1	
+[10/11/25 05:17AM]  [ Hank ]  Gave item to Delicious. Name: Launch casket. Id: 20489, amount: 1	
+[10/11/25 05:17AM]  [ Hank ]  Gave item to Delicious. Name: OP Box. Id: 20488, amount: 1	
+[10/11/25 05:17AM]  [ Hank ]  Gave item to Delicious. Name: Sapphire mystery box. Id: 19116, amount: 5	
+[10/11/25 05:17AM]  [ Hank ]  Gave item to Delicious. Name: Emerald mystery box. Id: 19115, amount: 3	
+[10/11/25 05:17AM]  [ Hank ]  Gave item to Delicious. Name: Ruby Mystery Box. Id: 19114, amount: 2	
+[10/11/25 05:17AM]  [ Delicious ]  Received item from Hank. Name: $10 Bond. Id: 10942, amount: 1	
+[10/11/25 05:17AM]  [ Delicious ]  Received item from Hank. Name: Azure Casket. Id: 15003, amount: 1	
+[10/11/25 05:17AM]  [ Delicious ]  Received item from Hank. Name: Launch casket. Id: 20489, amount: 1	
+[10/11/25 05:17AM]  [ Delicious ]  Received item from Hank. Name: OP Box. Id: 20488, amount: 1	
+[10/11/25 05:17AM]  [ Delicious ]  Received item from Hank. Name: Sapphire mystery box. Id: 19116, amount: 5	
+[10/11/25 05:17AM]  [ Delicious ]  Received item from Hank. Name: Emerald mystery box. Id: 19115, amount: 3	
+[10/11/25 05:17AM]  [ Delicious ]  Received item from Hank. Name: Ruby Mystery Box. Id: 19114, amount: 2	
+[10/11/25 06:55AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 106	
+[10/11/25 06:55AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Emerald mystery box. Id: 19115, amount: 41	
+[10/11/25 06:55AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: PvM Box. Id: 7956, amount: 156	
+[10/11/25 06:55AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: PvM Box (t2). Id: 22214, amount: 187	
+[10/11/25 06:55AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 106	
+[10/11/25 06:55AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Emerald mystery box. Id: 19115, amount: 41	
+[10/11/25 06:55AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: PvM Box. Id: 7956, amount: 156	
+[10/11/25 06:55AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: PvM Box (t2). Id: 22214, amount: 187	
+[10/11/25 06:56AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 50	
+[10/11/25 06:56AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Vote scroll. Id: 23020, amount: 5	
+[10/11/25 06:56AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/11/25 06:56AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Trinity hammers. Id: 22084, amount: 1	
+[10/11/25 06:56AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 50	
+[10/11/25 06:56AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Vote scroll. Id: 23020, amount: 5	
+[10/11/25 06:56AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Melee helm (T5). Id: 8326, amount: 1	
+[10/11/25 06:56AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Trinity hammers. Id: 22084, amount: 1	
+[10/11/25 06:59AM]  [ Ezpz Ghijf1 ]  Received item from Ghijf. Name: Blood Twisted bow. Id: 23226, amount: 1	
+[10/11/25 06:59AM]  [ Ghijf ]  Gave item to Ezpz Ghijf1. Name: Blood Twisted bow. Id: 23226, amount: 1	
+[10/11/25 07:07AM]  [ Ezpz Ghijf1 ]  Gave item to Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 3	
+[10/11/25 07:07AM]  [ Ezpz Ghijf1 ]  Gave item to Ghijf. Name: Blood Twisted bow. Id: 23226, amount: 1	
+[10/11/25 07:07AM]  [ Ezpz Ghijf1 ]  Gave item to Ghijf. Name: Reward Crate. Id: 10025, amount: 3	
+[10/11/25 07:07AM]  [ Ezpz Ghijf1 ]  Gave item to Ghijf. Name: Launch casket. Id: 20489, amount: 3	
+[10/11/25 07:07AM]  [ Ezpz Ghijf1 ]  Gave item to Ghijf. Name: Goodiebag box. Id: 6833, amount: 1	
+[10/11/25 07:07AM]  [ Ezpz Ghijf1 ]  Gave item to Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 2	
+[10/11/25 07:07AM]  [ Ezpz Ghijf1 ]  Gave item to Ghijf. Name: PVM ticket. Id: 5022, amount: 51099	
+[10/11/25 07:07AM]  [ Ezpz Ghijf1 ]  Gave item to Ghijf. Name: Emerald mystery box. Id: 19115, amount: 3	
+[10/11/25 07:07AM]  [ Ghijf ]  Received item from Ezpz Ghijf1. Name: Ruby Mystery Box. Id: 19114, amount: 3	
+[10/11/25 07:07AM]  [ Ghijf ]  Received item from Ezpz Ghijf1. Name: Blood Twisted bow. Id: 23226, amount: 1	
+[10/11/25 07:07AM]  [ Ghijf ]  Received item from Ezpz Ghijf1. Name: Reward Crate. Id: 10025, amount: 3	
+[10/11/25 07:07AM]  [ Ghijf ]  Received item from Ezpz Ghijf1. Name: Launch casket. Id: 20489, amount: 3	
+[10/11/25 07:07AM]  [ Ghijf ]  Received item from Ezpz Ghijf1. Name: Goodiebag box. Id: 6833, amount: 1	
+[10/11/25 07:07AM]  [ Ghijf ]  Received item from Ezpz Ghijf1. Name: Sapphire mystery box. Id: 19116, amount: 2	
+[10/11/25 07:07AM]  [ Ghijf ]  Received item from Ezpz Ghijf1. Name: PVM ticket. Id: 5022, amount: 51099	
+[10/11/25 07:07AM]  [ Ghijf ]  Received item from Ezpz Ghijf1. Name: Emerald mystery box. Id: 19115, amount: 3	
+[10/11/25 07:36AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: PvM ticket pack (10k). Id: 22219, amount: 1	
+[10/11/25 07:36AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Raids Box. Id: 18404, amount: 3	
+[10/11/25 07:36AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Map scrap. Id: 4275, amount: 1	
+[10/11/25 07:36AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: PvM ticket pack (10k). Id: 22219, amount: 1	
+[10/11/25 07:36AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Raids Box. Id: 18404, amount: 3	
+[10/11/25 07:36AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Map scrap. Id: 4275, amount: 1	
+[10/11/25 08:07AM]  [ Charlene ]  Received item from Delicious. Name: Instance Tokens. Id: 4278, amount: 50	
+[10/11/25 08:07AM]  [ Delicious ]  Gave item to Charlene. Name: Instance Tokens. Id: 4278, amount: 50	
+[10/11/25 08:30AM]  [ Charlene ]  Received item from Hank. Name: Celestial's Card Pack. Id: 23278, amount: 1	
+[10/11/25 08:30AM]  [ Charlene ]  Received item from Hank. Name: Quill's Card Pack. Id: 23277, amount: 1	
+[10/11/25 08:30AM]  [ Charlene ]  Received item from Hank. Name: Owner Jewelry goodiebag. Id: 23240, amount: 2	
+[10/11/25 08:30AM]  [ Charlene ]  Received item from Hank. Name: Dark Sanguinesti staff. Id: 22114, amount: 1	
+[10/11/25 08:30AM]  [ Hank ]  Gave item to Charlene. Name: Celestial's Card Pack. Id: 23278, amount: 1	
+[10/11/25 08:30AM]  [ Hank ]  Gave item to Charlene. Name: Quill's Card Pack. Id: 23277, amount: 1	
+[10/11/25 08:30AM]  [ Hank ]  Gave item to Charlene. Name: Owner Jewelry goodiebag. Id: 23240, amount: 2	
+[10/11/25 08:30AM]  [ Hank ]  Gave item to Charlene. Name: Dark Sanguinesti staff. Id: 22114, amount: 1	
+[10/11/25 08:35AM]  [ Hank ]  Gave item to Blayko. Name: Elite staff. Id: 8412, amount: 1	
+[10/11/25 08:35AM]  [ Blayko ]  Received item from Hank. Name: Elite staff. Id: 8412, amount: 1	
+[10/11/25 08:38AM]  [ Deli Afk ]  Gave item to Delicious. Name: Vote scroll. Id: 23020, amount: 7	
+[10/11/25 08:38AM]  [ Deli Afk ]  Gave item to Delicious. Name: Levincia tokens. Id: 12855, amount: 23245	
+[10/11/25 08:38AM]  [ Deli Afk ]  Gave item to Delicious. Name: Beginner Mystery box. Id: 6199, amount: 18	
+[10/11/25 08:38AM]  [ Deli Afk ]  Gave item to Delicious. Name: PvM Box. Id: 7956, amount: 14	
+[10/11/25 08:38AM]  [ Deli Afk ]  Gave item to Delicious. Name: Seraphic case. Id: 23411, amount: 1	
+[10/11/25 08:38AM]  [ Deli Afk ]  Gave item to Delicious. Name: Instance token (u). Id: 23264, amount: 100	
+[10/11/25 08:38AM]  [ Deli Afk ]  Gave item to Delicious. Name: PVM ticket. Id: 5022, amount: 33749	
+[10/11/25 08:38AM]  [ Deli Afk ]  Gave item to Delicious. Name: AFK ticket. Id: 5020, amount: 24205	
+[10/11/25 08:38AM]  [ Delicious ]  Received item from Deli Afk. Name: Vote scroll. Id: 23020, amount: 7	
+[10/11/25 08:38AM]  [ Delicious ]  Received item from Deli Afk. Name: Levincia tokens. Id: 12855, amount: 23245	
+[10/11/25 08:38AM]  [ Delicious ]  Received item from Deli Afk. Name: Beginner Mystery box. Id: 6199, amount: 18	
+[10/11/25 08:38AM]  [ Delicious ]  Received item from Deli Afk. Name: PvM Box. Id: 7956, amount: 14	
+[10/11/25 08:38AM]  [ Delicious ]  Received item from Deli Afk. Name: Seraphic case. Id: 23411, amount: 1	
+[10/11/25 08:38AM]  [ Delicious ]  Received item from Deli Afk. Name: Instance token (u). Id: 23264, amount: 100	
+[10/11/25 08:38AM]  [ Delicious ]  Received item from Deli Afk. Name: PVM ticket. Id: 5022, amount: 33749	
+[10/11/25 08:38AM]  [ Delicious ]  Received item from Deli Afk. Name: AFK ticket. Id: 5020, amount: 24205	
+[10/11/25 09:13AM]  [ Blazed ]  Received item from Hank. Name: Elite staff. Id: 8412, amount: 1	
+[10/11/25 09:13AM]  [ Blazed ]  Received item from Hank. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/11/25 09:13AM]  [ Blazed ]  Received item from Hank. Name: Quill's Card Pack. Id: 23277, amount: 1	
+[10/11/25 09:13AM]  [ Hank ]  Gave item to Blazed. Name: Elite staff. Id: 8412, amount: 1	
+[10/11/25 09:13AM]  [ Hank ]  Gave item to Blazed. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/11/25 09:13AM]  [ Hank ]  Gave item to Blazed. Name: Quill's Card Pack. Id: 23277, amount: 1	
+[10/11/25 09:15AM]  [ Deli Afk ]  Gave item to Delicious. Name: Celestial's Card Pack. Id: 23278, amount: 1	
+[10/11/25 09:15AM]  [ Delicious ]  Received item from Deli Afk. Name: Celestial's Card Pack. Id: 23278, amount: 1	
+[10/11/25 09:24AM]  [ Twigs ]  Received item from Hank. Name: Elite staff. Id: 8412, amount: 1	
+[10/11/25 09:24AM]  [ Twigs ]  Received item from Hank. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/11/25 09:24AM]  [ Twigs ]  Received item from Hank. Name: Quill's Card Pack. Id: 23277, amount: 1	
+[10/11/25 09:24AM]  [ Twigs ]  Received item from Hank. Name: Celestial's Card Pack. Id: 23278, amount: 1	
+[10/11/25 09:24AM]  [ Hank ]  Gave item to Twigs. Name: Elite staff. Id: 8412, amount: 1	
+[10/11/25 09:24AM]  [ Hank ]  Gave item to Twigs. Name: Fortune Chest. Id: 23002, amount: 5	
+[10/11/25 09:24AM]  [ Hank ]  Gave item to Twigs. Name: Quill's Card Pack. Id: 23277, amount: 1	
+[10/11/25 09:24AM]  [ Hank ]  Gave item to Twigs. Name: Celestial's Card Pack. Id: 23278, amount: 1	
+[10/11/25 11:16AM]  [ Spoon ]  Gave item to Ao. Name: Enraged sword (AoE). Id: 3737, amount: 1	
+[10/11/25 11:16AM]  [ Ao ]  Received item from Spoon. Name: Enraged sword (AoE). Id: 3737, amount: 1	
+[10/11/25 11:28AM]  [ Spoon ]  Gave item to Ao. Name: AFK ticket. Id: 5020, amount: 610058	
+[10/11/25 11:28AM]  [ Spoon ]  Received item from Ao. Name: $1 Scroll. Id: 10946, amount: 1	
+[10/11/25 11:28AM]  [ Spoon ]  Received item from Ao. Name: Sapphire mystery box. Id: 19116, amount: 12	
+[10/11/25 11:28AM]  [ Spoon ]  Received item from Ao. Name: Instance token (u). Id: 23264, amount: 100	
+[10/11/25 11:28AM]  [ Ao ]  Gave item to Spoon. Name: $1 Scroll. Id: 10946, amount: 1	
+[10/11/25 11:28AM]  [ Ao ]  Gave item to Spoon. Name: Sapphire mystery box. Id: 19116, amount: 12	
+[10/11/25 11:28AM]  [ Ao ]  Gave item to Spoon. Name: Instance token (u). Id: 23264, amount: 100	
+[10/11/25 11:28AM]  [ Ao ]  Received item from Spoon. Name: AFK ticket. Id: 5020, amount: 610058	
+[10/11/25 01:36PM]  [ Spoon ]  Gave item to Charlene. Name: Levincia tokens. Id: 12855, amount: 100000000	
+[10/11/25 01:36PM]  [ Spoon ]  Received item from Charlene. Name: PVM ticket. Id: 5022, amount: 10000000	
+[10/11/25 01:36PM]  [ Charlene ]  Gave item to Spoon. Name: PVM ticket. Id: 5022, amount: 10000000	
+[10/11/25 01:36PM]  [ Charlene ]  Received item from Spoon. Name: Levincia tokens. Id: 12855, amount: 100000000	
+[10/11/25 01:38PM]  [ Charlene ]  Gave item to Spoon. Name: PVM ticket. Id: 5022, amount: 6000000	
+[10/11/25 01:38PM]  [ Charlene ]  Received item from Spoon. Name: Levincia tokens. Id: 12855, amount: 60721367	
+[10/11/25 01:38PM]  [ Spoon ]  Gave item to Charlene. Name: Levincia tokens. Id: 12855, amount: 60721367	
+[10/11/25 01:38PM]  [ Spoon ]  Received item from Charlene. Name: PVM ticket. Id: 5022, amount: 6000000	
+[10/11/25 01:41PM]  [ Charlene ]  Received item from Spoon. Name: PvM Box. Id: 7956, amount: 250	
+[10/11/25 01:41PM]  [ Spoon ]  Gave item to Charlene. Name: PvM Box. Id: 7956, amount: 250	
+[10/11/25 02:00PM]  [ Charlene ]  Received item from Spoon. Name: Infinity Slayer Ring. Id: 18819, amount: 1	
+[10/11/25 02:00PM]  [ Spoon ]  Gave item to Charlene. Name: Infinity Slayer Ring. Id: 18819, amount: 1	
+[10/11/25 02:13PM]  [ Spoon ]  Gave item to Charlene. Name: Vote scroll. Id: 23020, amount: 1	
+[10/11/25 02:13PM]  [ Spoon ]  Received item from Charlene. Name: PVM ticket. Id: 5022, amount: 1588000	
+[10/11/25 02:13PM]  [ Charlene ]  Gave item to Spoon. Name: PVM ticket. Id: 5022, amount: 1588000	
+[10/11/25 02:13PM]  [ Charlene ]  Received item from Spoon. Name: Vote scroll. Id: 23020, amount: 1	
+[10/11/25 02:14PM]  [ Spoon ]  Received item from Ao. Name: PvM ticket pack (10k). Id: 22219, amount: 4	
+[10/11/25 02:14PM]  [ Spoon ]  Received item from Ao. Name: PVM ticket. Id: 5022, amount: 3670	
+[10/11/25 02:14PM]  [ Ao ]  Gave item to Spoon. Name: PvM ticket pack (10k). Id: 22219, amount: 4	
+[10/11/25 02:14PM]  [ Ao ]  Gave item to Spoon. Name: PVM ticket. Id: 5022, amount: 3670	
+[10/11/25 03:49PM]  [ Spoon ]  Received item from History Hawk. Name: Invention xp lamp. Id: 21218, amount: 1224	
+[10/11/25 03:49PM]  [ History Hawk ]  Gave item to Spoon. Name: Invention xp lamp. Id: 21218, amount: 1224	
+[10/11/25 03:50PM]  [ Spoon ]  Gave item to History Hawk. Name: Owner cape. Id: 7995, amount: 1	
+[10/11/25 03:50PM]  [ History Hawk ]  Received item from Spoon. Name: Owner cape. Id: 7995, amount: 1	
+[10/11/25 03:51PM]  [ Spoon ]  Gave item to History Hawk. Name: Invention xp lamp. Id: 21218, amount: 1033	
+[10/11/25 03:51PM]  [ Spoon ]  Received item from History Hawk. Name:  Owner Cape (u). Id: 22109, amount: 1	
+[10/11/25 03:51PM]  [ History Hawk ]  Gave item to Spoon. Name:  Owner Cape (u). Id: 22109, amount: 1	
+[10/11/25 03:51PM]  [ History Hawk ]  Received item from Spoon. Name: Invention xp lamp. Id: 21218, amount: 1033	
+[10/11/25 03:52PM]  [ History Hawk ]  Received item from Spoon. Name: Donator Aura. Id: 12630, amount: 1	
+[10/11/25 03:52PM]  [ Spoon ]  Gave item to History Hawk. Name: Donator Aura. Id: 12630, amount: 1	
+[10/11/25 03:53PM]  [ Spoon ]  Received item from History Hawk. Name: Owner aura. Id: 22111, amount: 1	
+[10/11/25 03:53PM]  [ History Hawk ]  Gave item to Spoon. Name: Owner aura. Id: 22111, amount: 1	
+[10/11/25 07:08PM]  [ Hank ]  Gave item to History Hawk. Name: Bronze hatchet. Id: 1351, amount: 1	
+[10/11/25 07:08PM]  [ Hank ]  Gave item to History Hawk. Name: Dragon hatchet. Id: 6739, amount: 1	
+[10/11/25 07:08PM]  [ Hank ]  Gave item to History Hawk. Name: Platinum key. Id: 23447, amount: 2	
+[10/11/25 07:08PM]  [ History Hawk ]  Received item from Hank. Name: Bronze hatchet. Id: 1351, amount: 1	
+[10/11/25 07:08PM]  [ History Hawk ]  Received item from Hank. Name: Dragon hatchet. Id: 6739, amount: 1	
+[10/11/25 07:08PM]  [ History Hawk ]  Received item from Hank. Name: Platinum key. Id: 23447, amount: 2	
+[10/11/25 08:49PM]  [ Spoon ]  Received item from History Hawk. Name: Levincia tokens. Id: 12855, amount: 50000000	
+[10/11/25 08:49PM]  [ History Hawk ]  Gave item to Spoon. Name: Levincia tokens. Id: 12855, amount: 50000000	
+[10/11/25 08:53PM]  [ Spoon ]  Gave item to History Hawk. Name: Owner aura. Id: 22111, amount: 1	
+[10/11/25 08:53PM]  [ History Hawk ]  Received item from Spoon. Name: Owner aura. Id: 22111, amount: 1	
+[10/11/25 08:54PM]  [ Spoon ]  Received item from History Hawk. Name: Owner Aura (u). Id: 23241, amount: 1	
+[10/11/25 08:54PM]  [ History Hawk ]  Gave item to Spoon. Name: Owner Aura (u). Id: 23241, amount: 1	
+[10/11/25 10:11PM]  [ Blayko ]  Received item from Hank. Name: Quill's Card Pack. Id: 23277, amount: 2	
+[10/11/25 10:11PM]  [ Blayko ]  Received item from Hank. Name: Owner Jewelry goodiebag. Id: 23240, amount: 2	
+[10/11/25 10:11PM]  [ Blayko ]  Received item from Hank. Name: $100 Bond. Id: 10943, amount: 1	
+[10/11/25 10:11PM]  [ Hank ]  Gave item to Blayko. Name: Quill's Card Pack. Id: 23277, amount: 2	
+[10/11/25 10:11PM]  [ Hank ]  Gave item to Blayko. Name: Owner Jewelry goodiebag. Id: 23240, amount: 2	
+[10/11/25 10:11PM]  [ Hank ]  Gave item to Blayko. Name: $100 Bond. Id: 10943, amount: 1	
+[10/11/25 10:25PM]  [ History Hawk ]  Gave item to Blayko. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/11/25 10:25PM]  [ Blayko ]  Received item from History Hawk. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/12/25 04:29AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: AFK ticket. Id: 5020, amount: 10000	
+[10/12/25 04:29AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 2	
+[10/12/25 04:29AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Crystal key. Id: 989, amount: 1	
+[10/12/25 04:29AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Upgrade Token pack (5k). Id: 15290, amount: 1	
+[10/12/25 04:29AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Summoning charm box. Id: 20481, amount: 1	
+[10/12/25 04:29AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: AFK ticket. Id: 5020, amount: 10000	
+[10/12/25 04:29AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 2	
+[10/12/25 04:29AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Crystal key. Id: 989, amount: 1	
+[10/12/25 04:29AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Upgrade Token pack (5k). Id: 15290, amount: 1	
+[10/12/25 04:29AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Summoning charm box. Id: 20481, amount: 1	
+[10/12/25 06:06AM]  [ Test ]  Received item from Ghijf. Name: Dark bow. Id: 11235, amount: 1	
+[10/12/25 06:06AM]  [ Test ]  Received item from Ghijf. Name: Staff of light. Id: 15486, amount: 1	
+[10/12/25 06:06AM]  [ Ghijf ]  Gave item to Test. Name: Dark bow. Id: 11235, amount: 1	
+[10/12/25 06:06AM]  [ Ghijf ]  Gave item to Test. Name: Staff of light. Id: 15486, amount: 1	
+[10/12/25 06:08AM]  [ Ghijf ]  Received item from Test. Name: Elite Casket. Id: 15002, amount: 1	
+[10/12/25 06:08AM]  [ Test ]  Gave item to Ghijf. Name: Elite Casket. Id: 15002, amount: 1	
+[10/12/25 06:21AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Levincia tokens. Id: 12855, amount: 10000000	
+[10/12/25 06:21AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Levincia tokens. Id: 12855, amount: 10000000	
+[10/12/25 07:13AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Spider bones. Id: 3284, amount: 2139	
+[10/12/25 07:13AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Spider bones. Id: 3284, amount: 2139	
+[10/12/25 07:51AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Azure Casket. Id: 15003, amount: 2	
+[10/12/25 07:51AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Azure Casket. Id: 15003, amount: 2	
+[10/12/25 08:02AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Elite dragon bones. Id: 18830, amount: 16307	
+[10/12/25 08:02AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Elite dragon bones. Id: 18830, amount: 16307	
+[10/12/25 11:27AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Azure Casket. Id: 15003, amount: 1	
+[10/12/25 11:27AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Azure Casket. Id: 15003, amount: 1	
+[10/12/25 06:26PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Elite Casket. Id: 15002, amount: 2	
+[10/12/25 06:26PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Azure Casket. Id: 15003, amount: 1	
+[10/12/25 06:26PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Launch casket. Id: 20489, amount: 1	
+[10/12/25 06:26PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Elite Casket. Id: 15002, amount: 2	
+[10/12/25 06:26PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Azure Casket. Id: 15003, amount: 1	
+[10/12/25 06:26PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Launch casket. Id: 20489, amount: 1	
+[10/13/25 04:59AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: AFK ticket. Id: 5020, amount: 14668	
+[10/13/25 04:59AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: AFK ticket. Id: 5020, amount: 14668	
+[10/13/25 04:59AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Diabolical bones. Id: 3285, amount: 740	
+[10/13/25 04:59AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Diabolical bones. Id: 3285, amount: 740	
+[10/13/25 05:09AM]  [ Hzal ]  Received item from Ghijf. Name: Light Twisted bow. Id: 5011, amount: 1	
+[10/13/25 05:09AM]  [ Ghijf ]  Gave item to Hzal. Name: Light Twisted bow. Id: 5011, amount: 1	
+[10/13/25 05:16AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/13/25 05:16AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/13/25 05:16AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/13/25 05:16AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/13/25 05:27AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Case key. Id: 4186, amount: 1	
+[10/13/25 05:27AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Case key. Id: 4186, amount: 1	
+[10/13/25 05:34AM]  [ Afk Gh ]  Received item from Ghijf. Name: Babydragon bones. Id: 534, amount: 12989	
+[10/13/25 05:34AM]  [ Ghijf ]  Gave item to Afk Gh. Name: Babydragon bones. Id: 534, amount: 12989	
+[10/13/25 07:48AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Launch casket. Id: 20489, amount: 1	
+[10/13/25 07:48AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Azure Casket. Id: 15003, amount: 1	
+[10/13/25 07:48AM]  [ Ghijf ]  Received item from Afk Gh. Name: Launch casket. Id: 20489, amount: 1	
+[10/13/25 07:48AM]  [ Ghijf ]  Received item from Afk Gh. Name: Azure Casket. Id: 15003, amount: 1	
+[10/13/25 08:08AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: AFK ticket. Id: 5020, amount: 10000	
+[10/13/25 08:08AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: AFK ticket. Id: 5020, amount: 10000	
+[10/13/25 08:10AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/13/25 08:10AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/13/25 08:10AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/13/25 08:10AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/13/25 11:35AM]  [ Hank ]  Gave item to History Hawk. Name: Seraphic case. Id: 23411, amount: 101	
+[10/13/25 11:35AM]  [ Hank ]  Gave item to History Hawk. Name: Sponsor rank ticket. Id: 19122, amount: 1	
+[10/13/25 11:35AM]  [ History Hawk ]  Received item from Hank. Name: Seraphic case. Id: 23411, amount: 101	
+[10/13/25 11:35AM]  [ History Hawk ]  Received item from Hank. Name: Sponsor rank ticket. Id: 19122, amount: 1	
+[10/13/25 06:36PM]  [ Kursed ]  Received item from History Hawk. Name: Donator Aura. Id: 12630, amount: 1	
+[10/13/25 06:36PM]  [ Kursed ]  Received item from History Hawk. Name: Collector Necklace III. Id: 18888, amount: 1	
+[10/13/25 06:36PM]  [ History Hawk ]  Gave item to Kursed. Name: Donator Aura. Id: 12630, amount: 1	
+[10/13/25 06:36PM]  [ History Hawk ]  Gave item to Kursed. Name: Collector Necklace III. Id: 18888, amount: 1	
+[10/13/25 06:36PM]  [ Skyless ]  Received item from History Hawk. Name: Collector Necklace III. Id: 18888, amount: 1	
+[10/13/25 06:36PM]  [ Skyless ]  Received item from History Hawk. Name: Donator Aura. Id: 12630, amount: 1	
+[10/13/25 06:36PM]  [ History Hawk ]  Gave item to Skyless. Name: Collector Necklace III. Id: 18888, amount: 1	
+[10/13/25 06:36PM]  [ History Hawk ]  Gave item to Skyless. Name: Donator Aura. Id: 12630, amount: 1	
+[10/13/25 06:38PM]  [ History Hawk ]  Gave item to Kursed. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/13/25 06:38PM]  [ Kursed ]  Received item from History Hawk. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/13/25 06:41PM]  [ History Hawk ]  Gave item to Skyless. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/13/25 06:41PM]  [ Skyless ]  Received item from History Hawk. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	
+[10/13/25 06:47PM]  [ Dracky ]  Received item from Hank. Name: Elite staff. Id: 8412, amount: 1	
+[10/13/25 06:47PM]  [ Dracky ]  Received item from Hank. Name: Quill's Card Pack. Id: 23277, amount: 1	
+[10/13/25 06:47PM]  [ Hank ]  Gave item to Dracky. Name: Elite staff. Id: 8412, amount: 1	
+[10/13/25 06:47PM]  [ Hank ]  Gave item to Dracky. Name: Quill's Card Pack. Id: 23277, amount: 1	
+[10/13/25 06:48PM]  [ Hank ]  Gave item to Nickw. Name: Elite staff. Id: 8412, amount: 1	
+[10/13/25 06:48PM]  [ Hank ]  Gave item to Nickw. Name: Quill's Card Pack. Id: 23277, amount: 1	
+[10/13/25 06:48PM]  [ Nickw ]  Received item from Hank. Name: Elite staff. Id: 8412, amount: 1	
+[10/13/25 06:48PM]  [ Nickw ]  Received item from Hank. Name: Quill's Card Pack. Id: 23277, amount: 1	
+[10/13/25 06:58PM]  [ History Hawk ]  Gave item to Kursed. Name: Owner cape. Id: 7995, amount: 1	
+[10/13/25 06:58PM]  [ History Hawk ]  Received item from Kursed. Name: $5 Bond. Id: 6769, amount: 14	
+[10/13/25 06:58PM]  [ History Hawk ]  Received item from Kursed. Name: Levincia tokens. Id: 12855, amount: 13018288	
+[10/13/25 06:58PM]  [ Kursed ]  Gave item to History Hawk. Name: $5 Bond. Id: 6769, amount: 14	
+[10/13/25 06:58PM]  [ Kursed ]  Gave item to History Hawk. Name: Levincia tokens. Id: 12855, amount: 13018288	
+[10/13/25 06:58PM]  [ Kursed ]  Received item from History Hawk. Name: Owner cape. Id: 7995, amount: 1	
+[10/13/25 07:08PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: AFK ticket. Id: 5020, amount: 15549	
+[10/13/25 07:08PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Levincia tokens. Id: 12855, amount: 30991	
+[10/13/25 07:08PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Celestial's Card Pack. Id: 23278, amount: 1	
+[10/13/25 07:08PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Quill's Card Pack. Id: 23277, amount: 2	
+[10/13/25 07:08PM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Antique lamp. Id: 11137, amount: 10	
+[10/13/25 07:08PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: AFK ticket. Id: 5020, amount: 15549	
+[10/13/25 07:08PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Levincia tokens. Id: 12855, amount: 30991	
+[10/13/25 07:08PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Celestial's Card Pack. Id: 23278, amount: 1	
+[10/13/25 07:08PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Quill's Card Pack. Id: 23277, amount: 2	
+[10/13/25 07:08PM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Antique lamp. Id: 11137, amount: 10	
+[10/14/25 04:57AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: AFK ticket. Id: 5020, amount: 13671	
+[10/14/25 04:57AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Beginner Mystery box. Id: 6199, amount: 34	
+[10/14/25 04:57AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: PvM Box. Id: 7956, amount: 21	
+[10/14/25 04:57AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 2	
+[10/14/25 04:57AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: PVM ticket. Id: 5022, amount: 30830	
+[10/14/25 04:57AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 7	
+[10/14/25 04:57AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: AFK ticket. Id: 5020, amount: 13671	
+[10/14/25 04:57AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Beginner Mystery box. Id: 6199, amount: 34	
+[10/14/25 04:57AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: PvM Box. Id: 7956, amount: 21	
+[10/14/25 04:57AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 2	
+[10/14/25 04:57AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: PVM ticket. Id: 5022, amount: 30830	
+[10/14/25 04:57AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 7	
+[10/14/25 05:12AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/14/25 05:12AM]  [ Ghijf ]  Gave item to Ezpz Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/14/25 05:12AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/14/25 05:12AM]  [ Ezpz Ghijf ]  Received item from Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/14/25 05:12AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Suffering key. Id: 23370, amount: 1	
+[10/14/25 05:12AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Suffering key. Id: 23370, amount: 1	
+[10/14/25 05:14AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/14/25 05:14AM]  [ Ezpz Ghijf ]  Gave item to Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/14/25 05:14AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Owner cape. Id: 7995, amount: 1	
+[10/14/25 05:14AM]  [ Ghijf ]  Received item from Ezpz Ghijf. Name: Light Sanguinesti staff. Id: 17013, amount: 1	
+[10/14/25 07:19AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Elite Casket. Id: 15002, amount: 1	
+[10/14/25 07:19AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Emerald mystery box. Id: 19115, amount: 16	
+[10/14/25 07:19AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Sapphire mystery box. Id: 19116, amount: 12	
+[10/14/25 07:19AM]  [ Afk Gh ]  Gave item to Ghijf. Name: OP Box. Id: 20488, amount: 2	
+[10/14/25 07:19AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Ruby Mystery Box. Id: 19114, amount: 2	
+[10/14/25 07:19AM]  [ Ghijf ]  Received item from Afk Gh. Name: Elite Casket. Id: 15002, amount: 1	
+[10/14/25 07:19AM]  [ Ghijf ]  Received item from Afk Gh. Name: Emerald mystery box. Id: 19115, amount: 16	
+[10/14/25 07:19AM]  [ Ghijf ]  Received item from Afk Gh. Name: Sapphire mystery box. Id: 19116, amount: 12	
+[10/14/25 07:19AM]  [ Ghijf ]  Received item from Afk Gh. Name: OP Box. Id: 20488, amount: 2	
+[10/14/25 07:19AM]  [ Ghijf ]  Received item from Afk Gh. Name: Ruby Mystery Box. Id: 19114, amount: 2	
+[10/14/25 07:20AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Creeper cape. Id: 1486, amount: 1	
+[10/14/25 07:20AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Collector ring II. Id: 18823, amount: 1	
+[10/14/25 07:20AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Invention xp lamp. Id: 21218, amount: 25	
+[10/14/25 07:20AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Coin. Id: 995, amount: 49847983	
+[10/14/25 07:20AM]  [ Afk Gh ]  Gave item to Ghijf. Name: Babydragon bones. Id: 534, amount: 4099	
+[10/14/25 07:20AM]  [ Ghijf ]  Received item from Afk Gh. Name: Creeper cape. Id: 1486, amount: 1	
+[10/14/25 07:20AM]  [ Ghijf ]  Received item from Afk Gh. Name: Collector ring II. Id: 18823, amount: 1	
+[10/14/25 07:20AM]  [ Ghijf ]  Received item from Afk Gh. Name: Invention xp lamp. Id: 21218, amount: 25	
+[10/14/25 07:20AM]  [ Ghijf ]  Received item from Afk Gh. Name: Coin. Id: 995, amount: 49847983	
+[10/14/25 07:20AM]  [ Ghijf ]  Received item from Afk Gh. Name: Babydragon bones. Id: 534, amount: 4099	
+[10/15/25 12:51PM]  [ Dracky ]  Received item from History Hawk. Name: Raw dusk eel. Id: 17801, amount: 5	
+[10/15/25 12:51PM]  [ History Hawk ]  Gave item to Dracky. Name: Raw dusk eel. Id: 17801, amount: 5	
+[10/15/25 08:41PM]  [ Hank ]  Gave item to Big Daddy D. Name: Celestial's Card Pack. Id: 23278, amount: 5	
+[10/15/25 08:41PM]  [ Big Daddy D ]  Received item from Hank. Name: Celestial's Card Pack. Id: 23278, amount: 5	
+[10/15/25 08:44PM]  [ Dox ]  Received item from History Hawk. Name: Celestial's Card Pack. Id: 23278, amount: 5	
+[10/15/25 08:44PM]  [ Dox ]  Received item from History Hawk. Name: Light Twisted bow. Id: 5011, amount: 1	
+[10/15/25 08:44PM]  [ History Hawk ]  Gave item to Dox. Name: Celestial's Card Pack. Id: 23278, amount: 5	
+[10/15/25 08:44PM]  [ History Hawk ]  Gave item to Dox. Name: Light Twisted bow. Id: 5011, amount: 1	
+[10/15/25 08:45PM]  [ History Hawk ]  Gave item to Big Daddy D. Name: Light Twisted bow. Id: 5011, amount: 1	
+[10/15/25 08:45PM]  [ Big Daddy D ]  Received item from History Hawk. Name: Light Twisted bow. Id: 5011, amount: 1	
+[10/16/25 01:45PM]  [ Big Daddy D ]  Received item from Hank. Name: Vote scroll. Id: 23020, amount: 10	
+[10/16/25 01:45PM]  [ Big Daddy D ]  Received item from Hank. Name: Celestial's Card Pack. Id: 23278, amount: 1	
+[10/16/25 01:45PM]  [ Hank ]  Gave item to Big Daddy D. Name: Vote scroll. Id: 23020, amount: 10	
+[10/16/25 01:45PM]  [ Hank ]  Gave item to Big Daddy D. Name: Celestial's Card Pack. Id: 23278, amount: 1	
+[10/16/25 03:14PM]  [ Dracky ]  Received item from Kursed. Name: Antique lamp. Id: 11137, amount: 1500	
+[10/16/25 03:14PM]  [ Kursed ]  Gave item to Dracky. Name: Antique lamp. Id: 11137, amount: 1500	
+[10/16/25 03:53PM]  [ Dracky ]  Received item from Kursed. Name: Owner cape. Id: 7995, amount: 1	
+[10/16/25 03:53PM]  [ Kursed ]  Gave item to Dracky. Name: Owner cape. Id: 7995, amount: 1	
+[10/16/25 04:00PM]  [ Dracky ]  Received item from Hank. Name: Blood Scythe of Vitur. Id: 8136, amount: 1	
+[10/16/25 04:00PM]  [ Hank ]  Gave item to Dracky. Name: Blood Scythe of Vitur. Id: 8136, amount: 1	
+[10/16/25 08:42PM]  [ Hank ]  Gave item to Big Daddy D. Name: Avalon's Card Pack. Id: 23279, amount: 5	
+[10/16/25 08:42PM]  [ Big Daddy D ]  Received item from Hank. Name: Avalon's Card Pack. Id: 23279, amount: 5	

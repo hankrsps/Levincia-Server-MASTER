@@ -1,0 +1,15 @@
+[10/10/25 05:21PM] Bishop used command ::vote | Player rights = PLAYER	
+[10/10/25 05:22PM] Bishop used command ::voted | Player rights = PLAYER	
+[10/10/25 05:22PM] Bishop used command ::reward 1 | Player rights = PLAYER	
+[10/10/25 05:29PM] Bishop used command ::home | Player rights = PLAYER	
+[10/10/25 05:33PM] Bishop used command ::bank | Player rights = PLAYER	
+[10/10/25 05:33PM] Bishop used command ::bank | Player rights = PLAYER	
+[10/10/25 05:33PM] Bishop used command ::Ref | Player rights = PLAYER	
+[10/10/25 05:56PM] Bishop used command ::zones | Player rights = PLAYER	
+[10/10/25 06:08PM] Bishop used command ::hellraiser | Player rights = PLAYER	
+[10/10/25 06:13PM] Bishop used command ::home | Player rights = PLAYER	
+[10/10/25 06:20PM] Bishop used command ::Ref | Player rights = PLAYER	
+[10/12/25 03:47PM] Bishop used command ::vote | Player rights = PLAYER	
+[10/12/25 03:48PM] Bishop used command ::voted | Player rights = PLAYER	
+[10/12/25 03:48PM] Bishop used command ::reward 1 all | Player rights = PLAYER	
+[10/12/25 03:51PM] Bishop used command ::bank | Player rights = PLAYER	

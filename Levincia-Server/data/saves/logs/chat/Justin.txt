@@ -1,0 +1,49 @@
+[10/7/25 03:00PM] DEFAULT|2784,4053,0|Said: Thank you<34	
+[10/7/25 03:01PM] DEFAULT|2784,4053,0|Said: Thanks<3	
+[10/7/25 03:05PM] HOME_BANK|2784,4065,0|Said:  k3	
+[10/7/25 03:43PM] DOOM|2343,5201,0|Said: Supp	
+[10/7/25 03:43PM] DOOM|2343,5201,0|Said: Doing upgrades	
+[10/7/25 04:14PM] VOTE_BOSS|3425,4121,4|Said: Yw	
+[10/7/25 04:14PM] VOTE_BOSS|3425,4121,4|Said: Nothing	
+[10/7/25 04:14PM] VOTE_BOSS|3425,4121,4|Said: Doesnt give any message	
+[10/7/25 04:16PM] VOTE_BOSS|3425,4121,4|Said: Oooh	
+[10/7/25 04:16PM] VOTE_BOSS|3425,4121,4|Said: Hxxxx	
+[10/7/25 04:16PM] VOTE_BOSS|3425,4121,4|Said: Thxxxx*	
+[10/7/25 04:17PM] VOTE_BOSS|3425,4121,4|Said: Copy that	
+[10/7/25 04:19PM] NARAKU|3424,9567,0|Said: Tried to do raids gotta get that 99 slay first	
+[10/7/25 04:20PM] NARAKU|3424,9567,0|Said: Ye	
+[10/7/25 04:20PM] NARAKU|3424,9567,0|Said: Back to grindin	
+[10/7/25 05:04PM] VOTE_BOSS|3429,4122,4|Said: How we use attachments?	
+[10/7/25 05:05PM] VOTE_BOSS|3429,4122,4|Said: Gl	
+[10/7/25 05:05PM] VOTE_BOSS|3429,4122,4|Said: Tyty	
+[10/7/25 05:05PM] VOTE_BOSS|3429,4122,4|Said: Gz	
+[10/7/25 05:15PM] VOTE_BOSS|3428,4117,4|Said: Ty	
+[10/7/25 05:18PM] VOTE_BOSS|3428,4117,4|Said: Sweet	
+[10/7/25 06:03PM] NEPHILIM|2144,3294,0|Said: Best way to level invention?	
+[10/7/25 06:03PM] NEPHILIM|2144,3294,0|Said: Is there a mass dissolve option anywhere?	
+[10/7/25 06:05PM] NEPHILIM|2144,3294,0|Said: Glgl	
+[10/7/25 06:10PM] NEPHILIM|2144,3299,0|Said: Exposed	
+[10/7/25 06:10PM] NEPHILIM|2144,3299,0|Said: Gl	
+[10/7/25 06:12PM] NEPHILIM|2144,3299,0|Said: Mans gonna yoink the drop	
+[10/7/25 06:13PM] NEPHILIM|2144,3299,0|Said: Helmet	
+[10/7/25 06:13PM] NEPHILIM|2144,3299,0|Said: Im rich!	
+[10/7/25 06:14PM] NEPHILIM|2144,3296,0|Said: Hank	
+[10/7/25 06:14PM] NEPHILIM|2144,3296,0|Said: How we get chilled gloves?	
+[10/7/25 06:15PM] NEPHILIM|2144,3296,0|Said: I need them for something	
+[10/7/25 06:16PM] NEPHILIM|2144,3296,0|Said: Ty	
+[10/7/25 07:15PM] EVENTS_ROOM|1697,4262,0|Said: '::teleallhome	
+[10/7/25 07:15PM] EVENTS_ROOM|1697,4262,0|Said: Fk	
+[10/7/25 07:15PM] EVENTS_ROOM|1696,4266,0|Said: Anyway to make collectors stuff bank items?	
+[10/7/25 07:16PM] EVENTS_ROOM|1701,4259,0|Said: Glgl	
+[10/7/25 07:21PM] EVENTS_ROOM|1698,4259,0|Said: Yea he got i picked up	
+[10/7/25 07:22PM] EVENTS_ROOM|1698,4257,0|Said: Technically grnad	
+[10/7/25 07:22PM] EVENTS_ROOM|1696,4266,0|Said: Chest shows empty	
+[10/7/25 07:23PM] EVENTS_ROOM|1696,4266,0|Said: But still getin stuff	
+[10/7/25 07:24PM] EVENTS_ROOM|1693,4259,0|Said: Yo	
+[10/7/25 07:25PM] EVENTS_ROOM|1695,4261,0|Said: No clue 	
+[10/7/25 07:25PM] EVENTS_ROOM|1691,4264,0|Said: Got eth  case	
+[10/7/25 07:27PM] EVENTS_ROOM|1696,4264,0|Said: Cape is 10k in stats	
+[10/7/25 07:28PM] EVENTS_ROOM|1697,4259,0|Said: My boots are shit	
+[10/8/25 09:08AM] GUARDIAN|2647,3805,0|Said: Glgl	
+[10/9/25 02:41PM] EVENTS_ROOM|1696,4266,0|Said: ?	
+[10/9/25 02:52PM] EVENTS_ROOM|1697,4263,0|Said: What we doing?	

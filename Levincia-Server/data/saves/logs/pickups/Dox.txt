@@ -1,0 +1,5 @@
+[10/6/25 09:42PM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Dox	
+[10/6/25 09:59PM] Player picked up item: Levincia tokens, id: 12855, amount: 1000, owner: Dox	
+[10/8/25 09:53PM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Dox	
+[10/9/25 11:08PM] Player picked up item: Empty bucket, id: 3727, amount: 1, owner: Dox	
+[10/9/25 11:09PM] Player picked up item: Rancid flour, id: 7546, amount: 1, owner: Dox	

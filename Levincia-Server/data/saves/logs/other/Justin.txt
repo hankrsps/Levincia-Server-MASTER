@@ -1,0 +1,245 @@
+[10/7/25 02:24PM] Login. ip: 72.70.173.174, mac: NHQ5WAA0019270410B340020250305235903.000000-300, uuid: D4-D2-52-C8-37-D3	
+[10/7/25 02:44PM] (CC) Help. Said: Anyone know how to cliam donos?	
+[10/7/25 02:57PM] Login. ip: 72.70.173.174, mac: NHQ5WAA0019270410B340020250305235903.000000-300, uuid: D4-D2-52-C8-37-D3	
+[10/7/25 02:59PM] Login. ip: 72.70.173.174, mac: NHQ5WAA0019270410B340020250305235903.000000-300, uuid: D4-D2-52-C8-37-D3	
+[10/7/25 03:00PM]  Receiving item from trade with Hank Id: 19115, amount: 400	
+[10/7/25 03:00PM]  Receiving item from trade with Hank Id: 7956, amount: 20000	
+[10/7/25 03:00PM]  Receiving item from trade with Hank Id: 23002, amount: 7	
+[10/7/25 03:00PM] DEFAULT|2784,4053,0|Said: Thank you<34	
+[10/7/25 03:01PM]  Receiving item from trade with Hank Id: 23279, amount: 1	
+[10/7/25 03:01PM]  Receiving item from trade with Hank Id: 10943, amount: 1	
+[10/7/25 03:01PM] DEFAULT|2784,4053,0|Said: Thanks<3	
+[10/7/25 03:01PM] Has just redeemed a $100 Bond successfully!	
+[10/7/25 03:02PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 03:02PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 03:03PM] Has just redeemed a $5 Bond successfully!	
+[10/7/25 03:03PM] Has just redeemed a $5 Bond successfully!	
+[10/7/25 03:03PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 03:03PM] (CC) Help. Said: Oooooooooooo	
+[10/7/25 03:05PM] HOME_BANK|2784,4065,0|Said:  k3	
+[10/7/25 03:05PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 03:05PM] Has just redeemed a $10 Bond successfully!	
+[10/7/25 03:06PM] Has just redeemed a $50 Bond successfully!	
+[10/7/25 03:06PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 03:17PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 03:17PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 03:43PM] DOOM|2343,5201,0|Said: Supp	
+[10/7/25 03:43PM] DOOM|2343,5201,0|Said: Doing upgrades	
+[10/7/25 04:13PM] (CC) Help. Said: This guy	
+[10/7/25 04:14PM] VOTE_BOSS|3425,4121,4|Said: Yw	
+[10/7/25 04:14PM] VOTE_BOSS|3425,4121,4|Said: Nothing	
+[10/7/25 04:14PM] VOTE_BOSS|3425,4121,4|Said: Doesnt give any message	
+[10/7/25 04:16PM] VOTE_BOSS|3425,4121,4|Said: Oooh	
+[10/7/25 04:16PM] VOTE_BOSS|3425,4121,4|Said: Hxxxx	
+[10/7/25 04:16PM] VOTE_BOSS|3425,4121,4|Said: Thxxxx*	
+[10/7/25 04:17PM] VOTE_BOSS|3425,4121,4|Said: Copy that	
+[10/7/25 04:19PM] NARAKU|3424,9567,0|Said: Tried to do raids gotta get that 99 slay first	
+[10/7/25 04:20PM] NARAKU|3424,9567,0|Said: Ye	
+[10/7/25 04:20PM] NARAKU|3424,9567,0|Said: Back to grindin	
+[10/7/25 04:52PM] Picked up gr.Item Holy symbol, amount: 1	
+[10/7/25 04:52PM] Player destroying item: -1, amount: 0	
+[10/7/25 04:53PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 04:55PM] Picked up gr.Item Rancid flour, amount: 1	
+[10/7/25 04:55PM] Picked up gr.Item Empty bucket, amount: 1	
+[10/7/25 04:58PM] (CC) Help. Said: Me	
+[10/7/25 05:01PM] (CC) Help. Said: Only 91	
+[10/7/25 05:04PM] VOTE_BOSS|3429,4122,4|Said: How we use attachments?	
+[10/7/25 05:05PM] VOTE_BOSS|3429,4122,4|Said: Gl	
+[10/7/25 05:05PM] VOTE_BOSS|3429,4122,4|Said: Tyty	
+[10/7/25 05:05PM] VOTE_BOSS|3429,4122,4|Said: Gz	
+[10/7/25 05:15PM] VOTE_BOSS|3428,4117,4|Said: Ty	
+[10/7/25 05:18PM] VOTE_BOSS|3428,4117,4|Said: Sweet	
+[10/7/25 05:18PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 05:19PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 05:19PM] Has just redeemed a $50 Bond successfully!	
+[10/7/25 05:20PM] (CC) Help. Said: Hax	
+[10/7/25 05:22PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 05:22PM] (CC) Help. Said: What do attatchments do?	
+[10/7/25 05:23PM] (CC) Help. Said: Gz what ya get?	
+[10/7/25 05:34PM] (CC) Help. Said: Gz an gl	
+[10/7/25 05:39PM] Picked up gr.Item Knife, amount: 1	
+[10/7/25 05:40PM] Picked up gr.Item Empty bucket, amount: 1	
+[10/7/25 05:40PM] Picked up gr.Item Rancid flour, amount: 1	
+[10/7/25 05:40PM] Picked up gr.Item Bowl, amount: 1	
+[10/7/25 05:42PM] (CC) Help. Said: Gzzz	
+[10/7/25 05:44PM] (CC) Help. Said: ::dk	
+[10/7/25 05:49PM] (CC) Help. Said: Where we get chilling gloves?	
+[10/7/25 05:53PM] (CC) Help. Said: Gzz	
+[10/7/25 06:00PM] (CC) Help. Said: Tyty	
+[10/7/25 06:03PM] NEPHILIM|2144,3294,0|Said: Best way to level invention?	
+[10/7/25 06:03PM] NEPHILIM|2144,3294,0|Said: Is there a mass dissolve option anywhere?	
+[10/7/25 06:05PM] NEPHILIM|2144,3294,0|Said: Glgl	
+[10/7/25 06:08PM] (CC) Help. Said: Tyty	
+[10/7/25 06:10PM] NEPHILIM|2144,3299,0|Said: Exposed	
+[10/7/25 06:10PM] NEPHILIM|2144,3299,0|Said: Gl	
+[10/7/25 06:12PM] NEPHILIM|2144,3299,0|Said: Mans gonna yoink the drop	
+[10/7/25 06:13PM] NEPHILIM|2144,3299,0|Said: Helmet	
+[10/7/25 06:13PM] Justin received x1 $1 Scroll from Nephilim Warrior!	
+[10/7/25 06:13PM] NEPHILIM|2144,3299,0|Said: Im rich!	
+[10/7/25 06:14PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 06:14PM] NEPHILIM|2144,3296,0|Said: Hank	
+[10/7/25 06:14PM] NEPHILIM|2144,3296,0|Said: How we get chilled gloves?	
+[10/7/25 06:15PM] NEPHILIM|2144,3296,0|Said: I need them for something	
+[10/7/25 06:16PM] NEPHILIM|2144,3296,0|Said: Ty	
+[10/7/25 06:16PM] Picked up gr.Item Omega egg, amount: 1	
+[10/7/25 06:18PM] Justin received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/7/25 06:24PM] Login. ip: 72.70.173.174, mac: NHQ5WAA0019270410B340020250305235903.000000-300, uuid: D4-D2-52-C8-37-D3	
+[10/7/25 06:28PM] Player destroying item: 2347, amount: 1	
+[10/7/25 06:30PM] (CC) Help. Said: Gz	
+[10/7/25 06:31PM] Player destroying item: -1, amount: 0	
+[10/7/25 06:31PM] Player destroying item: 2347, amount: 1	
+[10/7/25 06:32PM] Player destroying item: -1, amount: 0	
+[10/7/25 06:32PM] Player destroying item: 2347, amount: 1	
+[10/7/25 06:32PM] Player destroying item: 2347, amount: 1	
+[10/7/25 06:32PM] Player destroying item: 2347, amount: 1	
+[10/7/25 06:32PM] Player destroying item: -1, amount: 0	
+[10/7/25 06:32PM] Player destroying item: -1, amount: 0	
+[10/7/25 06:32PM] Player destroying item: -1, amount: 0	
+[10/7/25 06:34PM] Player destroying item: -1, amount: 0	
+[10/7/25 06:34PM] Player destroying item: 2347, amount: 1	
+[10/7/25 06:34PM] Player destroying item: -1, amount: 0	
+[10/7/25 06:34PM] Player destroying item: -1, amount: 0	
+[10/7/25 06:35PM] Picked up gr.Item Holy symbol, amount: 1	
+[10/7/25 06:37PM] Player destroying item: 2959, amount: 1	
+[10/7/25 06:37PM] Player destroying item: -1, amount: 0	
+[10/7/25 06:37PM] Picked up gr.Item Rotten food, amount: 1	
+[10/7/25 06:37PM] Picked up gr.Item Rotten food, amount: 1	
+[10/7/25 06:39PM] Player destroying item: 307, amount: 1	
+[10/7/25 06:41PM] Player destroying item: -1, amount: 0	
+[10/7/25 06:45PM] (CC) Help. Said: Yes last one	
+[10/7/25 06:48PM] Picked up gr.Item Nature rune, amount: 1003	
+[10/7/25 06:48PM] Picked up gr.Item Dragon arrow, amount: 126	
+[10/7/25 06:48PM] Picked up gr.Item Raw swordfish, amount: 775	
+[10/7/25 06:48PM] Picked up gr.Item Cosmic rune, amount: 886	
+[10/7/25 06:48PM] Picked up gr.Item Law rune, amount: 431	
+[10/7/25 06:48PM] Picked up gr.Item Adamant arrow, amount: 711	
+[10/7/25 06:48PM] Picked up gr.Item Granite legs, amount: 1	
+[10/7/25 06:48PM] Picked up gr.Item Blood rune, amount: 110	
+[10/7/25 06:48PM] Picked up gr.Item Runite bolts, amount: 164	
+[10/7/25 06:48PM] Picked up gr.Item Magic logs, amount: 128	
+[10/7/25 06:48PM] Picked up gr.Item Rune boots, amount: 2	
+[10/7/25 06:48PM] Picked up gr.Item Amulet of glory, amount: 1	
+[10/7/25 06:48PM] Picked up gr.Item Fire rune, amount: 1547	
+[10/7/25 06:48PM] Picked up gr.Item Dragon bolts (e), amount: 21	
+[10/7/25 06:48PM] Picked up gr.Item Adamantite ore, amount: 55	
+[10/7/25 06:48PM] Picked up gr.Item Earth rune, amount: 1076	
+[10/7/25 06:48PM] Picked up gr.Item Rune knife, amount: 100	
+[10/7/25 06:48PM] Picked up gr.Item Raw shark, amount: 44	
+[10/7/25 06:49PM] Picked up gr.Item Uncut diamond, amount: 10	
+[10/7/25 06:49PM] Picked up gr.Item Cannonball, amount: 156	
+[10/7/25 06:49PM] Picked up gr.Item Grimy marrentill, amount: 143	
+[10/7/25 06:49PM] Picked up gr.Item Grimy harralander, amount: 86	
+[10/7/25 06:49PM] Picked up gr.Item Grimy irit, amount: 84	
+[10/7/25 06:49PM] Picked up gr.Item Grimy avantoe, amount: 43	
+[10/7/25 06:49PM] Picked up gr.Item Grimy cadantine, amount: 37	
+[10/7/25 06:49PM] Picked up gr.Item Grimy guam, amount: 34	
+[10/7/25 06:49PM] Picked up gr.Item Grimy ranarr, amount: 27	
+[10/7/25 06:49PM] Picked up gr.Item Grimy dwarf weed, amount: 24	
+[10/7/25 06:49PM] Picked up gr.Item Grimy lantadyme, amount: 19	
+[10/7/25 06:49PM] Picked up gr.Item Grimy torstol, amount: 13	
+[10/7/25 06:49PM] Picked up gr.Item Grimy snapdragon, amount: 11	
+[10/7/25 06:49PM] Picked up gr.Item Elite dragon bones, amount: 11	
+[10/7/25 06:54PM] (CC) Help. Said: Note what you dont want an put in invy (only what you wish to lose)	
+[10/7/25 06:54PM] (CC) Help. Said: An do ::dissolveall	
+[10/7/25 06:55PM] Picked up gr.Item Levincia tokens, amount: 136000	
+[10/7/25 06:55PM] Picked up gr.Item Levincia tokens, amount: 110300	
+[10/7/25 06:56PM] Picked up gr.Item Levincia tokens, amount: 169	
+[10/7/25 06:59PM] Picked up gr.Item Levincia tokens, amount: 165	
+[10/7/25 07:00PM] Picked up gr.Item Levincia tokens, amount: 8000	
+[10/7/25 07:02PM] Picked up gr.Item Levincia tokens, amount: 50	
+[10/7/25 07:03PM] Picked up gr.Item Levincia tokens, amount: 8680	
+[10/7/25 07:15PM] EVENTS_ROOM|1697,4262,0|Said: '::teleallhome	
+[10/7/25 07:15PM] EVENTS_ROOM|1697,4262,0|Said: Fk	
+[10/7/25 07:15PM] EVENTS_ROOM|1696,4266,0|Said: Anyway to make collectors stuff bank items?	
+[10/7/25 07:16PM] EVENTS_ROOM|1701,4259,0|Said: Glgl	
+[10/7/25 07:17PM] Picked up gr.Item Rage Cape, amount: 1	
+[10/7/25 07:17PM] Picked up gr.Item Starter Card Pack, amount: 1	
+[10/7/25 07:17PM] Picked up gr.Item Cash box, amount: 1	
+[10/7/25 07:17PM] Picked up gr.Item Verac's brassard, amount: 1	
+[10/7/25 07:18PM] Picked up gr.Item Antique lamp, amount: 1	
+[10/7/25 07:18PM] Picked up gr.Item PvM Box (t2), amount: 1	
+[10/7/25 07:19PM] Picked up gr.Item Collector necklace, amount: 1	
+[10/7/25 07:21PM] Picked up gr.Item 100% DR Scroll (30 Min), amount: 5	
+[10/7/25 07:21PM] EVENTS_ROOM|1698,4259,0|Said: Yea he got i picked up	
+[10/7/25 07:21PM] Picked up gr.Item PvM Box, amount: 1	
+[10/7/25 07:22PM] EVENTS_ROOM|1698,4257,0|Said: Technically grnad	
+[10/7/25 07:22PM] EVENTS_ROOM|1696,4266,0|Said: Chest shows empty	
+[10/7/25 07:23PM] EVENTS_ROOM|1696,4266,0|Said: But still getin stuff	
+[10/7/25 07:24PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 07:24PM] EVENTS_ROOM|1693,4259,0|Said: Yo	
+[10/7/25 07:25PM] EVENTS_ROOM|1695,4261,0|Said: No clue 	
+[10/7/25 07:25PM] Picked up gr.Item Ethereal case, amount: 1	
+[10/7/25 07:25PM] EVENTS_ROOM|1691,4264,0|Said: Got eth  case	
+[10/7/25 07:27PM] EVENTS_ROOM|1696,4264,0|Said: Cape is 10k in stats	
+[10/7/25 07:28PM] EVENTS_ROOM|1697,4259,0|Said: My boots are shit	
+[10/7/25 07:28PM] (CC) Help. Said: Gngn	
+[10/7/25 07:32PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 07:33PM] Picked up gr.Item Dragon arrow, amount: 52	
+[10/7/25 07:33PM] Picked up gr.Item Runite bolts, amount: 78	
+[10/7/25 07:33PM] Picked up gr.Item Earth rune, amount: 318	
+[10/7/25 07:35PM] Picked up gr.Item Adamant arrow, amount: 2892	
+[10/7/25 07:35PM] Picked up gr.Item Runite ore, amount: 113	
+[10/7/25 07:35PM] Picked up gr.Item Cosmic rune, amount: 1478	
+[10/7/25 07:35PM] Picked up gr.Item Dragon med helm, amount: 2	
+[10/7/25 07:35PM] Picked up gr.Item Blood rune, amount: 333	
+[10/7/25 07:35PM] Picked up gr.Item Runite bolts, amount: 600	
+[10/7/25 07:35PM] Picked up gr.Item Amulet of ranging, amount: 3	
+[10/7/25 07:35PM] Picked up gr.Item Soul rune, amount: 435	
+[10/7/25 07:35PM] Picked up gr.Item Astral rune, amount: 780	
+[10/7/25 07:35PM] Picked up gr.Item Raw lobster, amount: 563	
+[10/7/25 07:35PM] Picked up gr.Item Granite maul, amount: 2	
+[10/7/25 07:35PM] Picked up gr.Item Granite helm, amount: 2	
+[10/7/25 07:35PM] Picked up gr.Item Mithril knife, amount: 5077	
+[10/7/25 07:35PM] Picked up gr.Item Granite legs, amount: 1	
+[10/7/25 07:35PM] Picked up gr.Item Granite legs, amount: 1	
+[10/7/25 07:35PM] Picked up gr.Item Mithril ore, amount: 387	
+[10/7/25 07:35PM] Picked up gr.Item Raw manta ray, amount: 102	
+[10/7/25 07:35PM] Picked up gr.Item Law rune, amount: 120	
+[10/7/25 07:35PM] Picked up gr.Item Yew logs, amount: 239	
+[10/7/25 07:35PM] Picked up gr.Item Uncut dragonstone, amount: 37	
+[10/7/25 07:35PM] Picked up gr.Item Amulet of glory, amount: 1	
+[10/7/25 07:35PM] Picked up gr.Item Dragon bolts (e), amount: 31	
+[10/7/25 07:35PM] Picked up gr.Item Fire rune, amount: 1982	
+[10/7/25 07:35PM] Picked up gr.Item Body rune, amount: 1765	
+[10/7/25 07:35PM] Picked up gr.Item Air rune, amount: 1467	
+[10/7/25 07:35PM] Picked up gr.Item Raw shark, amount: 82	
+[10/7/25 07:35PM] Picked up gr.Item Water rune, amount: 1203	
+[10/7/25 07:35PM] Picked up gr.Item Adamant knife, amount: 264	
+[10/7/25 07:35PM] Picked up gr.Item Adamantite ore, amount: 16	
+[10/7/25 07:35PM] Picked up gr.Item Coal, amount: 148	
+[10/7/25 07:35PM] Picked up gr.Item Uncut emerald, amount: 125	
+[10/7/25 07:35PM] Picked up gr.Item Uncut sapphire, amount: 61	
+[10/7/25 07:35PM] Picked up gr.Item Grimy marrentill, amount: 297	
+[10/7/25 07:35PM] Picked up gr.Item Grimy guam, amount: 200	
+[10/7/25 07:35PM] Picked up gr.Item Big bones, amount: 135	
+[10/7/25 07:35PM] Picked up gr.Item Dragon bones, amount: 84	
+[10/7/25 07:35PM] Picked up gr.Item Grimy irit, amount: 60	
+[10/7/25 07:35PM] Picked up gr.Item Grimy lantadyme, amount: 17	
+[10/7/25 07:35PM] Picked up gr.Item Grimy snapdragon, amount: 9	
+[10/7/25 07:35PM] Picked up gr.Item Grimy torstol, amount: 6	
+[10/7/25 07:35PM] Picked up gr.Item Elite dragon bones, amount: 7	
+[10/8/25 04:14AM] Has just redeemed a $1 Scroll successfully!	
+[10/8/25 04:15AM] Has just redeemed a $25 Bond successfully!	
+[10/8/25 04:15AM] Has just redeemed a $5 Bond successfully!	
+[10/8/25 08:38AM] (CC) Help. Said: Selling rage cape, pm offers	
+[10/8/25 08:51AM] Player destroying item: -1, amount: 0	
+[10/8/25 08:55AM] Emptied item (id:11314, amount:1) -- Hellraiser pet (x2 KC)	
+[10/8/25 09:08AM] GUARDIAN|2647,3805,0|Said: Glgl	
+[10/8/25 09:44AM] (CC) Help. Said: How we claim votes?	
+[10/9/25 01:19PM] Login. ip: 72.70.173.174, mac: NHQ5WAA0019270410B340020250305235903.000000-300, uuid: D4-D2-52-C8-37-D3	
+[10/9/25 01:43PM] (CC) Help. Said: We got any type of aggro pots?	
+[10/9/25 01:46PM] Justin received x1 PvM ticket pack (10k) from Energy Skeleton!	
+[10/9/25 02:10PM] (CC) Help. Said: Wish we didnt need kc for everything, got 175 death touch darts...	
+[10/9/25 02:13PM] Player destroying item: 17815, amount: 1	
+[10/9/25 02:13PM] Picked up gr.Item Ethereal case, amount: 1	
+[10/9/25 02:41PM] EVENTS_ROOM|1696,4266,0|Said: ?	
+[10/9/25 02:52PM] EVENTS_ROOM|1697,4263,0|Said: What we doing?	
+[10/9/25 03:08PM] Justin received x1 PvM ticket pack (10k) from Arachne!	
+[10/9/25 03:10PM] Justin received x1 Webby body from Arachne!	
+[10/9/25 03:15PM] Justin received x1 Webby legs from Arachne!	
+[10/9/25 03:21PM] Has just redeemed a $5 Bond successfully!	
+[10/9/25 03:21PM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 08:45AM] Login. ip: 72.70.173.174, mac: NHQ5WAA0019270410B340020250305235903.000000-300, uuid: D4-D2-52-C8-37-D3	
+[10/10/25 08:46AM] (CC) Help. Said: Tyty	
+[10/12/25 10:07AM] Login. ip: 72.70.173.174, mac: NHQ5WAA0019270410B340020250305235903.000000-300, uuid: D4-D2-52-C8-37-D3	
+[10/12/25 10:09AM] (CC) Help. Said: Still cant claim votes?	

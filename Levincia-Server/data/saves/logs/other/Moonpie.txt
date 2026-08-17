@@ -1,0 +1,6 @@
+[10/12/25 09:24AM] Login. ip: 66.168.56.76, mac: K2308N015287620250316024159.000000-300, uuid: 14-AC-60-34-D9-1C	
+[10/12/25 09:27AM] (CC) Help. Said: Hi	
+[10/12/25 09:27AM] Picked up gr.Item Starter bones, amount: 1	
+[10/12/25 09:44AM] (CC) Help. Said: Sorry grinding bf6 while doing this xd 	
+[10/12/25 10:48AM] Login. ip: 66.168.56.76, mac: K2308N015287620250316024159.000000-300, uuid: 14-AC-60-34-D9-1C	
+[10/12/25 12:01PM] Login. ip: 66.168.56.76, mac: K2308N015287620250316024159.000000-300, uuid: 14-AC-60-34-D9-1C	

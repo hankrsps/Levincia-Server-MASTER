@@ -1,0 +1,201 @@
+[10/7/25 01:19AM] Login. ip: 190.2.149.53, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 01:31AM] Login. ip: 149.22.88.131, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 01:35AM] Picked up gr.Item Starter bones, amount: 1	
+[10/7/25 01:35AM] Picked up gr.Item PVM ticket, amount: 7	
+[10/7/25 02:02AM] Login. ip: 149.22.88.131, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 02:05AM] Login. ip: 212.102.51.117, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 02:12AM] Login. ip: 212.102.51.117, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 02:13AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/8/25 01:18PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/8/25 01:18PM]  Gave item in trade to Ghijf. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Gave item in trade to Ghijf. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Gave item in trade to Ghijf. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Gave item in trade to Ghijf. Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Gave item in trade to Ghijf. Id: 1641, amount: 1	
+[10/9/25 12:11AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/9/25 12:12AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/9/25 12:12AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/9/25 12:42AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/9/25 01:02PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/9/25 11:56PM] Login. ip: 212.102.51.117, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/9/25 11:59PM]  Receiving item from trade with Ghijf Id: 8328, amount: 1	
+[10/9/25 11:59PM]  Receiving item from trade with Ghijf Id: 8327, amount: 1	
+[10/9/25 11:59PM]  Receiving item from trade with Ghijf Id: 8326, amount: 1	
+[10/9/25 11:59PM]  Receiving item from trade with Ghijf Id: 22084, amount: 1	
+[10/9/25 11:59PM]  Receiving item from trade with Ghijf Id: 6737, amount: 1	
+[10/9/25 11:59PM]  Receiving item from trade with Ghijf Id: 23044, amount: 1	
+[10/9/25 11:59PM]  Receiving item from trade with Ghijf Id: 19892, amount: 1	
+[10/10/25 12:14AM]  Receiving item from trade with Ghijf Id: 17817, amount: 395	
+[10/10/25 12:30AM]  Receiving item from trade with Ghijf Id: 3285, amount: 1177	
+[10/10/25 12:40AM]  Gave item in trade to Ghijf. Id: 3285, amount: 662	
+[10/10/25 12:40AM]  Gave item in trade to Ghijf. Id: 15003, amount: 1	
+[10/10/25 12:40AM]  Gave item in trade to Ghijf. Id: 19114, amount: 1	
+[10/10/25 12:41AM]  Receiving item from trade with Ghijf Id: 18753, amount: 1	
+[10/10/25 12:42AM] Login. ip: 212.102.51.117, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/10/25 02:37AM] Login. ip: 212.102.51.117, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/10/25 02:50AM] Login. ip: 212.102.51.117, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/10/25 04:36PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/10/25 04:36PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/10/25 04:38PM]  Receiving item from trade with Ghijf Id: 17011, amount: 1	
+[10/10/25 04:48PM]  Gave item in trade to Ghijf. Id: 12855, amount: 32000	
+[10/10/25 04:48PM]  Gave item in trade to Ghijf. Id: 19114, amount: 1	
+[10/10/25 04:48PM]  Gave item in trade to Ghijf. Id: 15288, amount: 1	
+[10/10/25 04:48PM]  Gave item in trade to Ghijf. Id: 20489, amount: 3	
+[10/10/25 04:48PM]  Gave item in trade to Ghijf. Id: 19115, amount: 2	
+[10/10/25 04:48PM]  Gave item in trade to Ghijf. Id: 6199, amount: 21	
+[10/10/25 04:48PM]  Gave item in trade to Ghijf. Id: 989, amount: 57	
+[10/10/25 06:20PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/10/25 06:20PM]  Gave item in trade to Ghijf. Id: 17011, amount: 1	
+[10/10/25 06:43PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/10/25 06:44PM]  Receiving item from trade with Ghijf Id: 17011, amount: 1	
+[10/10/25 07:13PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/10/25 07:17PM]  Gave item in trade to Ghijf. Id: 15501, amount: 1	
+[10/10/25 07:17PM]  Gave item in trade to Ghijf. Id: 11137, amount: 10	
+[10/10/25 07:17PM]  Gave item in trade to Ghijf. Id: 2026, amount: 25	
+[10/10/25 07:17PM]  Gave item in trade to Ghijf. Id: 23020, amount: 1	
+[10/10/25 07:17PM]  Gave item in trade to Ghijf. Id: 5022, amount: 52742	
+[10/10/25 07:17PM]  Gave item in trade to Ghijf. Id: 23402, amount: 224	
+[10/10/25 07:17PM]  Gave item in trade to Ghijf. Id: 10025, amount: 2	
+[10/11/25 01:23AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/11/25 03:38AM]  Gave item in trade to Ghijf. Id: 17011, amount: 1	
+[10/11/25 03:38AM]  Receiving item from trade with Ghijf Id: 18750, amount: 1	
+[10/11/25 03:40AM]  Receiving item from trade with Ghijf Id: 23242, amount: 1	
+[10/11/25 03:40AM]  Gave item in trade to Ghijf. Id: 23242, amount: 1	
+[10/11/25 03:41AM]  Gave item in trade to Ghijf. Id: 18750, amount: 1	
+[10/11/25 03:41AM]  Receiving item from trade with Ghijf Id: 17011, amount: 1	
+[10/11/25 03:57AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/11/25 04:15AM]  Gave item in trade to Mystima. Id: 17011, amount: 1	
+[10/11/25 04:15AM] HOME_BANK|2784,4065,0|Said: Gl	
+[10/11/25 06:54AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/11/25 06:55AM]  Receiving item from trade with Ghijf Id: 19116, amount: 106	
+[10/11/25 06:55AM]  Receiving item from trade with Ghijf Id: 19115, amount: 41	
+[10/11/25 06:55AM]  Receiving item from trade with Ghijf Id: 7956, amount: 156	
+[10/11/25 06:55AM]  Receiving item from trade with Ghijf Id: 22214, amount: 187	
+[10/11/25 06:56AM]  Gave item in trade to Ghijf. Id: 19114, amount: 50	
+[10/11/25 06:56AM]  Gave item in trade to Ghijf. Id: 23020, amount: 5	
+[10/11/25 06:56AM]  Gave item in trade to Ghijf. Id: 8326, amount: 1	
+[10/11/25 06:56AM]  Gave item in trade to Ghijf. Id: 22084, amount: 1	
+[10/11/25 07:23AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/11/25 07:23AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/11/25 07:36AM]  Gave item in trade to Ghijf. Id: 22219, amount: 1	
+[10/11/25 07:36AM]  Gave item in trade to Ghijf. Id: 18404, amount: 3	
+[10/11/25 07:36AM]  Gave item in trade to Ghijf. Id: 4275, amount: 1	
+[10/11/25 11:22PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/11/25 11:23PM] ZOMBIE_LOBBY|2222,4113,0|Said: Psst	
+[10/11/25 11:23PM] ZOMBIE_LOBBY|2222,4113,0|Said: I see dead people	
+[10/11/25 11:23PM] DEFAULT|2781,4083,0|Said: They not like us	
+[10/11/25 11:23PM] DEFAULT|2781,4083,0|Said: They not like us	
+[10/12/25 02:11AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/12/25 02:16AM] Player destroying item: -1, amount: 0	
+[10/12/25 02:25AM] Player destroying item: -1, amount: 0	
+[10/12/25 02:25AM] Player destroying item: -1, amount: 0	
+[10/12/25 02:30AM] Picked up gr.Item Holy symbol, amount: 1	
+[10/12/25 02:32AM] Player destroying item: 307, amount: 1	
+[10/12/25 04:26AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/12/25 04:28AM] Picked up gr.Item AFK ticket, amount: 10000	
+[10/12/25 04:28AM] Picked up gr.Item Crystal key, amount: 1	
+[10/12/25 04:28AM] Picked up gr.Item Upgrade Token pack (5k), amount: 1	
+[10/12/25 04:28AM] Picked up gr.Item Terror bones, amount: 3	
+[10/12/25 04:28AM] Picked up gr.Item Global ticket, amount: 1	
+[10/12/25 04:28AM] Picked up gr.Item Sapphire mystery box, amount: 2	
+[10/12/25 04:28AM] Picked up gr.Item Summoning charm box, amount: 1	
+[10/12/25 04:29AM]  Gave item in trade to Ghijf. Id: 5020, amount: 10000	
+[10/12/25 04:29AM]  Gave item in trade to Ghijf. Id: 19116, amount: 2	
+[10/12/25 04:29AM]  Gave item in trade to Ghijf. Id: 989, amount: 1	
+[10/12/25 04:29AM]  Gave item in trade to Ghijf. Id: 15290, amount: 1	
+[10/12/25 04:29AM]  Gave item in trade to Ghijf. Id: 20481, amount: 1	
+[10/12/25 04:34AM] Picked up gr.Item Levincia tokens, amount: 5000	
+[10/12/25 04:35AM] Picked up gr.Item Crystal key, amount: 2	
+[10/12/25 04:35AM] Picked up gr.Item Global ticket, amount: 1	
+[10/12/25 04:35AM] Picked up gr.Item PVM ticket, amount: 1000	
+[10/12/25 04:35AM] Picked up gr.Item Ruby Mystery Box, amount: 5	
+[10/12/25 04:39AM] Picked up gr.Item PVM ticket, amount: 1000	
+[10/12/25 04:39AM] Picked up gr.Item Global ticket, amount: 1	
+[10/12/25 04:39AM] Picked up gr.Item Levincia tokens, amount: 5000	
+[10/12/25 04:39AM] Picked up gr.Item Crystal key, amount: 2	
+[10/12/25 06:16AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/12/25 06:16AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/12/25 06:17AM] SKILLING_ISLAND|2820,2595,0|Said: :afk	
+[10/12/25 06:21AM]  Receiving item from trade with Ghijf Id: 12855, amount: 10000000	
+[10/12/25 06:21AM] Has just redeemed a $25 Bond successfully!	
+[10/12/25 06:21AM] SAPPHIRE_ZONE|2907,5357,0|Said: L	
+[10/12/25 07:13AM]  Receiving item from trade with Ghijf Id: 3284, amount: 2139	
+[10/12/25 07:51AM]  Gave item in trade to Ghijf. Id: 15003, amount: 2	
+[10/12/25 08:02AM]  Receiving item from trade with Ghijf Id: 18830, amount: 16307	
+[10/12/25 11:26AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/12/25 11:27AM]  Gave item in trade to Ghijf. Id: 15003, amount: 1	
+[10/12/25 11:53AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/12/25 11:57AM] (CC) Help. Said: Spoon	
+[10/12/25 11:59AM] (CC) Help. Said: Test	
+[10/12/25 12:02PM] (CC) Help. Said: Wow u don't answer me but for a trivia u do	
+[10/12/25 12:02PM] (CC) Help. Said: Nice staffhelp	
+[10/12/25 12:03PM] (CC) Help. Said: Hank	
+[10/12/25 12:03PM] (CC) Help. Said: U here	
+[10/12/25 12:03PM] (CC) Help. Said: Are u on the rift client?	
+[10/12/25 12:03PM] (CC) Help. Said: Won't let me open i have latest java tbh	
+[10/12/25 12:24PM] DEFAULT|2766,4066,0|Said: Hi	
+[10/12/25 12:24PM] DEFAULT|2766,4066,0|Said: Hm bones u do have	
+[10/12/25 12:24PM] DEFAULT|2766,4066,0|Said: Ow ok xd	
+[10/12/25 12:43PM] DEFAULT|2766,4067,0|Said: This is my best way to afk tbh	
+[10/12/25 12:43PM] DEFAULT|2766,4067,0|Said: Saphire donor zone rocks doesn't work	
+[10/12/25 12:43PM] DEFAULT|2766,4067,0|Said: Bones givvs you fast exp so faster boxes	
+[10/12/25 12:43PM] DEFAULT|2766,4067,0|Said: This is an afk acc	
+[10/12/25 12:43PM] DEFAULT|2766,4067,0|Said: Im ab to go sleep gn	
+[10/12/25 12:44PM] DEFAULT|2766,4067,0|Said: Got to wake up in 5hrs for work	
+[10/12/25 01:08PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/12/25 06:26PM]  Gave item in trade to Ghijf. Id: 15002, amount: 2	
+[10/12/25 06:26PM]  Gave item in trade to Ghijf. Id: 15003, amount: 1	
+[10/12/25 06:26PM]  Gave item in trade to Ghijf. Id: 20489, amount: 1	
+[10/13/25 04:59AM]  Gave item in trade to Ghijf. Id: 5020, amount: 14668	
+[10/13/25 04:59AM]  Receiving item from trade with Ghijf Id: 3285, amount: 740	
+[10/13/25 04:59AM] DEFAULT|2766,4067,0|Said: Lol ur doig my method xd	
+[10/13/25 04:59AM] DEFAULT|2766,4067,0|Said: Afkigwith bones	
+[10/13/25 05:12AM] PEST_CONTROL_BOAT|2663,2640,0|Said: This is just my afk acc cqause need 3players to start	
+[10/13/25 05:16AM]  Receiving item from trade with Ghijf Id: 7995, amount: 1	
+[10/13/25 05:16AM]  Receiving item from trade with Ghijf Id: 17013, amount: 1	
+[10/13/25 05:27AM]  Gave item in trade to Ghijf. Id: 4186, amount: 1	
+[10/13/25 08:03AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/13/25 08:04AM] Picked up gr.Item AFK ticket, amount: 10000	
+[10/13/25 08:04AM] Picked up gr.Item Terror bones, amount: 3	
+[10/13/25 08:04AM] Picked up gr.Item Upgrade Token pack (5k), amount: 1	
+[10/13/25 08:05AM] Picked up gr.Item Global ticket, amount: 1	
+[10/13/25 08:05AM] Picked up gr.Item Crystal key, amount: 2	
+[10/13/25 08:05AM] Picked up gr.Item Sapphire mystery box, amount: 4	
+[10/13/25 08:05AM] Picked up gr.Item Summoning charm box, amount: 1	
+[10/13/25 08:07AM] Picked up gr.Item Levincia tokens, amount: 5000	
+[10/13/25 08:07AM] Picked up gr.Item PVM ticket, amount: 1000	
+[10/13/25 08:07AM] Picked up gr.Item Crystal key, amount: 2	
+[10/13/25 08:07AM] Picked up gr.Item Global ticket, amount: 2	
+[10/13/25 08:08AM]  Gave item in trade to Ghijf. Id: 5020, amount: 10000	
+[10/13/25 08:10AM]  Gave item in trade to Ghijf. Id: 17013, amount: 1	
+[10/13/25 08:10AM]  Gave item in trade to Ghijf. Id: 7995, amount: 1	
+[10/13/25 08:18AM] Picked up gr.Item Upgrade Token pack (25k), amount: 1	
+[10/13/25 08:18AM] Picked up gr.Item Levincia tokens, amount: 10518	
+[10/13/25 08:18AM] Picked up gr.Item Global ticket, amount: 2	
+[10/13/25 08:18AM] Picked up gr.Item Ruby Mystery Box, amount: 2	
+[10/13/25 08:18AM] Picked up gr.Item Antique lamp, amount: 10	
+[10/13/25 07:08PM]  Gave item in trade to Ghijf. Id: 5020, amount: 15549	
+[10/13/25 07:08PM]  Gave item in trade to Ghijf. Id: 12855, amount: 30991	
+[10/13/25 07:08PM]  Gave item in trade to Ghijf. Id: 23278, amount: 1	
+[10/13/25 07:08PM]  Gave item in trade to Ghijf. Id: 23277, amount: 2	
+[10/13/25 07:08PM]  Gave item in trade to Ghijf. Id: 11137, amount: 10	
+[10/14/25 04:57AM]  Gave item in trade to Ghijf. Id: 5020, amount: 13671	
+[10/14/25 04:57AM]  Gave item in trade to Ghijf. Id: 6199, amount: 34	
+[10/14/25 04:57AM]  Gave item in trade to Ghijf. Id: 7956, amount: 21	
+[10/14/25 04:57AM]  Gave item in trade to Ghijf. Id: 19114, amount: 2	
+[10/14/25 04:57AM]  Gave item in trade to Ghijf. Id: 5022, amount: 30830	
+[10/14/25 04:57AM]  Gave item in trade to Ghijf. Id: 19116, amount: 7	
+[10/14/25 05:10AM] Picked up gr.Item Global ticket, amount: 1	
+[10/14/25 05:10AM] Picked up gr.Item Levincia tokens, amount: 5000	
+[10/14/25 05:10AM] Picked up gr.Item PVM ticket, amount: 1000	
+[10/14/25 05:10AM] Picked up gr.Item Crystal key, amount: 2	
+[10/14/25 05:12AM]  Receiving item from trade with Ghijf Id: 17013, amount: 1	
+[10/14/25 05:12AM]  Receiving item from trade with Ghijf Id: 7995, amount: 1	
+[10/14/25 05:12AM]  Gave item in trade to Ghijf. Id: 23370, amount: 1	
+[10/14/25 05:14AM]  Gave item in trade to Ghijf. Id: 7995, amount: 1	
+[10/14/25 05:14AM]  Gave item in trade to Ghijf. Id: 17013, amount: 1	
+[10/14/25 06:47AM] Player destroying item: 249, amount: 1	
+[10/14/25 06:47AM] Player destroying item: -1, amount: 0	
+[10/14/25 06:48AM] Player destroying item: -1, amount: 0	
+[10/14/25 07:20AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/14/25 07:21AM] HOME_BANK|2784,4065,0|Said: :afk	

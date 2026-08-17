@@ -1,0 +1,16 @@
+[10/9/25 04:06AM] Login. ip: 90.205.142.200, mac: Default string20241207022209.000000+000, uuid: 10-FF-E0-42-2F-88	
+[10/9/25 04:12AM] Player destroying item: -1, amount: 0	
+[10/9/25 04:12AM] Player destroying item: -1, amount: 0	
+[10/9/25 04:12AM] Player destroying item: -1, amount: 0	
+[10/9/25 04:16AM] Player destroying item: -1, amount: 0	
+[10/9/25 04:16AM] Player destroying item: -1, amount: 0	
+[10/9/25 04:19AM] Player destroying item: -1, amount: 0	
+[10/9/25 04:21AM] Player destroying item: -1, amount: 0	
+[10/9/25 04:28AM] Player destroying item: -1, amount: 0	
+[10/9/25 04:31AM] Player destroying item: -1, amount: 0	
+[10/9/25 04:31AM] Player destroying item: -1, amount: 0	
+[10/9/25 04:46AM] Player destroying item: -1, amount: 0	
+[10/9/25 04:53AM] Player destroying item: -1, amount: 0	
+[10/9/25 04:53AM] Player destroying item: -1, amount: 0	
+[10/9/25 04:54AM] Player destroying item: -1, amount: 0	
+[10/9/25 05:00AM] (CC) Help. Said: :p	

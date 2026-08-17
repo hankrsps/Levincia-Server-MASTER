@@ -1,0 +1,9 @@
+[8/17/26 10:27AM] Login. ip: 127.0.0.1, mac: Default string20260104160136.000000-300, uuid: 48-E7-DA-73-63-4A	
+[8/17/26 10:28AM] HOME_BANK|2784,4065,0|Said: .	
+[8/17/26 01:31PM] Login. ip: 127.0.0.1, mac: Default string20260104160136.000000-300, uuid: 48-E7-DA-73-63-4A	
+[8/17/26 01:48PM] Login. ip: 127.0.0.1, mac: Default string20260104160136.000000-300, uuid: 48-E7-DA-73-63-4A	
+[8/17/26 01:51PM] Login. ip: 127.0.0.1, mac: Default string20260104160136.000000-300, uuid: 48-E7-DA-73-63-4A	
+[8/17/26 02:00PM] Login. ip: 127.0.0.1, mac: Default string20260104160136.000000-300, uuid: 48-E7-DA-73-63-4A	
+[8/17/26 02:11PM] Login. ip: 127.0.0.1, mac: Default string20260104160136.000000-300, uuid: 48-E7-DA-73-63-4A	
+[8/17/26 02:43PM] Login. ip: 127.0.0.1, mac: Default string20260104160136.000000-300, uuid: 48-E7-DA-73-63-4A	
+[8/17/26 03:48PM] Login. ip: 127.0.0.1, mac: Default string20260104160136.000000-300, uuid: 48-E7-DA-73-63-4A	

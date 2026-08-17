@@ -1,0 +1,509 @@
+[10/7/25 01:47AM] DEFAULT|2792,4068,0|Said: Dox	
+[10/7/25 01:47AM] DEFAULT|2795,4066,0|Said: Hey do u have by chanse runes in ur bank	
+[10/7/25 01:48AM] DEFAULT|2795,4066,0|Said: I know mage don't need runes i wanna make row	
+[10/7/25 01:48AM] DEFAULT|2795,4066,0|Said: Ok damn	
+[10/7/25 01:08PM] VOTE_BOSS|3427,4122,4|Said: Wth uis this groudon raquazza pokemon npc	
+[10/7/25 01:08PM] VOTE_BOSS|3427,4122,4|Said: Looks like groudon with palkia style	
+[10/7/25 01:09PM] VOTE_BOSS|3427,4122,4|Said: You you need to change name mate	
+[10/7/25 01:09PM] VOTE_BOSS|3427,4122,4|Said: I touch i was top 2 dmg list	
+[10/7/25 01:12PM] VOTE_BOSS|3427,4122,4|Said: Hope i get drop? im not on the dmg list	
+[10/7/25 01:14PM] VOTE_BOSS|3427,4122,4|Said: Oh we still here	
+[10/7/25 01:14PM] VOTE_BOSS|3427,4122,4|Said: Gonna grab a beer now	
+[10/7/25 01:16PM] VOTE_BOSS|3427,4122,4|Said: Oh wxe still here	
+[10/7/25 01:16PM] VOTE_BOSS|3427,4122,4|Said: Relog for luck boys	
+[10/7/25 01:16PM] VOTE_BOSS|3427,4122,4|Said: Go	
+[10/7/25 01:31PM] PROGRESSION_ZONES|3035,4120,21|Said: Do dk	
+[10/7/25 01:31PM] PROGRESSION_ZONES|3035,4120,21|Said: Almost ded	
+[10/7/25 01:31PM] PROGRESSION_ZONES|3035,4120,21|Said: Hank there	
+[10/7/25 01:31PM] PROGRESSION_ZONES|3035,4120,21|Said:   ::dk	
+[10/7/25 01:31PM] PROGRESSION_ZONES|3035,4120,21|Said: Gogogoo	
+[10/7/25 01:35PM] PROGRESSION_ZONES|3033,4119,21|Said: 46%dr	
+[10/7/25 01:35PM] PROGRESSION_ZONES|3033,4119,21|Said: Not bad	
+[10/7/25 01:35PM] PROGRESSION_ZONES|3033,4119,21|Said: Wbu?	
+[10/7/25 01:39PM] HELLRAISER|3104,5530,0|Said: Call hank the spank	
+[10/7/25 01:40PM] HELLRAISER|3104,5530,0|Said: Gg our drops	
+[10/7/25 01:40PM] HELLRAISER|3104,5530,0|Said: Voted btw	
+[10/7/25 01:40PM] HELLRAISER|3104,5530,0|Said: 2nd time today	
+[10/7/25 01:40PM] HELLRAISER|3104,5530,0|Said: U don't have to say thanks	
+[10/7/25 01:40PM] HELLRAISER|3104,5530,0|Said: I only want my reward lol	
+[10/7/25 01:41PM] HELLRAISER|3104,5530,0|Said: :3	
+[10/7/25 01:41PM] HELLRAISER|3104,5530,0|Said: Scam	
+[10/7/25 01:41PM] HELLRAISER|3104,5530,0|Said:  ::copy hank	
+[10/7/25 01:43PM] HELLRAISER|3101,5534,0|Said: Not ghonna work	
+[10/7/25 01:43PM] HELLRAISER|3101,5534,0|Said: Pvp dc you	
+[10/7/25 01:43PM] HELLRAISER|3102,5535,0|Said: I went portal to try pvp but dc urself	
+[10/7/25 02:27PM] VBOSS|2979,2773,0|Said: Can i join xd	
+[10/7/25 02:27PM] VBOSS|2980,2773,0|Said: Juggy ur getting slow	
+[10/7/25 02:28PM] VBOSS|2980,2773,0|Said: Ih its h8	
+[10/7/25 02:33PM] VBOSS|2979,2770,0|Said: Back	
+[10/7/25 02:34PM] VBOSS|2979,2770,0|Said: Oh ya	
+[10/7/25 02:34PM] VBOSS|2979,2770,0|Said: My pray isn"'t draining	
+[10/7/25 02:37PM] VBOSS|2979,2770,0|Said: Cmon we halfway boys	
+[10/7/25 02:37PM] VBOSS|2979,2770,0|Said: Wich boots	
+[10/7/25 02:37PM] VBOSS|2979,2770,0|Said: How u get	
+[10/7/25 02:39PM] VBOSS|2979,2770,0|Said: Im melee	
+[10/7/25 02:39PM] VBOSS|2979,2770,0|Said: :-	
+[10/7/25 02:39PM] VBOSS|2979,2770,0|Said: Same but i love some runnings	
+[10/7/25 02:39PM] VBOSS|2979,2770,0|Said: Good for my condition	
+[10/7/25 02:39PM] VBOSS|2979,2770,0|Said: L0l0l	
+[10/7/25 02:46PM] VBOSS|2979,2770,0|Said: Almost there for some bones reward	
+[10/7/25 02:46PM] VBOSS|2979,2770,0|Said: Aoe sword for rng now	
+[10/7/25 02:46PM] VBOSS|2979,2770,0|Said: :d	
+[10/7/25 02:47PM] VBOSS|2979,2770,0|Said: Omg	
+[10/7/25 02:47PM] VBOSS|2979,2770,0|Said: Im dumb	
+[10/7/25 02:47PM] VBOSS|2979,2770,0|Said: This weap is faster	
+[10/7/25 02:47PM] VBOSS|2979,2770,0|Said: Lmao	
+[10/7/25 02:47PM] VBOSS|2979,2770,0|Said: 2147	
+[10/7/25 02:47PM] VBOSS|2979,2770,0|Said: But faster than whip	
+[10/7/25 02:47PM] VBOSS|2979,2770,0|Said: Whip 5447	
+[10/7/25 02:48PM] VBOSS|2979,2770,0|Said: This aoe op with ss	
+[10/7/25 02:48PM] VBOSS|2979,2770,0|Said: Scam	
+[10/7/25 02:48PM] VBOSS|2979,2770,0|Said: Back to slayer	
+[10/7/25 03:15PM] EMERALD_ZONE|2608,2763,0|Said: U fr lol	
+[10/7/25 03:15PM] EMERALD_ZONE|2608,2763,0|Said: Aw	
+[10/7/25 03:15PM] EMERALD_ZONE|2608,2763,0|Said: Now ea	
+[10/7/25 03:16PM] EMERALD_ZONE|2609,2764,0|Said: I let in bank	
+[10/7/25 03:16PM] EMERALD_ZONE|2609,2764,0|Said: Be4 u return	
+[10/7/25 03:16PM] EMERALD_ZONE|2609,2764,0|Said: Lol	
+[10/7/25 03:16PM] EMERALD_ZONE|2609,2764,0|Said: But u did now	
+[10/7/25 03:16PM] EMERALD_ZONE|2609,2764,0|Said: L0l	
+[10/7/25 03:17PM] EMERALD_ZONE|2609,2764,0|Said: Same lol	
+[10/7/25 03:18PM] EMERALD_ZONE|2608,2763,0|Said: Welcome abck	
+[10/7/25 03:19PM] EMERALD_ZONE|2608,2763,0|Said: L0l0l0l.	
+[10/7/25 03:19PM] EMERALD_ZONE|2608,2763,0|Said: Home	
+[10/7/25 03:19PM] EMERALD_ZONE|2608,2763,0|Said: South	
+[10/7/25 03:19PM] EMERALD_ZONE|2608,2763,0|Said: I think	
+[10/7/25 03:20PM] DEFAULT|2783,4045,0|Said: Idk	
+[10/7/25 03:21PM] DEFAULT|2783,4045,0|Said: Try ur luck on exclusive	
+[10/7/25 03:21PM] DEFAULT|2783,4046,0|Said: Open em	
+[10/7/25 03:21PM] DEFAULT|2783,4046,0|Said: Oh for coll log	
+[10/7/25 03:22PM] DEFAULT|2783,4046,0|Said: Gl	
+[10/7/25 03:42PM] DOOM|2349,5198,0|Said: Sup	
+[10/7/25 03:43PM] DOOM|2348,5199,0|Said: Whatu lamping	
+[10/7/25 03:43PM] DOOM|2349,5200,0|Said: Ahh	
+[10/7/25 03:43PM] DOOM|2349,5199,0|Said: Looked like lamps	
+[10/7/25 03:58PM] DOOM|2335,5221,0|Said: B::dr	
+[10/7/25 04:59PM] DOOM|2353,5233,0|Said: :ok	
+[10/7/25 05:03PM] VOTE_BOSS|3428,4123,4|Said: We know	
+[10/7/25 05:05PM] VOTE_BOSS|3428,4123,4|Said: Ooo	
+[10/7/25 05:05PM] VOTE_BOSS|3428,4123,4|Said: Gl	
+[10/7/25 05:05PM] VOTE_BOSS|3428,4123,4|Said: Ty	
+[10/7/25 05:05PM] VOTE_BOSS|3428,4123,4|Said: Pff	
+[10/7/25 05:08PM] VOTE_BOSS|3428,4123,4|Said: Hehe	
+[10/7/25 05:08PM] VOTE_BOSS|3428,4123,4|Said: 2am past	
+[10/7/25 05:09PM] VOTE_BOSS|3428,4123,4|Said: Sup	
+[10/7/25 05:10PM] VOTE_BOSS|3428,4123,4|Said: Do i see now 10k pvm boxes for 10$ lol	
+[10/7/25 05:10PM] VOTE_BOSS|3428,4123,4|Said: 20k pvm	
+[10/7/25 05:10PM] VOTE_BOSS|3428,4123,4|Said: Dam	
+[10/7/25 05:13PM] VOTE_BOSS|3428,4123,4|Said: After this im going sleep	
+[10/7/25 06:16PM] NEPHILIM|2145,3297,0|Said: This my last kill	
+[10/7/25 06:16PM] NEPHILIM|2145,3297,0|Said: Going sleep lol	
+[10/7/25 06:16PM] NEPHILIM|2145,3297,0|Said: 3.15	
+[10/7/25 06:17PM] NEPHILIM|2145,3297,0|Said: Naw 	
+[10/7/25 06:17PM] NEPHILIM|2145,3297,0|Said: Almost falling asleep	
+[10/7/25 06:17PM] NEPHILIM|2145,3297,0|Said: I got work tho 	
+[10/7/25 06:18PM] NEPHILIM|2145,3297,0|Said: Aight gn all	
+[10/7/25 11:24PM] HELLRAISER|3108,5534,0|Said: Gl	
+[10/7/25 11:25PM] HELLRAISER|3108,5534,0|Said: Aw	
+[10/8/25 12:53AM] ZONES1|2966,9491,0|Said: Pfff	
+[10/8/25 12:53AM] ZONES1|2966,9491,0|Said: Just need 100 so i can instance	
+[10/8/25 12:53AM] ZONES1|2965,9495,0|Said: I hate this running	
+[10/8/25 12:54AM] ZONES1|2967,9492,0|Said: 74	
+[10/8/25 12:55AM] ZONES1|2965,9489,0|Said: Okkkk	
+[10/8/25 02:04AM] GLOBAL_BOSS|2141,5013,0|Said: I see	
+[10/8/25 02:04AM] GLOBAL_BOSS|2141,5013,0|Said: Lol	
+[10/8/25 02:07AM] GLOBAL_BOSS|2141,5013,0|Said: Brb lmao	
+[10/8/25 02:13AM] GLOBAL_BOSS|2141,5013,0|Said: Omg	
+[10/8/25 02:13AM] GLOBAL_BOSS|2141,5013,0|Said: Still not diz	
+[10/8/25 02:15AM] GLOBAL_BOSS|2141,5013,0|Said: I sw if i get dogshet drop i log off	
+[10/8/25 02:18AM] GLOBAL_BOSS|2141,5013,0|Said: Gl	
+[10/8/25 01:40PM] DEFAULT|2472,3424,1|Said: Suprise	
+[10/8/25 01:40PM] DEFAULT|2471,3423,1|Said: Lolz	
+[10/8/25 01:40PM] DEFAULT|2471,3423,1|Said: U didn't know this xd?	
+[10/8/25 01:40PM] DEFAULT|2473,3420,2|Said: The course works fine	
+[10/8/25 01:46PM] HOME_BANK|2784,4065,0|Said: ??	
+[10/8/25 01:46PM] HOME_BANK|2784,4065,0|Said: I see	
+[10/8/25 01:48PM] GLOBAL_BOSS|2141,5016,0|Said: Spoon	
+[10/8/25 01:48PM] GLOBAL_BOSS|2141,5016,0|Said: Can u also check banks	
+[10/8/25 01:48PM] GLOBAL_BOSS|2141,5016,0|Said: I need to sort my bank tbh	
+[10/8/25 01:49PM] GLOBAL_BOSS|2141,5016,0|Said: Well ivv seen the jail zone alr	
+[10/8/25 01:50PM] GLOBAL_BOSS|2141,5016,0|Said: Hey	
+[10/8/25 01:50PM] GLOBAL_BOSS|2141,5016,0|Said: Where to get chilling glovzes	
+[10/8/25 01:51PM] GLOBAL_BOSS|2141,5016,0|Said: I can't take this egg drop	
+[10/8/25 01:51PM] GLOBAL_BOSS|2141,5016,0|Said: Fucksages	
+[10/8/25 01:51PM] GLOBAL_BOSS|2141,5016,0|Said: Need chilling gloves	
+[10/8/25 01:59PM] EMERALD_ZONE|2604,2772,0|Said: ?	
+[10/8/25 10:11PM] NARAKU|3426,9565,0|Said: Oh really?	
+[10/8/25 11:45PM] HOME_BANK|2784,4064,0|Said: Hey	
+[10/8/25 11:45PM] HOME_BANK|2784,4064,0|Said: Do u know if theres a well	
+[10/9/25 12:41AM] INSTANCE2|2785,4767,32|Said: :daily	
+[10/9/25 01:22PM] HOME_BANK|2787,4065,0|Said: Hank	
+[10/9/25 01:22PM] HOME_BANK|2787,4065,0|Said: Where is well	
+[10/9/25 01:22PM] HOME_BANK|2787,4065,0|Said: Nooo	
+[10/9/25 01:22PM] HOME_BANK|2787,4065,0|Said: Exp	
+[10/9/25 01:22PM] HOME_BANK|2787,4065,0|Said: Xd	
+[10/9/25 01:23PM] HOME_BANK|2787,4065,0|Said: Woho	
+[10/9/25 01:23PM] HOME_BANK|2787,4065,0|Said: Lamps time	
+[10/9/25 01:23PM] HOME_BANK|2787,4065,0|Said: 181 invention lamps	
+[10/9/25 01:24PM] HOME_BANK|2787,4065,0|Said: 25k	
+[10/9/25 01:24PM] HOME_BANK|2787,4065,0|Said: 25740	
+[10/9/25 01:25PM] HOME_BANK|2787,4065,0|Said: 97invention	
+[10/9/25 01:25PM] HOME_BANK|2787,4065,0|Said: Pffffffff	
+[10/9/25 02:14PM] HELLRAISER|3100,5534,0|Said: There 2 spawned	
+[10/9/25 02:14PM] HELLRAISER|3100,5534,0|Said: Lol	
+[10/9/25 02:24PM] SLAYER_CHAMPION|3488,4703,0|Said: This shet borring	
+[10/9/25 02:28PM] SLAYER_CHAMPION|3488,4703,0|Said: Hank	
+[10/9/25 02:28PM] SLAYER_CHAMPION|3488,4703,0|Said: Stay of it	
+[10/9/25 02:28PM] SLAYER_CHAMPION|3488,4703,0|Said: U make me going off the list	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3488,4703,0|Said: If hank gets drop now	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3488,4703,0|Said: I quit	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3488,4703,0|Said: U can't	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3488,4703,0|Said: Ur staff	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3488,4703,0|Said: U stay here	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3488,4703,0|Said: Forver	
+[10/9/25 02:30PM] SLAYER_CHAMPION|3488,4703,0|Said: Ur a peace of hanks heart	
+[10/9/25 02:34PM] SLAYER_CHAMPION|3488,4702,0|Said: Demote	
+[10/9/25 02:36PM] SLAYER_CHAMPION|3488,4702,0|Said: Vboss	
+[10/9/25 02:44PM] EVENTS_ROOM|1698,4257,0|Said: Haha	
+[10/9/25 02:44PM] EVENTS_ROOM|1698,4257,0|Said: Broke n	
+[10/9/25 02:44PM] EVENTS_ROOM|1696,4259,0|Said: U accept fast	
+[10/9/25 02:44PM] EVENTS_ROOM|1696,4259,0|Said: Ur broke?	
+[10/9/25 11:47PM] EVENTS_ROOM|1690,4257,0|Said: They all empty	
+[10/9/25 11:47PM] EVENTS_ROOM|1690,4257,0|Said: L0l	
+[10/9/25 11:54PM] DEFAULT|2785,4075,0|Said: D::daily	
+[10/10/25 12:31AM] HOME_BANK|2780,4065,0|Said: B::edge	
+[10/10/25 12:31AM] HOME_BANK|2780,4065,0|Said: Hmm 	
+[10/10/25 12:49AM] DEFAULT|2781,4056,0|Said: Pic::afk	
+[10/10/25 01:29AM] HELLRAISER|3108,5534,0|Said: Just got legends sang staff from legend raids	
+[10/10/25 01:29AM] HELLRAISER|3108,5534,0|Said: 1:300	
+[10/10/25 01:01PM] EVENTS_ROOM|1701,4265,0|Said: 1	
+[10/10/25 01:01PM] EVENTS_ROOM|1702,4265,0|Said: 1$	
+[10/10/25 01:04PM] EVENTS_ROOM|1699,4256,0|Said: Almost done??	
+[10/10/25 01:05PM] EVENTS_ROOM|1696,4255,0|Said: Nice try	
+[10/10/25 01:06PM] EVENTS_ROOM|1700,4254,0|Said: Blood t bow	
+[10/10/25 01:06PM] EVENTS_ROOM|1701,4254,0|Said: All gone?	
+[10/10/25 01:07PM] EVENTS_ROOM|1695,4257,0|Said: Ffs	
+[10/10/25 01:07PM] EVENTS_ROOM|1695,4257,0|Said: Now u say it	
+[10/10/25 01:07PM] EVENTS_ROOM|1695,4257,0|Said: 'only wedapon	
+[10/10/25 01:07PM] EVENTS_ROOM|1695,4257,0|Said: I was woot	
+[10/10/25 01:07PM] EVENTS_ROOM|1699,4252,0|Said: Idk where i ended	
+[10/10/25 01:08PM] EVENTS_ROOM|1697,4255,0|Said: L0l	
+[10/10/25 01:09PM] EVENTS_ROOM|1696,4258,0|Said: I got new rank	
+[10/10/25 01:09PM] EVENTS_ROOM|1696,4258,0|Said: Missed 2 owner goodys gave me bond	
+[10/10/25 01:10PM] EVENTS_ROOM|1696,4258,0|Said: Who	
+[10/10/25 01:10PM] EVENTS_ROOM|1696,4258,0|Said: U kicked me?	
+[10/10/25 01:10PM] EVENTS_ROOM|1696,4258,0|Said: Or i dced?	
+[10/10/25 01:11PM] EVENTS_ROOM|1696,4259,0|Said: All gone	
+[10/10/25 01:15PM] EVENTS_ROOM|1688,4256,0|Said: Not purple	
+[10/10/25 01:15PM] EVENTS_ROOM|1688,4256,0|Said: Pink	
+[10/10/25 01:16PM] EVENTS_ROOM|1694,4254,0|Said: Say something im giving up on you	
+[10/10/25 01:17PM] EVENTS_ROOM|1694,4254,0|Said: That song i hate it	
+[10/10/25 01:18PM] EVENTS_ROOM|1694,4254,0|Said: Balloons keep respawning lol	
+[10/10/25 01:20PM] EVENTS_ROOM|1696,4256,0|Said: Hank	
+[10/10/25 01:20PM] EVENTS_ROOM|1696,4256,0|Said: Do party hats have any benefit	
+[10/10/25 01:21PM] EVENTS_ROOM|1696,4256,0|Said: Got cracker from goody	
+[10/10/25 01:21PM] EVENTS_ROOM|1696,4256,0|Said: Can't wear as cosmetic	
+[10/10/25 01:21PM] EVENTS_ROOM|1696,4256,0|Said: Or make it x2 speed for afk idk	
+[10/10/25 01:22PM] EVENTS_ROOM|1693,4255,0|Said: Aight gonna train my range	
+[10/10/25 01:23PM] EVENTS_ROOM|1695,4255,0|Said: Is blood twisted aoe?	
+[10/10/25 01:23PM] EVENTS_ROOM|1695,4255,0|Said: Sang staff is aoe	
+[10/10/25 01:23PM] EVENTS_ROOM|1695,4255,0|Said: W'll see	
+[10/10/25 02:18PM] DEFAULT|2795,4065,0|Said: Wta staff	
+[10/10/25 02:18PM] DEFAULT|2795,4065,0|Said: What staff u use	
+[10/10/25 02:18PM] DEFAULT|2795,4065,0|Said: Sho	
+[10/10/25 02:19PM] DEFAULT|2795,4065,0|Said: Nice	
+[10/10/25 02:22PM] PEST_CONTROL_GAME|2673,2592,0|Said: Np	
+[10/10/25 02:24PM] PEST_CONTROL_GAME|2637,2592,0|Said: I totally didn't know about startertasks lmao	
+[10/10/25 02:24PM] PEST_CONTROL_GAME|2637,2592,0|Said: Just claimed em all	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2663,2639,0|Said: I can help with legend raid	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2663,2639,0|Said: That sez	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2663,2639,0|Said: U don't need slay	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2663,2639,0|Said: I can inv u	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2663,2639,0|Said: Just don't die	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2663,2639,0|Said: Or instance ends	
+[10/10/25 02:25PM] PEST_CONTROL_GAME|2657,2588,0|Said: Prob for exp	
+[10/10/25 02:26PM] PEST_CONTROL_GAME|2656,2572,0|Said: Done	
+[10/10/25 02:26PM] PEST_CONTROL_GAME|2656,2572,0|Said: Lol	
+[10/10/25 02:27PM] PEST_CONTROL_GAME|2638,2591,0|Said: Idk	
+[10/10/25 02:27PM] PEST_CONTROL_GAME|2638,2591,0|Said: My first time doing this	
+[10/10/25 02:28PM] PEST_CONTROL_GAME|2655,2609,0|Said: My mouse is a spacebar	
+[10/10/25 02:28PM] PEST_CONTROL_GAME|2655,2609,0|Said: Lmao	
+[10/10/25 02:28PM] PEST_CONTROL_GAME|2655,2609,0|Said: Logged in while i had spagebar	
+[10/10/25 02:28PM] PEST_CONTROL_GAME|2655,2609,0|Said: So annoying	
+[10/10/25 02:29PM] PEST_CONTROL_BOAT|2662,2640,0|Said: Spoon	
+[10/10/25 02:29PM] PEST_CONTROL_BOAT|2655,2586,0|Said: Do ::empty and ::copy hank	
+[10/10/25 02:30PM] PEST_CONTROL_GAME|2637,2590,0|Said: Maxhits?	
+[10/10/25 02:30PM] PEST_CONTROL_GAME|2637,2590,0|Said: 129k 	
+[10/10/25 02:31PM] PEST_CONTROL_GAME|2655,2609,0|Said: :d	
+[10/10/25 02:31PM] PEST_CONTROL_GAME|2655,2609,0|Said: Cmoon spoon	
+[10/10/25 02:31PM] PEST_CONTROL_GAME|2655,2609,0|Said: Hit itttt	
+[10/10/25 02:31PM] PEST_CONTROL_GAME|2655,2609,0|Said: Ur behind	
+[10/10/25 02:31PM] PEST_CONTROL_GAME|2655,2609,0|Said: Xd	
+[10/10/25 02:31PM] PEST_CONTROL_GAME|2655,2609,0|Said: Copy me	
+[10/10/25 02:31PM] PEST_CONTROL_GAME|2657,2639,0|Said: Eat my p ring	
+[10/10/25 02:31PM] DEFAULT|2657,2639,0|Said: Yeah ty u lol	
+[10/10/25 02:31PM] DEFAULT|2657,2639,0|Said: Task done	
+[10/10/25 02:32PM] DEFAULT|2657,2643,0|Said: Legends?	
+[10/10/25 02:33PM] ZOMBIE|2252,4111,28|Said: Don't die	
+[10/10/25 02:33PM] ZOMBIE|2252,4111,28|Said: Or ur get kicked autop	
+[10/10/25 02:33PM] ZOMBIE|2251,4108,28|Said: This fast	
+[10/10/25 02:35PM] ZOMBIE|2251,4113,28|Said: Gl 	
+[10/10/25 02:35PM] ZOMBIE|2251,4113,28|Said: Boss now	
+[10/10/25 02:35PM] ZOMBIE_LOBBY|2222,4115,0|Said: Lo	
+[10/10/25 02:35PM] ZOMBIE_LOBBY|2222,4115,0|Said: 2hitted it	
+[10/10/25 02:35PM] ZOMBIE_LOBBY|2222,4114,0|Said: What happend	
+[10/10/25 02:35PM] ZOMBIE_LOBBY|2222,4114,0|Said: Ur behind	
+[10/10/25 02:35PM] ZOMBIE_LOBBY|2222,4114,0|Said: L0l	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2227,4115,0|Said: Spoon	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2227,4115,0|Said: Maxhit?	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2227,4115,0|Said:  ::maxhit	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2227,4115,0|Said: Im at 129k	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2227,4115,0|Said: Not using scroll	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2227,4115,0|Said: L0l	
+[10/10/25 02:37PM] ZOMBIE_LOBBY|2227,4115,0|Said: Looooooooooolk	
+[10/10/25 02:37PM] ZOMBIE_LOBBY|2227,4115,0|Said: I can go 300k 	
+[10/10/25 02:37PM] ZOMBIE_LOBBY|2227,4115,0|Said: Ok	
+[10/10/25 02:38PM] PEST_CONTROL_GAME|2638,2590,0|Said: O i can't trade u	
+[10/10/25 02:38PM] PEST_CONTROL_GAME|2638,2590,0|Said: Ur ironman	
+[10/10/25 02:40PM] PEST_CONTROL_GAME|2656,2574,0|Said: See	
+[10/10/25 02:40PM] PEST_CONTROL_GAME|2656,2574,0|Said: Dmg liqst	
+[10/10/25 02:40PM] PEST_CONTROL_GAME|2656,2574,0|Said: Im already up u	
+[10/10/25 02:40PM] PEST_CONTROL_BOAT|2662,2639,0|Said: No boost	
+[10/10/25 02:40PM] PEST_CONTROL_BOAT|2662,2639,0|Said: Only a pot	
+[10/10/25 02:40PM] PEST_CONTROL_BOAT|2662,2639,0|Said: Owner pot	
+[10/10/25 02:40PM] PEST_CONTROL_BOAT|2662,2639,0|Said: L0l	
+[10/10/25 02:40PM] PEST_CONTROL_BOAT|2662,2639,0|Said: Skills are 240 now	
+[10/10/25 02:41PM] PEST_CONTROL_GAME|2637,2592,0|Said: If i use scroll i hit 300ks	
+[10/10/25 02:41PM] PEST_CONTROL_GAME|2655,2609,0|Said: Wanna sell me a owner cape for sang ?	
+[10/10/25 02:42PM] PEST_CONTROL_GAME|2667,2591,0|Said: Legend sang staff	
+[10/10/25 02:42PM] PEST_CONTROL_GAME|2672,2592,0|Said: Aah	
+[10/10/25 02:42PM] PEST_CONTROL_GAME|2672,2592,0|Said: Ok	
+[10/10/25 02:43PM] PEST_CONTROL_GAME|2657,2574,0|Said: Thats the only is i have lol	
+[10/10/25 02:43PM] PEST_CONTROL_GAME|2657,2574,0|Said: Don't have any else good items	
+[10/10/25 02:44PM] DEFAULT|2659,2647,0|Said: What?	
+[10/10/25 02:44PM] DEFAULT|2659,2647,0|Said: Whut u say	
+[10/10/25 02:44PM] DEFAULT|2659,2647,0|Said: Oh	
+[10/10/25 02:44PM] DEFAULT|2659,2647,0|Said: I got the owner pot from drop party	
+[10/10/25 02:44PM] DEFAULT|2659,2647,0|Said: The legend sang from raids	
+[10/10/25 02:45PM] DEFAULT|2659,2647,0|Said: Thats it i guess	
+[10/10/25 02:45PM] DEFAULT|2659,2647,0|Said: Hm stats do ur arm givv	
+[10/10/25 02:45PM] DEFAULT|2659,2647,0|Said: Better do slayer i guess	
+[10/10/25 02:45PM] DEFAULT|2659,2647,0|Said: 1250 in all	
+[10/10/25 02:45PM] DEFAULT|2659,2647,0|Said: Givv also drop boost and comb	
+[10/10/25 02:46PM] DEFAULT|2659,2647,0|Said: 15%dr per piece	
+[10/10/25 02:46PM] DEFAULT|2659,2647,0|Said: Aight pce	
+[10/10/25 02:46PM] DEFAULT|2659,2647,0|Said: Going do some zonesunlock i guess	
+[10/10/25 02:46PM] DEFAULT|2659,2647,0|Said: Naa gonna do slay	
+[10/10/25 02:46PM] DEFAULT|2659,2647,0|Said: Wanna duo?	
+[10/10/25 02:47PM] DEFAULT|2659,2647,0|Said: Whats ur slay	
+[10/10/25 02:47PM] DEFAULT|2659,2647,0|Said: Gonna be fast	
+[10/10/25 02:56PM] HOME_BANK|2783,4059,0|Said: Spoon	
+[10/10/25 02:57PM] DEFAULT|2784,4052,0|Said: Slay lvl?	
+[10/10/25 02:57PM] DEFAULT|2785,4048,0|Said: Why i can't inv u on duo slay	
+[10/10/25 03:11PM] HOME_BANK|2784,4065,0|Said: I got 118	
+[10/10/25 03:11PM] HOME_BANK|2784,4065,0|Said: On ezpz mode	
+[10/10/25 03:11PM] HOME_BANK|2782,4065,0|Said: Let him pay	
+[10/10/25 03:11PM] HOME_BANK|2782,4065,0|Said: U payed for ur skills tho	
+[10/10/25 03:11PM] HOME_BANK|2782,4065,0|Said: Xd	
+[10/10/25 03:12PM] HOME_BANK|2781,4064,0|Said: Wich one	
+[10/10/25 03:12PM] HOME_BANK|2781,4064,0|Said: 240	
+[10/10/25 03:12PM] HOME_BANK|2781,4064,0|Said: The f	
+[10/10/25 03:12PM] HOME_BANK|2781,4064,0|Said: How 	
+[10/10/25 03:13PM] HOME_BANK|2781,4064,0|Said: Invention?	
+[10/10/25 03:19PM] HOME_BANK|2782,4069,0|Said: Xd	
+[10/10/25 03:19PM] HOME_BANK|2782,4069,0|Said: Let him grrriiind	
+[10/10/25 03:20PM] DEFAULT|2783,4054,0|Said: Let im be ur slave xd	
+[10/10/25 03:20PM] DEFAULT|2783,4046,0|Said: Think the pot u get from a casket	
+[10/10/25 03:20PM] DEFAULT|2783,4046,0|Said: Not sure	
+[10/10/25 03:24PM] DEFAULT|2787,4055,0|Said: 100m is nothing	
+[10/10/25 03:25PM] DEFAULT|2787,4055,0|Said: I would say 3owner items cause u need owner item to sacrefy to enter zone	
+[10/10/25 03:30PM] DEFAULT|2843,9386,0|Said: I got this for slayer lol	
+[10/10/25 03:30PM] DEFAULT|2843,9386,0|Said: 226 lefd	
+[10/10/25 03:30PM] DEFAULT|2843,9386,0|Said: Ffffff	
+[10/10/25 07:00PM] NARAKU|3429,9568,0|Said: Oh	
+[10/10/25 07:00PM] NARAKU|3429,9568,0|Said: Wrong weapon on	
+[10/10/25 07:01PM] NARAKU|3429,9568,0|Said: Gonna be more	
+[10/10/25 07:01PM] NARAKU|3429,9568,0|Said: Boom	
+[10/10/25 07:01PM] NARAKU|3429,9568,0|Said: Wanna do some raids?	
+[10/10/25 07:02PM] HOME_BANK|2784,4065,0|Said: Wtf	
+[10/10/25 07:02PM] HOME_BANK|2784,4065,0|Said: Was in a raid and died	
+[10/10/25 07:02PM] HOME_BANK|2784,4065,0|Said: Random	
+[10/10/25 07:02PM] HOME_BANK|2784,4065,0|Said: Server broken lol	
+[10/11/25 01:54AM] DEFAULT|2731,4514,0|Said: 82::ruby	
+[10/11/25 04:13AM] HELLRAISER|3105,5535,0|Said: Sup	
+[10/11/25 04:13AM] HELLRAISER|3105,5535,0|Said: What staff is that	
+[10/11/25 04:14AM] HELLRAISER|3105,5535,0|Said: Stats?	
+[10/11/25 04:14AM] HELLRAISER|3105,5535,0|Said: Trade me at home	
+[10/11/25 05:07AM] VOTE_BOSS|3428,4125,4|Said: Hye guys	
+[10/11/25 05:08AM] VOTE_BOSS|3428,4125,4|Said: Vote fixed?	
+[10/11/25 05:08AM] VOTE_BOSS|3428,4125,4|Said: How did it spawn	
+[10/11/25 05:08AM] VOTE_BOSS|3428,4125,4|Said: Lol	
+[10/11/25 05:08AM] VOTE_BOSS|3428,4125,4|Said: Hank the wank woke up like a tank	
+[10/11/25 05:08AM] VOTE_BOSS|3428,4125,4|Said: L0lol0lol0	
+[10/11/25 05:08AM] VOTE_BOSS|3428,4125,4|Said: Watch my dmg damn	
+[10/11/25 05:09AM] VOTE_BOSS|3428,4125,4|Said: Not even an owner cape on	
+[10/11/25 05:09AM] VOTE_BOSS|3428,4125,4|Said: Blood t bow	
+[10/11/25 05:09AM] VOTE_BOSS|3428,4125,4|Said: 47k ranged	
+[10/11/25 05:09AM] VOTE_BOSS|3428,4125,4|Said: Drop party	
+[10/11/25 05:10AM] VOTE_BOSS|3428,4125,4|Said: 3	
+[10/11/25 05:10AM] VOTE_BOSS|3428,4125,4|Said: L0l	
+[10/11/25 05:10AM] VOTE_BOSS|3428,4125,4|Said: Had 2 oiwner goodies	
+[10/11/25 05:10AM] VOTE_BOSS|3428,4125,4|Said: 2 missed	
+[10/11/25 05:10AM] VOTE_BOSS|3428,4125,4|Said: Gave me 50$ bond	
+[10/11/25 05:10AM] VOTE_BOSS|3428,4125,4|Said: Better scroll than nothing i guess	
+[10/11/25 05:21AM] NEPHILIM|2147,3296,0|Said: Sup	
+[10/11/25 05:28AM] ZOMBIE|2258,4114,28|Said: I can't tp out of this raid	
+[10/11/25 05:28AM] ZOMBIE|2258,4114,28|Said: Lol	
+[10/11/25 05:28AM] ZOMBIE|2258,4114,28|Said: I don't wanna relog cause i got 4scrolls active	
+[10/11/25 05:28AM] ZOMBIE|2259,4116,28|Said:   :sendhome or unjail idk	
+[10/11/25 05:29AM] ZOMBIE|2259,4116,28|Said: ?	
+[10/11/25 05:29AM] ZOMBIE|2259,4116,28|Said: L00l	
+[10/11/25 05:29AM] ZOMBIE|2249,4106,28|Said: I tried	
+[10/11/25 05:29AM] ZOMBIE|2241,4111,28|Said: Doesn't work	
+[10/11/25 05:29AM] ZOMBIE|2247,4117,28|Said: Do ::unjail ghijf	
+[10/11/25 05:29AM] ZOMBIE|2247,4117,28|Said:    ::sendhome ghijf	
+[10/11/25 05:30AM] ZOMBIE_LOBBY|2222,4115,0|Said: Tyy	
+[10/11/25 05:33AM] NEPHILIM|2147,3296,0|Said: U sold the owner pot	
+[10/11/25 05:36AM] NEPHILIM|2147,3296,0|Said: Hank	
+[10/11/25 05:36AM] NEPHILIM|2147,3296,0|Said: What does crimson scroll do	
+[10/11/25 05:36AM] NEPHILIM|2147,3296,0|Said: Also in feel like ::whatdrops doesn't work i can't find anything im looking for	
+[10/11/25 05:38AM] NEPHILIM|2147,3296,0|Said: Also slayer is kinda hard doing	
+[10/11/25 05:38AM] NEPHILIM|2147,3296,0|Said: Well the npc's easy but getting slayer tokens are a rip	
+[10/11/25 05:38AM] NEPHILIM|2147,3296,0|Said: U have to try boss slayer on urself lol	
+[10/11/25 05:38AM] NEPHILIM|2146,3296,0|Said: Easy slayer tasks givv more boss ticks than boss tasks	
+[10/11/25 05:40AM] NEPHILIM|2146,3297,0|Said: Soo how munhc more spawn here lol?	
+[10/11/25 05:40AM] NEPHILIM|2146,3297,0|Said: Do coins have any use tbh	
+[10/11/25 05:42AM] SLAYER_CHAMPION|3491,4703,0|Said: I grinded slayer a whole day and u guys come participating now	
+[10/11/25 05:42AM] SLAYER_CHAMPION|3491,4703,0|Said: Hope i get the drop	
+[10/11/25 05:46AM] SLAYER_CHAMPION|3489,4707,0|Said: Lol	
+[10/11/25 05:46AM] SLAYER_CHAMPION|3489,4707,0|Said: I can solo but need 3 people	
+[10/11/25 06:51AM] HOME_BANK|2784,4065,0|Said: L	
+[10/11/25 06:57AM] HOME_BANK|2784,4065,0|Said: I	
+[10/11/25 06:57AM] HOME_BANK|2784,4065,0|Said: L	
+[10/11/25 11:44AM] DEFAULT|2793,4066,0|Said: Guess pm hank on disc	
+[10/11/25 10:06PM] RUBY_ZONE|2207,4259,0|Said: Yo	
+[10/11/25 10:42PM] VOTE_BOSS|3424,4121,4|Said: Whos drag pet is that	
+[10/11/25 10:42PM] VOTE_BOSS|3424,4121,4|Said: Wtf	
+[10/11/25 10:42PM] VOTE_BOSS|3424,4121,4|Said: 115 dr	
+[10/11/25 10:45PM] NEPHILIM|2146,3296,0|Said: The teleporter	
+[10/11/25 10:46PM] NEPHILIM|2146,3296,0|Said: Yes	
+[10/11/25 10:46PM] NEPHILIM|2146,3296,0|Said: U don't	
+[10/11/25 10:46PM] NEPHILIM|2146,3296,0|Said: Hes at other dimension 	
+[10/11/25 10:47PM] NEPHILIM|2146,3296,0|Said: U ned to kill npcs first	
+[10/11/25 10:47PM] NEPHILIM|2146,3296,0|Said: For chilling gloves	
+[10/11/25 10:47PM] NEPHILIM|2146,3296,0|Said: Than u kill a global  boss	
+[10/11/25 10:47PM] NEPHILIM|2146,3296,0|Said: And wear the gloves and pickup the egg	
+[10/11/25 10:47PM] NEPHILIM|2146,3296,0|Said: Thats at home	
+[10/11/25 10:47PM] NEPHILIM|2146,3296,0|Said: Next to the cook	
+[10/11/25 10:47PM] NEPHILIM|2146,3296,0|Said: Or chef idk	
+[10/11/25 10:49PM] NEPHILIM|2146,3296,0|Said: Ezadan,kzdl	
+[10/11/25 10:50PM] NEPHILIM|2141,3298,0|Said: Im diamon donor	
+[10/11/25 10:52PM] NEPHILIM|2150,3296,0|Said: Ezafbezrjhbzcvse	
+[10/11/25 10:52PM] NEPHILIM|2150,3296,0|Said: Didn4t let me attack	
+[10/11/25 10:52PM] NEPHILIM|2150,3296,0|Said: Hacker	
+[10/11/25 10:57PM] SLAYER_CHAMPION|3490,4705,0|Said: Shoo u didn't even do slayer for this spawn	
+[10/11/25 10:57PM] SLAYER_CHAMPION|3490,4705,0|Said: I don't have family	
+[10/11/25 11:07PM] SLAYER_CHAMPION|3490,4705,0|Said: Yes	
+[10/11/25 11:07PM] SLAYER_CHAMPION|3490,4705,0|Said: U can do it	
+[10/11/25 11:07PM] SLAYER_CHAMPION|3490,4705,0|Said: Gl	
+[10/11/25 11:54PM] GLOBAL_BOSS|2143,5022,0|Said: Sup	
+[10/11/25 11:54PM] GLOBAL_BOSS|2143,5022,0|Said: Ctr +u	
+[10/11/25 11:54PM] GLOBAL_BOSS|2143,5022,0|Said: But i suggest doing zones and bosses	
+[10/11/25 11:54PM] GLOBAL_BOSS|2143,5022,0|Said: Just get 99slay for raids	
+[10/11/25 11:55PM] GLOBAL_BOSS|2143,5022,0|Said: U just need a bond drop	
+[10/11/25 11:55PM] GLOBAL_BOSS|2143,5022,0|Said: Pray is inf than	
+[10/11/25 11:56PM] GLOBAL_BOSS|2143,5022,0|Said: Complete ::startertasks	
+[10/11/25 11:56PM] GLOBAL_BOSS|2143,5022,0|Said: Givvs you than a sanguine set	
+[10/11/25 11:56PM] GLOBAL_BOSS|2139,5020,0|Said: Untrad	
+[10/12/25 01:58AM] DEFAULT|2779,4084,0|Said: Whip 120	
+[10/12/25 01:58AM] DEFAULT|2779,4084,0|Said: D bowx 50	
+[10/12/25 01:58AM] DEFAULT|2779,4084,0|Said: Sol 141	
+[10/12/25 06:05AM] DEFAULT|2780,4084,0|Said: I need refund	
+[10/12/25 06:05AM] DEFAULT|2780,4084,0|Said: Tf is this bullshet	
+[10/12/25 06:06AM] DEFAULT|2780,4084,0|Said: I hoped on 120invention	
+[10/12/25 06:06AM] DEFAULT|2780,4084,0|Said: Look diff	
+[10/12/25 06:06AM] DEFAULT|2780,4084,0|Said: Between dissolving	
+[10/12/25 06:06AM] DEFAULT|2780,4084,0|Said: Look diff	
+[10/12/25 06:06AM] DEFAULT|2780,4084,0|Said: Same price in shop	
+[10/12/25 06:06AM] DEFAULT|2780,4084,0|Said: Just spended all my pvms	
+[10/12/25 06:08AM] DEFAULT|2780,4084,0|Said: Do u have an elite casket?	
+[10/12/25 06:08AM] DEFAULT|2780,4084,0|Said: I wanna try something	
+[10/12/25 06:08AM] DEFAULT|2780,4084,0|Said: Yes	
+[10/12/25 06:08AM] DEFAULT|2780,4084,0|Said: Works	
+[10/12/25 06:08AM] DEFAULT|2780,4084,0|Said: L0l	
+[10/12/25 06:09AM] DEFAULT|2780,4084,0|Said: Trade	
+[10/12/25 06:09AM] DEFAULT|2780,4085,0|Said: I made with that from u gave me	
+[10/12/25 06:10AM] DEFAULT|2780,4085,0|Said: If u have 2 in invetory it goes to 1	
+[10/12/25 06:10AM] DEFAULT|2780,4085,0|Said: But u cn still upgrade if u have 1	
+[10/12/25 06:11AM] DEFAULT|2780,4085,0|Said: Ahhh	
+[10/12/25 06:11AM] DEFAULT|2780,4085,0|Said: Got a 50er bond	
+[10/12/25 06:11AM] DEFAULT|2780,4085,0|Said: I just ned to find a way to get toksnfast	
+[10/12/25 06:11AM] DEFAULT|2780,4084,0|Said: Fix slayer	
+[10/12/25 06:11AM] DEFAULT|2780,4084,0|Said: Thats not worth grinding	
+[10/12/25 06:12AM] DEFAULT|2780,4084,0|Said: I wast"d 2days for finding out ::starterguide has better gear	
+[10/12/25 06:13AM] DEFAULT|2777,4084,0|Said: Is dxp activez?	
+[10/12/25 11:34AM] SLAYER_CHAMPION|3489,4704,0|Said: Abla?	
+[10/12/25 12:10PM] HOME_BANK|2784,4062,0|Said: Can't escape now	
+[10/12/25 12:10PM] HOME_BANK|2784,4062,0|Said: Tell me what light ticks do xd	
+[10/12/25 12:11PM] HOME_BANK|2784,4062,0|Said: Also afk shop	
+[10/12/25 12:11PM] HOME_BANK|2784,4062,0|Said: Everything is worthless	
+[10/12/25 12:11PM] HOME_BANK|2784,4062,0|Said: Speed p axe doesn't work	
+[10/12/25 01:03PM] GLOBAL_BOSS|2143,5018,0|Said: Was on the toilet	
+[10/12/25 01:03PM] GLOBAL_BOSS|2143,5018,0|Said: Well	
+[10/12/25 01:03PM] GLOBAL_BOSS|2143,5018,0|Said: U not gonna beleve	
+[10/12/25 01:03PM] GLOBAL_BOSS|2143,5018,0|Said: But afk	
+[10/12/25 01:03PM] GLOBAL_BOSS|2143,5018,0|Said: L0l	
+[10/12/25 01:03PM] GLOBAL_BOSS|2143,5018,0|Said: Afk givv you best way for caskets	
+[10/12/25 01:04PM] GLOBAL_BOSS|2143,5018,0|Said: Just the rocks	
+[10/12/25 01:04PM] GLOBAL_BOSS|2143,5018,0|Said: But i do other methoid	
+[10/12/25 01:04PM] GLOBAL_BOSS|2143,5018,0|Said: Using bones on altar givvs faster caskets	
+[10/12/25 01:04PM] GLOBAL_BOSS|2143,5018,0|Said: Using bones is fast exp	
+[10/12/25 01:04PM] GLOBAL_BOSS|2143,5018,0|Said: Yeah lol	
+[10/12/25 01:04PM] GLOBAL_BOSS|2143,5018,0|Said: My alt is afk at home	
+[10/12/25 01:04PM] GLOBAL_BOSS|2143,5018,0|Said: Another 10k bones	
+[10/12/25 01:05PM] GLOBAL_BOSS|2143,5018,0|Said: :d	
+[10/12/25 01:05PM] GLOBAL_BOSS|2143,5018,0|Said: Aight pce	
+[10/12/25 01:05PM] GLOBAL_BOSS|2143,5018,0|Said: Im gonna go sleep	
+[10/13/25 05:08AM] GLOBAL_BOSS|2142,5021,0|Said:   ::nm next	
+[10/13/25 05:08AM] VBOSS|2976,2771,0|Said: Ur ne?	
+[10/13/25 05:08AM] VBOSS|2976,2771,0|Said: New?	
+[10/13/25 05:09AM] VBOSS|2976,2771,0|Said: Hmmm	
+[10/13/25 05:09AM] VBOSS|2976,2771,0|Said: Ur ranged?	
+[10/13/25 05:09AM] VBOSS|2976,2771,0|Said: Sick	
+[10/13/25 05:09AM] VBOSS|2979,2771,0|Said: Here	
+[10/13/25 05:09AM] VBOSS|2979,2771,0|Said: Use this	
+[10/13/25 05:09AM] VBOSS|2979,2771,0|Said: Complete ::startertasks	
+[10/13/25 05:09AM] VBOSS|2979,2771,0|Said: U get full set wich is better	
+[10/13/25 05:09AM] VBOSS|2979,2771,0|Said:   ::naraku	
+[10/13/25 05:10AM] NARAKU|3424,9568,0|Said: Ur dmg is higher right xd	
+[10/13/25 05:11AM] NARAKU|3424,9568,0|Said: U wanna do pc with me?	
+[10/13/25 05:11AM] NARAKU|3424,9568,0|Said: For ur starter progress	
+[10/13/25 05:12AM] PEST_CONTROL_BOAT|2661,2639,0|Said: Dw we got this	
+[10/13/25 05:14AM] PEST_CONTROL_GAME|2655,2570,0|Said: Hm minigames u need ? 3?	
+[10/13/25 05:20AM] PEST_CONTROL_GAME|2637,2591,0|Said: :d	
+[10/13/25 05:20AM] DEFAULT|2657,2641,0|Said: Aiight gl 	
+[10/13/25 05:20AM] DEFAULT|2657,2641,0|Said:    ::startertasks	
+[10/13/25 08:10AM] DEFAULT|2784,4079,0|Said: 3::pos	
+[10/13/25 08:26AM] GUARDIAN|2661,3800,0|Said: Yee haw	
+[10/13/25 08:27AM] GUARDIAN|2661,3800,0|Said: Glllllllllll	
+[10/13/25 08:27AM] GUARDIAN|2661,3800,0|Said: Hm is plat donor	
+[10/13/25 08:28AM] GUARDIAN|2661,3800,0|Said: 1500?	
+[10/13/25 08:28AM] GUARDIAN|2661,3800,0|Said: :o	
+[10/13/25 08:29AM] GUARDIAN|2661,3800,0|Said: :-	
+[10/13/25 07:02PM] NEPHILIM|2145,3299,0|Said: Just on time	
+[10/13/25 07:03PM] NEPHILIM|2145,3299,0|Said: Goodgood	
+[10/13/25 07:03PM] NEPHILIM|2145,3299,0|Said: Hawk	
+[10/13/25 07:03PM] NEPHILIM|2145,3299,0|Said: How did u get 120inv	
+[10/13/25 07:05PM] NEPHILIM|2145,3299,0|Said: U klick claim?	
+[10/13/25 07:05PM] NEPHILIM|2145,3299,0|Said:   ::startertasks?	
+[10/13/25 07:06PM] NEPHILIM|2145,3299,0|Said: Gimmy that 1dr	
+[10/13/25 07:06PM] NEPHILIM|2145,3299,0|Said: Lol	
+[10/13/25 07:06PM] NEPHILIM|2145,3299,0|Said: Ofcouyrse	
+[10/13/25 07:07PM] NEPHILIM|2145,3299,0|Said: Aight	
+[10/13/25 07:07PM] NEPHILIM|2145,3299,0|Said: I gtg	
+[10/13/25 07:07PM] NEPHILIM|2145,3299,0|Said: To work	
+[10/13/25 07:07PM] NEPHILIM|2145,3299,0|Said: I just woke up	
+[10/13/25 07:08PM] NEPHILIM|2145,3299,0|Said: Aight gl	
+[10/14/25 07:21AM] DEFAULT|2784,4054,0|Said: Yo	
+[10/14/25 07:21AM] DEFAULT|2784,4054,0|Said: Sup	
+[10/14/25 07:22AM] DEFAULT|2785,4052,0|Said: Grinding invention	

@@ -1,0 +1,13 @@
+[10/12/25 06:18AM] Login. ip: 45.20.19.159, mac: Default string20251004161924.000000-240, uuid: DE-1B-A1-4F-59-3E	
+[10/12/25 07:21AM] SLAYERMULTI|1895,5198,0|Said:  ::guides	
+[10/13/25 04:19AM] Login. ip: 45.20.19.159, mac: Default string20251004161924.000000-240, uuid: DE-1B-A1-4F-59-3E	
+[10/13/25 05:08AM] VBOSS|2980,2771,0|Said: Ya	
+[10/13/25 05:09AM] VBOSS|2980,2771,0|Said: Best i have for now	
+[10/13/25 05:09AM]  Receiving item from trade with Ghijf Id: 5011, amount: 1	
+[10/13/25 05:09AM] VBOSS|2980,2771,0|Said: Ty	
+[10/13/25 05:10AM] NARAKU|3425,9568,0|Said:  ya	
+[10/13/25 05:11AM] NARAKU|3425,9568,0|Said: Sure	
+[10/13/25 05:14AM] DEFAULT|2657,2639,0|Said: 3, ya	
+[10/13/25 05:20AM] DEFAULT|2657,2647,0|Said: Ty ty	
+[10/13/25 05:21AM] Has just redeemed a $1 Scroll successfully!	
+[10/13/25 05:32AM] Login. ip: 45.20.19.159, mac: Default string20251004161924.000000-240, uuid: DE-1B-A1-4F-59-3E	

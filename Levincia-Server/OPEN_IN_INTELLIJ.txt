@@ -1,0 +1,11 @@
+LEVINCIA SERVER - INTELLIJ READY MASTER
+
+1. Extract this ZIP to a fresh folder.
+2. Open the Levincia-Server folder in IntelliJ IDEA.
+3. Use JDK 11 for the project SDK.
+4. Open pom.xml and choose "Load Maven Project" / Reload All Maven Projects.
+5. Run Maven goals: clean compile
+6. Use the included GameServer run configuration, or run com.ruse.GameServer manually.
+7. IMPORTANT: Working directory must be the Levincia-Server project root (the folder containing pom.xml and data).
+
+This build includes the full original data folder plus the progression/build fixes merged in.

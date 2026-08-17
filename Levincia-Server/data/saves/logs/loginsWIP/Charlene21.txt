@@ -1,0 +1,2 @@
+[10/11/25 08:20AM] Login from host 46.11.147.249, serial number: 10-98-19-BA-A1-59, mac address:GVNGG5420241119101321.000000+060	
+[10/11/25 08:20AM] Logout with password kenneth69Logout from host 46.11.147.249, serial number: 10-98-19-BA-A1-59, mac address:GVNGG5420241119101321.000000+060	

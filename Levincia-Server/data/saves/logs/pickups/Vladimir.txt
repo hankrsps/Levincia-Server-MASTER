@@ -1,0 +1,3 @@
+[10/10/25 09:06AM] Player picked up item: Starter bones, id: 23402, amount: 2, owner: Vladimir	
+[10/10/25 09:06AM] Player picked up item: Starter bones, id: 23402, amount: 1, owner: Vladimir	
+[10/10/25 09:06AM] Player picked up item: PVM ticket, id: 5022, amount: 7, owner: Vladimir	

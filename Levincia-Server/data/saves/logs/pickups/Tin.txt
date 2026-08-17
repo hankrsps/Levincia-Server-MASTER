@@ -1,0 +1,6 @@
+[10/8/25 01:47AM] Player picked up item: Elite dragon bones, id: 18830, amount: 2, owner: Tin	
+[10/8/25 02:19AM] Player picked up item: Levincia tokens, id: 12855, amount: 10000, owner: Tin	
+[10/10/25 09:42PM] Player picked up item: Nuetron Dagger, id: 15877, amount: 1, owner: Tin	
+[10/10/25 09:42PM] Player picked up item: Nuetron Dagger, id: 15877, amount: 1, owner: Tin	
+[10/10/25 11:43PM] Player picked up item: Levincia tokens, id: 12855, amount: 400, owner: Tin	
+[10/11/25 11:56PM] Player picked up item: Global ticket, id: 23229, amount: 2, owner: Tin	

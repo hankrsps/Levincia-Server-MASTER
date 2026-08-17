@@ -1,0 +1,10 @@
+[10/13/25 06:55PM] Player picked up item: Quill's Card Pack, id: 23277, amount: 2, owner: Dracky	
+[10/13/25 07:49PM] Player picked up item: Owner Jewelry goodiebag, id: 23240, amount: 5, owner: PARTY CHEST	
+[10/13/25 07:51PM] Player picked up item: Owner cape goodiebag, id: 3578, amount: 1, owner: PARTY CHEST	
+[10/13/25 07:58PM] Player picked up item: OP Box, id: 20488, amount: 100, owner: PARTY CHEST	
+[10/15/25 11:56AM] Player picked up item: Levincia tokens, id: 12855, amount: 135, owner: Dracky	
+[10/15/25 12:23PM] Player picked up item: Levincia tokens, id: 12855, amount: 50, owner: Hank	
+[10/15/25 12:26PM] Player picked up item: PVM ticket, id: 5022, amount: 2, owner: Hank	
+[10/15/25 12:29PM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Dracky	
+[10/18/25 11:38AM] Player picked up item: Seraphic case, id: 23411, amount: 1, owner: Dracky	
+[10/18/25 11:52AM] Player picked up item: Ruby Mystery Box, id: 19114, amount: 1, owner: Dracky	

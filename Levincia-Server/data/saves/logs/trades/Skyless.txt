@@ -1,0 +1,3 @@
+[10/13/25 06:36PM]  Received item from History Hawk. Name: Collector Necklace III. Id: 18888, amount: 1	
+[10/13/25 06:36PM]  Received item from History Hawk. Name: Donator Aura. Id: 12630, amount: 1	
+[10/13/25 06:41PM]  Received item from History Hawk. Name: Sanguinesti Legends staff. Id: 17011, amount: 1	

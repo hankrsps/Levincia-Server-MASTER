@@ -1,0 +1,2 @@
+[10/10/25 09:04AM] Login from host 213.118.44.185, serial number: B8-AE-ED-30-E1-FA, mac address:1B33403002010620210412124807.000000+120	
+[10/10/25 09:53AM] Logout with password beertje2428Logout from host 213.118.44.185, serial number: B8-AE-ED-30-E1-FA, mac address:1B33403002010620210412124807.000000+120	

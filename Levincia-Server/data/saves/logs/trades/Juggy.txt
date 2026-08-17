@@ -1,0 +1,40 @@
+[10/7/25 02:39PM]  Received item from Gummi. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 02:39PM]  Received item from Gummi. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 02:39PM]  Received item from Gummi. Name: Divine spirit shield. Id: 13740, amount: 1	
+[10/7/25 02:39PM]  Received item from Gummi. Name: Instance Tokens. Id: 4278, amount: 3	
+[10/7/25 02:39PM]  Received item from Gummi. Name: Shikruu full helm. Id: 8800, amount: 1	
+[10/7/25 02:39PM]  Received item from Gummi. Name: Levincia tokens. Id: 12855, amount: 25510	
+[10/7/25 02:39PM]  Received item from Gummi. Name: Upgrade Token pack (100k). Id: 15288, amount: 1	
+[10/7/25 02:39PM]  Received item from Gummi. Name: Zara Xp Lamp. Id: 3907, amount: 1	
+[10/7/25 02:39PM]  Received item from Gummi. Name: Brutal staff. Id: 6936, amount: 1	
+[10/7/25 02:39PM]  Received item from Gummi. Name: Crystal key. Id: 989, amount: 58	
+[10/7/25 02:39PM]  Received item from Gummi. Name: Beginner Mystery box. Id: 6199, amount: 14	
+[10/7/25 02:39PM]  Received item from Gummi. Name: Tornado Katana. Id: 14018, amount: 1	
+[10/7/25 02:39PM]  Received item from Gummi. Name: PvM Box. Id: 7956, amount: 2	
+[10/7/25 02:39PM]  Received item from Gummi. Name: Legendary helm. Id: 17638, amount: 1	
+[10/7/25 02:39PM]  Received item from Gummi. Name: Diabolical platelegs. Id: 8862, amount: 1	
+[10/7/25 02:39PM]  Received item from Gummi. Name: PVM ticket. Id: 5022, amount: 50455	
+[10/7/25 02:39PM]  Received item from Gummi. Name: Death rune. Id: 560, amount: 246	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Shikruu full helm. Id: 8800, amount: 1	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Levincia tokens. Id: 12855, amount: 302577	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: PVM ticket. Id: 5022, amount: 111740	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Donator Aura. Id: 12630, amount: 1	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Maxiblood whip. Id: 18750, amount: 1	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Collector necklace. Id: 19886, amount: 1	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Melee platelegs (T5). Id: 8328, amount: 1	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Art's boots. Id: 8334, amount: 1	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Art's amulet. Id: 19892, amount: 1	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Trinity hammers. Id: 22084, amount: 1	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Joyxox sword. Id: 17708, amount: 1	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Titan staff. Id: 17600, amount: 1	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Vote scroll. Id: 23020, amount: 4	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Death rune. Id: 560, amount: 246	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Angels Flamethrower. Id: 17712, amount: 1	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Instance Tokens. Id: 4278, amount: 19	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Legendary body. Id: 17640, amount: 1	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Inferno Wings. Id: 12634, amount: 1	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Art's ring. Id: 8335, amount: 1	
+[10/7/25 03:16PM]  Gave item to Ghijf. Name: Soul fragment. Id: 14639, amount: 366	
+[10/7/25 03:22PM]  Gave item to Ghijf. Name: Raids Box. Id: 18404, amount: 7	
+[10/7/25 03:22PM]  Gave item to Ghijf. Name: OP Box. Id: 20488, amount: 3	
+[10/7/25 03:22PM]  Gave item to Ghijf. Name: Levincia tokens. Id: 12855, amount: 10000	

@@ -1,0 +1,1237 @@
+[10/7/25 12:18AM] Login. ip: 190.2.149.53, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 12:20AM] (CC) Help. Said: Hi	
+[10/7/25 12:20AM] (CC) Help. Said: How to toggle these lvl messages off	
+[10/7/25 12:21AM] (CC) Help. Said: Oh damn my bad l0l i went over it	
+[10/7/25 12:22AM] (CC) Help. Said: Na doesn't work	
+[10/7/25 12:22AM] (CC) Help. Said: Still getting thesde messages	
+[10/7/25 12:24AM] Picked up gr.Item Holy symbol, amount: 1	
+[10/7/25 12:25AM] Picked up gr.Item Holy symbol, amount: 1	
+[10/7/25 12:30AM] (CC) Help. Said: I voted how i claim	
+[10/7/25 12:33AM] (CC) Help. Said: Allowed to have an afk acc? or is there no afk zone	
+[10/7/25 01:00AM]  Receiving item from trade with Afk Gh Id: 12855, amount: 803	
+[10/7/25 01:00AM]  Receiving item from trade with Afk Gh Id: 5022, amount: 636	
+[10/7/25 01:00AM]  Receiving item from trade with Afk Gh Id: 5020, amount: 492	
+[10/7/25 01:13AM] Login. ip: 190.2.149.53, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 01:17AM]  Receiving item from trade with Afk Gh Id: 5020, amount: 262	
+[10/7/25 01:17AM]  Receiving item from trade with Afk Gh Id: 8801, amount: 1	
+[10/7/25 01:17AM]  Receiving item from trade with Afk Gh Id: 5022, amount: 265	
+[10/7/25 01:17AM]  Receiving item from trade with Afk Gh Id: 12855, amount: 321	
+[10/7/25 01:17AM]  Receiving item from trade with Afk Gh Id: 290, amount: 2	
+[10/7/25 01:17AM]  Receiving item from trade with Afk Gh Id: 15259, amount: 1	
+[10/7/25 01:17AM]  Receiving item from trade with Afk Gh Id: 1149, amount: 1	
+[10/7/25 01:17AM]  Receiving item from trade with Afk Gh Id: 1434, amount: 1	
+[10/7/25 01:17AM]  Receiving item from trade with Afk Gh Id: 7158, amount: 1	
+[10/7/25 01:17AM]  Receiving item from trade with Afk Gh Id: 13281, amount: 1	
+[10/7/25 01:31AM] Login. ip: 149.22.88.131, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 01:38AM] (CC) Help. Said: Hank u here	
+[10/7/25 01:47AM] DEFAULT|2792,4068,0|Said: Dox	
+[10/7/25 01:47AM] DEFAULT|2795,4066,0|Said: Hey do u have by chanse runes in ur bank	
+[10/7/25 01:48AM] DEFAULT|2795,4066,0|Said: I know mage don't need runes i wanna make row	
+[10/7/25 01:48AM] DEFAULT|2795,4066,0|Said: Ok damn	
+[10/7/25 01:50AM] (CC) Help. Said: Where are dinos	
+[10/7/25 01:51AM] (CC) Help. Said: Slayer	
+[10/7/25 02:02AM] Login. ip: 149.22.88.131, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 02:05AM] Login. ip: 212.102.51.117, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 02:06AM] Login. ip: 212.102.51.117, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 02:06AM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 02:13AM] Login. ip: 212.102.51.117, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 02:14AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 02:15AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 12:56PM] Login. ip: 185.132.176.220, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 01:01PM] Picked up gr.Item Rancid flour, amount: 1	
+[10/7/25 01:01PM] Picked up gr.Item Empty bucket, amount: 1	
+[10/7/25 01:01PM] Player destroying item: -1, amount: 0	
+[10/7/25 01:02PM] Player destroying item: -1, amount: 0	
+[10/7/25 01:06PM] Login. ip: 185.132.176.220, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 01:08PM] VOTE_BOSS|3427,4122,4|Said: Wth uis this groudon raquazza pokemon npc	
+[10/7/25 01:08PM] VOTE_BOSS|3427,4122,4|Said: Looks like groudon with palkia style	
+[10/7/25 01:09PM] VOTE_BOSS|3427,4122,4|Said: You you need to change name mate	
+[10/7/25 01:09PM] VOTE_BOSS|3427,4122,4|Said: I touch i was top 2 dmg list	
+[10/7/25 01:12PM] VOTE_BOSS|3427,4122,4|Said: Hope i get drop? im not on the dmg list	
+[10/7/25 01:14PM] VOTE_BOSS|3427,4122,4|Said: Oh we still here	
+[10/7/25 01:14PM] VOTE_BOSS|3427,4122,4|Said: Gonna grab a beer now	
+[10/7/25 01:16PM] VOTE_BOSS|3427,4122,4|Said: Oh wxe still here	
+[10/7/25 01:16PM] VOTE_BOSS|3427,4122,4|Said: Relog for luck boys	
+[10/7/25 01:16PM] VOTE_BOSS|3427,4122,4|Said: Go	
+[10/7/25 01:18PM] (CC) Help. Said: Lol i just got shetani staff from vote box	
+[10/7/25 01:23PM] (CC) Help. Said: Any1 has runes in ther bank?	
+[10/7/25 01:31PM] PROGRESSION_ZONES|3035,4120,21|Said: Do dk	
+[10/7/25 01:31PM] PROGRESSION_ZONES|3035,4120,21|Said: Almost ded	
+[10/7/25 01:31PM] PROGRESSION_ZONES|3035,4120,21|Said: Hank there	
+[10/7/25 01:31PM] PROGRESSION_ZONES|3035,4120,21|Said:   ::dk	
+[10/7/25 01:31PM] PROGRESSION_ZONES|3035,4120,21|Said: Gogogoo	
+[10/7/25 01:34PM] (CC) Help. Said: Yes ::commands	
+[10/7/25 01:34PM] (CC) Help. Said: Well thats what it says	
+[10/7/25 01:35PM] (CC) Help. Said: My rank is veteran	
+[10/7/25 01:35PM] (CC) Help. Said: I knw xd	
+[10/7/25 01:35PM] PROGRESSION_ZONES|3033,4119,21|Said: 46%dr	
+[10/7/25 01:35PM] PROGRESSION_ZONES|3033,4119,21|Said: Not bad	
+[10/7/25 01:35PM] PROGRESSION_ZONES|3033,4119,21|Said: Wbu?	
+[10/7/25 01:37PM] (CC) Help. Said: Welcome	
+[10/7/25 01:39PM] HELLRAISER|3104,5530,0|Said: Call hank the spank	
+[10/7/25 01:40PM] HELLRAISER|3104,5530,0|Said: Gg our drops	
+[10/7/25 01:40PM] HELLRAISER|3104,5530,0|Said: Voted btw	
+[10/7/25 01:40PM] HELLRAISER|3104,5530,0|Said: 2nd time today	
+[10/7/25 01:40PM] HELLRAISER|3104,5530,0|Said: U don't have to say thanks	
+[10/7/25 01:40PM] HELLRAISER|3104,5530,0|Said: I only want my reward lol	
+[10/7/25 01:41PM] HELLRAISER|3104,5530,0|Said: :3	
+[10/7/25 01:41PM] HELLRAISER|3104,5530,0|Said: Scam	
+[10/7/25 01:41PM] HELLRAISER|3104,5530,0|Said:  ::copy hank	
+[10/7/25 01:43PM] HELLRAISER|3101,5534,0|Said: Not ghonna work	
+[10/7/25 01:43PM] HELLRAISER|3101,5534,0|Said: Pvp dc you	
+[10/7/25 01:43PM] HELLRAISER|3102,5535,0|Said: I went portal to try pvp but dc urself	
+[10/7/25 01:49PM] (CC) Help. Said: Do we have instances i guess but i forgot	
+[10/7/25 01:50PM] (CC) Help. Said:  'only" do u want my f cape babe?	
+[10/7/25 01:51PM] (CC) Help. Said: I need runes 	
+[10/7/25 01:52PM] (CC) Help. Said: Buying runes	
+[10/7/25 01:52PM] (CC) Help. Said:  ::shops	
+[10/7/25 01:53PM] (CC) Help. Said: Furyshark in shops idk pots	
+[10/7/25 01:56PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 01:57PM]  Receiving item from trade with Afk Gh Id: 5020, amount: 187	
+[10/7/25 01:57PM]  Receiving item from trade with Afk Gh Id: 12855, amount: 339	
+[10/7/25 01:57PM]  Receiving item from trade with Afk Gh Id: 23020, amount: 5	
+[10/7/25 01:57PM]  Receiving item from trade with Afk Gh Id: 23253, amount: 2	
+[10/7/25 01:57PM]  Receiving item from trade with Afk Gh Id: 5022, amount: 1282	
+[10/7/25 01:57PM]  Receiving item from trade with Afk Gh Id: 8851, amount: 5	
+[10/7/25 01:57PM]  Receiving item from trade with Afk Gh Id: 989, amount: 2	
+[10/7/25 02:02PM] Has just redeemed a $50 Bond successfully!	
+[10/7/25 02:02PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 02:02PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 02:02PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 02:20PM] (CC) Help. Said:  ctr u	
+[10/7/25 02:27PM] VBOSS|2979,2773,0|Said: Can i join xd	
+[10/7/25 02:27PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 02:27PM] (CC) Help. Said: Idc on rewards server needs to be shown 	
+[10/7/25 02:27PM] VBOSS|2980,2773,0|Said: Juggy ur getting slow	
+[10/7/25 02:28PM] VBOSS|2980,2773,0|Said: Ih its h8	
+[10/7/25 02:33PM] VBOSS|2979,2770,0|Said: Back	
+[10/7/25 02:34PM] VBOSS|2979,2770,0|Said: Oh ya	
+[10/7/25 02:34PM] VBOSS|2979,2770,0|Said: My pray isn"'t draining	
+[10/7/25 02:37PM] VBOSS|2979,2770,0|Said: Cmon we halfway boys	
+[10/7/25 02:37PM] VBOSS|2979,2770,0|Said: Wich boots	
+[10/7/25 02:37PM] VBOSS|2979,2770,0|Said: How u get	
+[10/7/25 02:39PM] VBOSS|2979,2770,0|Said: Im melee	
+[10/7/25 02:39PM] VBOSS|2979,2770,0|Said: :-	
+[10/7/25 02:39PM] VBOSS|2979,2770,0|Said: Same but i love some runnings	
+[10/7/25 02:39PM] VBOSS|2979,2770,0|Said: Good for my condition	
+[10/7/25 02:39PM] VBOSS|2979,2770,0|Said: L0l0l	
+[10/7/25 02:45PM] (CC) Help. Said: Pm hank on discord tink not auto cause vote isn't also	
+[10/7/25 02:45PM] (CC) Help. Said: If u donated , bonds claim auto just relog	
+[10/7/25 02:46PM] VBOSS|2979,2770,0|Said: Almost there for some bones reward	
+[10/7/25 02:46PM] VBOSS|2979,2770,0|Said: Aoe sword for rng now	
+[10/7/25 02:46PM] VBOSS|2979,2770,0|Said: :d	
+[10/7/25 02:47PM] VBOSS|2979,2770,0|Said: Omg	
+[10/7/25 02:47PM] VBOSS|2979,2770,0|Said: Im dumb	
+[10/7/25 02:47PM] VBOSS|2979,2770,0|Said: This weap is faster	
+[10/7/25 02:47PM] VBOSS|2979,2770,0|Said: Lmao	
+[10/7/25 02:47PM] VBOSS|2979,2770,0|Said: 2147	
+[10/7/25 02:47PM] VBOSS|2979,2770,0|Said: But faster than whip	
+[10/7/25 02:47PM] VBOSS|2979,2770,0|Said: Whip 5447	
+[10/7/25 02:48PM] VBOSS|2979,2770,0|Said: This aoe op with ss	
+[10/7/25 02:48PM] VBOSS|2979,2770,0|Said: Scam	
+[10/7/25 02:48PM] VBOSS|2979,2770,0|Said: Back to slayer	
+[10/7/25 03:03PM] (CC) Help. Said: Ffffffff	
+[10/7/25 03:08PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/7/25 03:15PM] (CC) Help. Said: Sup	
+[10/7/25 03:15PM] EMERALD_ZONE|2608,2763,0|Said: U fr lol	
+[10/7/25 03:15PM] EMERALD_ZONE|2608,2763,0|Said: Aw	
+[10/7/25 03:15PM] EMERALD_ZONE|2608,2763,0|Said: Now ea	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 8800, amount: 1	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 12855, amount: 302577	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 5022, amount: 111740	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 12630, amount: 1	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 18750, amount: 1	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 19886, amount: 1	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 8328, amount: 1	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 8334, amount: 1	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 19892, amount: 1	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 22084, amount: 1	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 17708, amount: 1	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 17600, amount: 1	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 23020, amount: 4	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 560, amount: 246	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 17712, amount: 1	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 4278, amount: 19	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 17640, amount: 1	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 12634, amount: 1	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 8335, amount: 1	
+[10/7/25 03:16PM]  Receiving item from trade with Juggy Id: 14639, amount: 366	
+[10/7/25 03:16PM] EMERALD_ZONE|2609,2764,0|Said: I let in bank	
+[10/7/25 03:16PM] EMERALD_ZONE|2609,2764,0|Said: Be4 u return	
+[10/7/25 03:16PM] EMERALD_ZONE|2609,2764,0|Said: Lol	
+[10/7/25 03:16PM] EMERALD_ZONE|2609,2764,0|Said: But u did now	
+[10/7/25 03:16PM] EMERALD_ZONE|2609,2764,0|Said: L0l	
+[10/7/25 03:17PM] EMERALD_ZONE|2609,2764,0|Said: Same lol	
+[10/7/25 03:18PM] EMERALD_ZONE|2608,2763,0|Said: Welcome abck	
+[10/7/25 03:19PM] EMERALD_ZONE|2608,2763,0|Said: L0l0l0l.	
+[10/7/25 03:19PM] EMERALD_ZONE|2608,2763,0|Said: Home	
+[10/7/25 03:19PM] EMERALD_ZONE|2608,2763,0|Said: South	
+[10/7/25 03:19PM] EMERALD_ZONE|2608,2763,0|Said: I think	
+[10/7/25 03:20PM] DEFAULT|2783,4045,0|Said: Idk	
+[10/7/25 03:21PM] DEFAULT|2783,4045,0|Said: Try ur luck on exclusive	
+[10/7/25 03:21PM] DEFAULT|2783,4046,0|Said: Open em	
+[10/7/25 03:21PM] DEFAULT|2783,4046,0|Said: Oh for coll log	
+[10/7/25 03:22PM]  Receiving item from trade with Juggy Id: 18404, amount: 7	
+[10/7/25 03:22PM]  Receiving item from trade with Juggy Id: 20488, amount: 3	
+[10/7/25 03:22PM]  Receiving item from trade with Juggy Id: 12855, amount: 10000	
+[10/7/25 03:22PM] DEFAULT|2783,4046,0|Said: Gl	
+[10/7/25 03:42PM] DOOM|2349,5198,0|Said: Sup	
+[10/7/25 03:43PM] DOOM|2348,5199,0|Said: Whatu lamping	
+[10/7/25 03:43PM] DOOM|2349,5200,0|Said: Ahh	
+[10/7/25 03:43PM] DOOM|2349,5199,0|Said: Looked like lamps	
+[10/7/25 03:46PM] (CC) Help. Said: Hank u here	
+[10/7/25 03:48PM] (CC) Help. Said: Hey the scroll from slayer is it limited or always x2?	
+[10/7/25 03:58PM] DOOM|2335,5221,0|Said: B::dr	
+[10/7/25 03:58PM] (CC) Help. Said: Hank	
+[10/7/25 04:00PM] (CC) Help. Said: Not bad server a day on runelocus rank 21 with 17 votes	
+[10/7/25 04:42PM] (CC) Help. Said: Like a workday i guess?	
+[10/7/25 04:48PM] (CC) Help. Said: Am i blind or can't i find the afk shop	
+[10/7/25 04:49PM] (CC) Help. Said: Nvm found	
+[10/7/25 04:59PM] (CC) Help. Said: Im doing slayer	
+[10/7/25 04:59PM] DOOM|2353,5233,0|Said: :ok	
+[10/7/25 04:59PM] (CC) Help. Said: Ok	
+[10/7/25 05:01PM] (CC) Help. Said: 93 	
+[10/7/25 05:02PM] (CC) Help. Said: Shops max	
+[10/7/25 05:02PM] (CC) Help. Said: U can buy max cape 5m or prestige at max	
+[10/7/25 05:03PM] VOTE_BOSS|3428,4123,4|Said: We know	
+[10/7/25 05:05PM] VOTE_BOSS|3428,4123,4|Said: Ooo	
+[10/7/25 05:05PM] VOTE_BOSS|3428,4123,4|Said: Gl	
+[10/7/25 05:05PM] VOTE_BOSS|3428,4123,4|Said: Ty	
+[10/7/25 05:05PM] Ghijf received x1 Collector necklace from Vote Boss!	
+[10/7/25 05:05PM] VOTE_BOSS|3428,4123,4|Said: Pff	
+[10/7/25 05:07PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 05:08PM] VOTE_BOSS|3428,4123,4|Said: Hehe	
+[10/7/25 05:08PM] VOTE_BOSS|3428,4123,4|Said: 2am past	
+[10/7/25 05:09PM] VOTE_BOSS|3428,4123,4|Said: Sup	
+[10/7/25 05:10PM] VOTE_BOSS|3428,4123,4|Said: Do i see now 10k pvm boxes for 10$ lol	
+[10/7/25 05:10PM] VOTE_BOSS|3428,4123,4|Said: 20k pvm	
+[10/7/25 05:10PM] VOTE_BOSS|3428,4123,4|Said: Dam	
+[10/7/25 05:13PM] VOTE_BOSS|3428,4123,4|Said: After this im going sleep	
+[10/7/25 06:11PM]  Receiving item from trade with Afk Gh Id: 22121, amount: 1	
+[10/7/25 06:11PM]  Receiving item from trade with Afk Gh Id: 6769, amount: 3	
+[10/7/25 06:11PM]  Receiving item from trade with Afk Gh Id: 23020, amount: 5	
+[10/7/25 06:11PM]  Receiving item from trade with Afk Gh Id: 8087, amount: 1	
+[10/7/25 06:11PM] Has just redeemed a $5 Bond successfully!	
+[10/7/25 06:11PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 06:16PM] NEPHILIM|2145,3297,0|Said: This my last kill	
+[10/7/25 06:16PM] NEPHILIM|2145,3297,0|Said: Going sleep lol	
+[10/7/25 06:16PM] NEPHILIM|2145,3297,0|Said: 3.15	
+[10/7/25 06:17PM] NEPHILIM|2145,3297,0|Said: Naw 	
+[10/7/25 06:17PM] NEPHILIM|2145,3297,0|Said: Almost falling asleep	
+[10/7/25 06:17PM] NEPHILIM|2145,3297,0|Said: I got work tho 	
+[10/7/25 06:18PM] NEPHILIM|2145,3297,0|Said: Aight gn all	
+[10/7/25 11:06PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 11:09PM] (CC) Help. Said: Deathtough dart doesn't work?	
+[10/7/25 11:11PM] (CC) Help. Said: Hank my deathtouch dart doesn't work?	
+[10/7/25 11:13PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 11:17PM] (CC) Help. Said: Hellraiser	
+[10/7/25 11:17PM] (CC) Help. Said: Ok	
+[10/7/25 11:17PM] (CC) Help. Said: Come ::hellraiser good drops	
+[10/7/25 11:24PM] HELLRAISER|3108,5534,0|Said: Gl	
+[10/7/25 11:25PM] HELLRAISER|3108,5534,0|Said: Aw	
+[10/8/25 12:08AM] (CC) Help. Said: Gzz	
+[10/8/25 12:20AM] (CC) Help. Said: Whats every1 grinding	
+[10/8/25 12:23AM] (CC) Help. Said: Nice	
+[10/8/25 12:25AM] Ghijf received x1 Boss gloves from Turoth!	
+[10/8/25 12:25AM] Has just redeemed a $1 Scroll successfully!	
+[10/8/25 12:32AM] (CC) Help. Said: Hellraiser	
+[10/8/25 12:53AM] ZONES1|2966,9491,0|Said: Pfff	
+[10/8/25 12:53AM] ZONES1|2966,9491,0|Said: Just need 100 so i can instance	
+[10/8/25 12:53AM] ZONES1|2965,9495,0|Said: I hate this running	
+[10/8/25 12:54AM] ZONES1|2967,9492,0|Said: 74	
+[10/8/25 12:55AM] ZONES1|2965,9489,0|Said: Okkkk	
+[10/8/25 01:01AM] Picked up gr.Item Holy symbol, amount: 1	
+[10/8/25 01:02AM] Player destroying item: -1, amount: 0	
+[10/8/25 01:11AM] (CC) Help. Said: Hank?	
+[10/8/25 01:19AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/8/25 01:21AM]  Gave item in trade to Afk Gh. Id: 8087, amount: 1	
+[10/8/25 01:21AM]  Gave item in trade to Afk Gh. Id: 8326, amount: 1	
+[10/8/25 01:21AM]  Gave item in trade to Afk Gh. Id: 12933, amount: 1	
+[10/8/25 01:21AM]  Gave item in trade to Afk Gh. Id: 19886, amount: 1	
+[10/8/25 01:21AM]  Gave item in trade to Afk Gh. Id: 8328, amount: 1	
+[10/8/25 01:21AM]  Gave item in trade to Afk Gh. Id: 19888, amount: 1	
+[10/8/25 01:21AM]  Gave item in trade to Afk Gh. Id: 4446, amount: 1	
+[10/8/25 01:21AM]  Gave item in trade to Afk Gh. Id: 8327, amount: 1	
+[10/8/25 01:21AM]  Receiving item from trade with Afk Gh Id: 8851, amount: 10275	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 5022, amount: 448	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 989, amount: 71	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 23402, amount: 121	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 6199, amount: 21	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 7956, amount: 9	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 4278, amount: 4	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 12855, amount: 5000	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 10025, amount: 3	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 19115, amount: 3	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 6833, amount: 1	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 19114, amount: 3	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 8327, amount: 1	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 8328, amount: 1	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 4446, amount: 1	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 14018, amount: 1	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 8326, amount: 1	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 8087, amount: 1	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 19116, amount: 2	
+[10/8/25 01:29AM]  Receiving item from trade with Afk Gh Id: 19888, amount: 1	
+[10/8/25 02:02AM] (CC) Help. Said: Help at ::dk?	
+[10/8/25 02:02AM] (CC) Help. Said: Almost dead tho	
+[10/8/25 02:04AM] GLOBAL_BOSS|2141,5013,0|Said: I see	
+[10/8/25 02:04AM] GLOBAL_BOSS|2141,5013,0|Said: Lol	
+[10/8/25 02:07AM] GLOBAL_BOSS|2141,5013,0|Said: Brb lmao	
+[10/8/25 02:13AM] GLOBAL_BOSS|2141,5013,0|Said: Omg	
+[10/8/25 02:13AM] GLOBAL_BOSS|2141,5013,0|Said: Still not diz	
+[10/8/25 02:15AM] GLOBAL_BOSS|2141,5013,0|Said: I sw if i get dogshet drop i log off	
+[10/8/25 02:18AM] GLOBAL_BOSS|2141,5013,0|Said: Gl	
+[10/8/25 02:19AM] Ghijf received x1 $1 Scroll from Dragon King!	
+[10/8/25 02:19AM] (CC) Help. Said: Any has chilling gloves??	
+[10/8/25 02:22AM] Has just redeemed a $1 Scroll successfully!	
+[10/8/25 03:40AM] Ghijf received x1 Ring of wealth from Szone Mini Zulrah!	
+[10/8/25 03:59AM] Ghijf received x1 Ring of wealth from Szone Mini Zulrah!	
+[10/8/25 04:05AM] Ghijf received x1 Ring of wealth from Szone Mini Zulrah!	
+[10/8/25 07:04AM] Ghijf received x1 Ring of wealth from Szone Mini Zulrah!	
+[10/8/25 07:29AM] Ghijf received x1 Ring of wealth from Szone Mini Zulrah!	
+[10/8/25 08:06AM] Ghijf received x1 Ring of wealth from Szone Mini Zulrah!	
+[10/8/25 08:26AM] Ghijf received x1 Ring of wealth from Szone Mini Zulrah!	
+[10/8/25 09:27AM] Ghijf received x1 Ring of wealth from Szone Mini Zulrah!	
+[10/8/25 09:56AM] Ghijf received x1 Ring of wealth from Szone Mini Zulrah!	
+[10/8/25 01:12PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/8/25 01:18PM]  Receiving item from trade with Ezpz Ghijf Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Receiving item from trade with Ezpz Ghijf Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Receiving item from trade with Ezpz Ghijf Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Receiving item from trade with Ezpz Ghijf Id: 1641, amount: 1	
+[10/8/25 01:18PM]  Receiving item from trade with Ezpz Ghijf Id: 1641, amount: 1	
+[10/8/25 01:39PM] (CC) Help. Said: Hank	
+[10/8/25 01:39PM] (CC) Help. Said: Happy bday	
+[10/8/25 01:39PM] (CC) Help. Said: Tele to me lol	
+[10/8/25 01:40PM] DEFAULT|2472,3424,1|Said: Suprise	
+[10/8/25 01:40PM] DEFAULT|2471,3423,1|Said: Lolz	
+[10/8/25 01:40PM] DEFAULT|2471,3423,1|Said: U didn't know this xd?	
+[10/8/25 01:40PM] DEFAULT|2473,3420,2|Said: The course works fine	
+[10/8/25 01:42PM] (CC) Help. Said: Nice	
+[10/8/25 01:44PM] (CC) Help. Said: Gzz	
+[10/8/25 01:46PM] HOME_BANK|2784,4065,0|Said: ??	
+[10/8/25 01:46PM] HOME_BANK|2784,4065,0|Said: I see	
+[10/8/25 01:48PM] GLOBAL_BOSS|2141,5016,0|Said: Spoon	
+[10/8/25 01:48PM] GLOBAL_BOSS|2141,5016,0|Said: Can u also check banks	
+[10/8/25 01:48PM] GLOBAL_BOSS|2141,5016,0|Said: I need to sort my bank tbh	
+[10/8/25 01:49PM] GLOBAL_BOSS|2141,5016,0|Said: Well ivv seen the jail zone alr	
+[10/8/25 01:50PM] GLOBAL_BOSS|2141,5016,0|Said: Hey	
+[10/8/25 01:50PM] GLOBAL_BOSS|2141,5016,0|Said: Where to get chilling glovzes	
+[10/8/25 01:50PM] (CC) Help. Said: Hank where to get chilling gloves	
+[10/8/25 01:51PM] (CC) Help. Said: ??	
+[10/8/25 01:51PM] GLOBAL_BOSS|2141,5016,0|Said: I can't take this egg drop	
+[10/8/25 01:51PM] GLOBAL_BOSS|2141,5016,0|Said: Fucksages	
+[10/8/25 01:51PM] GLOBAL_BOSS|2141,5016,0|Said: Need chilling gloves	
+[10/8/25 01:51PM] (CC) Help. Said: Where to get chilling gloves	
+[10/8/25 01:52PM] (CC) Help. Said: Can't pickup my drop	
+[10/8/25 01:53PM] Picked up gr.Item Omega egg, amount: 1	
+[10/8/25 01:53PM] (CC) Help. Said: Lol thats it a quest 	
+[10/8/25 01:53PM] (CC) Help. Said: I hoped i could hatch the egg lol	
+[10/8/25 01:55PM] (CC) Help. Said: What does deity attachment do	
+[10/8/25 01:59PM] EMERALD_ZONE|2604,2772,0|Said: ?	
+[10/8/25 02:04PM] (CC) Help. Said: Staffluck	
+[10/8/25 02:14PM] (CC) Help. Said: Yess	
+[10/8/25 02:20PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/8/25 02:29PM] (CC) Help. Said: Do i had to use ::?	
+[10/8/25 02:30PM] (CC) Help. Said: I was faster but did it like a command	
+[10/8/25 02:49PM] (CC) Help. Said: Guys	
+[10/8/25 02:50PM] (CC) Help. Said: I get double drops?	
+[10/8/25 02:50PM] (CC) Help. Said: Oh nvm	
+[10/8/25 02:55PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/8/25 03:23PM] (CC) Help. Said: We need guides lol idk what that pet do	
+[10/8/25 03:33PM] Has just redeemed a $5 Bond successfully!	
+[10/8/25 03:35PM] (CC) Help. Said: Aight gn	
+[10/8/25 10:02PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/8/25 10:04PM] Ghijf received x1 $1 Scroll from Hellraiser!	
+[10/8/25 10:07PM] (CC) Help. Said: Oh u added vote website	
+[10/8/25 10:11PM] NARAKU|3426,9565,0|Said: Oh really?	
+[10/8/25 10:39PM] (CC) Help. Said: Any way to look npc drops i know loot viewer 	
+[10/8/25 10:39PM] (CC) Help. Said: But thats for npc i want to look for items	
+[10/8/25 10:40PM] Ghijf received x1 PvM ticket pack (10k) from Turoth!	
+[10/8/25 10:44PM] Ghijf received x1 PvM ticket pack (10k) from Energy Skeleton!	
+[10/8/25 10:44PM] Ghijf received x1 PvM ticket pack (10k) from Energy Skeleton!	
+[10/8/25 10:45PM] (CC) Help. Said: Brb gonna bring my son to schol	
+[10/8/25 11:36PM] (CC) Help. Said: Hey is there any welln?	
+[10/8/25 11:37PM] Picked up gr.Item Rancid flour, amount: 1	
+[10/8/25 11:38PM] Player destroying item: -1, amount: 0	
+[10/8/25 11:39PM] Picked up gr.Item Holy symbol, amount: 1	
+[10/8/25 11:42PM] Player destroying item: 307, amount: 1	
+[10/8/25 11:42PM] Player destroying item: 2959, amount: 1	
+[10/8/25 11:42PM] Player destroying item: 2959, amount: 1	
+[10/8/25 11:42PM] Player destroying item: 2959, amount: 1	
+[10/8/25 11:42PM] Player destroying item: 2959, amount: 1	
+[10/8/25 11:42PM] Player destroying item: -1, amount: 0	
+[10/8/25 11:42PM] Player destroying item: -1, amount: 0	
+[10/8/25 11:43PM] Player destroying item: 2959, amount: 1	
+[10/8/25 11:43PM] Player destroying item: 2959, amount: 1	
+[10/8/25 11:43PM] Player destroying item: 2959, amount: 1	
+[10/8/25 11:43PM] Player destroying item: 2959, amount: 1	
+[10/8/25 11:43PM] Player destroying item: 2959, amount: 1	
+[10/8/25 11:43PM] Player destroying item: 2959, amount: 1	
+[10/8/25 11:43PM] Player destroying item: 2959, amount: 1	
+[10/8/25 11:43PM] Player destroying item: -1, amount: 0	
+[10/8/25 11:44PM] Player destroying item: -1, amount: 0	
+[10/8/25 11:44PM] Player destroying item: -1, amount: 0	
+[10/8/25 11:45PM] HOME_BANK|2784,4064,0|Said: Hey	
+[10/8/25 11:45PM] HOME_BANK|2784,4064,0|Said: Do u know if theres a well	
+[10/8/25 11:54PM] Ghijf received x1 PvM ticket pack (10k) from Demon Goddess!	
+[10/9/25 12:28AM] Ghijf received x1 Energy Torva platelegs from Energy Skeleton!	
+[10/9/25 12:41AM] INSTANCE2|2785,4767,32|Said: :daily	
+[10/9/25 12:56AM] Ghijf received x1 Tornado Katana from Turoth!	
+[10/9/25 12:56AM] Ghijf received x1 Bulwark platebody from Turoth!	
+[10/9/25 01:08AM] (CC) Help. Said: Wyd?	
+[10/9/25 01:56AM] Ghijf received x1 Arc mace from Energy Skeleton!	
+[10/9/25 01:57AM] (CC) Help. Said: Evil is right lmao	
+[10/9/25 01:57AM] (CC) Help. Said: P2w	
+[10/9/25 01:57AM] (CC) Help. Said: Zones aint worth grinding	
+[10/9/25 02:10AM] (CC) Help. Said: Lol just when i have to go work its slayer xp	
+[10/9/25 12:57PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/9/25 12:57PM] Has just redeemed a $5 Bond successfully!	
+[10/9/25 12:57PM] (CC) Help. Said: Back	
+[10/9/25 12:58PM] (CC) Help. Said: What you all doing guys	
+[10/9/25 12:59PM] (CC) Help. Said: What raid maybe i can join xd	
+[10/9/25 01:00PM] (CC) Help. Said: Vote fixed yet?	
+[10/9/25 01:09PM] Has just redeemed a $1 Scroll successfully!	
+[10/9/25 01:13PM] (CC) Help. Said: Hank	
+[10/9/25 01:13PM] (CC) Help. Said: Where is the well	
+[10/9/25 01:13PM] (CC) Help. Said: I asked this midday but every1 was afk	
+[10/9/25 01:18PM] (CC) Help. Said: Also if u klick on players pos u dc xd	
+[10/9/25 01:22PM] HOME_BANK|2787,4065,0|Said: Hank	
+[10/9/25 01:22PM] HOME_BANK|2787,4065,0|Said: Where is well	
+[10/9/25 01:22PM] HOME_BANK|2787,4065,0|Said: Nooo	
+[10/9/25 01:22PM] HOME_BANK|2787,4065,0|Said: Exp	
+[10/9/25 01:22PM] HOME_BANK|2787,4065,0|Said: Xd	
+[10/9/25 01:23PM] HOME_BANK|2787,4065,0|Said: Woho	
+[10/9/25 01:23PM] HOME_BANK|2787,4065,0|Said: Lamps time	
+[10/9/25 01:23PM] HOME_BANK|2787,4065,0|Said: 181 invention lamps	
+[10/9/25 01:24PM] HOME_BANK|2787,4065,0|Said: 25k	
+[10/9/25 01:24PM] HOME_BANK|2787,4065,0|Said: 25740	
+[10/9/25 01:25PM] HOME_BANK|2787,4065,0|Said: 97invention	
+[10/9/25 01:25PM] HOME_BANK|2787,4065,0|Said: Pffffffff	
+[10/9/25 01:25PM] Picked up gr.Item Levincia tokens, amount: 28750	
+[10/9/25 01:28PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/9/25 01:30PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/9/25 01:40PM] (CC) Help. Said: Naaa zones are timewaste	
+[10/9/25 01:41PM] (CC) Help. Said: /for nihils u need 75k borks lol 	
+[10/9/25 01:41PM] (CC) Help. Said: Last endgame zone nihil set 1k stats e	
+[10/9/25 01:41PM] (CC) Help. Said: Do slayer the armour is 5k e lmao	
+[10/9/25 01:44PM] (CC) Help. Said: No	
+[10/9/25 02:01PM] Ghijf received x1 Ruby Mystery Box from Inuyasha!	
+[10/9/25 02:09PM] (CC) Help. Said: Gz	
+[10/9/25 02:12PM] (CC) Help. Said: I thought we were beta	
+[10/9/25 02:13PM] Has just redeemed a $1 Scroll successfully!	
+[10/9/25 02:14PM] HELLRAISER|3100,5534,0|Said: There 2 spawned	
+[10/9/25 02:14PM] HELLRAISER|3100,5534,0|Said: Lol	
+[10/9/25 02:24PM] SLAYER_CHAMPION|3488,4703,0|Said: This shet borring	
+[10/9/25 02:28PM] SLAYER_CHAMPION|3488,4703,0|Said: Hank	
+[10/9/25 02:28PM] SLAYER_CHAMPION|3488,4703,0|Said: Stay of it	
+[10/9/25 02:28PM] SLAYER_CHAMPION|3488,4703,0|Said: U make me going off the list	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3488,4703,0|Said: If hank gets drop now	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3488,4703,0|Said: I quit	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3488,4703,0|Said: U can't	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3488,4703,0|Said: Ur staff	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3488,4703,0|Said: U stay here	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3488,4703,0|Said: Forver	
+[10/9/25 02:30PM] SLAYER_CHAMPION|3488,4703,0|Said: Ur a peace of hanks heart	
+[10/9/25 02:34PM] SLAYER_CHAMPION|3488,4702,0|Said: Demote	
+[10/9/25 02:36PM] SLAYER_CHAMPION|3488,4702,0|Said: Vboss	
+[10/9/25 02:36PM] (CC) Help. Said: Need help from hank the tank	
+[10/9/25 02:42PM] (CC) Help. Said: Only for u i guess	
+[10/9/25 02:42PM] Ghijf received x1 $1 Scroll from Nephilim Warrior!	
+[10/9/25 02:44PM] EVENTS_ROOM|1698,4257,0|Said: Haha	
+[10/9/25 02:44PM] EVENTS_ROOM|1698,4257,0|Said: Broke n	
+[10/9/25 02:44PM] EVENTS_ROOM|1696,4259,0|Said: U accept fast	
+[10/9/25 02:44PM] EVENTS_ROOM|1696,4259,0|Said: Ur broke?	
+[10/9/25 02:44PM] Has just redeemed a $1 Scroll successfully!	
+[10/9/25 11:42PM] Login. ip: 212.102.51.117, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/9/25 11:43PM] (CC) Help. Said: Gm	
+[10/9/25 11:46PM] (CC) Help. Said: Some1 wanna come join popping balloons?	
+[10/9/25 11:47PM] (CC) Help. Said: I logged out yday at drop party lol i login &and all balloons still here	
+[10/9/25 11:47PM] EVENTS_ROOM|1690,4257,0|Said: They all empty	
+[10/9/25 11:47PM] EVENTS_ROOM|1690,4257,0|Said: L0l	
+[10/9/25 11:54PM] DEFAULT|2785,4075,0|Said: D::daily	
+[10/9/25 11:59PM]  Gave item in trade to Ezpz Ghijf. Id: 8328, amount: 1	
+[10/9/25 11:59PM]  Gave item in trade to Ezpz Ghijf. Id: 8327, amount: 1	
+[10/9/25 11:59PM]  Gave item in trade to Ezpz Ghijf. Id: 8326, amount: 1	
+[10/9/25 11:59PM]  Gave item in trade to Ezpz Ghijf. Id: 22084, amount: 1	
+[10/9/25 11:59PM]  Gave item in trade to Ezpz Ghijf. Id: 6737, amount: 1	
+[10/9/25 11:59PM]  Gave item in trade to Ezpz Ghijf. Id: 23044, amount: 1	
+[10/9/25 11:59PM]  Gave item in trade to Ezpz Ghijf. Id: 19892, amount: 1	
+[10/10/25 12:03AM] (CC) Help. Said: Balloons are empty	
+[10/10/25 12:14AM]  Gave item in trade to Ezpz Ghijf. Id: 17817, amount: 395	
+[10/10/25 12:30AM]  Gave item in trade to Ezpz Ghijf. Id: 3285, amount: 1177	
+[10/10/25 12:31AM] HOME_BANK|2780,4065,0|Said: B::edge	
+[10/10/25 12:31AM] HOME_BANK|2780,4065,0|Said: Hmm 	
+[10/10/25 12:39AM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 12:40AM]  Receiving item from trade with Ezpz Ghijf Id: 3285, amount: 662	
+[10/10/25 12:40AM]  Receiving item from trade with Ezpz Ghijf Id: 15003, amount: 1	
+[10/10/25 12:40AM]  Receiving item from trade with Ezpz Ghijf Id: 19114, amount: 1	
+[10/10/25 12:41AM]  Gave item in trade to Ezpz Ghijf. Id: 18753, amount: 1	
+[10/10/25 12:49AM] DEFAULT|2781,4056,0|Said: Pic::afk	
+[10/10/25 01:29AM] HELLRAISER|3108,5534,0|Said: Just got legends sang staff from legend raids	
+[10/10/25 01:29AM] HELLRAISER|3108,5534,0|Said: 1:300	
+[10/10/25 01:43AM] (CC) Help. Said: Same	
+[10/10/25 01:54AM] (CC) Help. Said: Boss slayer is a joke lol complete a task 20 points	
+[10/10/25 01:55AM] (CC) Help. Said: Not even regu slayer points lol	
+[10/10/25 02:01AM] (CC) Help. Said: Lmao done with this crab	
+[10/10/25 02:01AM] (CC) Help. Said: P2w big	
+[10/10/25 02:03AM] Login. ip: 212.102.51.117, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/10/25 02:42AM] Ghijf received x1 Goodiebag box from Raditz!	
+[10/10/25 02:43AM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 02:50AM] Opened a cracker containing a Purple partyhat on Ezpz Ghijf	
+[10/10/25 02:50AM] (CC) Help. Said: Got purple p hat	
+[10/10/25 12:45PM] (CC) Help. Said: Yo just got home	
+[10/10/25 12:46PM] (CC) Help. Said: Hank	
+[10/10/25 12:47PM] (CC) Help. Said: Did i miss drop party?	
+[10/10/25 12:59PM] (CC) Help. Said: Im at nm	
+[10/10/25 12:59PM] (CC) Help. Said: Come 1hit it xd	
+[10/10/25 01:00PM] (CC) Help. Said: Does party hats have any use?	
+[10/10/25 01:00PM] Picked up gr.Item $1 Scroll, amount: 1	
+[10/10/25 01:01PM] Picked up gr.Item Owner cape goodiebag, amount: 1	
+[10/10/25 01:01PM] EVENTS_ROOM|1701,4265,0|Said: 1	
+[10/10/25 01:01PM] EVENTS_ROOM|1702,4265,0|Said: 1$	
+[10/10/25 01:02PM] Picked up gr.Item Owner cape goodiebag, amount: 1	
+[10/10/25 01:02PM] Picked up gr.Item $1 Scroll, amount: 1	
+[10/10/25 01:04PM] EVENTS_ROOM|1699,4256,0|Said: Almost done??	
+[10/10/25 01:05PM] Picked up gr.Item Owner Potion, amount: 1	
+[10/10/25 01:05PM] EVENTS_ROOM|1696,4255,0|Said: Nice try	
+[10/10/25 01:06PM] Picked up gr.Item Blood Twisted bow, amount: 1	
+[10/10/25 01:06PM] EVENTS_ROOM|1700,4254,0|Said: Blood t bow	
+[10/10/25 01:06PM] EVENTS_ROOM|1701,4254,0|Said: All gone?	
+[10/10/25 01:07PM] Login. ip: 212.102.51.117, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/10/25 01:07PM] EVENTS_ROOM|1695,4257,0|Said: Ffs	
+[10/10/25 01:07PM] EVENTS_ROOM|1695,4257,0|Said: Now u say it	
+[10/10/25 01:07PM] EVENTS_ROOM|1695,4257,0|Said: 'only wedapon	
+[10/10/25 01:07PM] EVENTS_ROOM|1695,4257,0|Said: I was woot	
+[10/10/25 01:07PM] EVENTS_ROOM|1699,4252,0|Said: Idk where i ended	
+[10/10/25 01:08PM] EVENTS_ROOM|1697,4255,0|Said: L0l	
+[10/10/25 01:08PM] Has just redeemed a $25 Bond successfully!	
+[10/10/25 01:08PM] Has just redeemed a $25 Bond successfully!	
+[10/10/25 01:09PM] EVENTS_ROOM|1696,4258,0|Said: I got new rank	
+[10/10/25 01:09PM] EVENTS_ROOM|1696,4258,0|Said: Missed 2 owner goodys gave me bond	
+[10/10/25 01:09PM] Login. ip: 212.102.51.117, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/10/25 01:10PM] EVENTS_ROOM|1696,4258,0|Said: Who	
+[10/10/25 01:10PM] EVENTS_ROOM|1696,4258,0|Said: U kicked me?	
+[10/10/25 01:10PM] EVENTS_ROOM|1696,4258,0|Said: Or i dced?	
+[10/10/25 01:11PM] Picked up gr.Item Fortune Chest, amount: 5	
+[10/10/25 01:11PM] EVENTS_ROOM|1696,4259,0|Said: All gone	
+[10/10/25 01:12PM] Picked up gr.Item Owner cape goodiebag, amount: 1	
+[10/10/25 01:15PM] EVENTS_ROOM|1688,4256,0|Said: Not purple	
+[10/10/25 01:15PM] EVENTS_ROOM|1688,4256,0|Said: Pink	
+[10/10/25 01:16PM] Has just redeemed a $25 Bond successfully!	
+[10/10/25 01:16PM] EVENTS_ROOM|1694,4254,0|Said: Say something im giving up on you	
+[10/10/25 01:17PM] EVENTS_ROOM|1694,4254,0|Said: That song i hate it	
+[10/10/25 01:18PM] Has just redeemed a $10 Bond successfully!	
+[10/10/25 01:18PM] EVENTS_ROOM|1694,4254,0|Said: Balloons keep respawning lol	
+[10/10/25 01:19PM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 01:20PM] EVENTS_ROOM|1696,4256,0|Said: Hank	
+[10/10/25 01:20PM] EVENTS_ROOM|1696,4256,0|Said: Do party hats have any benefit	
+[10/10/25 01:21PM] EVENTS_ROOM|1696,4256,0|Said: Got cracker from goody	
+[10/10/25 01:21PM] EVENTS_ROOM|1696,4256,0|Said: Can't wear as cosmetic	
+[10/10/25 01:21PM] EVENTS_ROOM|1696,4256,0|Said: Or make it x2 speed for afk idk	
+[10/10/25 01:22PM] EVENTS_ROOM|1693,4255,0|Said: Aight gonna train my range	
+[10/10/25 01:23PM] EVENTS_ROOM|1695,4255,0|Said: Is blood twisted aoe?	
+[10/10/25 01:23PM] EVENTS_ROOM|1695,4255,0|Said: Sang staff is aoe	
+[10/10/25 01:23PM] EVENTS_ROOM|1695,4255,0|Said: W'll see	
+[10/10/25 01:24PM] (CC) Help. Said: Does x2 kc pet works for slayer?	
+[10/10/25 01:24PM] (CC) Help. Said: Its ::perks	
+[10/10/25 01:27PM] (CC) Help. Said: Sell me? need some beter gear lol i suck rn	
+[10/10/25 01:45PM] Ghijf received x1 PvM ticket pack (10k) from Turoth!	
+[10/10/25 01:48PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/10/25 01:50PM] Ghijf received x1 PvM ticket pack (10k) from Energy Skeleton!	
+[10/10/25 01:51PM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 01:54PM] Ghijf received x1 Arc mace from Energy Skeleton!	
+[10/10/25 02:07PM] (CC) Help. Said: Wasn't giveaway was drop party	
+[10/10/25 02:07PM] (CC) Help. Said: And yes	
+[10/10/25 02:08PM] (CC) Help. Said: Idk	
+[10/10/25 02:18PM] DEFAULT|2795,4065,0|Said: Wta staff	
+[10/10/25 02:18PM] DEFAULT|2795,4065,0|Said: What staff u use	
+[10/10/25 02:18PM] DEFAULT|2795,4065,0|Said: Sho	
+[10/10/25 02:19PM] DEFAULT|2795,4065,0|Said: Nice	
+[10/10/25 02:20PM] (CC) Help. Said: Im in for pc lol	
+[10/10/25 02:20PM] Has just redeemed a $5 Bond successfully!	
+[10/10/25 02:21PM] (CC) Help. Said: Omw	
+[10/10/25 02:22PM] PEST_CONTROL_GAME|2673,2592,0|Said: Np	
+[10/10/25 02:24PM] PEST_CONTROL_GAME|2637,2592,0|Said: I totally didn't know about startertasks lmao	
+[10/10/25 02:24PM] PEST_CONTROL_GAME|2637,2592,0|Said: Just claimed em all	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2663,2639,0|Said: I can help with legend raid	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2663,2639,0|Said: That sez	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2663,2639,0|Said: U don't need slay	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2663,2639,0|Said: I can inv u	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2663,2639,0|Said: Just don't die	
+[10/10/25 02:25PM] PEST_CONTROL_BOAT|2663,2639,0|Said: Or instance ends	
+[10/10/25 02:25PM] PEST_CONTROL_GAME|2657,2588,0|Said: Prob for exp	
+[10/10/25 02:26PM] PEST_CONTROL_GAME|2656,2572,0|Said: Done	
+[10/10/25 02:26PM] PEST_CONTROL_GAME|2656,2572,0|Said: Lol	
+[10/10/25 02:27PM] PEST_CONTROL_GAME|2638,2591,0|Said: Idk	
+[10/10/25 02:27PM] PEST_CONTROL_GAME|2638,2591,0|Said: My first time doing this	
+[10/10/25 02:28PM] PEST_CONTROL_GAME|2655,2609,0|Said: My mouse is a spacebar	
+[10/10/25 02:28PM] PEST_CONTROL_GAME|2655,2609,0|Said: Lmao	
+[10/10/25 02:28PM] PEST_CONTROL_GAME|2655,2609,0|Said: Logged in while i had spagebar	
+[10/10/25 02:28PM] PEST_CONTROL_GAME|2655,2609,0|Said: So annoying	
+[10/10/25 02:29PM] PEST_CONTROL_BOAT|2662,2640,0|Said: Spoon	
+[10/10/25 02:29PM] PEST_CONTROL_BOAT|2655,2586,0|Said: Do ::empty and ::copy hank	
+[10/10/25 02:30PM] PEST_CONTROL_GAME|2637,2590,0|Said: Maxhits?	
+[10/10/25 02:30PM] PEST_CONTROL_GAME|2637,2590,0|Said: 129k 	
+[10/10/25 02:31PM] PEST_CONTROL_GAME|2655,2609,0|Said: :d	
+[10/10/25 02:31PM] PEST_CONTROL_GAME|2655,2609,0|Said: Cmoon spoon	
+[10/10/25 02:31PM] PEST_CONTROL_GAME|2655,2609,0|Said: Hit itttt	
+[10/10/25 02:31PM] PEST_CONTROL_GAME|2655,2609,0|Said: Ur behind	
+[10/10/25 02:31PM] PEST_CONTROL_GAME|2655,2609,0|Said: Xd	
+[10/10/25 02:31PM] PEST_CONTROL_GAME|2655,2609,0|Said: Copy me	
+[10/10/25 02:31PM] PEST_CONTROL_GAME|2657,2639,0|Said: Eat my p ring	
+[10/10/25 02:31PM] DEFAULT|2657,2639,0|Said: Yeah ty u lol	
+[10/10/25 02:31PM] DEFAULT|2657,2639,0|Said: Task done	
+[10/10/25 02:32PM] DEFAULT|2657,2643,0|Said: Legends?	
+[10/10/25 02:32PM] (CC) Help. Said: Minigame legends raid	
+[10/10/25 02:33PM] ZOMBIE|2252,4111,28|Said: Don't die	
+[10/10/25 02:33PM] ZOMBIE|2252,4111,28|Said: Or ur get kicked autop	
+[10/10/25 02:33PM] ZOMBIE|2251,4108,28|Said: This fast	
+[10/10/25 02:35PM] ZOMBIE|2251,4113,28|Said: Gl 	
+[10/10/25 02:35PM] ZOMBIE|2251,4113,28|Said: Boss now	
+[10/10/25 02:35PM] ZOMBIE_LOBBY|2222,4115,0|Said: Lo	
+[10/10/25 02:35PM] ZOMBIE_LOBBY|2222,4115,0|Said: 2hitted it	
+[10/10/25 02:35PM] ZOMBIE_LOBBY|2222,4114,0|Said: What happend	
+[10/10/25 02:35PM] ZOMBIE_LOBBY|2222,4114,0|Said: Ur behind	
+[10/10/25 02:35PM] ZOMBIE_LOBBY|2222,4114,0|Said: L0l	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2227,4115,0|Said: Spoon	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2227,4115,0|Said: Maxhit?	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2227,4115,0|Said:  ::maxhit	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2227,4115,0|Said: Im at 129k	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2227,4115,0|Said: Not using scroll	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2227,4115,0|Said: L0l	
+[10/10/25 02:37PM] ZOMBIE_LOBBY|2227,4115,0|Said: Looooooooooolk	
+[10/10/25 02:37PM] ZOMBIE_LOBBY|2227,4115,0|Said: I can go 300k 	
+[10/10/25 02:37PM] ZOMBIE_LOBBY|2227,4115,0|Said: Ok	
+[10/10/25 02:38PM] PEST_CONTROL_GAME|2638,2590,0|Said: O i can't trade u	
+[10/10/25 02:38PM] PEST_CONTROL_GAME|2638,2590,0|Said: Ur ironman	
+[10/10/25 02:38PM] (CC) Help. Said: Im hitting way more than u for sure	
+[10/10/25 02:39PM] (CC) Help. Said: I don't even got owner cape lol	
+[10/10/25 02:39PM] (CC) Help. Said: Im hitting 50ks 	
+[10/10/25 02:39PM] (CC) Help. Said: Lets go global to see who hit more	
+[10/10/25 02:40PM] PEST_CONTROL_GAME|2656,2574,0|Said: See	
+[10/10/25 02:40PM] PEST_CONTROL_GAME|2656,2574,0|Said: Dmg liqst	
+[10/10/25 02:40PM] PEST_CONTROL_GAME|2656,2574,0|Said: Im already up u	
+[10/10/25 02:40PM] PEST_CONTROL_BOAT|2662,2639,0|Said: No boost	
+[10/10/25 02:40PM] PEST_CONTROL_BOAT|2662,2639,0|Said: Only a pot	
+[10/10/25 02:40PM] PEST_CONTROL_BOAT|2662,2639,0|Said: Owner pot	
+[10/10/25 02:40PM] PEST_CONTROL_BOAT|2662,2639,0|Said: L0l	
+[10/10/25 02:40PM] PEST_CONTROL_BOAT|2662,2639,0|Said: Skills are 240 now	
+[10/10/25 02:41PM] PEST_CONTROL_GAME|2637,2592,0|Said: If i use scroll i hit 300ks	
+[10/10/25 02:41PM] PEST_CONTROL_GAME|2655,2609,0|Said: Wanna sell me a owner cape for sang ?	
+[10/10/25 02:42PM] PEST_CONTROL_GAME|2667,2591,0|Said: Legend sang staff	
+[10/10/25 02:42PM] PEST_CONTROL_GAME|2672,2592,0|Said: Aah	
+[10/10/25 02:42PM] PEST_CONTROL_GAME|2672,2592,0|Said: Ok	
+[10/10/25 02:43PM] PEST_CONTROL_GAME|2657,2574,0|Said: Thats the only is i have lol	
+[10/10/25 02:43PM] PEST_CONTROL_GAME|2657,2574,0|Said: Don't have any else good items	
+[10/10/25 02:44PM] DEFAULT|2659,2647,0|Said: What?	
+[10/10/25 02:44PM] DEFAULT|2659,2647,0|Said: Whut u say	
+[10/10/25 02:44PM] DEFAULT|2659,2647,0|Said: Oh	
+[10/10/25 02:44PM] DEFAULT|2659,2647,0|Said: I got the owner pot from drop party	
+[10/10/25 02:44PM] DEFAULT|2659,2647,0|Said: The legend sang from raids	
+[10/10/25 02:45PM] DEFAULT|2659,2647,0|Said: Thats it i guess	
+[10/10/25 02:45PM] DEFAULT|2659,2647,0|Said: Hm stats do ur arm givv	
+[10/10/25 02:45PM] DEFAULT|2659,2647,0|Said: Better do slayer i guess	
+[10/10/25 02:45PM] DEFAULT|2659,2647,0|Said: 1250 in all	
+[10/10/25 02:45PM] DEFAULT|2659,2647,0|Said: Givv also drop boost and comb	
+[10/10/25 02:46PM] DEFAULT|2659,2647,0|Said: 15%dr per piece	
+[10/10/25 02:46PM] DEFAULT|2659,2647,0|Said: Aight pce	
+[10/10/25 02:46PM] DEFAULT|2659,2647,0|Said: Going do some zonesunlock i guess	
+[10/10/25 02:46PM] DEFAULT|2659,2647,0|Said: Naa gonna do slay	
+[10/10/25 02:46PM] DEFAULT|2659,2647,0|Said: Wanna duo?	
+[10/10/25 02:47PM] DEFAULT|2659,2647,0|Said: Whats ur slay	
+[10/10/25 02:47PM] DEFAULT|2659,2647,0|Said: Gonna be fast	
+[10/10/25 02:47PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/10/25 02:56PM] HOME_BANK|2783,4059,0|Said: Spoon	
+[10/10/25 02:57PM] DEFAULT|2784,4052,0|Said: Slay lvl?	
+[10/10/25 02:57PM] DEFAULT|2785,4048,0|Said: Why i can't inv u on duo slay	
+[10/10/25 03:03PM] (CC) Help. Said: Yes	
+[10/10/25 03:05PM] (CC) Help. Said: For once i beat spoon on some dmg hes so jealious lmao	
+[10/10/25 03:08PM] (CC) Help. Said: Don't think so lol	
+[10/10/25 03:08PM] (CC) Help. Said: Daym	
+[10/10/25 03:10PM] (CC) Help. Said: I got 97 and dissolved hella lotitems	
+[10/10/25 03:11PM] HOME_BANK|2784,4065,0|Said: I got 118	
+[10/10/25 03:11PM] HOME_BANK|2784,4065,0|Said: On ezpz mode	
+[10/10/25 03:11PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/10/25 03:11PM] HOME_BANK|2782,4065,0|Said: Let him pay	
+[10/10/25 03:11PM] HOME_BANK|2782,4065,0|Said: U payed for ur skills tho	
+[10/10/25 03:11PM] HOME_BANK|2782,4065,0|Said: Xd	
+[10/10/25 03:12PM] HOME_BANK|2781,4064,0|Said: Wich one	
+[10/10/25 03:12PM] HOME_BANK|2781,4064,0|Said: 240	
+[10/10/25 03:12PM] HOME_BANK|2781,4064,0|Said: The f	
+[10/10/25 03:12PM] HOME_BANK|2781,4064,0|Said: How 	
+[10/10/25 03:13PM] HOME_BANK|2781,4064,0|Said: Invention?	
+[10/10/25 03:19PM] HOME_BANK|2782,4069,0|Said: Xd	
+[10/10/25 03:19PM] HOME_BANK|2782,4069,0|Said: Let him grrriiind	
+[10/10/25 03:20PM] DEFAULT|2783,4054,0|Said: Let im be ur slave xd	
+[10/10/25 03:20PM] DEFAULT|2783,4046,0|Said: Think the pot u get from a casket	
+[10/10/25 03:20PM] DEFAULT|2783,4046,0|Said: Not sure	
+[10/10/25 03:23PM] (CC) Help. Said: Boooooe	
+[10/10/25 03:24PM] (CC) Help. Said: I woulda let him grind	
+[10/10/25 03:24PM] (CC) Help. Said: Ur buying it from him	
+[10/10/25 03:24PM] DEFAULT|2787,4055,0|Said: 100m is nothing	
+[10/10/25 03:25PM] DEFAULT|2787,4055,0|Said: I would say 3owner items cause u need owner item to sacrefy to enter zone	
+[10/10/25 03:29PM] (CC) Help. Said: Why can't we do demon of diety as instance	
+[10/10/25 03:30PM] DEFAULT|2843,9386,0|Said: I got this for slayer lol	
+[10/10/25 03:30PM] DEFAULT|2843,9386,0|Said: 226 lefd	
+[10/10/25 03:30PM] DEFAULT|2843,9386,0|Said: Ffffff	
+[10/10/25 03:31PM] Ghijf received x2 Sapphire mystery box from Demon Of Deity!	
+[10/10/25 03:42PM] (CC) Help. Said: Staffluck	
+[10/10/25 04:38PM]  Gave item in trade to Ezpz Ghijf. Id: 17011, amount: 1	
+[10/10/25 04:48PM]  Receiving item from trade with Ezpz Ghijf Id: 12855, amount: 32000	
+[10/10/25 04:48PM]  Receiving item from trade with Ezpz Ghijf Id: 19114, amount: 1	
+[10/10/25 04:48PM]  Receiving item from trade with Ezpz Ghijf Id: 15288, amount: 1	
+[10/10/25 04:48PM]  Receiving item from trade with Ezpz Ghijf Id: 20489, amount: 3	
+[10/10/25 04:48PM]  Receiving item from trade with Ezpz Ghijf Id: 19115, amount: 2	
+[10/10/25 04:48PM]  Receiving item from trade with Ezpz Ghijf Id: 6199, amount: 21	
+[10/10/25 04:48PM]  Receiving item from trade with Ezpz Ghijf Id: 989, amount: 57	
+[10/10/25 05:16PM] (CC) Help. Said: Where to use coins ?	
+[10/10/25 05:16PM] Ghijf received x1 PvM ticket pack (10k) from Turoth!	
+[10/10/25 05:20PM] (CC) Help. Said: Welcome	
+[10/10/25 05:22PM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 05:23PM] (CC) Help. Said: For claim votes u have to pm hank atm	
+[10/10/25 05:35PM] Ghijf received x1 Diabolical platebody from Demon Goddess!	
+[10/10/25 05:45PM] (CC) Help. Said: Some1 wanna buy purp p hat?	
+[10/10/25 06:12PM] (CC) Help. Said: I buy	
+[10/10/25 06:12PM] (CC) Help. Said: Oh nvm was looking for owner 	
+[10/10/25 06:20PM]  Receiving item from trade with Ezpz Ghijf Id: 17011, amount: 1	
+[10/10/25 06:28PM] (CC) Help. Said: Hank?	
+[10/10/25 06:42PM] Has just redeemed a Summoning charm box successfully!	
+[10/10/25 06:42PM] Has just redeemed a Summoning charm box successfully!	
+[10/10/25 06:42PM] Has just redeemed a Summoning charm box successfully!	
+[10/10/25 06:44PM]  Gave item in trade to Ezpz Ghijf. Id: 17011, amount: 1	
+[10/10/25 07:00PM] NARAKU|3429,9568,0|Said: Oh	
+[10/10/25 07:00PM] NARAKU|3429,9568,0|Said: Wrong weapon on	
+[10/10/25 07:01PM] NARAKU|3429,9568,0|Said: Gonna be more	
+[10/10/25 07:01PM] NARAKU|3429,9568,0|Said: Boom	
+[10/10/25 07:01PM] NARAKU|3429,9568,0|Said: Wanna do some raids?	
+[10/10/25 07:02PM] (CC) Help. Said: Wb sister	
+[10/10/25 07:02PM] HOME_BANK|2784,4065,0|Said: Wtf	
+[10/10/25 07:02PM] HOME_BANK|2784,4065,0|Said: Was in a raid and died	
+[10/10/25 07:02PM] HOME_BANK|2784,4065,0|Said: Random	
+[10/10/25 07:02PM] HOME_BANK|2784,4065,0|Said: Server broken lol	
+[10/10/25 07:17PM]  Receiving item from trade with Ezpz Ghijf Id: 15501, amount: 1	
+[10/10/25 07:17PM]  Receiving item from trade with Ezpz Ghijf Id: 11137, amount: 10	
+[10/10/25 07:17PM]  Receiving item from trade with Ezpz Ghijf Id: 2026, amount: 25	
+[10/10/25 07:17PM]  Receiving item from trade with Ezpz Ghijf Id: 23020, amount: 1	
+[10/10/25 07:17PM]  Receiving item from trade with Ezpz Ghijf Id: 5022, amount: 52742	
+[10/10/25 07:17PM]  Receiving item from trade with Ezpz Ghijf Id: 23402, amount: 224	
+[10/10/25 07:17PM]  Receiving item from trade with Ezpz Ghijf Id: 10025, amount: 2	
+[10/10/25 07:17PM] Has just redeemed a $5 Bond successfully!	
+[10/10/25 07:20PM] (CC) Help. Said: Aight gn guys	
+[10/11/25 12:51AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 12:55AM] Ghijf received x1 PvM ticket pack (10k) from Arachne!	
+[10/11/25 01:13AM] Ghijf received x1 Webby legs from Arachne!	
+[10/11/25 01:54AM] DEFAULT|2731,4514,0|Said: 82::ruby	
+[10/11/25 03:26AM] Has just redeemed a $25 Bond successfully!	
+[10/11/25 03:26AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 03:28AM] (CC) Help. Said: Sup guys	
+[10/11/25 03:36AM] (CC) Help. Said: Wyd	
+[10/11/25 03:38AM]  Gave item in trade to Ezpz Ghijf. Id: 18750, amount: 1	
+[10/11/25 03:38AM]  Receiving item from trade with Ezpz Ghijf Id: 17011, amount: 1	
+[10/11/25 03:38AM] (CC) Help. Said: Nice i was doing slayer but not worth the grinding lol	
+[10/11/25 03:40AM]  Gave item in trade to Ezpz Ghijf. Id: 23242, amount: 1	
+[10/11/25 03:40AM]  Receiving item from trade with Ezpz Ghijf Id: 23242, amount: 1	
+[10/11/25 03:41AM]  Gave item in trade to Ezpz Ghijf. Id: 17011, amount: 1	
+[10/11/25 03:41AM]  Receiving item from trade with Ezpz Ghijf Id: 18750, amount: 1	
+[10/11/25 03:43AM] (CC) Help. Said: Gz	
+[10/11/25 03:44AM] (CC) Help. Said: I never had that lol	
+[10/11/25 03:48AM] (CC) Help. Said: Hmmm so only way to traun summo is lamps i guess	
+[10/11/25 03:48AM] (CC) Help. Said: Cause u need 120 to prestige lol gg	
+[10/11/25 03:50AM] (CC) Help. Said: Yes also need pvp if i calculate it	
+[10/11/25 03:51AM] (CC) Help. Said: Whats ur maxhit rn? ::maxhit	
+[10/11/25 03:52AM] (CC) Help. Said: I wish we could send items from coll to bank	
+[10/11/25 03:53AM] (CC) Help. Said: 3.2k?	
+[10/11/25 03:57AM] (CC) Help. Said: U need to borrow some better weap?	
+[10/11/25 03:57AM] (CC) Help. Said: I got mage u can lend or use a time might helps u progress	
+[10/11/25 03:58AM] (CC) Help. Said: I got legends sang staff	
+[10/11/25 03:58AM] (CC) Help. Said: 20k mage 	
+[10/11/25 04:00AM] (CC) Help. Said: Hm stats has urs	
+[10/11/25 04:02AM] (CC) Help. Said: Come home u can try the diff	
+[10/11/25 04:04AM] Picked up gr.Item Mind rune, amount: 1	
+[10/11/25 04:06AM] (CC) Help. Said: U sure? u can trey diff between 10k or 20k my alt is at home just trade him 	
+[10/11/25 04:07AM] (CC) Help. Said: Trade it	
+[10/11/25 04:10AM] (CC) Help. Said: Ikr i voted also	
+[10/11/25 04:13AM] HELLRAISER|3105,5535,0|Said: Sup	
+[10/11/25 04:13AM] HELLRAISER|3105,5535,0|Said: What staff is that	
+[10/11/25 04:14AM] HELLRAISER|3105,5535,0|Said: Stats?	
+[10/11/25 04:14AM] HELLRAISER|3105,5535,0|Said: Trade me at home	
+[10/11/25 04:14AM] Ghijf received x1 Hellraiser head from Hellraiser!	
+[10/11/25 04:16AM] (CC) Help. Said: Night	
+[10/11/25 04:49AM] Ghijf received x1 Oni helm from Oni!	
+[10/11/25 05:01AM] (CC) Help. Said: Gzz how u get it	
+[10/11/25 05:02AM] (CC) Help. Said: Ahh	
+[10/11/25 05:07AM] VOTE_BOSS|3428,4125,4|Said: Hye guys	
+[10/11/25 05:08AM] VOTE_BOSS|3428,4125,4|Said: Vote fixed?	
+[10/11/25 05:08AM] VOTE_BOSS|3428,4125,4|Said: How did it spawn	
+[10/11/25 05:08AM] VOTE_BOSS|3428,4125,4|Said: Lol	
+[10/11/25 05:08AM] VOTE_BOSS|3428,4125,4|Said: Hank the wank woke up like a tank	
+[10/11/25 05:08AM] VOTE_BOSS|3428,4125,4|Said: L0lol0lol0	
+[10/11/25 05:08AM] VOTE_BOSS|3428,4125,4|Said: Watch my dmg damn	
+[10/11/25 05:09AM] VOTE_BOSS|3428,4125,4|Said: Not even an owner cape on	
+[10/11/25 05:09AM] VOTE_BOSS|3428,4125,4|Said: Blood t bow	
+[10/11/25 05:09AM] VOTE_BOSS|3428,4125,4|Said: 47k ranged	
+[10/11/25 05:09AM] VOTE_BOSS|3428,4125,4|Said: Drop party	
+[10/11/25 05:10AM] VOTE_BOSS|3428,4125,4|Said: 3	
+[10/11/25 05:10AM] VOTE_BOSS|3428,4125,4|Said: L0l	
+[10/11/25 05:10AM] VOTE_BOSS|3428,4125,4|Said: Had 2 oiwner goodies	
+[10/11/25 05:10AM] VOTE_BOSS|3428,4125,4|Said: 2 missed	
+[10/11/25 05:10AM] VOTE_BOSS|3428,4125,4|Said: Gave me 50$ bond	
+[10/11/25 05:10AM] Ghijf received x1 2X Damage Scroll (30 Min) from Vote Boss!	
+[10/11/25 05:10AM] VOTE_BOSS|3428,4125,4|Said: Better scroll than nothing i guess	
+[10/11/25 05:11AM] (CC) Help. Said: Hank u here	
+[10/11/25 05:12AM] (CC) Help. Said: What does crimson scroll do	
+[10/11/25 05:19AM] (CC) Help. Said: Doesn'ty work	
+[10/11/25 05:21AM] (CC) Help. Said: Aight gn	
+[10/11/25 05:21AM] NEPHILIM|2147,3296,0|Said: Sup	
+[10/11/25 05:24AM] Player destroying item: -1, amount: 0	
+[10/11/25 05:26AM] (CC) Help. Said: Can u tp me home	
+[10/11/25 05:26AM] (CC) Help. Said: Im stuck	
+[10/11/25 05:26AM] (CC) Help. Said: Can't tele out of here lol	
+[10/11/25 05:27AM] (CC) Help. Said: Heloooo	
+[10/11/25 05:28AM] ZOMBIE|2258,4114,28|Said: I can't tp out of this raid	
+[10/11/25 05:28AM] ZOMBIE|2258,4114,28|Said: Lol	
+[10/11/25 05:28AM] ZOMBIE|2258,4114,28|Said: I don't wanna relog cause i got 4scrolls active	
+[10/11/25 05:28AM] ZOMBIE|2259,4116,28|Said:   :sendhome or unjail idk	
+[10/11/25 05:29AM] ZOMBIE|2259,4116,28|Said: ?	
+[10/11/25 05:29AM] ZOMBIE|2259,4116,28|Said: L00l	
+[10/11/25 05:29AM] ZOMBIE|2249,4106,28|Said: I tried	
+[10/11/25 05:29AM] ZOMBIE|2241,4111,28|Said: Doesn't work	
+[10/11/25 05:29AM] ZOMBIE|2247,4117,28|Said: Do ::unjail ghijf	
+[10/11/25 05:29AM] ZOMBIE|2247,4117,28|Said:    ::sendhome ghijf	
+[10/11/25 05:30AM] ZOMBIE_LOBBY|2222,4115,0|Said: Tyy	
+[10/11/25 05:30AM] (CC) Help. Said: So coins are useless right	
+[10/11/25 05:33AM] NEPHILIM|2147,3296,0|Said: U sold the owner pot	
+[10/11/25 05:36AM] NEPHILIM|2147,3296,0|Said: Hank	
+[10/11/25 05:36AM] NEPHILIM|2147,3296,0|Said: What does crimson scroll do	
+[10/11/25 05:36AM] NEPHILIM|2147,3296,0|Said: Also in feel like ::whatdrops doesn't work i can't find anything im looking for	
+[10/11/25 05:38AM] NEPHILIM|2147,3296,0|Said: Also slayer is kinda hard doing	
+[10/11/25 05:38AM] NEPHILIM|2147,3296,0|Said: Well the npc's easy but getting slayer tokens are a rip	
+[10/11/25 05:38AM] NEPHILIM|2147,3296,0|Said: U have to try boss slayer on urself lol	
+[10/11/25 05:38AM] NEPHILIM|2146,3296,0|Said: Easy slayer tasks givv more boss ticks than boss tasks	
+[10/11/25 05:40AM] Ghijf received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/11/25 05:40AM] NEPHILIM|2146,3297,0|Said: Soo how munhc more spawn here lol?	
+[10/11/25 05:40AM] NEPHILIM|2146,3297,0|Said: Do coins have any use tbh	
+[10/11/25 05:42AM] SLAYER_CHAMPION|3491,4703,0|Said: I grinded slayer a whole day and u guys come participating now	
+[10/11/25 05:42AM] SLAYER_CHAMPION|3491,4703,0|Said: Hope i get the drop	
+[10/11/25 05:46AM] SLAYER_CHAMPION|3489,4707,0|Said: Lol	
+[10/11/25 05:46AM] SLAYER_CHAMPION|3489,4707,0|Said: I can solo but need 3 people	
+[10/11/25 05:53AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/11/25 05:55AM] (CC) Help. Said: How do i see hm legends raids i done for the suffering raids lol	
+[10/11/25 05:56AM] (CC) Help. Said: No	
+[10/11/25 06:15AM] (CC) Help. Said: Nice!	
+[10/11/25 06:15AM] (CC) Help. Said: Where u get the packs from 	
+[10/11/25 06:20AM] (CC) Help. Said: Why not make slayer ring make an instance for slayer tho	
+[10/11/25 06:26AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/11/25 06:26AM] (CC) Help. Said: Update?	
+[10/11/25 06:42AM] Ghijf received x1 PvM ticket pack (10k) from Turoth!	
+[10/11/25 06:44AM] Ghijf received x1 PvM ticket pack (10k) from Demon Goddess!	
+[10/11/25 06:46AM] Ghijf received x1 Webby body from Arachne!	
+[10/11/25 06:51AM] HOME_BANK|2784,4065,0|Said: L	
+[10/11/25 06:52AM] (CC) Help. Said: Ow shet my bank is full	
+[10/11/25 06:54AM] (CC) Help. Said: Found a way to get more space in bank lol	
+[10/11/25 06:55AM]  Gave item in trade to Ezpz Ghijf. Id: 19116, amount: 106	
+[10/11/25 06:55AM]  Gave item in trade to Ezpz Ghijf. Id: 19115, amount: 41	
+[10/11/25 06:55AM]  Gave item in trade to Ezpz Ghijf. Id: 7956, amount: 156	
+[10/11/25 06:55AM]  Gave item in trade to Ezpz Ghijf. Id: 22214, amount: 187	
+[10/11/25 06:55AM] (CC) Help. Said: U can lol	
+[10/11/25 06:56AM] (CC) Help. Said: Take note items from bank and do ctr+d	
+[10/11/25 06:56AM] (CC) Help. Said: No problem	
+[10/11/25 06:56AM]  Receiving item from trade with Ezpz Ghijf Id: 19114, amount: 50	
+[10/11/25 06:56AM]  Receiving item from trade with Ezpz Ghijf Id: 23020, amount: 5	
+[10/11/25 06:56AM]  Receiving item from trade with Ezpz Ghijf Id: 8326, amount: 1	
+[10/11/25 06:56AM]  Receiving item from trade with Ezpz Ghijf Id: 22084, amount: 1	
+[10/11/25 06:57AM] HOME_BANK|2784,4065,0|Said: I	
+[10/11/25 06:57AM] HOME_BANK|2784,4065,0|Said: L	
+[10/11/25 06:59AM]  Gave item in trade to Ezpz Ghijf1. Id: 23226, amount: 1	
+[10/11/25 07:07AM]  Receiving item from trade with Ezpz Ghijf1 Id: 19114, amount: 3	
+[10/11/25 07:07AM]  Receiving item from trade with Ezpz Ghijf1 Id: 23226, amount: 1	
+[10/11/25 07:07AM]  Receiving item from trade with Ezpz Ghijf1 Id: 10025, amount: 3	
+[10/11/25 07:07AM]  Receiving item from trade with Ezpz Ghijf1 Id: 20489, amount: 3	
+[10/11/25 07:07AM]  Receiving item from trade with Ezpz Ghijf1 Id: 6833, amount: 1	
+[10/11/25 07:07AM]  Receiving item from trade with Ezpz Ghijf1 Id: 19116, amount: 2	
+[10/11/25 07:07AM]  Receiving item from trade with Ezpz Ghijf1 Id: 5022, amount: 51099	
+[10/11/25 07:07AM]  Receiving item from trade with Ezpz Ghijf1 Id: 19115, amount: 3	
+[10/11/25 07:10AM] (CC) Help. Said:  ::starter	
+[10/11/25 07:10AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 07:35AM] (CC) Help. Said: Sup	
+[10/11/25 07:35AM] (CC) Help. Said: Wyd folks	
+[10/11/25 07:36AM]  Receiving item from trade with Ezpz Ghijf Id: 22219, amount: 1	
+[10/11/25 07:36AM]  Receiving item from trade with Ezpz Ghijf Id: 18404, amount: 3	
+[10/11/25 07:36AM]  Receiving item from trade with Ezpz Ghijf Id: 4275, amount: 1	
+[10/11/25 07:36AM] (CC) Help. Said: Klick on the ky	
+[10/11/25 07:45AM] (CC) Help. Said: Where do you sell like cases lol	
+[10/11/25 07:45AM] (CC) Help. Said: They sell for 5m but doesn't let me sell	
+[10/11/25 07:48AM] (CC) Help. Said: Hank	
+[10/11/25 07:48AM] (CC) Help. Said: Why ur so innactive	
+[10/11/25 07:50AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/11/25 10:40AM] Has just redeemed a $10 Bond successfully!	
+[10/11/25 10:41AM] Has just redeemed a $50 Bond successfully!	
+[10/11/25 10:41AM] Has just redeemed a $5 Bond successfully!	
+[10/11/25 10:41AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 10:44AM] (CC) Help. Said: Hank	
+[10/11/25 10:53AM] (CC) Help. Said: .hey guys	
+[10/11/25 10:54AM] (CC) Help. Said: Do u know where to sell items to make some tokens lol	
+[10/11/25 10:54AM] (CC) Help. Said: I don't have that many op items	
+[10/11/25 10:54AM] (CC) Help. Said: Like low tier items i mean	
+[10/11/25 10:55AM] (CC) Help. Said: Not making profit on those gg	
+[10/11/25 11:30AM] Ghijf received x1 PvM ticket pack (10k) from Energy Skeleton!	
+[10/11/25 11:31AM] Ghijf received x1 PvM ticket pack (10k) from Energy Skeleton!	
+[10/11/25 11:32AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 11:33AM] (CC) Help. Said: Hank	
+[10/11/25 11:37AM] Ghijf received x1 Arc mace from Energy Skeleton!	
+[10/11/25 11:42AM] Ghijf received x1 Boss gloves from Turoth!	
+[10/11/25 11:44AM] DEFAULT|2793,4066,0|Said: Guess pm hank on disc	
+[10/11/25 11:47AM] Ghijf received x1 Bulwark platebody from Turoth!	
+[10/11/25 12:26PM] (CC) Help. Said: Realllyyy nigg	
+[10/11/25 12:26PM] (CC) Help. Said: I just dissolved all my junk now its double xp	
+[10/11/25 12:29PM] (CC) Help. Said: What do light tickets do	
+[10/11/25 12:34PM] Picked up gr.Item Levincia tokens, amount: 338	
+[10/11/25 12:36PM] Picked up gr.Item Levincia tokens, amount: 100	
+[10/11/25 09:50PM] Has just redeemed a $5 Bond successfully!	
+[10/11/25 09:55PM] (CC) Help. Said: Any1 wanna buy purp p hat	
+[10/11/25 10:06PM] RUBY_ZONE|2207,4259,0|Said: Yo	
+[10/11/25 10:13PM] (CC) Help. Said: Hank the wank woke up like a tank	
+[10/11/25 10:13PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/11/25 10:13PM] (CC) Help. Said: Afk yeah	
+[10/11/25 10:13PM] (CC) Help. Said: Like every staff they just tp to u to be in d zones and afk than	
+[10/11/25 10:33PM] (CC) Help. Said: Yes	
+[10/11/25 10:33PM] (CC) Help. Said: Walkchaos even i haven't ever seen him here l0l	
+[10/11/25 10:36PM] (CC) Help. Said: Hank	
+[10/11/25 10:36PM] (CC) Help. Said: What does light ticket do	
+[10/11/25 10:37PM] (CC) Help. Said: T6 invention?	
+[10/11/25 10:41PM] (CC) Help. Said: Hank	
+[10/11/25 10:42PM] VOTE_BOSS|3424,4121,4|Said: Whos drag pet is that	
+[10/11/25 10:42PM] VOTE_BOSS|3424,4121,4|Said: Wtf	
+[10/11/25 10:42PM] VOTE_BOSS|3424,4121,4|Said: 115 dr	
+[10/11/25 10:42PM] (CC) Help. Said: Where to see pet list 	
+[10/11/25 10:43PM] (CC) Help. Said: I still don't know what rammus do	
+[10/11/25 10:44PM] (CC) Help. Said: Oh my	
+[10/11/25 10:44PM] (CC) Help. Said: I see now	
+[10/11/25 10:45PM] NEPHILIM|2146,3296,0|Said: The teleporter	
+[10/11/25 10:46PM] NEPHILIM|2146,3296,0|Said: Yes	
+[10/11/25 10:46PM] NEPHILIM|2146,3296,0|Said: U don't	
+[10/11/25 10:46PM] NEPHILIM|2146,3296,0|Said: Hes at other dimension 	
+[10/11/25 10:47PM] NEPHILIM|2146,3296,0|Said: U ned to kill npcs first	
+[10/11/25 10:47PM] NEPHILIM|2146,3296,0|Said: For chilling gloves	
+[10/11/25 10:47PM] NEPHILIM|2146,3296,0|Said: Than u kill a global  boss	
+[10/11/25 10:47PM] NEPHILIM|2146,3296,0|Said: And wear the gloves and pickup the egg	
+[10/11/25 10:47PM] NEPHILIM|2146,3296,0|Said: Thats at home	
+[10/11/25 10:47PM] NEPHILIM|2146,3296,0|Said: Next to the cook	
+[10/11/25 10:47PM] NEPHILIM|2146,3296,0|Said: Or chef idk	
+[10/11/25 10:49PM] Ghijf received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/11/25 10:49PM] Has just redeemed a $25 Bond successfully!	
+[10/11/25 10:49PM] NEPHILIM|2146,3296,0|Said: Ezadan,kzdl	
+[10/11/25 10:50PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/11/25 10:50PM] NEPHILIM|2141,3298,0|Said: Im diamon donor	
+[10/11/25 10:52PM] NEPHILIM|2150,3296,0|Said: Ezafbezrjhbzcvse	
+[10/11/25 10:52PM] NEPHILIM|2150,3296,0|Said: Didn4t let me attack	
+[10/11/25 10:52PM] NEPHILIM|2150,3296,0|Said: Hacker	
+[10/11/25 10:54PM] (CC) Help. Said: Slayerboss should be only acces to those who did actual slayer lolm	
+[10/11/25 10:54PM] (CC) Help. Said: The wings not good lol gz	
+[10/11/25 10:55PM] (CC) Help. Said: Im doing it	
+[10/11/25 10:56PM] (CC) Help. Said: Ok now not alone anymore	
+[10/11/25 10:57PM] SLAYER_CHAMPION|3490,4705,0|Said: Shoo u didn't even do slayer for this spawn	
+[10/11/25 10:57PM] SLAYER_CHAMPION|3490,4705,0|Said: I don't have family	
+[10/11/25 10:59PM] (CC) Help. Said: Selling purp p hat 1 ingame	
+[10/11/25 11:05PM] (CC) Help. Said: Grow some hair	
+[10/11/25 11:07PM] SLAYER_CHAMPION|3490,4705,0|Said: Yes	
+[10/11/25 11:07PM] SLAYER_CHAMPION|3490,4705,0|Said: U can do it	
+[10/11/25 11:07PM] SLAYER_CHAMPION|3490,4705,0|Said: Gl	
+[10/11/25 11:08PM] Has just redeemed a $25 Bond successfully!	
+[10/11/25 11:09PM] (CC) Help. Said: Hank	
+[10/11/25 11:09PM] (CC) Help. Said: Number 1-20	
+[10/11/25 11:09PM] (CC) Help. Said: Foooo	
+[10/11/25 11:09PM] (CC) Help. Said: Bond 	
+[10/11/25 11:09PM] Has just redeemed a $25 Bond successfully!	
+[10/11/25 11:10PM] (CC) Help. Said: I knew i would chose 14	
+[10/11/25 11:14PM] (CC) Help. Said: I said u can do it	
+[10/11/25 11:14PM] (CC) Help. Said: Gl on bones	
+[10/11/25 11:15PM] (CC) Help. Said: Hank can see every chat log awsome imma talk to myself at instances l0l	
+[10/11/25 11:15PM] (CC) Help. Said: Instances l0l	
+[10/11/25 11:21PM] (CC) Help. Said: Scam	
+[10/11/25 11:21PM] (CC) Help. Said: Im getting peanuts	
+[10/11/25 11:32PM] (CC) Help. Said: Lmao u still there ahahha	
+[10/11/25 11:37PM] (CC) Help. Said: Nice	
+[10/11/25 11:50PM] (CC) Help. Said: Where u get these pacxks from lol	
+[10/11/25 11:52PM] (CC) Help. Said: Omg this is sunch a scam	
+[10/11/25 11:52PM] (CC) Help. Said: I just wasted 2 days at slayer to find out sanguine arm is free	
+[10/11/25 11:53PM] (CC) Help. Said: I bough the full slayer set and sanguine has same stats	
+[10/11/25 11:53PM] (CC) Help. Said: Slayer is timewaste	
+[10/11/25 11:54PM] GLOBAL_BOSS|2143,5022,0|Said: Sup	
+[10/11/25 11:54PM] GLOBAL_BOSS|2143,5022,0|Said: Ctr +u	
+[10/11/25 11:54PM] GLOBAL_BOSS|2143,5022,0|Said: But i suggest doing zones and bosses	
+[10/11/25 11:54PM] GLOBAL_BOSS|2143,5022,0|Said: Just get 99slay for raids	
+[10/11/25 11:55PM] GLOBAL_BOSS|2143,5022,0|Said: U just need a bond drop	
+[10/11/25 11:55PM] GLOBAL_BOSS|2143,5022,0|Said: Pray is inf than	
+[10/11/25 11:56PM] GLOBAL_BOSS|2143,5022,0|Said: Complete ::startertasks	
+[10/11/25 11:56PM] GLOBAL_BOSS|2143,5022,0|Said: Givvs you than a sanguine set	
+[10/11/25 11:56PM] GLOBAL_BOSS|2139,5020,0|Said: Untrad	
+[10/12/25 12:19AM] Player destroying item: -1, amount: 0	
+[10/12/25 12:19AM] Player destroying item: -1, amount: 0	
+[10/12/25 12:34AM] (CC) Help. Said: Shops just klick on woodcutting skill	
+[10/12/25 12:35AM] (CC) Help. Said: Get coins not tokens	
+[10/12/25 01:56AM] (CC) Help. Said: Any1 knows a way to make $$	
+[10/12/25 01:58AM] DEFAULT|2779,4084,0|Said: Whip 120	
+[10/12/25 01:58AM] DEFAULT|2779,4084,0|Said: D bowx 50	
+[10/12/25 01:58AM] DEFAULT|2779,4084,0|Said: Sol 141	
+[10/12/25 02:12AM] (CC) Help. Said: Gl on slayer not worth trust me	
+[10/12/25 02:12AM] (CC) Help. Said: I bet u havent done slayer than	
+[10/12/25 02:12AM] (CC) Help. Said: Best way to make money is afk 	
+[10/12/25 02:12AM] (CC) Help. Said: Use bones on altar and u get best way to receive caskets	
+[10/12/25 02:13AM] (CC) Help. Said: Yes	
+[10/12/25 02:14AM] (CC) Help. Said: Naa	
+[10/12/25 02:14AM] (CC) Help. Said: I had 6elite cases and i upgrtadeed em	
+[10/12/25 03:56AM] (CC) Help. Said: Whats every1 doing	
+[10/12/25 04:20AM] Has just redeemed a $1 Scroll successfully!	
+[10/12/25 04:29AM]  Receiving item from trade with Ezpz Ghijf Id: 5020, amount: 10000	
+[10/12/25 04:29AM]  Receiving item from trade with Ezpz Ghijf Id: 19116, amount: 2	
+[10/12/25 04:29AM]  Receiving item from trade with Ezpz Ghijf Id: 989, amount: 1	
+[10/12/25 04:29AM]  Receiving item from trade with Ezpz Ghijf Id: 15290, amount: 1	
+[10/12/25 04:29AM]  Receiving item from trade with Ezpz Ghijf Id: 20481, amount: 1	
+[10/12/25 04:29AM] Has just redeemed a Summoning charm box successfully!	
+[10/12/25 04:29AM] Has just redeemed a Summoning charm box successfully!	
+[10/12/25 04:29AM] Has just redeemed a Summoning charm box successfully!	
+[10/12/25 04:29AM] Has just redeemed a Summoning charm box successfully!	
+[10/12/25 04:40AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/12/25 04:50AM] (CC) Help. Said: Spooin?	
+[10/12/25 05:53AM] (CC) Help. Said: From all the items from supreme i get 100k tok pack	
+[10/12/25 05:55AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/12/25 06:05AM] (CC) Help. Said: Yo	
+[10/12/25 06:05AM] (CC) Help. Said: Tp to mer	
+[10/12/25 06:05AM] DEFAULT|2780,4084,0|Said: I need refund	
+[10/12/25 06:05AM] DEFAULT|2780,4084,0|Said: Tf is this bullshet	
+[10/12/25 06:06AM] DEFAULT|2780,4084,0|Said: I hoped on 120invention	
+[10/12/25 06:06AM] DEFAULT|2780,4084,0|Said: Look diff	
+[10/12/25 06:06AM]  Gave item in trade to Test. Id: 11235, amount: 1	
+[10/12/25 06:06AM]  Gave item in trade to Test. Id: 15486, amount: 1	
+[10/12/25 06:06AM] DEFAULT|2780,4084,0|Said: Between dissolving	
+[10/12/25 06:06AM] DEFAULT|2780,4084,0|Said: Look diff	
+[10/12/25 06:06AM] DEFAULT|2780,4084,0|Said: Same price in shop	
+[10/12/25 06:06AM] DEFAULT|2780,4084,0|Said: Just spended all my pvms	
+[10/12/25 06:08AM] DEFAULT|2780,4084,0|Said: Do u have an elite casket?	
+[10/12/25 06:08AM] DEFAULT|2780,4084,0|Said: I wanna try something	
+[10/12/25 06:08AM]  Receiving item from trade with Test Id: 15002, amount: 1	
+[10/12/25 06:08AM] DEFAULT|2780,4084,0|Said: Yes	
+[10/12/25 06:08AM] DEFAULT|2780,4084,0|Said: Works	
+[10/12/25 06:08AM] DEFAULT|2780,4084,0|Said: L0l	
+[10/12/25 06:09AM] DEFAULT|2780,4084,0|Said: Trade	
+[10/12/25 06:09AM] DEFAULT|2780,4085,0|Said: I made with that from u gave me	
+[10/12/25 06:10AM] DEFAULT|2780,4085,0|Said: If u have 2 in invetory it goes to 1	
+[10/12/25 06:10AM] DEFAULT|2780,4085,0|Said: But u cn still upgrade if u have 1	
+[10/12/25 06:11AM] Has just redeemed a $50 Bond successfully!	
+[10/12/25 06:11AM] DEFAULT|2780,4085,0|Said: Ahhh	
+[10/12/25 06:11AM] DEFAULT|2780,4085,0|Said: Got a 50er bond	
+[10/12/25 06:11AM] DEFAULT|2780,4085,0|Said: I just ned to find a way to get toksnfast	
+[10/12/25 06:11AM] DEFAULT|2780,4084,0|Said: Fix slayer	
+[10/12/25 06:11AM] DEFAULT|2780,4084,0|Said: Thats not worth grinding	
+[10/12/25 06:12AM] DEFAULT|2780,4084,0|Said: I wast"d 2days for finding out ::starterguide has better gear	
+[10/12/25 06:13AM] DEFAULT|2777,4084,0|Said: Is dxp activez?	
+[10/12/25 06:21AM]  Gave item in trade to Ezpz Ghijf. Id: 12855, amount: 10000000	
+[10/12/25 06:21AM] (CC) Help. Said: Omg	
+[10/12/25 06:21AM] (CC) Help. Said: Sapphire rocks doesn't even works	
+[10/12/25 06:25AM] (CC) Help. Said: I think i didn't tried that	
+[10/12/25 06:25AM] (CC) Help. Said: Told u	
+[10/12/25 07:13AM]  Gave item in trade to Ezpz Ghijf. Id: 3284, amount: 2139	
+[10/12/25 07:51AM]  Receiving item from trade with Ezpz Ghijf Id: 15003, amount: 2	
+[10/12/25 07:54AM] Has just redeemed a $100 Bond successfully!	
+[10/12/25 07:56AM] Has just redeemed a $25 Bond successfully!	
+[10/12/25 07:58AM] Has just redeemed a $25 Bond successfully!	
+[10/12/25 07:59AM] Has just redeemed a $100 Bond successfully!	
+[10/12/25 08:00AM] (CC) Help. Said: Had 1 and gave me bond lmao bough 2 and got luck asf	
+[10/12/25 08:00AM] (CC) Help. Said: Luck over now xd	
+[10/12/25 08:00AM] (CC) Help. Said: Aight xd that was my weekly luck i guess	
+[10/12/25 08:01AM] (CC) Help. Said: Going eat some now	
+[10/12/25 08:02AM]  Gave item in trade to Ezpz Ghijf. Id: 18830, amount: 16307	
+[10/12/25 11:26AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/12/25 11:26AM] (CC) Help. Said: Update?	
+[10/12/25 11:27AM]  Receiving item from trade with Ezpz Ghijf Id: 15003, amount: 1	
+[10/12/25 11:28AM] Has just redeemed a $25 Bond successfully!	
+[10/12/25 11:30AM] Has just redeemed a $50 Bond successfully!	
+[10/12/25 11:32AM] (CC) Help. Said: Wb	
+[10/12/25 11:33AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/12/25 11:33AM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 1C-69-7A-3C-21-F3	
+[10/12/25 11:34AM] SLAYER_CHAMPION|3489,4704,0|Said: Abla?	
+[10/12/25 12:04PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 04-33-C2-95-0B-06	
+[10/12/25 12:04PM] Login. ip: 81.244.34.84, mac: DTBDDEH0080150355E960020250323070652.000000+060, uuid: 04-33-C2-95-0B-06	
+[10/12/25 12:04PM] (CC) Help. Said: So why release a broken client it looked like a rat file for me	
+[10/12/25 12:08PM] (CC) Help. Said: Btw lava speed paxe doesn't do anything	
+[10/12/25 12:09PM] (CC) Help. Said: So i bet everything else from afk shop is just worthless rn	
+[10/12/25 12:10PM] (CC) Help. Said: 0 o btw hank	
+[10/12/25 12:10PM] (CC) Help. Said: Hank	
+[10/12/25 12:10PM] (CC) Help. Said: What does light ticket do???	
+[10/12/25 12:10PM] HOME_BANK|2784,4062,0|Said: Can't escape now	
+[10/12/25 12:10PM] HOME_BANK|2784,4062,0|Said: Tell me what light ticks do xd	
+[10/12/25 12:11PM] HOME_BANK|2784,4062,0|Said: Also afk shop	
+[10/12/25 12:11PM] HOME_BANK|2784,4062,0|Said: Everything is worthless	
+[10/12/25 12:11PM] HOME_BANK|2784,4062,0|Said: Speed p axe doesn't work	
+[10/12/25 01:02PM] (CC) Help. Said: Hey im at dk	
+[10/12/25 01:03PM] GLOBAL_BOSS|2143,5018,0|Said: Was on the toilet	
+[10/12/25 01:03PM] GLOBAL_BOSS|2143,5018,0|Said: Well	
+[10/12/25 01:03PM] GLOBAL_BOSS|2143,5018,0|Said: U not gonna beleve	
+[10/12/25 01:03PM] GLOBAL_BOSS|2143,5018,0|Said: But afk	
+[10/12/25 01:03PM] GLOBAL_BOSS|2143,5018,0|Said: L0l	
+[10/12/25 01:03PM] GLOBAL_BOSS|2143,5018,0|Said: Afk givv you best way for caskets	
+[10/12/25 01:04PM] GLOBAL_BOSS|2143,5018,0|Said: Just the rocks	
+[10/12/25 01:04PM] GLOBAL_BOSS|2143,5018,0|Said: But i do other methoid	
+[10/12/25 01:04PM] GLOBAL_BOSS|2143,5018,0|Said: Using bones on altar givvs faster caskets	
+[10/12/25 01:04PM] GLOBAL_BOSS|2143,5018,0|Said: Using bones is fast exp	
+[10/12/25 01:04PM] GLOBAL_BOSS|2143,5018,0|Said: Yeah lol	
+[10/12/25 01:04PM] GLOBAL_BOSS|2143,5018,0|Said: My alt is afk at home	
+[10/12/25 01:04PM] GLOBAL_BOSS|2143,5018,0|Said: Another 10k bones	
+[10/12/25 01:05PM] GLOBAL_BOSS|2143,5018,0|Said: :d	
+[10/12/25 01:05PM] GLOBAL_BOSS|2143,5018,0|Said: Aight pce	
+[10/12/25 01:05PM] GLOBAL_BOSS|2143,5018,0|Said: Im gonna go sleep	
+[10/12/25 01:06PM] (CC) Help. Said: Vote still not fixed u gta pm staff 	
+[10/12/25 01:08PM] (CC) Help. Said: U better pm on disc	
+[10/12/25 01:08PM] (CC) Help. Said: Spoon is always afk test is test acc and hank is afk	
+[10/12/25 01:09PM] (CC) Help. Said: Aight gn	
+[10/12/25 06:26PM]  Receiving item from trade with Ezpz Ghijf Id: 15002, amount: 2	
+[10/12/25 06:26PM]  Receiving item from trade with Ezpz Ghijf Id: 15003, amount: 1	
+[10/12/25 06:26PM]  Receiving item from trade with Ezpz Ghijf Id: 20489, amount: 1	
+[10/12/25 06:29PM] Has just redeemed a $10 Bond successfully!	
+[10/12/25 06:32PM] Has just redeemed a $25 Bond successfully!	
+[10/12/25 06:35PM] Has just redeemed a $25 Bond successfully!	
+[10/13/25 04:58AM] (CC) Help. Said: Im back guys	
+[10/13/25 04:59AM]  Receiving item from trade with Ezpz Ghijf Id: 5020, amount: 14668	
+[10/13/25 04:59AM]  Gave item in trade to Ezpz Ghijf. Id: 3285, amount: 740	
+[10/13/25 05:02AM] Has just redeemed a $1 Scroll successfully!	
+[10/13/25 05:05AM] (CC) Help. Said: Any1 up for some fast globals?	
+[10/13/25 05:06AM] (CC) Help. Said: Aight im at dk	
+[10/13/25 05:08AM] GLOBAL_BOSS|2142,5021,0|Said:   ::nm next	
+[10/13/25 05:08AM] (CC) Help. Said:   ::n	
+[10/13/25 05:08AM] (CC) Help. Said:    ::nm	
+[10/13/25 05:08AM] VBOSS|2976,2771,0|Said: Ur ne?	
+[10/13/25 05:08AM] VBOSS|2976,2771,0|Said: New?	
+[10/13/25 05:09AM] VBOSS|2976,2771,0|Said: Hmmm	
+[10/13/25 05:09AM] VBOSS|2976,2771,0|Said: Ur ranged?	
+[10/13/25 05:09AM] VBOSS|2976,2771,0|Said: Sick	
+[10/13/25 05:09AM] VBOSS|2979,2771,0|Said: Here	
+[10/13/25 05:09AM] VBOSS|2979,2771,0|Said: Use this	
+[10/13/25 05:09AM]  Gave item in trade to Hzal. Id: 5011, amount: 1	
+[10/13/25 05:09AM] VBOSS|2979,2771,0|Said: Complete ::startertasks	
+[10/13/25 05:09AM] VBOSS|2979,2771,0|Said: U get full set wich is better	
+[10/13/25 05:09AM] VBOSS|2979,2771,0|Said:   ::naraku	
+[10/13/25 05:10AM] NARAKU|3424,9568,0|Said: Ur dmg is higher right xd	
+[10/13/25 05:11AM] NARAKU|3424,9568,0|Said: U wanna do pc with me?	
+[10/13/25 05:11AM] NARAKU|3424,9568,0|Said: For ur starter progress	
+[10/13/25 05:12AM] PEST_CONTROL_BOAT|2661,2639,0|Said: Dw we got this	
+[10/13/25 05:14AM] PEST_CONTROL_GAME|2655,2570,0|Said: Hm minigames u need ? 3?	
+[10/13/25 05:16AM]  Gave item in trade to Ezpz Ghijf. Id: 7995, amount: 1	
+[10/13/25 05:16AM]  Gave item in trade to Ezpz Ghijf. Id: 17013, amount: 1	
+[10/13/25 05:20AM] PEST_CONTROL_GAME|2637,2591,0|Said: :d	
+[10/13/25 05:20AM] DEFAULT|2657,2641,0|Said: Aiight gl 	
+[10/13/25 05:20AM] DEFAULT|2657,2641,0|Said:    ::startertasks	
+[10/13/25 05:27AM]  Receiving item from trade with Ezpz Ghijf Id: 4186, amount: 1	
+[10/13/25 05:29AM] Has just redeemed a $1 Scroll successfully!	
+[10/13/25 05:30AM] Has just redeemed a $1 Scroll successfully!	
+[10/13/25 05:34AM]  Gave item in trade to Afk Gh. Id: 534, amount: 12989	
+[10/13/25 05:37AM] (CC) Help. Said: Welcome	
+[10/13/25 05:48AM] (CC) Help. Said: Yes i did walkchaos i think	
+[10/13/25 05:53AM] (CC) Help. Said: Yes ::startertasks	
+[10/13/25 06:00AM] (CC) Help. Said: Just the claim option not added yet u have to pm hank on disc	
+[10/13/25 07:48AM]  Receiving item from trade with Afk Gh Id: 20489, amount: 1	
+[10/13/25 07:48AM]  Receiving item from trade with Afk Gh Id: 15003, amount: 1	
+[10/13/25 07:50AM] Has just redeemed a $50 Bond successfully!	
+[10/13/25 08:04AM] (CC) Help. Said: Afkboss guys	
+[10/13/25 08:04AM] (CC) Help. Said:   ::afkboss	
+[10/13/25 08:05AM] Has just redeemed a Summoning charm box successfully!	
+[10/13/25 08:05AM] Has just redeemed a Summoning charm box successfully!	
+[10/13/25 08:08AM]  Receiving item from trade with Ezpz Ghijf Id: 5020, amount: 10000	
+[10/13/25 08:10AM]  Receiving item from trade with Ezpz Ghijf Id: 17013, amount: 1	
+[10/13/25 08:10AM]  Receiving item from trade with Ezpz Ghijf Id: 7995, amount: 1	
+[10/13/25 08:10AM] DEFAULT|2784,4079,0|Said: 3::pos	
+[10/13/25 08:12AM] (CC) Help. Said: Afufufufu	
+[10/13/25 08:15AM] Has just redeemed a $1 Scroll successfully!	
+[10/13/25 08:18AM] Ghijf received x1 Azure Casket from Vozzath!	
+[10/13/25 08:18AM] Ghijf received x1 Upgrade Token pack (100k) from Vozzath!	
+[10/13/25 08:26AM] GUARDIAN|2661,3800,0|Said: Yee haw	
+[10/13/25 08:27AM] GUARDIAN|2661,3800,0|Said: Glllllllllll	
+[10/13/25 08:27AM] GUARDIAN|2661,3800,0|Said: Hm is plat donor	
+[10/13/25 08:28AM] GUARDIAN|2661,3800,0|Said: 1500?	
+[10/13/25 08:28AM] GUARDIAN|2661,3800,0|Said: :o	
+[10/13/25 08:29AM] GUARDIAN|2661,3800,0|Said: :-	
+[10/13/25 08:32AM] (CC) Help. Said: Hawk	
+[10/13/25 08:33AM] (CC) Help. Said: All you gotta do is hawk tuah spit on that tang	
+[10/13/25 10:29AM] Has just redeemed a $25 Bond successfully!	
+[10/13/25 10:40AM] (CC) Help. Said: Let me speak for every1	
+[10/13/25 10:40AM] (CC) Help. Said: A.f.k.	
+[10/13/25 07:02PM] NEPHILIM|2145,3299,0|Said: Just on time	
+[10/13/25 07:03PM] NEPHILIM|2145,3299,0|Said: Goodgood	
+[10/13/25 07:03PM] NEPHILIM|2145,3299,0|Said: Hawk	
+[10/13/25 07:03PM] NEPHILIM|2145,3299,0|Said: How did u get 120inv	
+[10/13/25 07:04PM] Ghijf received x1 Elite Casket from Nephilim Warrior!	
+[10/13/25 07:05PM] NEPHILIM|2145,3299,0|Said: U klick claim?	
+[10/13/25 07:05PM] NEPHILIM|2145,3299,0|Said:   ::startertasks?	
+[10/13/25 07:06PM] NEPHILIM|2145,3299,0|Said: Gimmy that 1dr	
+[10/13/25 07:06PM] NEPHILIM|2145,3299,0|Said: Lol	
+[10/13/25 07:06PM] NEPHILIM|2145,3299,0|Said: Ofcouyrse	
+[10/13/25 07:07PM] NEPHILIM|2145,3299,0|Said: Aight	
+[10/13/25 07:07PM] NEPHILIM|2145,3299,0|Said: I gtg	
+[10/13/25 07:07PM] NEPHILIM|2145,3299,0|Said: To work	
+[10/13/25 07:07PM] NEPHILIM|2145,3299,0|Said: I just woke up	
+[10/13/25 07:08PM] Ghijf received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/13/25 07:08PM] NEPHILIM|2145,3299,0|Said: Aight gl	
+[10/13/25 07:08PM]  Receiving item from trade with Ezpz Ghijf Id: 5020, amount: 15549	
+[10/13/25 07:08PM]  Receiving item from trade with Ezpz Ghijf Id: 12855, amount: 30991	
+[10/13/25 07:08PM]  Receiving item from trade with Ezpz Ghijf Id: 23278, amount: 1	
+[10/13/25 07:08PM]  Receiving item from trade with Ezpz Ghijf Id: 23277, amount: 2	
+[10/13/25 07:08PM]  Receiving item from trade with Ezpz Ghijf Id: 11137, amount: 10	
+[10/13/25 07:10PM] Has just redeemed a $25 Bond successfully!	
+[10/13/25 07:10PM] Has just redeemed a $50 Bond successfully!	
+[10/13/25 07:11PM] Has just redeemed a $1 Scroll successfully!	
+[10/13/25 07:11PM] Has just redeemed a $5 Bond successfully!	
+[10/13/25 07:13PM] Has just redeemed a $50 Bond successfully!	
+[10/13/25 07:14PM] (CC) Help. Said: When is it dxp? i need this invention up lol	
+[10/13/25 07:15PM] (CC) Help. Said: Wee woo for this 5minutes i have lefd lol	
+[10/13/25 07:16PM] Has just redeemed a $1 Scroll successfully!	
+[10/13/25 07:16PM] Has just redeemed a $10 Bond successfully!	
+[10/13/25 07:16PM] Has just redeemed a $5 Bond successfully!	
+[10/13/25 07:19PM] (CC) Help. Said: Hank hm exp is 120	
+[10/13/25 07:20PM] (CC) Help. Said: Shee im at 30m l0l	
+[10/13/25 07:24PM] Has just redeemed a $25 Bond successfully!	
+[10/13/25 07:27PM] Has just redeemed a $25 Bond successfully!	
+[10/13/25 07:29PM] Has just redeemed a $25 Bond successfully!	
+[10/13/25 07:30PM] Picked up gr.Item Levincia tokens, amount: 1600	
+[10/13/25 07:31PM] Has just redeemed a $25 Bond successfully!	
+[10/13/25 07:31PM] Has just redeemed a $5 Bond successfully!	
+[10/13/25 07:31PM] Has just redeemed a $1 Scroll successfully!	
+[10/14/25 04:56AM] (CC) Help. Said: Aight im back	
+[10/14/25 04:57AM]  Receiving item from trade with Ezpz Ghijf Id: 5020, amount: 13671	
+[10/14/25 04:57AM]  Receiving item from trade with Ezpz Ghijf Id: 6199, amount: 34	
+[10/14/25 04:57AM]  Receiving item from trade with Ezpz Ghijf Id: 7956, amount: 21	
+[10/14/25 04:57AM]  Receiving item from trade with Ezpz Ghijf Id: 19114, amount: 2	
+[10/14/25 04:57AM]  Receiving item from trade with Ezpz Ghijf Id: 5022, amount: 30830	
+[10/14/25 04:57AM]  Receiving item from trade with Ezpz Ghijf Id: 19116, amount: 7	
+[10/14/25 05:07AM] Has just redeemed a $1 Scroll successfully!	
+[10/14/25 05:12AM]  Gave item in trade to Ezpz Ghijf. Id: 17013, amount: 1	
+[10/14/25 05:12AM]  Gave item in trade to Ezpz Ghijf. Id: 7995, amount: 1	
+[10/14/25 05:12AM]  Receiving item from trade with Ezpz Ghijf Id: 23370, amount: 1	
+[10/14/25 05:14AM]  Receiving item from trade with Ezpz Ghijf Id: 7995, amount: 1	
+[10/14/25 05:14AM]  Receiving item from trade with Ezpz Ghijf Id: 17013, amount: 1	
+[10/14/25 05:15AM] Has just redeemed a $5 Bond successfully!	
+[10/14/25 05:15AM] Has just redeemed a $1 Scroll successfully!	
+[10/14/25 05:17AM] Has just redeemed a $25 Bond successfully!	
+[10/14/25 05:18AM] Has just redeemed a $100 Bond successfully!	
+[10/14/25 06:28AM] (CC) Help. Said: Spoon?	
+[10/14/25 06:47AM] Ghijf received x1 Sorrow bow from Sub-Zero!	
+[10/14/25 07:19AM] Has just redeemed a $5 Bond successfully!	
+[10/14/25 07:19AM]  Receiving item from trade with Afk Gh Id: 15002, amount: 1	
+[10/14/25 07:19AM]  Receiving item from trade with Afk Gh Id: 19115, amount: 16	
+[10/14/25 07:19AM]  Receiving item from trade with Afk Gh Id: 19116, amount: 12	
+[10/14/25 07:19AM]  Receiving item from trade with Afk Gh Id: 20488, amount: 2	
+[10/14/25 07:19AM]  Receiving item from trade with Afk Gh Id: 19114, amount: 2	
+[10/14/25 07:20AM]  Receiving item from trade with Afk Gh Id: 1486, amount: 1	
+[10/14/25 07:20AM]  Receiving item from trade with Afk Gh Id: 18823, amount: 1	
+[10/14/25 07:20AM]  Receiving item from trade with Afk Gh Id: 21218, amount: 25	
+[10/14/25 07:20AM]  Receiving item from trade with Afk Gh Id: 995, amount: 49847983	
+[10/14/25 07:20AM]  Receiving item from trade with Afk Gh Id: 534, amount: 4099	
+[10/14/25 07:21AM] DEFAULT|2784,4054,0|Said: Yo	
+[10/14/25 07:21AM] DEFAULT|2784,4054,0|Said: Sup	
+[10/14/25 07:22AM] DEFAULT|2785,4052,0|Said: Grinding invention	
+[10/14/25 07:48AM] (CC) Help. Said: Wb hank	
+[10/14/25 07:49AM] Has just redeemed a $100 Bond successfully!	
+[10/14/25 07:50AM] Has just redeemed a $25 Bond successfully!	
+[10/14/25 07:51AM] (CC) Help. Said: Afufufu	
+[10/14/25 07:52AM] (CC) Help. Said: Come nm?	
+[10/14/25 07:57AM] Player destroying item: -1, amount: 0	
+[10/14/25 08:36AM] (CC) Help. Said: Aight take care guys gl	

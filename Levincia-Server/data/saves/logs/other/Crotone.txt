@@ -1,0 +1,40 @@
+[10/7/25 10:45AM] Login. ip: 81.98.108.197, mac: PF3LT55L20250202164442.000000+000, uuid: 72-1A-B8-C7-6E-88	
+[10/7/25 10:45AM] (CC) Help. Said: Hey mate	
+[10/7/25 10:46AM] PROGRESSION_ZONES|3032,4120,1|Said: My man!	
+[10/7/25 10:47AM] PROGRESSION_ZONES|3032,4120,1|Said: Fortune chests?	
+[10/7/25 10:48AM] PROGRESSION_ZONES|3032,4120,1|Said: I see	
+[10/7/25 10:48AM] Has just redeemed a $100 Bond successfully!	
+[10/7/25 10:48AM] Has just redeemed a $10 Bond successfully!	
+[10/7/25 10:48AM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 10:49AM] DEFAULT|2784,4084,0|Said: Where do you spend donator points?	
+[10/7/25 10:55AM] Player destroying item: -1, amount: 0	
+[10/7/25 11:05AM] (CC) Help. Said: Yo	
+[10/7/25 11:09AM] (CC) Help. Said: I feel like not much has changed	
+[10/7/25 11:09AM] (CC) Help. Said: What's actually new	
+[10/7/25 11:15AM] (CC) Help. Said: What's good about pc?	
+[10/7/25 11:16AM] (CC) Help. Said: Where's starter tasks?	
+[10/7/25 11:16AM] (CC) Help. Said: How do you claim votees	
+[10/7/25 11:17AM] (CC) Help. Said: It's just lunite with models changed sadly	
+[10/7/25 11:18AM] (CC) Help. Said: Yeah, not for me	
+[10/7/25 11:18AM] (CC) Help. Said: Good luck	
+[10/8/25 12:15PM] Login. ip: 81.98.108.197, mac: PF3LT55L20250202164442.000000+000, uuid: 72-1A-B8-C7-6E-88	
+[10/8/25 12:16PM] (CC) Help. Said: How do we claim votes?	
+[10/10/25 12:56PM] Login. ip: 81.98.108.197, mac: PF3LT55L20250202164442.000000+000, uuid: 72-1A-B8-C7-6E-88	
+[10/10/25 12:57PM] (CC) Help. Said: @hank	
+[10/10/25 12:59PM] (CC) Help. Said: Where	
+[10/10/25 12:59PM] Picked up gr.Item Owner cape goodiebag, amount: 1	
+[10/10/25 01:01PM] Picked up gr.Item Celestial's Card Pack, amount: 1	
+[10/10/25 01:03PM] Picked up gr.Item Avalon's Card Pack, amount: 1	
+[10/10/25 01:04PM] Picked up gr.Item Gold Season Pass, amount: 1	
+[10/10/25 01:10PM] Picked up gr.Item Celestial's Card Pack, amount: 1	
+[10/10/25 01:11PM] Picked up gr.Item Avalon's Card Pack, amount: 1	
+[10/10/25 01:13PM] Picked up gr.Item Prestige box, amount: 8	
+[10/10/25 01:18PM] Has just redeemed a $5 Bond successfully!	
+[10/10/25 01:18PM] Has just redeemed a $50 Bond successfully!	
+[10/10/25 01:18PM] Has just redeemed a $25 Bond successfully!	
+[10/10/25 01:19PM] Has just redeemed a $25 Bond successfully!	
+[10/10/25 01:19PM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 01:21PM] Has just redeemed a $25 Bond successfully!	
+[10/10/25 01:21PM] Has just redeemed a $25 Bond successfully!	
+[10/10/25 01:22PM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 01:23PM] Has just redeemed a $25 Bond successfully!	

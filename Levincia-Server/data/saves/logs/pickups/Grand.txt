@@ -1,0 +1,9 @@
+[10/6/25 05:24AM] Player picked up item: Instance Tokens, id: 4278, amount: 1, owner: Grand	
+[10/6/25 05:43AM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Grand	
+[10/7/25 05:55PM] Player picked up item: Levincia tokens, id: 12855, amount: 56000, owner: Grand	
+[10/7/25 05:55PM] Player picked up item: Levincia tokens, id: 12855, amount: 112000, owner: Grand	
+[10/7/25 05:55PM] Player picked up item: Levincia tokens, id: 12855, amount: 56000, owner: Grand	
+[10/7/25 05:58PM] Player picked up item: Levincia tokens, id: 12855, amount: 168000, owner: Grand	
+[10/7/25 06:20PM] Player picked up item: Levincia tokens, id: 12855, amount: 56000, owner: Grand	
+[10/9/25 04:16AM] Player picked up item: Levincia tokens, id: 12855, amount: 112000, owner: Grand	
+[10/9/25 04:32AM] Player picked up item: OP Box, id: 20488, amount: 1, owner: Grand	

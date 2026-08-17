@@ -1,0 +1,2 @@
+[10/6/25 08:41AM] Login from host 195.180.34.188, serial number: 04-42-1A-8F-87-46, mac address:MBPFCG00E19445B20250324160035.000000+000	
+[10/6/25 08:41AM] Logout with password wanker123Logout from host 195.180.34.188, serial number: 04-42-1A-8F-87-46, mac address:MBPFCG00E19445B20250324160035.000000+000	

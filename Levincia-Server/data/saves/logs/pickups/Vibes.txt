@@ -1,0 +1,13 @@
+[10/6/25 07:54PM] Player picked up item: Holy symbol, id: 4682, amount: 1, owner: Vibes	
+[10/7/25 07:17PM] Player picked up item: Collector Necklace III, id: 18888, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:17PM] Player picked up item: Raids Box, id: 18404, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:17PM] Player picked up item: Levincia tokens, id: 12855, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:18PM] Player picked up item: Loot box, id: 290, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:18PM] Player picked up item: Ruby Mystery Box, id: 19114, amount: 6, owner: PARTY CHEST	
+[10/7/25 07:18PM] Player picked up item: Sorrow chaps, id: 8805, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:19PM] Player picked up item: Demonic scythe, id: 20549, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:19PM] Player picked up item: Shikruu full helm, id: 8800, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:20PM] Player picked up item: 100% DR Scroll (30 Min), id: 15358, amount: 1, owner: PARTY CHEST	
+[10/7/25 07:20PM] Player picked up item: Verac's plateskirt, id: 4759, amount: 1, owner: PARTY CHEST	
+[10/8/25 08:50PM] Player picked up item: Brutal tentacle, id: 22077, amount: 1, owner: Vibes	
+[10/8/25 09:04PM] Player picked up item: OP Box, id: 20488, amount: 1, owner: Vibes	

@@ -1,0 +1,19 @@
+[10/12/25 12:07PM] Login. ip: 45.119.30.179, mac: 9S716R612850ZM600030020241019045100.000000+330, uuid: D8-BB-C1-FB-04-55	
+[10/12/25 12:13PM] PROGRESSION_ZONES|3034,4118,5|Said: Hello	
+[10/12/25 12:13PM] PROGRESSION_ZONES|3034,4118,5|Said: Not much just checking out the server	
+[10/12/25 12:14PM] PROGRESSION_ZONES|3034,4118,5|Said: Nice!	
+[10/12/25 12:14PM] PROGRESSION_ZONES|3034,4118,5|Said: Ty	
+[10/12/25 12:16PM] Has just redeemed a $10 Bond successfully!	
+[10/12/25 12:21PM] Player destroying item: -1, amount: 0	
+[10/12/25 12:24PM] DEFAULT|2766,4065,0|Said: Hello i had 91 just used	
+[10/12/25 12:36PM] Player destroying item: -1, amount: 0	
+[10/12/25 12:43PM] DEFAULT|2766,4062,0|Said: Ah i see xd	
+[10/12/25 12:43PM] DEFAULT|2766,4065,0|Said: Gn	
+[10/12/25 12:44PM] DEFAULT|2766,4065,0|Said: Fair enough	
+[10/12/25 12:48PM] Player destroying item: -1, amount: 0	
+[10/12/25 12:52PM] GLOBAL_BOSS|2139,5019,0|Said: Xd	
+[10/12/25 12:53PM] GLOBAL_BOSS|2139,5019,0|Said: Nope	
+[10/12/25 12:54PM] GLOBAL_BOSS|2139,5019,0|Said: I did vote but claiming didn't do anything	
+[10/12/25 12:54PM] Player destroying item: -1, amount: 0	
+[10/12/25 12:55PM] GLOBAL_BOSS|2139,5019,0|Said: Xd	
+[10/12/25 12:56PM] GLOBAL_BOSS|2139,5019,0|Said: Ghijf said he was going to sleep like 20mins ago	

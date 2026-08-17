@@ -1,0 +1,17 @@
+[10/9/25 09:41PM] A N U B I S used command ::toggledrops | Player rights = PLAYER	
+[10/9/25 09:42PM] A N U B I S used command ::ref | Player rights = PLAYER	
+[10/9/25 09:45PM] A N U B I S used command ::pos | Player rights = PLAYER	
+[10/9/25 09:45PM] A N U B I S used command ::pos | Player rights = PLAYER	
+[10/9/25 09:45PM] A N U B I S used command ::bank | Player rights = PLAYER	
+[10/9/25 09:46PM] A N U B I S used command ::freeboxes | Player rights = PLAYER	
+[10/9/25 09:46PM] A N U B I S used command ::commands | Player rights = PLAYER	
+[10/9/25 09:46PM] A N U B I S used command ::ref | Player rights = PLAYER	
+[10/9/25 09:51PM] A N U B I S used command ::dissolveall | Player rights = PLAYER	
+[10/9/25 09:51PM] A N U B I S used command ::auth @nio | Player rights = PLAYER	
+[10/9/25 09:51PM] A N U B I S used command ::auth | Player rights = PLAYER	
+[10/9/25 09:51PM] A N U B I S used command ::vault | Player rights = PLAYER	
+[10/9/25 09:55PM] A N U B I S used command ::home | Player rights = PLAYER	
+[10/9/25 09:55PM] A N U B I S used command ::pos | Player rights = PLAYER	
+[10/9/25 09:56PM] A N U B I S used command ::pos | Player rights = PLAYER	
+[10/9/25 09:56PM] A N U B I S used command ::train | Player rights = PLAYER	
+[10/9/25 09:56PM] A N U B I S used command ::shops | Player rights = PLAYER	

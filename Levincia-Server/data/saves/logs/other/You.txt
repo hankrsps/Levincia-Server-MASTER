@@ -1,0 +1,234 @@
+[10/6/25 07:46PM] Picked up gr.Item Holy symbol, amount: 1	
+[10/6/25 07:46PM] Picked up gr.Item Empty bucket, amount: 1	
+[10/6/25 07:48PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:48PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:48PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/6/25 07:49PM] PROGRESSION_ZONES|3036,4117,1|Said: Hey	
+[10/6/25 07:49PM] PROGRESSION_ZONES|3036,4117,1|Said: Yup	
+[10/6/25 07:50PM] PROGRESSION_ZONES|3036,4121,1|Said: Same as no windom when starter to choose gamemode xd	
+[10/6/25 07:50PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:50PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:51PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:51PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/6/25 07:51PM] PROGRESSION_ZONES|3039,4118,1|Said: Bisitems of nothing xcddd	
+[10/6/25 07:51PM]  Receiving item from trade with Hank Id: 3737, amount: 1	
+[10/6/25 07:51PM]  Receiving item from trade with Hank Id: 3738, amount: 1	
+[10/6/25 07:51PM]  Receiving item from trade with Hank Id: 3739, amount: 1	
+[10/6/25 07:51PM]  Receiving item from trade with Hank Id: 23087, amount: 1	
+[10/6/25 07:51PM] PROGRESSION_ZONES|3039,4118,1|Said: Tyty	
+[10/6/25 07:51PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:51PM] Picked up gr.Item Beginner Mystery box, amount: 7	
+[10/6/25 07:51PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:51PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/6/25 07:52PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:52PM] Picked up gr.Item PvM Box, amount: 1	
+[10/6/25 07:52PM] PROGRESSION_ZONES|3039,4119,1|Said: Hmm	
+[10/6/25 07:52PM] PROGRESSION_ZONES|3039,4119,1|Said: Dosent collect items xd	
+[10/6/25 07:52PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/6/25 07:52PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:52PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:53PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:53PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:53PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:53PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:53PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:53PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/6/25 07:53PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:53PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/6/25 07:53PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:54PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:54PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/6/25 07:54PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:54PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/6/25 07:54PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/6/25 07:54PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:54PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/6/25 07:54PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:54PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:54PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:54PM] Picked up gr.Item Beginner Mystery box, amount: 7	
+[10/6/25 07:54PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:54PM] Picked up gr.Item Starter bones, amount: 2	
+[10/6/25 07:54PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:54PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:56PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:57PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:57PM] Picked up gr.Item PvM Box, amount: 1	
+[10/6/25 07:57PM] Picked up gr.Item Starter bones, amount: 3	
+[10/6/25 07:57PM] Picked up gr.Item Starter bones, amount: 1	
+[10/6/25 07:58PM] Login. ip: 82.131.41.67, mac: To be filled by O.E.M.20201105214737.000000+120, uuid: 40-8D-5C-18-D0-D7	
+[10/6/25 07:58PM] PROGRESSION_ZONES|3034,4121,1|Said: Ok now i get it but reseted xdd	
+[10/6/25 07:59PM] PROGRESSION_ZONES|3034,4121,1|Said: All g :d	
+[10/6/25 07:59PM] PROGRESSION_ZONES|3034,4121,1|Said: Atleast we get to choose :p	
+[10/6/25 07:59PM] PROGRESSION_ZONES|3034,4121,1|Said: I was in edgae gear	
+[10/6/25 07:59PM] PROGRESSION_ZONES|3034,4121,1|Said: Refund af xddd	
+[10/6/25 07:59PM] PROGRESSION_ZONES|3032,4121,1|Said: Xddd	
+[10/6/25 08:02PM]  Receiving item from trade with Hank Id: 19888, amount: 1	
+[10/6/25 08:02PM]  Receiving item from trade with Hank Id: 8412, amount: 1	
+[10/6/25 08:02PM]  Receiving item from trade with Hank Id: 23002, amount: 5	
+[10/6/25 08:02PM] PROGRESSION_ZONES|3036,4121,5|Said: Ty=]	
+[10/6/25 08:03PM] (CC) Help. Said: How to claim votes	
+[10/6/25 08:04PM] PROGRESSION_ZONES|3036,4121,5|Said: Yup	
+[10/6/25 08:04PM]  Receiving item from trade with Hank Id: 23020, amount: 5	
+[10/6/25 08:04PM] PROGRESSION_ZONES|3036,4121,5|Said: Ty	
+[10/6/25 08:05PM] PROGRESSION_ZONES|3036,4121,5|Said: I do ::voted but says	
+[10/6/25 08:05PM] PROGRESSION_ZONES|3036,4121,5|Said: Checking for votes and nothing happens :d	
+[10/6/25 08:05PM] PROGRESSION_ZONES|3036,4121,5|Said: For now :d	
+[10/6/25 08:05PM] Has just redeemed a $10 Bond successfully!	
+[10/6/25 08:06PM] PROGRESSION_ZONES|3036,4121,5|Said: =]	
+[10/6/25 08:06PM] PROGRESSION_ZONES|3036,4121,5|Said: I see	
+[10/6/25 08:06PM] PROGRESSION_ZONES|3036,4121,5|Said: But  i need to leave to work soon	
+[10/6/25 08:06PM] PROGRESSION_ZONES|3036,4121,5|Said: Why i get to find something addictive and gota leave asap xdd	
+[10/6/25 08:07PM] Player destroying item: -1, amount: 0	
+[10/6/25 08:09PM] Has just redeemed a $5 Bond successfully!	
+[10/6/25 08:09PM] Has just redeemed a $50 Bond successfully!	
+[10/6/25 08:09PM] (CC) Help. Said: ;l0l0l0l0l0l0l0ll0	
+[10/6/25 08:10PM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 08:13PM] PROGRESSION_ZONES|3038,4118,17|Said: 30k	
+[10/6/25 08:14PM] PROGRESSION_ZONES|3039,4120,17|Said: Tyy	
+[10/6/25 08:29PM] SKILLING_ISLAND|2806,2662,0|Said: Dont have coins sec	
+[10/6/25 08:29PM] SKILLING_ISLAND|2806,2662,0|Said: Got form bank :d	
+[10/6/25 08:29PM] (CC) Help. Said: Ok take care guys im late to work now :d	
+[10/6/25 08:29PM] (CC) Help. Said: Runing away,afk time :d	
+[10/6/25 08:49PM] Login. ip: 82.131.41.67, mac: To be filled by O.E.M.20201105214737.000000+120, uuid: 40-8D-5C-18-D0-D7	
+[10/6/25 08:51PM] Login. ip: 82.131.41.67, mac: To be filled by O.E.M.20201105214737.000000+120, uuid: 40-8D-5C-18-D0-D7	
+[10/6/25 09:01PM] Login. ip: 82.131.41.67, mac: To be filled by O.E.M.20201105214737.000000+120, uuid: 40-8D-5C-18-D0-D7	
+[10/7/25 11:04AM] Login. ip: 82.131.41.67, mac: To be filled by O.E.M.20201105214737.000000+120, uuid: 40-8D-5C-18-D0-D7	
+[10/7/25 11:05AM] (CC) Help. Said: Hank	
+[10/7/25 11:05AM] (CC) Help. Said: Hey	
+[10/7/25 11:05AM] (CC) Help. Said: How long till reset?:d	
+[10/7/25 11:05AM] (CC) Help. Said: :o	
+[10/7/25 11:06AM] (CC) Help. Said: Command to claim votes?:p	
+[10/7/25 11:18AM] Player destroying item: -1, amount: 0	
+[10/7/25 11:18AM] Player destroying item: -1, amount: 0	
+[10/7/25 11:19AM] Player destroying item: 13740, amount: 1	
+[10/7/25 11:19AM] Player destroying item: -1, amount: 0	
+[10/7/25 11:19AM] Player destroying item: -1, amount: 0	
+[10/7/25 11:27AM] GLOBAL_BOSS|2139,5019,0|Said: Im tired af	
+[10/7/25 11:27AM] GLOBAL_BOSS|2139,5019,0|Said: After work i drive to summer house to work more till its dark	
+[10/7/25 11:27AM] GLOBAL_BOSS|2139,5019,0|Said: Replacing roof 	
+[10/7/25 11:33AM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 11:38AM] Login. ip: 82.131.41.67, mac: To be filled by O.E.M.20201105214737.000000+120, uuid: 40-8D-5C-18-D0-D7	
+[10/7/25 11:59AM] Player destroying item: -1, amount: 0	
+[10/7/25 12:29PM] NARAKU|3424,9567,0|Said: Its all gona be gone if i understand 	
+[10/7/25 12:30PM] NARAKU|3424,9567,0|Said: Today/tommorow reset, if i remember	
+[10/7/25 12:30PM] NARAKU|3424,9567,0|Said: Gotaaskin discord	
+[10/7/25 12:52PM] Picked up gr.Item Holy symbol, amount: 1	
+[10/7/25 12:56PM] Picked up gr.Item Rotten food, amount: 3	
+[10/7/25 01:02PM] Picked up gr.Item Iron nails, amount: 10	
+[10/7/25 01:02PM] Picked up gr.Item Iron nails, amount: 10	
+[10/7/25 01:02PM] Picked up gr.Item PVM ticket, amount: 4	
+[10/7/25 01:04PM] Player destroying item: 2347, amount: 1	
+[10/7/25 01:04PM] Player destroying item: 2347, amount: 1	
+[10/7/25 01:06PM] Login. ip: 82.131.41.67, mac: To be filled by O.E.M.20201105214737.000000+120, uuid: 40-8D-5C-18-D0-D7	
+[10/7/25 01:06PM] Picked up gr.Item Enchanted Herb, amount: 1	
+[10/7/25 01:06PM] Picked up gr.Item Enchanted Herb, amount: 1	
+[10/7/25 01:07PM] Picked up gr.Item PVM ticket, amount: 30	
+[10/7/25 01:07PM] (CC) Help. Said: I voted :d	
+[10/7/25 07:48PM] (CC) Help. Said: Anyone to ::dk	
+[10/7/25 07:51PM] Player destroying item: -1, amount: 0	
+[10/7/25 07:52PM] Has just redeemed a $100 Bond successfully!	
+[10/7/25 07:53PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 07:58PM] GLOBAL_BOSS|2139,5019,0|Said: Gl	
+[10/7/25 08:04PM] (CC) Help. Said: Pvmshop	
+[10/7/25 08:07PM] DEFAULT|2721,4446,0|Said: Listen	
+[10/7/25 08:07PM] DEFAULT|2721,4446,0|Said: One more time you gona call me that	
+[10/7/25 08:07PM] DEFAULT|2721,4446,0|Said: And 	
+[10/7/25 08:07PM] DEFAULT|2721,4446,0|Said: Nothing will happen xd	
+[10/7/25 08:08PM] DEFAULT|2723,4446,0|Said: Xddd	
+[10/7/25 08:08PM] DEFAULT|2723,4446,0|Said: I woke up	
+[10/7/25 08:08PM] DEFAULT|2723,4446,0|Said: And already tired xd	
+[10/7/25 08:08PM] DEFAULT|2723,4446,0|Said: This roof replacemend drains all my energy :d	
+[10/7/25 08:08PM] DEFAULT|2723,4448,0|Said: Na here i can relax and chill from work atm :d	
+[10/7/25 08:11PM] DEFAULT|2725,4448,0|Said: Supperiors from slayer are extra rare :d	
+[10/7/25 08:12PM] DEFAULT|2725,4448,0|Said: I like everything you wear :d	
+[10/7/25 08:13PM] DEFAULT|2725,4448,0|Said: And all under them	
+[10/7/25 08:13PM] DEFAULT|2725,4448,0|Said: Xdddddddd	
+[10/7/25 08:13PM] DEFAULT|2725,4448,0|Said: I mean theres nothing under them	
+[10/7/25 08:13PM] DEFAULT|2725,4448,0|Said: But will work too xdd	
+[10/7/25 08:15PM] (CC) Help. Said: Hank himself is aggro	
+[10/7/25 08:15PM] (CC) Help. Said: X[]	
+[10/7/25 08:15PM] You received x1 Webby legs from Arachne!	
+[10/7/25 08:25PM] HELLRAISER|3107,5530,0|Said: Toilet time :d	
+[10/8/25 07:27AM] (CC) Help. Said: Good day	
+[10/8/25 07:27AM] (CC) Help. Said: Just got back from work, its raining outside	
+[10/8/25 07:28AM] Has just redeemed a $25 Bond successfully!	
+[10/8/25 07:30AM] Has just redeemed a $5 Bond successfully!	
+[10/8/25 07:30AM] (CC) Help. Said: Now?:d	
+[10/8/25 07:30AM] (CC) Help. Said: Now at 24:ld	
+[10/8/25 07:31AM] Has just redeemed a $100 Bond successfully!	
+[10/8/25 07:32AM] Has just redeemed a $1 Scroll successfully!	
+[10/8/25 07:32AM] DEFAULT|2094,3995,0|Said: I gota make something to eat:d	
+[10/8/25 07:32AM] DEFAULT|2094,3995,0|Said: I mean grab from fridge but gota get	
+[10/8/25 07:33AM] DEFAULT|2094,3995,0|Said: Some heat from pc 1st:d	
+[10/8/25 07:34AM] DEFAULT|2094,3993,0|Said: Ok brb:p	
+[10/8/25 07:37AM] DEFAULT|2094,3993,0|Said: =]	
+[10/8/25 07:37AM] DEFAULT|2094,3993,0|Said: Till?:d	
+[10/8/25 07:49AM]  Receiving item from trade with You2 Id: 23277, amount: 2	
+[10/8/25 07:49AM]  Receiving item from trade with You2 Id: 23020, amount: 2	
+[10/8/25 07:51AM] Has just redeemed a $100 Bond successfully!	
+[10/8/25 08:35AM] INSTANCE2|2784,4766,43|Said: I went to toilet :d	
+[10/8/25 08:35AM] INSTANCE2|2784,4766,43|Said: :d	
+[10/8/25 08:36AM] INSTANCE2|2785,4764,43|Said: You better do that:d	
+[10/8/25 08:40AM] INSTANCE2|2786,4768,43|Said: Hmmm	
+[10/8/25 08:40AM] INSTANCE2|2786,4768,43|Said: Raw fury shark drops unnoted xd	
+[10/8/25 08:40AM] INSTANCE2|2786,4768,43|Said: Or dont stack	
+[10/8/25 08:40AM] You received x1 Ripper helm from Titanium Ripper!	
+[10/8/25 08:45AM] Picked up gr.Item Raw Fury shark, amount: 2	
+[10/8/25 08:46AM] INSTANCE2|2785,4766,43|Said: :[]	
+[10/8/25 09:02AM] (CC) Help. Said: We can claim now?:d	
+[10/8/25 09:03AM] (CC) Help. Said: Ohh xd	
+[10/8/25 09:19AM] Has just redeemed a $5 Bond successfully!	
+[10/8/25 09:33AM] VOTE_BOSS|3424,4123,4|Said: =]	
+[10/8/25 09:43AM] (CC) Help. Said: Is there donator zones?	
+[10/8/25 09:56AM] (CC) Help. Said: Gh	
+[10/8/25 09:56AM] (CC) Help. Said: What zone you in?:d	
+[10/8/25 09:56AM] INSTANCE2|2785,4766,43|Said: ;;szone	
+[10/8/25 09:58AM] (CC) Help. Said: Hank	
+[10/8/25 10:23AM] EMERALD_ZONE|2589,2772,0|Said: Broken script xd	
+[10/8/25 10:24AM] EMERALD_ZONE|2588,2776,0|Said: Lol	
+[10/8/25 10:25AM] EMERALD_ZONE|2589,2772,0|Said: Gwt	
+[10/8/25 10:25AM] EMERALD_ZONE|2589,2772,0|Said: Told you	
+[10/8/25 10:25AM] EMERALD_ZONE|2589,2772,0|Said: Same pattern	
+[10/8/25 10:25AM] EMERALD_ZONE|2589,2772,0|Said: And tele back to emerald zone:d	
+[10/8/25 10:25AM] EMERALD_ZONE|2589,2772,0|Said: And come back here	
+[10/8/25 10:37AM] Login. ip: 82.131.41.67, mac: To be filled by O.E.M.20201105214737.000000+120, uuid: 40-8D-5C-18-D0-D7	
+[10/8/25 10:44AM] DEFAULT|2785,4040,0|Said: 54/n	
+[10/8/25 10:45AM] (CC) Help. Said: Need to check veteran rank upgrade exp	
+[10/8/25 10:45AM] DEFAULT|2785,4040,0|Said: Dosent/	
+[10/8/25 10:45AM] (CC) Help. Said: Dosent matter wich tier i do i get same xp ,234exp	
+[10/8/25 10:51AM] (CC) Help. Said: 2?	
+[10/8/25 10:51AM] (CC) Help. Said: I have to feed kids	
+[10/8/25 10:51AM] (CC) Help. Said: Bils to pay	
+[10/8/25 10:52AM] (CC) Help. Said: Cmon, do 2147m +tax	
+[10/8/25 10:52AM] (CC) Help. Said: Xdfddd	
+[10/8/25 10:55AM] Player destroying item: -1, amount: 0	
+[10/8/25 07:45PM] Login. ip: 82.131.41.67, mac: To be filled by O.E.M.20201105214737.000000+120, uuid: 40-8D-5C-18-D0-D7	
+[10/8/25 07:47PM] Has just redeemed a $1 Scroll successfully!	
+[10/8/25 07:49PM] (CC) Help. Said: Tyy	
+[10/8/25 07:52PM] Has just redeemed a $1 Scroll successfully!	
+[10/8/25 07:55PM] You received x1 Oni off-hand from Oni!	
+[10/8/25 07:58PM] You received x1 Ganopurp robe top from Oni!	
+[10/8/25 08:06PM] (CC) Help. Said: And gurls :d	
+[10/8/25 08:08PM] (CC) Help. Said: Let him cook!!!!!!! :d	
+[10/8/25 08:10PM] Login. ip: 82.131.41.67, mac: To be filled by O.E.M.20201105214737.000000+120, uuid: 40-8D-5C-18-D0-D7	
+[10/8/25 08:15PM] (CC) Help. Said: Minigame tele	
+[10/8/25 08:15PM] (CC) Help. Said: Souls of suffering :d had that key too,took some time to find it "d	
+[10/9/25 08:49AM] (CC) Help. Said: Good evening	
+[10/9/25 08:50AM] Has just redeemed a $10 Bond successfully!	
+[10/9/25 08:51AM] (CC) Help. Said: Not much,just got back home from work	
+[10/9/25 08:57AM] Login. ip: 82.131.41.67, mac: To be filled by O.E.M.20201105214737.000000+120, uuid: 40-8D-5C-18-D0-D7	
+[10/9/25 09:10AM] DEFAULT|2092,5520,0|Said: \::	
+[10/9/25 09:13AM] Has just redeemed a $5 Bond successfully!	
+[10/9/25 09:22AM] (CC) Help. Said: Dang	
+[10/9/25 09:22AM] (CC) Help. Said: Where are they? i need pvm tickets too xd	
+[10/9/25 09:34AM] You received x1 PvM ticket pack (10k) from Cave Drone!	
+[10/9/25 09:39AM] Has just redeemed a $1 Scroll successfully!	
+[10/9/25 11:24AM] Has just redeemed a $1 Scroll successfully!	
+[10/9/25 11:43AM] You received x1 PvM ticket pack (10k) from Cave Drone!	
+[10/9/25 11:43AM] Has just redeemed a $1 Scroll successfully!	
+[10/9/25 11:45AM] (CC) Help. Said: Examine :d	
+[10/9/25 11:45AM] (CC) Help. Said: Orclick on it	
+[10/9/25 11:45AM] (CC) Help. Said: Wont loose item on fail if i remember correct :p	
+[10/9/25 12:07PM] Has just redeemed a $1 Scroll successfully!	
+[10/9/25 08:08PM] Has just redeemed a $10 Bond successfully!	

@@ -1,0 +1,17 @@
+[10/10/25 09:37AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/10/25 09:49AM] Player received drop: x1 Chance scroll, id: 22166, amount: 1, from: Vote Boss	
+[10/10/25 07:02PM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Naraku	
+[10/10/25 11:24PM] Player received drop: x1 Ripper body, id: 16021, amount: 1, from: Titanium Ripper	
+[10/11/25 02:25AM] Player received drop: x1 Ganopurp mask, id: 8806, amount: 1, from: Oni	
+[10/11/25 03:48AM] Player received drop: x1 Ganopurp robe legs, id: 8808, amount: 1, from: Oni	
+[10/13/25 06:15PM] Player received drop: x1 100% DR Scroll (30 Min), id: 15358, amount: 1, from: Vote Boss	
+[10/13/25 06:22PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 06:23PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 06:31PM] Player received drop: x1 $5 Bond, id: 6769, amount: 1, from: Vozzath	
+[10/13/25 06:53PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:04PM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/14/25 02:07AM] Player received drop: x1 Energy ring, id: 7927, amount: 1, from: Energy Skeleton	
+[10/14/25 06:33PM] Player received drop: x1 Sub-Zero body, id: 13301, amount: 1, from: Sub-Zero	
+[10/14/25 07:45PM] Player received drop: x1 Royal hell amulet, id: 15511, amount: 1, from: Sub-Zero	
+[10/15/25 07:22PM] Player received drop: x1 Sorrow bow, id: 20173, amount: 1, from: Sub-Zero	
+[10/16/25 03:13PM] Player received drop: x5 Invention xp lamp, id: 21218, amount: 5, from: Almighty Zeus	

@@ -1,0 +1,50 @@
+[10/7/25 05:05PM] Player received drop: x1 Collector necklace, id: 19886, amount: 1, from: Vote Boss	
+[10/8/25 12:25AM] Player received drop: x1 Boss gloves, id: 3905, amount: 1, from: Turoth	
+[10/8/25 02:19AM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Dragon King	
+[10/8/25 03:40AM] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 03:59AM] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 04:05AM] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 07:04AM] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 07:29AM] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 08:06AM] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 08:26AM] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 09:27AM] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 09:56AM] Player received drop: x1 Ring of wealth, id: 2572, amount: 1, from: Szone Mini Zulrah	
+[10/8/25 10:04PM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Hellraiser	
+[10/8/25 10:40PM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Turoth	
+[10/8/25 10:44PM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Energy Skeleton	
+[10/8/25 10:44PM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Energy Skeleton	
+[10/8/25 11:54PM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Demon Goddess	
+[10/9/25 12:28AM] Player received drop: x1 Energy Torva platelegs, id: 19934, amount: 1, from: Energy Skeleton	
+[10/9/25 12:56AM] Player received drop: x1 Tornado Katana, id: 14018, amount: 1, from: Turoth	
+[10/9/25 12:56AM] Player received drop: x1 Bulwark platebody, id: 8817, amount: 1, from: Turoth	
+[10/9/25 01:56AM] Player received drop: x1 Arc mace, id: 19917, amount: 1, from: Energy Skeleton	
+[10/9/25 02:01PM] Player received drop: x1 Ruby Mystery Box, id: 19114, amount: 1, from: Inuyasha	
+[10/9/25 02:42PM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/10/25 02:42AM] Player received drop: x1 Goodiebag box, id: 6833, amount: 1, from: Raditz	
+[10/10/25 01:45PM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Turoth	
+[10/10/25 01:50PM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Energy Skeleton	
+[10/10/25 01:54PM] Player received drop: x1 Arc mace, id: 19917, amount: 1, from: Energy Skeleton	
+[10/10/25 03:31PM] Player received drop: x2 Sapphire mystery box, id: 19116, amount: 2, from: Demon Of Deity	
+[10/10/25 05:16PM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Turoth	
+[10/10/25 05:35PM] Player received drop: x1 Diabolical platebody, id: 8861, amount: 1, from: Demon Goddess	
+[10/11/25 12:55AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Arachne	
+[10/11/25 01:13AM] Player received drop: x1 Webby legs, id: 19472, amount: 1, from: Arachne	
+[10/11/25 04:14AM] Player received drop: x1 Hellraiser head, id: 13323, amount: 1, from: Hellraiser	
+[10/11/25 04:49AM] Player received drop: x1 Oni helm, id: 15924, amount: 1, from: Oni	
+[10/11/25 05:10AM] Player received drop: x1 2X Damage Scroll (30 Min), id: 15359, amount: 1, from: Vote Boss	
+[10/11/25 05:40AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 06:42AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Turoth	
+[10/11/25 06:44AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Demon Goddess	
+[10/11/25 06:46AM] Player received drop: x1 Webby body, id: 19473, amount: 1, from: Arachne	
+[10/11/25 11:30AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Energy Skeleton	
+[10/11/25 11:31AM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Energy Skeleton	
+[10/11/25 11:37AM] Player received drop: x1 Arc mace, id: 19917, amount: 1, from: Energy Skeleton	
+[10/11/25 11:42AM] Player received drop: x1 Boss gloves, id: 3905, amount: 1, from: Turoth	
+[10/11/25 11:47AM] Player received drop: x1 Bulwark platebody, id: 8817, amount: 1, from: Turoth	
+[10/11/25 10:49PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 08:18AM] Player received drop: x1 Azure Casket, id: 15003, amount: 1, from: Vozzath	
+[10/13/25 08:18AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Vozzath	
+[10/13/25 07:04PM] Player received drop: x1 Elite Casket, id: 15002, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:08PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/14/25 06:47AM] Player received drop: x1 Sorrow bow, id: 20173, amount: 1, from: Sub-Zero	

@@ -1,0 +1,34 @@
+[10/5/25 05:20PM] Player received drop: x1 Hanto Costume, id: 23462, amount: 1, from: Hanto Warrior	
+[10/7/25 07:49AM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Hellraiser	
+[10/8/25 08:40PM] Player received drop: x1 100% DR Scroll (30 Min), id: 15358, amount: 1, from: Vote Boss	
+[10/8/25 09:37PM] Player received drop: x1 Arc mace, id: 19917, amount: 1, from: Energy Skeleton	
+[10/9/25 10:33AM] Player received drop: x1 Hellraiser pet (x2 KC), id: 11314, amount: 1, from: Hellraiser	
+[10/9/25 01:33PM] Player received drop: x1 Deity Attachment, id: 10947, amount: 1, from: Forest Archer	
+[10/9/25 02:42PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:38AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:40AM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 05:40AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:08AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:09AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:09AM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:10AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:10AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:12AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 09:14AM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 06:59PM] Player received drop: x1 Steadfast scale, id: 9687, amount: 1, from: Cave Snail	
+[10/11/25 10:41PM] Player received drop: x1 Vote Boss transformer, id: 23662, amount: 1, from: Vote Boss	
+[10/11/25 10:41PM] Player received drop: x1 100% DR Scroll (30 Min), id: 15358, amount: 1, from: Vote Boss	
+[10/11/25 10:47PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/11/25 10:49PM] Player received drop: x1 $10 Bond, id: 10942, amount: 1, from: Nephilim Warrior	
+[10/11/25 10:51PM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/11/25 10:51PM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/13/25 08:28AM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Vozzath	
+[10/13/25 06:17PM] Player received drop: x1 Collector necklace, id: 19886, amount: 1, from: Vote Boss	
+[10/13/25 06:28PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Vozzath	
+[10/13/25 06:34PM] Player received drop: x1 $5 Bond, id: 6769, amount: 1, from: Vozzath	
+[10/13/25 06:50PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:01PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:04PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/13/25 07:06PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/15/25 08:54PM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/15/25 08:56PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	

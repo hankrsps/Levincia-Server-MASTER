@@ -1,0 +1,4 @@
+[10/11/25 07:46PM] Patetapt used command ::train | Player rights = PLAYER	
+[10/11/25 07:48PM] Patetapt used command ::bank | Player rights = PLAYER	
+[10/11/25 07:48PM] Patetapt used command ::bank | Player rights = PLAYER	
+[10/11/25 07:48PM] Patetapt used command ::home | Player rights = PLAYER	

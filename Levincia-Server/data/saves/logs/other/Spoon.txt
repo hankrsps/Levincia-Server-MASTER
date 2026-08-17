@@ -1,0 +1,680 @@
+[10/5/25 07:09AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/5/25 07:12AM] (CC) Help. Said: Hey!	
+[10/5/25 07:13AM] PROGRESSION_ZONES|3034,4121,1|Said: Seems so :)	
+[10/5/25 07:14AM] PROGRESSION_ZONES|3034,4121,1|Said: Sweet!	
+[10/5/25 07:17AM] PROGRESSION_ZONES|3038,4121,5|Said: Wfirst thing to al;ways check as its a new server	
+[10/5/25 07:17AM] PROGRESSION_ZONES|3038,4121,5|Said: Are the pos empty?	
+[10/5/25 07:18AM] PROGRESSION_ZONES|3039,4123,5|Said: Awesome	
+[10/5/25 07:18AM] PROGRESSION_ZONES|3039,4123,5|Said: So many people forget to do that and have a full pos	
+[10/5/25 07:18AM] PROGRESSION_ZONES|3039,4123,5|Said: And you just make characters in those names	
+[10/5/25 07:18AM] PROGRESSION_ZONES|3039,4123,5|Said: And claim the shop	
+[10/5/25 07:20AM] PROGRESSION_ZONES|3039,4123,9|Said: Yea never done one like this	
+[10/5/25 07:21AM] PROGRESSION_ZONES|3039,4123,9|Said: Can i tp back here if i leave? need to visit a bank	
+[10/5/25 07:21AM] PROGRESSION_ZONES|3039,4123,9|Said: Adding one in each area would be nice	
+[10/5/25 07:24AM] (CC) Help. Said: No voting yet?	
+[10/5/25 07:24AM] (CC) Help. Said: Ok!	
+[10/5/25 07:24AM] (CC) Help. Said: Nice!	
+[10/5/25 07:25AM] (CC) Help. Said: How do i get a chest key?	
+[10/5/25 07:26AM] (CC) Help. Said: I dont have the key, wondering how i get them to open my chest	
+[10/5/25 07:26AM] (CC) Help. Said: Yea case key lol	
+[10/5/25 07:27AM] PROGRESSION_ZONES|3029,4121,9|Said: Ok!	
+[10/5/25 07:28AM] (CC) Help. Said: The voting achievement will ned a name change, as its the name of another serve	
+[10/5/25 07:29AM] (CC) Help. Said: Another server	
+[10/5/25 07:29AM] PROGRESSION_ZONES|3030,4121,9|Said: Says i need a key	
+[10/5/25 07:29AM] Picked up gr.Item PVM ticket, amount: 14	
+[10/5/25 07:29AM]  Receiving item from trade with Hank Id: 4186, amount: 5	
+[10/5/25 07:29AM] PROGRESSION_ZONES|3030,4121,9|Said: Ty!	
+[10/5/25 07:31AM] (CC) Help. Said: Awesome!	
+[10/5/25 07:34AM] Picked up gr.Item Starter bones, amount: 2	
+[10/5/25 07:41AM] Picked up gr.Item Starter bones, amount: 2	
+[10/5/25 07:45AM] (CC) Help. Said: I just randomly got a daily done that had nothing to do with what	
+[10/5/25 07:45AM] (CC) Help. Said: Im killing	
+[10/5/25 07:45AM] (CC) Help. Said: Recieve a unique blood demon drop in elite daily	
+[10/5/25 07:46AM] Picked up gr.Item PVM ticket, amount: 14	
+[10/5/25 07:46AM] (CC) Help. Said: Unless phase 4 starters are classed as that.. as i got a 1/2000 drop	
+[10/5/25 07:47AM] PROGRESSION_ZONES|3030,4118,13|Said: Howdy	
+[10/5/25 07:48AM] PROGRESSION_ZONES|3032,4118,13|Said: I got the crate drop from these	
+[10/5/25 07:48AM] PROGRESSION_ZONES|3032,4118,13|Said: And it gave me the reward for blood demoin	
+[10/5/25 07:48AM] PROGRESSION_ZONES|3032,4118,13|Said: On my daily	
+[10/5/25 07:48AM] PROGRESSION_ZONES|3032,4118,13|Said: Gave me that	
+[10/5/25 07:48AM] PROGRESSION_ZONES|3032,4118,13|Said: Ill screenshot the daily	
+[10/5/25 07:48AM] PROGRESSION_ZONES|3032,4118,13|Said: And send a pick	
+[10/5/25 07:55AM] Picked up gr.Item Starter bones, amount: 2	
+[10/5/25 07:56AM] Picked up gr.Item PVM ticket, amount: 7	
+[10/5/25 07:56AM] Picked up gr.Item Starter bones, amount: 1	
+[10/5/25 07:59AM] (CC) Help. Said: Nothing good rip lol	
+[10/5/25 08:02AM] Picked up gr.Item Global ticket, amount: 1	
+[10/5/25 08:02AM] Picked up gr.Item Levincia tokens, amount: 5000	
+[10/5/25 08:02AM] Picked up gr.Item PVM ticket, amount: 1000	
+[10/5/25 08:02AM] Picked up gr.Item Crystal key, amount: 2	
+[10/5/25 08:06AM] Picked up gr.Item PVM ticket, amount: 14	
+[10/5/25 08:07AM] (CC) Help. Said: We killing nightmare again?	
+[10/5/25 08:08AM] (CC) Help. Said: Ty	
+[10/5/25 08:09AM]  Receiving item from trade with Hank Id: 20488, amount: 5	
+[10/5/25 08:09AM]  Receiving item from trade with Hank Id: 19114, amount: 5	
+[10/5/25 08:09AM]  Receiving item from trade with Hank Id: 19116, amount: 3	
+[10/5/25 08:09AM]  Receiving item from trade with Hank Id: 19115, amount: 3	
+[10/5/25 08:09AM] VBOSS|2980,2773,0|Said: Thanks	
+[10/5/25 08:09AM] VBOSS|2980,2773,0|Said: And ill ask a few people!	
+[10/5/25 08:15AM] Picked up gr.Item Levincia tokens, amount: 100	
+[10/5/25 08:18AM] (CC) Help. Said: Erm.. mage	
+[10/5/25 08:19AM]  Receiving item from trade with Hank Id: 8412, amount: 1	
+[10/5/25 08:19AM] DEFAULT|2785,4081,0|Said: Ty	
+[10/5/25 08:22AM] Picked up gr.Item PVM ticket, amount: 14	
+[10/5/25 08:26AM] Picked up gr.Item PVM ticket, amount: 14	
+[10/5/25 08:26AM] Picked up gr.Item PVM ticket, amount: 14	
+[10/5/25 08:26AM] Picked up gr.Item PVM ticket, amount: 14	
+[10/5/25 08:26AM] Picked up gr.Item Starter bones, amount: 2	
+[10/5/25 08:28AM] Picked up gr.Item Starter bones, amount: 2	
+[10/5/25 08:28AM] Picked up gr.Item Starter bones, amount: 2	
+[10/5/25 08:32AM] (CC) Help. Said: Gotta go walk dog, ill be back soon	
+[10/5/25 03:16PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/5/25 03:17PM] (CC) Help. Said: Boop	
+[10/5/25 03:20PM] Picked up gr.Item Levincia tokens, amount: 100	
+[10/6/25 05:46PM] (CC) Help. Said: Boop	
+[10/6/25 05:47PM] Has just redeemed a $1 Scroll successfully!	
+[10/6/25 05:48PM] Picked up gr.Item PVM ticket, amount: 5	
+[10/6/25 05:48PM] Picked up gr.Item Levincia tokens, amount: 50	
+[10/6/25 05:51PM] ZONES1|2964,9492,0|Said: Hey	
+[10/6/25 05:52PM] ZONES1|2964,9492,0|Said: Not bad, had a busy day 	
+[10/6/25 05:52PM] ZONES1|2964,9492,0|Said: How about you	
+[10/6/25 05:52PM] ZONES1|2966,9492,0|Said: Yep i voted	
+[10/6/25 05:52PM] ZONES1|2966,9492,0|Said: Cant claim yet tho	
+[10/6/25 05:53PM] (CC) Help. Said: Ty	
+[10/6/25 05:54PM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/6/25 05:54PM] ZONES1|2982,9491,0|Said: Ty again!	
+[10/6/25 05:56PM] ZONES1|2982,9491,0|Said: Im getting some drops	
+[10/6/25 05:56PM] ZONES1|2982,9491,0|Said: Just not them al lol	
+[10/6/25 05:56PM] ZONES1|2984,9491,0|Said: Pet seems to have some kind of coll ability	
+[10/6/25 05:58PM] ZONES1|2986,9491,0|Said: Not bad	
+[10/6/25 05:59PM] ZONES1|2986,9487,0|Said: Thats fine :d	
+[10/6/25 05:59PM] ZONES1|2987,9489,0|Said: Sweet :d	
+[10/6/25 06:00PM] ZONES1|2987,9489,0|Said: Welp thats nice :d	
+[10/6/25 06:02PM] HOME_BANK|2784,4065,0|Said: Oo blood ewapon	
+[10/6/25 06:02PM] HOME_BANK|2784,4065,0|Said: Sang staff	
+[10/6/25 06:02PM] Has just redeemed a $25 Bond successfully!	
+[10/6/25 06:03PM] HOME_BANK|2784,4065,0|Said: Lol	
+[10/6/25 06:03PM] HOME_BANK|2784,4065,0|Said: Did you see my legendary twisted bow drop :d	
+[10/6/25 06:03PM] HOME_BANK|2784,4065,0|Said: 1/125 got it first box lol	
+[10/6/25 06:03PM] HOME_BANK|2784,4065,0|Said: :d	
+[10/6/25 06:04PM] HOME_BANK|2783,4065,0|Said: Damn	
+[10/6/25 06:04PM] HOME_BANK|2783,4065,0|Said: Bis?	
+[10/6/25 06:04PM] HOME_BANK|2783,4065,0|Said: Oo	
+[10/6/25 06:04PM] HOME_BANK|2783,4065,0|Said: Fancy	
+[10/6/25 06:06PM] HOME_BANK|2783,4065,0|Said: Gonan go kill things!	
+[10/6/25 06:07PM] ZONES2|2330,3890,0|Said: Yea its awesome	
+[10/6/25 06:09PM] ZONES2|2330,3890,0|Said: What might be?	
+[10/6/25 06:09PM] ZONES2|2330,3890,0|Said: It isd aoe	
+[10/6/25 06:13PM] (CC) Help. Said: Right its 2am im heading to bed but ill be back on tomorrow when home 	
+[10/6/25 06:13PM] (CC) Help. Said: From the hospital	
+[10/6/25 06:14PM] (CC) Help. Said: Take care	
+[10/6/25 06:19PM] (CC) Help. Said: Cant mine afk rocks in afk area..	
+[10/6/25 07:58PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/6/25 08:49PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/6/25 08:51PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/6/25 09:01PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/7/25 06:10AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/7/25 07:18AM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 07:18AM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 07:20AM] DEFAULT|2785,4040,0|Said: Nope sorry	
+[10/7/25 07:20AM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 07:21AM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 07:22AM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 07:25AM] DEFAULT|2784,4044,0|Said: No idea only just got it	
+[10/7/25 07:25AM] DEFAULT|2784,4044,0|Said: Just testing things thats all	
+[10/7/25 07:43AM] SLAYERMULTI|1902,5198,0|Said: Howdy	
+[10/7/25 07:43AM] SLAYERMULTI|1902,5198,0|Said: Lol	
+[10/7/25 07:43AM] SLAYERMULTI|1902,5198,0|Said: Wanna test raids but need 99 slayer	
+[10/7/25 07:46AM] (CC) Help. Said: In another area	
+[10/7/25 07:46AM] (CC) Help. Said: And 2nd "home"	
+[10/7/25 07:47AM] (CC) Help. Said: No just key	
+[10/7/25 07:52AM] GLOBAL_BOSS|2142,5020,0|Said: Usually it gives unlim prayer	
+[10/7/25 07:55AM] GLOBAL_BOSS|2142,5020,0|Said: Gl!	
+[10/7/25 07:55AM] GLOBAL_BOSS|2142,5020,0|Said: Just not better luck than me	
+[10/7/25 08:17AM] (CC) Help. Said: Ty	
+[10/7/25 08:18AM] Player destroying item: -1, amount: 0	
+[10/7/25 08:19AM] (CC) Help. Said: Agro pots with inf prayer jsut make a server afk	
+[10/7/25 08:19AM] (CC) Help. Said: Yes	
+[10/7/25 08:28AM] (CC) Help. Said: Woo 99 slayer	
+[10/7/25 08:31AM] (CC) Help. Said: Gotta walk dog then raids time!	
+[10/7/25 08:51AM] DEFAULT|2787,4076,0|Said: My cape	
+[10/7/25 08:51AM] DEFAULT|2787,4076,0|Said: Owner	
+[10/7/25 08:52AM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 10:26AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/7/25 10:35AM] VOTE_BOSS|3429,4121,4|Said: Lol	
+[10/7/25 10:37AM] VOTE_BOSS|3426,4122,4|Said: Same	
+[10/7/25 12:03PM] DEFAULT|2649,3985,0|Said:  /yes but no claim yet	
+[10/7/25 12:03PM] (CC) Help. Said: Yes but no claim yet	
+[10/7/25 12:10PM] (CC) Help. Said: Nope this is alpha	
+[10/7/25 12:10PM] (CC) Help. Said: We will be wiped and going into beta soon	
+[10/7/25 01:41PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/7/25 01:49PM] (CC) Help. Said: Lmao	
+[10/7/25 01:49PM] (CC) Help. Said: Only 5k stats? :o	
+[10/7/25 01:50PM] (CC) Help. Said: Lol said that as owner cape is 30k and owner amulet is 5k	
+[10/7/25 02:58PM] DEFAULT|2649,3985,0|Said: +	
+[10/7/25 05:31PM] (CC) Help. Said: Ty	
+[10/7/25 05:32PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 05:32PM] Has just redeemed a $5 Bond successfully!	
+[10/7/25 05:32PM] Has just redeemed a $5 Bond successfully!	
+[10/7/25 05:32PM] HOME_BANK|2784,4065,0|Said:  /nah just mage and range i did it with	
+[10/7/25 05:32PM] (CC) Help. Said: Nah jsut mage and range	
+[10/8/25 03:06AM] DEFAULT|2647,3982,0|Said: +	
+[10/8/25 03:09AM] Has just redeemed a $5 Bond successfully!	
+[10/8/25 03:09AM] Has just redeemed a $1 Scroll successfully!	
+[10/8/25 03:09AM] Has just redeemed a $50 Bond successfully!	
+[10/8/25 03:09AM] Has just redeemed a $25 Bond successfully!	
+[10/8/25 03:10AM] Has just redeemed a $1 Scroll successfully!	
+[10/8/25 10:35AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/8/25 10:35AM] (CC) Help. Said: Boop	
+[10/8/25 10:36AM] (CC) Help. Said: Not much hoiw aboiut you	
+[10/8/25 10:37AM] (CC) Help. Said: Nice	
+[10/8/25 01:38PM] (CC) Help. Said: Cant talk to sir away for the afk shop	
+[10/8/25 01:42PM] (CC) Help. Said: Lmao	
+[10/8/25 01:44PM] (CC) Help. Said: Something	
+[10/8/25 01:44PM] (CC) Help. Said: Thank you! :)	
+[10/8/25 01:46PM] HOME_BANK|2781,4064,0|Said: Just jumping around	
+[10/8/25 01:46PM] HOME_BANK|2781,4064,0|Said: :p	
+[10/8/25 01:47PM] (CC) Help. Said: Killing dk!	
+[10/8/25 01:47PM] (CC) Help. Said: Good night	
+[10/8/25 01:48PM] GLOBAL_BOSS|2139,5019,0|Said: :)	
+[10/8/25 01:48PM] GLOBAL_BOSS|2139,5019,0|Said: Nope	
+[10/8/25 01:49PM] GLOBAL_BOSS|2139,5019,0|Said: Same with inv	
+[10/8/25 01:50PM] GLOBAL_BOSS|2139,5019,0|Said: Naraku!	
+[10/8/25 01:51PM] (CC) Help. Said: All good!	
+[10/8/25 01:56PM] (CC) Help. Said: Not sure..	
+[10/8/25 01:59PM] EMERALD_ZONE|2602,2777,0|Said: Boo	
+[10/8/25 02:03PM] Spoon received x1 Shukarhazh platebody from Shukarhazh!	
+[10/8/25 02:04PM] (CC) Help. Said: Lol it sucks :p	
+[10/8/25 02:22PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/8/25 02:23PM] Spoon received x1 Ring of wealth from Szone Mini Zulrah!	
+[10/8/25 02:30PM] HOME_BANK|2778,4065,0|Said: Yep its ::answer	
+[10/8/25 02:30PM] (CC) Help. Said: Yep use ::answer	
+[10/8/25 02:54PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/8/25 02:54PM] (CC) Help. Said: Damn	
+[10/8/25 05:07PM] Has just redeemed a $1 Scroll successfully!	
+[10/8/25 05:36PM] (CC) Help. Said: Howdy	
+[10/8/25 05:38PM] Spoon received x1 Ring of wealth from Szone Mini Zulrah!	
+[10/8/25 05:39PM] (CC) Help. Said: Welcome	
+[10/8/25 05:45PM] (CC) Help. Said: Yea with starter	
+[10/8/25 07:45PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/8/25 08:22PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/8/25 08:23PM] Has just redeemed a $1 Scroll successfully!	
+[10/8/25 08:23PM] Has just redeemed a $5 Bond successfully!	
+[10/8/25 08:23PM] Has just redeemed a $5 Bond successfully!	
+[10/8/25 08:23PM] Has just redeemed a $50 Bond successfully!	
+[10/8/25 08:33PM] (CC) Help. Said: Sup	
+[10/8/25 08:34PM] (CC) Help. Said: Not bad and you	
+[10/8/25 08:37PM] VOTE_BOSS|3428,4115,4|Said: Oo	
+[10/8/25 08:37PM] VOTE_BOSS|3428,4115,4|Said: Sweet	
+[10/8/25 08:39PM] VOTE_BOSS|3428,4115,4|Said: They are in shops?	
+[10/8/25 08:39PM] VOTE_BOSS|3428,4115,4|Said: Oh irl store	
+[10/8/25 08:39PM] VOTE_BOSS|3428,4115,4|Said: Nice	
+[10/8/25 08:40PM] (CC) Help. Said: No pete	
+[10/8/25 08:43PM] VOTE_BOSS|3428,4115,4|Said: 87 inv	
+[10/8/25 08:44PM] VOTE_BOSS|3428,4115,4|Said: 596 dr atm	
+[10/8/25 08:46PM] NEPHILIM|2144,3294,0|Said: What xp mode you on?	
+[10/8/25 08:47PM] NEPHILIM|2144,3294,0|Said: Oh yeah lmao	
+[10/8/25 08:48PM] NEPHILIM|2144,3294,0|Said: Inv xp needs to be improved for higher tiers	
+[10/8/25 08:48PM] NEPHILIM|2144,3294,0|Said: Lol	
+[10/8/25 08:48PM] NEPHILIM|2144,3294,0|Said: 2 owner jewlery items from 2 goodie bags	
+[10/8/25 08:49PM] Spoon received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/8/25 08:49PM] NEPHILIM|2144,3294,0|Said: My name tricks the server	
+[10/8/25 08:49PM] NEPHILIM|2144,3294,0|Said: I need that dr booster!	
+[10/8/25 08:50PM] NEPHILIM|2144,3294,0|Said: Lol	
+[10/8/25 08:51PM] NEPHILIM|2144,3294,0|Said: Same	
+[10/8/25 08:52PM] NEPHILIM|2144,3294,0|Said: Light bow!	
+[10/8/25 08:52PM] NEPHILIM|2144,3294,0|Said: Lol i have 2 of them aswell	
+[10/8/25 08:53PM] NEPHILIM|2144,3294,0|Said: Gl	
+[10/8/25 08:53PM] Spoon received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/8/25 08:58PM] Spoon received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/8/25 09:03PM] NEPHILIM|2144,3294,0|Said: Damn	
+[10/8/25 09:03PM] Spoon received x1 $1 Scroll from Nephilim Warrior!	
+[10/8/25 09:04PM] Has just redeemed a $1 Scroll successfully!	
+[10/8/25 09:05PM] NEPHILIM|2144,3294,0|Said: Holy shit its 5am..	
+[10/8/25 09:07PM] NEPHILIM|2144,3294,0|Said: Grtz	
+[10/8/25 09:07PM] NEPHILIM|2144,3294,0|Said: Is dissolving better xp?	
+[10/8/25 09:07PM] NEPHILIM|2144,3294,0|Said: Same xp.. 	
+[10/8/25 09:07PM] NEPHILIM|2144,3294,0|Said: Dissolve is better xp	
+[10/8/25 09:09PM] Spoon received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/8/25 09:11PM] Picked up gr.Item Levincia tokens, amount: 2800	
+[10/8/25 09:22PM] (CC) Help. Said: Aww 2x skill xp ended.. 	
+[10/8/25 09:22PM] (CC) Help. Said: Went from 87-93 inv tho	
+[10/8/25 09:24PM] Has just redeemed a $1 Scroll successfully!	
+[10/8/25 09:34PM] (CC) Help. Said: Hank any chance i can get an amulet of ghost speak? :p	
+[10/8/25 09:35PM] DEFAULT|2767,4063,0|Said: :(	
+[10/8/25 09:35PM] Picked up gr.Item Holy symbol, amount: 1	
+[10/8/25 09:35PM] DEFAULT|2764,4064,0|Said: Cant find father	
+[10/8/25 09:36PM] DEFAULT|2764,4064,0|Said: Oh	
+[10/8/25 09:36PM] DEFAULT|2768,4067,0|Said: Ty	
+[10/8/25 09:40PM] Player destroying item: -1, amount: 0	
+[10/8/25 09:40PM] Player destroying item: 2959, amount: 1	
+[10/8/25 09:47PM] (CC) Help. Said: Anymore bosses before i go sleep?	
+[10/8/25 09:54PM] (CC) Help. Said: Fair enough!! this one has alot of hp	
+[10/8/25 09:55PM] (CC) Help. Said: Lol	
+[10/8/25 10:03PM] HELLRAISER|3107,5530,0|Said: Hank	
+[10/8/25 10:04PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/8/25 10:04PM] (CC) Help. Said: :o	
+[10/8/25 10:04PM] (CC) Help. Said: Thank you!	
+[10/8/25 10:07PM] (CC) Help. Said: And 6am for me so sleepy time, ill cya all tomorrow	
+[10/9/25 06:58AM] Has just redeemed a $5 Bond successfully!	
+[10/9/25 07:04AM] Spoon received x1 PvM ticket pack (10k) from Cave Mutant!	
+[10/9/25 07:20AM] (CC) Help. Said: Morning	
+[10/9/25 07:27AM] (CC) Help. Said: Ive jsut failed a 25% upgrade 13 times..	
+[10/9/25 08:09AM] PLATINUM_ZONE|2267,4075,0|Said: Hey	
+[10/9/25 08:09AM] PLATINUM_ZONE|2267,4075,0|Said: Only semi here :p	
+[10/9/25 08:09AM] PLATINUM_ZONE|2267,4075,0|Said: Yea..	
+[10/9/25 08:10AM] PLATINUM_ZONE|2270,4077,0|Said: Still early days tho!	
+[10/9/25 08:17AM] ZOMBIE_LOBBY|2223,4116,0|Said: Oo	
+[10/9/25 08:18AM] Has just redeemed a $1 Scroll successfully!	
+[10/9/25 08:19AM] ZOMBIE_LOBBY|2223,4116,0|Said: :)	
+[10/9/25 08:19AM] ZOMBIE_LOBBY|2223,4116,0|Said: Oo nice	
+[10/9/25 08:20AM] ZOMBIE_LOBBY|2223,4116,0|Said: Looking at the pass.. seems a nice boost	
+[10/9/25 08:21AM] ZOMBIE_LOBBY|2223,4116,0|Said: Gonna kill onyx then take my dog for a walk	
+[10/9/25 09:01AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/9/25 09:19AM] Spoon received x1 PvM ticket pack (10k) from Cave Mutant!	
+[10/9/25 09:21AM] Spoon received x1 PvM ticket pack (10k) from Cave Mutant!	
+[10/9/25 09:22AM] (CC) Help. Said: Platinum area	
+[10/9/25 09:23AM] (CC) Help. Said: Boss event?	
+[10/9/25 09:59AM] GLOBAL_BOSS|2139,5019,0|Said: No idea	
+[10/9/25 09:59AM] GLOBAL_BOSS|2139,5019,0|Said: Hank	
+[10/9/25 09:59AM] GLOBAL_BOSS|2139,5019,0|Said: When testing things on first day of server	
+[10/9/25 10:00AM] GLOBAL_BOSS|2139,5016,0|Said: Nah its not bis	
+[10/9/25 10:08AM] Spoon received x1 Chance scroll from Nephilim Warrior!	
+[10/9/25 10:24AM] (CC) Help. Said: Boop	
+[10/9/25 10:28AM] Spoon received x1 $1 Scroll from Nephilim Warrior!	
+[10/9/25 10:28AM] Has just redeemed a $1 Scroll successfully!	
+[10/9/25 10:33AM] (CC) Help. Said: Grtz	
+[10/9/25 10:34AM] (CC) Help. Said: 38 now	
+[10/9/25 02:28PM] SLAYER_CHAMPION|3487,4701,0|Said: I know...	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3487,4701,0|Said: Same	
+[10/9/25 02:29PM] SLAYER_CHAMPION|3487,4701,0|Said: Shh	
+[10/9/25 02:30PM] SLAYER_CHAMPION|3487,4701,0|Said: Thats not what he told me last night..	
+[10/9/25 02:35PM] SLAYER_CHAMPION|3487,4701,0|Said: 1k will give you a weapon	
+[10/9/25 02:36PM] (CC) Help. Said: Stick to this one for now	
+[10/9/25 02:38PM] Spoon received x1 100% DR Scroll (30 Min) from Vote Boss!	
+[10/9/25 02:40PM] NEPHILIM|2144,3294,0|Said: Do be do	
+[10/9/25 02:42PM] Spoon received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/9/25 02:42PM] Spoon received x1 $1 Scroll from Nephilim Warrior!	
+[10/9/25 02:44PM] EVENTS_ROOM|1699,4257,0|Said: ?	
+[10/9/25 02:44PM] EVENTS_ROOM|1699,4257,0|Said: Nope	
+[10/9/25 02:52PM] EVENTS_ROOM|1699,4257,0|Said: Waiting	
+[10/9/25 02:52PM] EVENTS_ROOM|1699,4257,0|Said: Im british, its my favourate past time	
+[10/9/25 03:05PM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 01:24AM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 01:29AM] HELLRAISER|3103,5535,0|Said: Nice!	
+[10/10/25 01:30AM] Spoon received x1 $1 Scroll from Hellraiser!	
+[10/10/25 01:30AM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 01:32AM] (CC) Help. Said: Not yet sadly	
+[10/10/25 01:33AM] Spoon received x1 Pet Fragments X250 from Onyx Panther!	
+[10/10/25 01:38AM] Spoon received x1 PvM ticket pack (10k) from Cave Mutant!	
+[10/10/25 01:42AM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 01:43AM] DEFAULT|2783,4045,0|Said: '/cya	
+[10/10/25 01:43AM] (CC) Help. Said: Cya	
+[10/10/25 01:43AM] (CC) Help. Said: Take care	
+[10/10/25 01:53AM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 09:09AM] (CC) Help. Said: Howdy!	
+[10/10/25 09:55AM] (CC) Help. Said: Damn that pet is insane	
+[10/10/25 09:55AM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 09:56AM] (CC) Help. Said: Grtz! what did you get	
+[10/10/25 09:56AM] (CC) Help. Said: Sweet	
+[10/10/25 09:58AM] (CC) Help. Said: Grtz!	
+[10/10/25 10:01AM] (CC) Help. Said: This has far too much hp	
+[10/10/25 10:01AM] SLAYER_CHAMPION|3487,4699,0|Said: Cya in an hour!	
+[10/10/25 10:02AM] (CC) Help. Said: You kno wim the ultimate noob!	
+[10/10/25 10:06AM] Spoon received x1 Upgrade Token pack (25k) from Nightmare Boss!	
+[10/10/25 01:03PM] Picked up gr.Item Owner Jewelry goodiebag, amount: 8	
+[10/10/25 01:04PM] Picked up gr.Item Quill's Card Pack, amount: 1	
+[10/10/25 01:06PM] Picked up gr.Item Quill's Card Pack, amount: 1	
+[10/10/25 01:06PM] Picked up gr.Item Owner cape goodiebag, amount: 1	
+[10/10/25 01:06PM] Picked up gr.Item Owner Attachment, amount: 1	
+[10/10/25 01:12PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/10/25 01:15PM] EVENTS_ROOM|1697,4254,0|Said: Woo	
+[10/10/25 01:15PM] EVENTS_ROOM|1696,4254,0|Said: Oo purple crown	
+[10/10/25 01:16PM] EVENTS_ROOM|1697,4251,0|Said: Something	
+[10/10/25 01:16PM] EVENTS_ROOM|1697,4251,0|Said: :d	
+[10/10/25 01:17PM] EVENTS_ROOM|1689,4253,0|Said: Is there still some items in the balloons?	
+[10/10/25 01:19PM] EVENTS_ROOM|1703,4258,0|Said: If ther eis anymore, good luck on them!	
+[10/10/25 01:20PM] Has just redeemed a $5 Bond successfully!	
+[10/10/25 01:23PM] Has just redeemed a $25 Bond successfully!	
+[10/10/25 01:24PM] (CC) Help. Said: Where is the well?	
+[10/10/25 01:24PM] DEFAULT|2783,4079,0|Said: @@perks	
+[10/10/25 01:25PM] (CC) Help. Said: Ah need xp boost lol	
+[10/10/25 01:25PM] (CC) Help. Said: Ty	
+[10/10/25 01:27PM] (CC) Help. Said: Dupe owner cape..	
+[10/10/25 01:28PM] (CC) Help. Said: Thinking of keeping it, need to sacrifice 2 owner items later on	
+[10/10/25 01:37PM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 01:48PM] Spoon received x1 Ruby Mystery Box from Inuyasha!	
+[10/10/25 01:54PM] Spoon received x1 Crystalized helm from Tolrokoth!	
+[10/10/25 02:25PM] HOME_BANK|2784,4065,0|Said:  /ill come aswell	
+[10/10/25 02:25PM] (CC) Help. Said: Ill come aswell	
+[10/10/25 02:29PM] PEST_CONTROL_BOAT|2661,2639,0|Said: Yea	
+[10/10/25 02:31PM] PEST_CONTROL_GAME|2655,2609,0|Said: Sorry i thought i was	
+[10/10/25 02:31PM] Has just redeemed a $1 Scroll successfully!	
+[10/10/25 02:31PM] PEST_CONTROL_BOAT|2661,2639,0|Said: Ah you done?	
+[10/10/25 02:31PM] PEST_CONTROL_BOAT|2661,2639,0|Said: Rip me	
+[10/10/25 02:32PM] DEFAULT|2657,2639,0|Said: Yep	
+[10/10/25 02:32PM] Has just redeemed a $10 Bond successfully!	
+[10/10/25 02:32PM] ZOMBIE_LOBBY|2223,4114,0|Said: Range and mage needed	
+[10/10/25 02:33PM] ZOMBIE|2253,4113,28|Said: For lol	
+[10/10/25 02:33PM] ZOMBIE|2253,4109,28|Said: Stand in the middle	
+[10/10/25 02:33PM] ZOMBIE|2253,4109,28|Said: So they all come in for aoe	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2227,4116,0|Said: N o idea	
+[10/10/25 02:36PM] ZOMBIE_LOBBY|2227,4116,0|Said: Mine says 43k	
+[10/10/25 02:37PM] ZOMBIE_LOBBY|2227,4116,0|Said: But i know i hit harder than that	
+[10/10/25 02:37PM] ZOMBIE_LOBBY|2227,4116,0|Said: Will you guys help me at pc?	
+[10/10/25 02:37PM] ZOMBIE_LOBBY|2227,4116,0|Said: Ty	
+[10/10/25 02:38PM] (CC) Help. Said: Nah i think my max hit is corredt..	
+[10/10/25 02:39PM] (CC) Help. Said: I have owner cape ring and necklace	
+[10/10/25 02:39PM] (CC) Help. Said: And bis weapon	
+[10/10/25 02:40PM] DEFAULT|2657,2639,0|Said: And you have no boosts?	
+[10/10/25 02:40PM] PEST_CONTROL_BOAT|2661,2639,0|Said: I dont even have pot on	
+[10/10/25 02:41PM] PEST_CONTROL_GAME|2637,2592,0|Said: Damn	
+[10/10/25 02:42PM] PEST_CONTROL_GAME|2655,2612,0|Said: Yea you way outhit me	
+[10/10/25 02:42PM] PEST_CONTROL_GAME|2662,2595,0|Said: I have a sang	
+[10/10/25 02:42PM] PEST_CONTROL_GAME|2675,2590,0|Said: That owner pot much jsut be so good lol	
+[10/10/25 02:43PM] DEFAULT|2657,2639,0|Said: Ty	
+[10/10/25 02:56PM] DEFAULT|2784,4045,0|Said: Ye?	
+[10/10/25 02:57PM] DEFAULT|2785,4047,0|Said: 99	
+[10/10/25 02:57PM] DEFAULT|2783,4045,0|Said: No idea	
+[10/10/25 03:04PM] (CC) Help. Said: Nope	
+[10/10/25 03:05PM] (CC) Help. Said: Also trying to figure out why ghijf does 3x my damage :p is it jsut the owner p	
+[10/10/25 03:05PM] (CC) Help. Said: Just the owner pot that does that	
+[10/10/25 03:05PM] (CC) Help. Said: Not really	
+[10/10/25 03:08PM] (CC) Help. Said: Im going to guess owner pot is in 120 upgrade maybe?	
+[10/10/25 03:09PM] (CC) Help. Said: Gonna be nearly impossible for me to get that lol	
+[10/10/25 03:09PM] HOME_BANK|2784,4065,0|Said: Oo	
+[10/10/25 03:09PM] (CC) Help. Said: Anyone got 120 inv? tell me whats needed for the pot?	
+[10/10/25 03:10PM] (CC) Help. Said: Same and ive used a shit ton of lamps.. on 100 inv	
+[10/10/25 03:10PM] (CC) Help. Said: Ah need the 100m and i can get that!	
+[10/10/25 03:11PM] HOME_BANK|2783,4069,0|Said: Hawk if i get the needed stuff can you make it?	
+[10/10/25 03:17PM] (CC) Help. Said: Ok hawek i have the items needed	
+[10/10/25 03:17PM] (CC) Help. Said: Hawk*	
+[10/10/25 03:18PM] HOME_BANK|2781,4064,0|Said: Ccant trade pot..	
+[10/10/25 03:18PM] HOME_BANK|2781,4064,0|Said: Rip	
+[10/10/25 03:18PM] HOME_BANK|2781,4064,0|Said: Take the items out my inv and jsut give me a pot :p	
+[10/10/25 03:19PM] (CC) Help. Said: What one is it	
+[10/10/25 03:20PM] DEFAULT|2784,4043,0|Said: Fair enough	
+[10/10/25 03:23PM] (CC) Help. Said: Yep?	
+[10/10/25 03:23PM] (CC) Help. Said: Lol	
+[10/10/25 03:24PM] (CC) Help. Said: I am doing	
+[10/10/25 03:24PM] DEFAULT|2784,4052,0|Said: How much?	
+[10/10/25 03:24PM]  Gave item in trade to History Hawk. Id: 7995, amount: 1	
+[10/10/25 03:24PM]  Gave item in trade to History Hawk. Id: 12855, amount: 100000000	
+[10/10/25 03:24PM]  Receiving item from trade with History Hawk Id: 23242, amount: 1	
+[10/10/25 03:24PM] DEFAULT|2784,4052,0|Said: Ty	
+[10/10/25 03:25PM]  Gave item in trade to History Hawk. Id: 12855, amount: 50000000	
+[10/10/25 03:25PM] DEFAULT|2784,4055,0|Said: Ther you profitted	
+[10/10/25 03:25PM] DEFAULT|2784,4055,0|Said: Thanks :)	
+[10/10/25 03:25PM] DEFAULT|2784,4055,0|Said: Nice	
+[10/10/25 03:25PM] DEFAULT|2784,4055,0|Said: 145 now	
+[10/10/25 03:26PM] DEFAULT|2784,4055,0|Said: Damn	
+[10/10/25 03:26PM] DEFAULT|2784,4055,0|Said: 20m on that	
+[10/10/25 03:27PM] DEFAULT|2784,4055,0|Said: Owner cape and attachment right?	
+[10/10/25 03:27PM] DEFAULT|2784,4055,0|Said: 2 what?	
+[10/10/25 03:27PM] DEFAULT|2784,4055,0|Said: Ah	
+[10/10/25 03:27PM] DEFAULT|2784,4055,0|Said: 1 attachment atm	
+[10/10/25 03:28PM] DEFAULT|2784,4055,0|Said: Anyway relogging brb 1 min	
+[10/10/25 03:28PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/10/25 03:28PM] HOME_BANK|2784,4065,0|Said: How much for the 2nd attachment and make me the cape?	
+[10/10/25 06:07PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/11/25 05:23AM] (CC) Help. Said: Morning	
+[10/11/25 05:28AM] ZOMBIE|2258,4115,28|Said: Whats up?	
+[10/11/25 05:28AM] ZOMBIE|2258,4115,28|Said: Ok	
+[10/11/25 05:28AM] ZOMBIE|2259,4117,28|Said: Now i cant..	
+[10/11/25 05:28AM] ZOMBIE|2259,4117,28|Said: Lol	
+[10/11/25 05:29AM] ZOMBIE|2259,4117,28|Said: You have trapped me here	
+[10/11/25 05:29AM] ZOMBIE|2259,4117,28|Said: I cant tele out either	
+[10/11/25 05:29AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/11/25 05:33AM] NEPHILIM|2145,3297,0|Said: I dont think i know	
+[10/11/25 05:33AM] Spoon received x1 $1 Scroll from Nephilim Warrior!	
+[10/11/25 05:33AM] NEPHILIM|2145,3297,0|Said: :p	
+[10/11/25 05:35AM] Spoon received x1 $1 Scroll from Nephilim Warrior!	
+[10/11/25 05:35AM] Spoon received x1 $1 Scroll from Nephilim Warrior!	
+[10/11/25 05:40AM] Spoon received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/11/25 05:41AM] Spoon received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/11/25 05:50AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 05:53AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/11/25 05:54AM] Has just redeemed a $5 Bond successfully!	
+[10/11/25 05:59AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 06:03AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 06:04AM] Picked up gr.Item Levincia tokens, amount: 100000	
+[10/11/25 06:11AM] (CC) Help. Said: Welcome!	
+[10/11/25 06:15AM] (CC) Help. Said: Grtz!	
+[10/11/25 06:15AM] (CC) Help. Said: Prob from starting the server	
+[10/11/25 06:17AM] (CC) Help. Said: Wont hurt it i guess	
+[10/11/25 06:27AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/11/25 08:58AM] VOTE_BOSS|3427,4121,4|Said: Lmao	
+[10/11/25 08:58AM] VOTE_BOSS|3427,4121,4|Said: Oops didnt have my pet out	
+[10/11/25 08:58AM] VOTE_BOSS|3427,4121,4|Said: My pet gives 30% damage increase aswell	
+[10/11/25 09:00AM] VOTE_BOSS|3427,4121,4|Said: You activated my trap card!	
+[10/11/25 09:01AM] Spoon received x1 100% DR Scroll (30 Min) from Vote Boss!	
+[10/11/25 09:02AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 09:03AM] NEPHILIM|2144,3294,0|Said: 1020 here	
+[10/11/25 09:03AM] Spoon received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/11/25 09:03AM] NEPHILIM|2144,3294,0|Said: No one asked you either	
+[10/11/25 09:03AM] NEPHILIM|2144,3294,0|Said: Haha	
+[10/11/25 09:03AM] NEPHILIM|2144,3294,0|Said: True you do	
+[10/11/25 09:04AM] NEPHILIM|2144,3294,0|Said: Im just a wet paper bag.. i have no rights	
+[10/11/25 09:04AM] NEPHILIM|2144,3294,0|Said: Not really.. i have no choice in that matter	
+[10/11/25 09:05AM] NEPHILIM|2144,3294,0|Said: Best i can do is add some googly eyes..	
+[10/11/25 09:06AM] Spoon received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/11/25 09:08AM] Spoon received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/11/25 09:10AM] Spoon received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/11/25 09:11AM] (CC) Help. Said: Welcome!	
+[10/11/25 09:12AM] Spoon received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/11/25 09:14AM] NEPHILIM|2144,3294,0|Said: 200 op boxes? :o	
+[10/11/25 09:14AM] NEPHILIM|2144,3294,0|Said: Damn	
+[10/11/25 09:15AM] NEPHILIM|2144,3294,0|Said: Rip my pack	
+[10/11/25 09:15AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 09:15AM] Has just redeemed a $5 Bond successfully!	
+[10/11/25 09:18AM] (CC) Help. Said: Anyopne got a coll ring 2?	
+[10/11/25 09:18AM] (CC) Help. Said: Ill give coll ring 3 for it 	
+[10/11/25 09:32AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 09:33AM] (CC) Help. Said: Ty	
+[10/11/25 11:16AM]  Gave item in trade to Ao. Id: 3737, amount: 1	
+[10/11/25 11:28AM]  Gave item in trade to Ao. Id: 5020, amount: 610058	
+[10/11/25 11:28AM]  Receiving item from trade with Ao Id: 10946, amount: 1	
+[10/11/25 11:28AM]  Receiving item from trade with Ao Id: 19116, amount: 12	
+[10/11/25 11:28AM]  Receiving item from trade with Ao Id: 23264, amount: 100	
+[10/11/25 11:29AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 01:06PM] (CC) Help. Said: Anyonme got pvm tickets for sale?	
+[10/11/25 01:20PM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 01:28PM] (CC) Help. Said: Buying pvm tickets!! 1m+	
+[10/11/25 01:29PM] GLOBAL_BOSS|2139,5019,0|Said: 10 tokens per ticket	
+[10/11/25 01:29PM] GLOBAL_BOSS|2139,5019,0|Said: No idea, ive played alot of servers witht he name spoon	
+[10/11/25 01:30PM] GLOBAL_BOSS|2139,5019,0|Said: :)	
+[10/11/25 01:30PM] GLOBAL_BOSS|2139,5019,0|Said: Whats up?	
+[10/11/25 01:31PM] GLOBAL_BOSS|2139,5019,0|Said: Do ::startertask	
+[10/11/25 01:31PM] GLOBAL_BOSS|2139,5019,0|Said: Try startertasks	
+[10/11/25 01:31PM] GLOBAL_BOSS|2139,5019,0|Said: Then	
+[10/11/25 01:32PM] GLOBAL_BOSS|2139,5019,0|Said: Yep 	
+[10/11/25 01:32PM] GLOBAL_BOSS|2139,5019,0|Said: Decent mid gear and weapons	
+[10/11/25 01:32PM] GLOBAL_BOSS|2139,5019,0|Said: Im still wearinging some of it	
+[10/11/25 01:33PM] GLOBAL_BOSS|2139,5019,0|Said: Yea its bugged if you do it via people	
+[10/11/25 01:33PM] GLOBAL_BOSS|2139,5019,0|Said: But mines empty	
+[10/11/25 01:34PM] GLOBAL_BOSS|2139,5019,0|Said: Oo	
+[10/11/25 01:34PM] GLOBAL_BOSS|2139,5019,0|Said: I dont have gear to give but for 10m of those you can buy an owner cape in the s	
+[10/11/25 01:34PM] GLOBAL_BOSS|2139,5019,0|Said: In the pos	
+[10/11/25 01:34PM] GLOBAL_BOSS|2139,5019,0|Said: Yea 1 for sale for 100m	
+[10/11/25 01:34PM] GLOBAL_BOSS|2139,5019,0|Said: Do ::pos	
+[10/11/25 01:35PM] GLOBAL_BOSS|2139,5019,0|Said: Ill give you the 100m for 10m of those tickets	
+[10/11/25 01:36PM] GLOBAL_BOSS|2139,5019,0|Said: Yea ill buy 10m pmv tickets for 100m tokens	
+[10/11/25 01:36PM]  Gave item in trade to Charlene. Id: 12855, amount: 100000000	
+[10/11/25 01:36PM]  Receiving item from trade with Charlene Id: 5022, amount: 10000000	
+[10/11/25 01:36PM] GLOBAL_BOSS|2139,5019,0|Said: Ty!	
+[10/11/25 01:37PM] GLOBAL_BOSS|2139,5019,0|Said: Sweet :d	
+[10/11/25 01:37PM] GLOBAL_BOSS|2139,5019,0|Said: Could i buy another 6m tickets?	
+[10/11/25 01:37PM] GLOBAL_BOSS|2139,5019,0|Said: Do the starter tasks	
+[10/11/25 01:37PM] GLOBAL_BOSS|2139,5019,0|Said: Ill help you with some of them	
+[10/11/25 01:38PM]  Gave item in trade to Charlene. Id: 12855, amount: 60721367	
+[10/11/25 01:38PM]  Receiving item from trade with Charlene Id: 5022, amount: 6000000	
+[10/11/25 01:38PM] GLOBAL_BOSS|2139,5019,0|Said: Thank you muchly!	
+[10/11/25 01:38PM] GLOBAL_BOSS|2139,5019,0|Said: T5 gear in pvm shop then destroying them for xp	
+[10/11/25 01:39PM] GLOBAL_BOSS|2139,5019,0|Said: Yea.. very expensive lol	
+[10/11/25 01:39PM] GLOBAL_BOSS|2139,5019,0|Said: What tasks do you have left to do in starter tasks?	
+[10/11/25 01:39PM] GLOBAL_BOSS|2139,5019,0|Said: Nah	
+[10/11/25 01:40PM] GLOBAL_BOSS|2139,5019,0|Said: I can take you thru that	
+[10/11/25 01:40PM] GLOBAL_BOSS|2139,5019,0|Said: Both of them	
+[10/11/25 01:40PM] GLOBAL_BOSS|2139,5019,0|Said: Go to legends raid :)	
+[10/11/25 01:41PM]  Gave item in trade to Charlene. Id: 7956, amount: 250	
+[10/11/25 01:41PM] ZOMBIE_LOBBY|2223,4115,0|Said: Np	
+[10/11/25 01:41PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/11/25 01:42PM] ZOMBIE_LOBBY|2223,4117,0|Said: Did you make a party?	
+[10/11/25 01:42PM] ZOMBIE_LOBBY|2223,4117,0|Said: Take pet off	
+[10/11/25 01:43PM] ZOMBIE|2253,4113,32|Said: Stay in middle	
+[10/11/25 01:43PM] ZOMBIE|2253,4113,32|Said: For aoe	
+[10/11/25 01:44PM] (CC) Help. Said: Rip	
+[10/11/25 01:45PM] (CC) Help. Said: Yea i should of said to pray range there	
+[10/11/25 01:45PM] (CC) Help. Said: Come bcak and we run again	
+[10/11/25 01:47PM] ZOMBIE|2253,4113,32|Said: Pray range	
+[10/11/25 01:48PM] ZOMBIE_LOBBY|2222,4116,0|Said: Should of done it	
+[10/11/25 01:48PM] ZOMBIE_LOBBY|2222,4116,0|Said: Np 	
+[10/11/25 01:48PM] ZOMBIE_LOBBY|2222,4116,0|Said: Can i do my pvm tickets first as its on a timer :p	
+[10/11/25 01:49PM] (CC) Help. Said: Im going to do tickets first as on a timer	
+[10/11/25 01:49PM] (CC) Help. Said: Do soem easy slayer	
+[10/11/25 01:52PM] (CC) Help. Said: Do ::perks	
+[10/11/25 01:55PM] HOME_BANK|2790,4067,0|Said: Here	
+[10/11/25 01:58PM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 02:00PM] DEFAULT|2783,4045,0|Said: Pc now?	
+[10/11/25 02:00PM] DEFAULT|2783,4045,0|Said: Oh	
+[10/11/25 02:00PM] DEFAULT|2783,4045,0|Said: Erm	
+[10/11/25 02:00PM]  Gave item in trade to Charlene. Id: 18819, amount: 1	
+[10/11/25 02:00PM] DEFAULT|2784,4045,0|Said: I have a spare :p	
+[10/11/25 02:01PM] DEFAULT|2784,4045,0|Said: Just rub that and you are at your task	
+[10/11/25 02:01PM] DEFAULT|2784,4045,0|Said: We can do!	
+[10/11/25 02:02PM] PEST_CONTROL_BOAT|2661,2639,0|Said: Yea	
+[10/11/25 02:09PM] PEST_CONTROL_BOAT|2661,2639,0|Said: Yea i do	
+[10/11/25 02:09PM] PEST_CONTROL_GAME|2637,2591,0|Said: No idea what they are worth but sure	
+[10/11/25 02:10PM] PEST_CONTROL_GAME|2654,2608,0|Said: Deal! need them so badly	
+[10/11/25 02:12PM] PEST_CONTROL_GAME|2655,2571,0|Said: Yep haha	
+[10/11/25 02:13PM]  Gave item in trade to Charlene. Id: 23020, amount: 1	
+[10/11/25 02:13PM]  Receiving item from trade with Charlene Id: 5022, amount: 1588000	
+[10/11/25 02:13PM] DEFAULT|2660,2648,0|Said: Thanks!	
+[10/11/25 02:13PM] DEFAULT|2661,2648,0|Said: Gl!	
+[10/11/25 02:14PM]  Receiving item from trade with Ao Id: 22219, amount: 4	
+[10/11/25 02:14PM]  Receiving item from trade with Ao Id: 5022, amount: 3670	
+[10/11/25 02:15PM] Picked up gr.Item Levincia tokens, amount: 540000	
+[10/11/25 02:38PM] Has just redeemed a $50 Bond successfully!	
+[10/11/25 03:17PM] Player destroying item: -1, amount: 0	
+[10/11/25 03:17PM] Player destroying item: -1, amount: 0	
+[10/11/25 03:45PM] (CC) Help. Said: Training inv... very slow	
+[10/11/25 03:46PM] (CC) Help. Said: At shops	
+[10/11/25 03:46PM] DEFAULT|2784,4082,0|Said: Howdy	
+[10/11/25 03:46PM] DEFAULT|2784,4082,0|Said: Lol	
+[10/11/25 03:48PM] DEFAULT|2784,4082,0|Said: :o	
+[10/11/25 03:48PM] DEFAULT|2784,4082,0|Said: I would yes!	
+[10/11/25 03:49PM] DEFAULT|2784,4082,0|Said: Close to 119 slayer	
+[10/11/25 03:49PM] DEFAULT|2784,4082,0|Said: Inv*	
+[10/11/25 03:49PM]  Receiving item from trade with History Hawk Id: 21218, amount: 1224	
+[10/11/25 03:49PM] DEFAULT|2784,4082,0|Said: Ty	
+[10/11/25 03:50PM]  Gave item in trade to History Hawk. Id: 7995, amount: 1	
+[10/11/25 03:50PM] DEFAULT|2784,4082,0|Said: Ty	
+[10/11/25 03:50PM] DEFAULT|2784,4082,0|Said: Lol	
+[10/11/25 03:50PM] DEFAULT|2784,4082,0|Said: Woo	
+[10/11/25 03:50PM] DEFAULT|2784,4082,0|Said: Erm maybe	
+[10/11/25 03:51PM] DEFAULT|2784,4082,0|Said: Yep	
+[10/11/25 03:51PM] DEFAULT|2784,4082,0|Said: 1k	
+[10/11/25 03:51PM] DEFAULT|2784,4082,0|Said: Damn	
+[10/11/25 03:51PM]  Gave item in trade to History Hawk. Id: 21218, amount: 1033	
+[10/11/25 03:51PM]  Receiving item from trade with History Hawk Id: 22109, amount: 1	
+[10/11/25 03:51PM] DEFAULT|2784,4082,0|Said: Thanks!	
+[10/11/25 03:51PM] DEFAULT|2784,4082,0|Said: Yep	
+[10/11/25 03:52PM]  Gave item in trade to History Hawk. Id: 12630, amount: 1	
+[10/11/25 03:53PM]  Receiving item from trade with History Hawk Id: 22111, amount: 1	
+[10/11/25 03:53PM] DEFAULT|2784,4082,0|Said: :d	
+[10/11/25 03:53PM] DEFAULT|2784,4082,0|Said: Ty	
+[10/11/25 03:54PM] Has just redeemed a $5 Bond successfully!	
+[10/11/25 08:35PM] (CC) Help. Said: Boop	
+[10/11/25 08:39PM] (CC) Help. Said: Nope missing that	
+[10/11/25 08:39PM] (CC) Help. Said: Only got coll ring 3 lol	
+[10/11/25 08:40PM] (CC) Help. Said: There ya go	
+[10/11/25 08:47PM] (CC) Help. Said: To ::onyx	
+[10/11/25 08:47PM] (CC) Help. Said: Trying to raise 50m lol	
+[10/11/25 08:48PM] (CC) Help. Said: Spent all my money buying pvm tickets	
+[10/11/25 08:48PM] DEFAULT|2467,5424,0|Said: The rage potion.. is that an aggro pot?	
+[10/11/25 08:48PM] DEFAULT|2467,5424,0|Said: Holy	
+[10/11/25 08:49PM] DEFAULT|2467,5424,0|Said: Oh ok	
+[10/11/25 08:49PM] DEFAULT|2467,5424,0|Said: Well that saves me money	
+[10/11/25 08:49PM]  Receiving item from trade with History Hawk Id: 12855, amount: 50000000	
+[10/11/25 08:49PM] DEFAULT|2467,5424,0|Said: Ty!	
+[10/11/25 08:49PM] DEFAULT|2467,5424,0|Said: Let me test it	
+[10/11/25 08:50PM] DEFAULT|2467,5424,0|Said: Nah its just overload	
+[10/11/25 08:50PM] DEFAULT|2467,5424,0|Said: Looks like between normal and owner	
+[10/11/25 08:50PM] DEFAULT|2467,5424,0|Said: Gg	
+[10/11/25 08:52PM] DEFAULT|2467,5424,0|Said: Owner	
+[10/11/25 08:52PM] DEFAULT|2467,5424,0|Said: You made it me :p	
+[10/11/25 08:53PM] DEFAULT|2467,5425,0|Said: Would never say no to an upgrade	
+[10/11/25 08:53PM]  Gave item in trade to History Hawk. Id: 22111, amount: 1	
+[10/11/25 08:54PM]  Receiving item from trade with History Hawk Id: 23241, amount: 1	
+[10/11/25 08:54PM] DEFAULT|2467,5425,0|Said: Thank you!	
+[10/11/25 08:54PM] DEFAULT|2467,5425,0|Said: Purple is my fav colour so looks awesome :d	
+[10/11/25 08:54PM] DEFAULT|2467,5425,0|Said: Yea i saw!	
+[10/11/25 08:55PM] DEFAULT|2467,5425,0|Said: Owner neck and brace coll 3 ring	
+[10/11/25 08:55PM] DEFAULT|2467,5425,0|Said: Deity shield	
+[10/11/25 08:55PM] DEFAULT|2467,5425,0|Said: And the sanguine stuff you get from starter	
+[10/11/25 08:56PM] DEFAULT|2467,5425,0|Said: Deity boots and legends helm	
+[10/11/25 08:56PM] DEFAULT|2467,5425,0|Said: Everything is 1k apart from helm which is 1.2k	
+[10/11/25 08:56PM] DEFAULT|2467,5425,0|Said: Right i need to sleep	
+[10/11/25 08:56PM] DEFAULT|2467,5425,0|Said: Take care!	
+[10/11/25 08:57PM] PLATINUM_ZONE|2268,4077,0|Said: Ye	
+[10/12/25 05:44AM] (CC) Help. Said: Morning	
+[10/12/25 05:45AM] Has just redeemed a $25 Bond successfully!	
+[10/12/25 05:46AM] Has just redeemed a $10 Bond successfully!	
+[10/12/25 05:47AM] Has just redeemed a $25 Bond successfully!	
+[10/12/25 05:47AM] Has just redeemed a $25 Bond successfully!	
+[10/12/25 05:49AM] (CC) Help. Said: Ty	
+[10/12/25 05:50AM] Has just redeemed a $1 Scroll successfully!	
+[10/12/25 06:24AM] (CC) Help. Said: Go to ::sapphire	
+[10/12/25 06:24AM] (CC) Help. Said: See if they work there	
+[10/12/25 06:25AM] (CC) Help. Said: Nope they dont	
+[10/12/25 06:38AM] Has just redeemed a $1 Scroll successfully!	
+[10/12/25 06:41AM] Spoon received x1 PvM ticket pack (10k) from Cave Mutant!	
+[10/12/25 06:44AM] Spoon received x1 PvM ticket pack (10k) from Cave Mutant!	
+[10/12/25 06:44AM] Spoon received x1 PvM ticket pack (10k) from Cave Mutant!	
+[10/12/25 06:51AM] Spoon received x1 PvM ticket pack (10k) from Cave Mutant!	
+[10/12/25 06:54AM] Spoon received x1 PvM ticket pack (10k) from Cave Mutant!	
+[10/12/25 06:55AM] Spoon received x1 PvM ticket pack (10k) from Cave Mutant!	
+[10/12/25 06:55AM] Spoon received x1 PvM ticket pack (10k) from Cave Mutant!	
+[10/12/25 07:09AM] Spoon received x1 PvM ticket pack (10k) from Cave Mutant!	
+[10/12/25 07:11AM] Spoon received x1 PvM ticket pack (10k) from Cave Mutant!	
+[10/12/25 07:14AM] Spoon received x1 PvM ticket pack (10k) from Cave Mutant!	
+[10/12/25 07:15AM] Spoon received x1 PvM ticket pack (10k) from Cave Mutant!	
+[10/12/25 07:59AM] (CC) Help. Said: Where you getting all these caskets? :o	
+[10/12/25 08:56AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/12/25 08:57AM] (CC) Help. Said: Hello you beautiful beans	
+[10/12/25 09:13AM] Has just redeemed a $5 Bond successfully!	
+[10/12/25 09:18AM] Picked up gr.Item Rancid flour, amount: 1	
+[10/12/25 09:18AM] DEFAULT|2791,4067,0|Said: Hey	
+[10/12/25 09:25AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: D8-5E-D3-23-5A-6F	
+[10/12/25 09:26AM] (CC) Help. Said: Welcome!	
+[10/12/25 09:30AM] Picked up gr.Item Empty bucket, amount: 1	
+[10/12/25 09:36AM] (CC) Help. Said: Boop	
+[10/12/25 09:44AM] (CC) Help. Said: All good!	
+[10/12/25 09:47AM] Picked up gr.Item Omega egg, amount: 1	
+[10/12/25 09:47AM] (CC) Help. Said: How do i get this poison milk for the quest lol..	
+[10/12/25 09:49AM] (CC) Help. Said: Nvm found it	
+[10/12/25 11:52AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: 94-18-65-60-13-C7	
+[10/12/25 12:03PM] (CC) Help. Said: Sorry i was letting my dog out i didnt see that	
+[10/12/25 12:03PM] (CC) Help. Said: And talking on discord	
+[10/12/25 12:05PM] (CC) Help. Said: Rift is working for me..	
+[10/12/25 12:06PM] (CC) Help. Said: Right going for a shower brb all	
+[10/12/25 03:06PM] Has just redeemed a $1 Scroll successfully!	
+[10/12/25 07:19PM] Has just redeemed a $1 Scroll successfully!	
+[10/13/25 07:31AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: 94-18-65-60-13-C7	
+[10/13/25 11:54PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: 94-18-65-60-13-C7	
+[10/13/25 11:55PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: 94-18-65-60-13-C7	
+[10/14/25 12:05AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: 94-18-65-60-13-C7	
+[10/14/25 12:05AM] Has just redeemed a $10 Bond successfully!	
+[10/14/25 08:52AM] PLATINUM_ZONE|2274,4079,0|Said: Hey	
+[10/14/25 08:52AM] PLATINUM_ZONE|2274,4079,0|Said: Rip	
+[10/14/25 09:03AM] PLATINUM_ZONE|2279,4073,0|Said: Ye?	
+[10/14/25 09:04AM] PLATINUM_ZONE|2277,4073,0|Said: Not much just got back from hospital and about to have dinner	
+[10/14/25 09:04AM] PLATINUM_ZONE|2277,4073,0|Said: Yea all good	
+[10/14/25 09:05AM] PLATINUM_ZONE|2279,4075,0|Said: Right.. dinner time be back soion	
+[10/14/25 12:20PM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: 94-18-65-60-13-C7	
+[10/15/25 05:08AM] Login. ip: 80.5.19.59, mac: Default string20250818174420.000000+060, uuid: 94-18-65-60-13-C7	
+[10/15/25 05:14AM] Spoon received x1 $1 Scroll from Zenyte!	
+[10/15/25 05:14AM] Spoon received x1 Deity Attachment from Zenyte!	
+[10/15/25 05:15AM] Has just redeemed a $1 Scroll successfully!	
+[10/15/25 05:22AM] Has just redeemed a $1 Scroll successfully!	
+[10/15/25 05:22AM] Has just redeemed a $1 Scroll successfully!	

@@ -1,0 +1,11 @@
+[10/7/25 12:30AM] Deli Afk used command ::afk | Player rights = PLAYER	
+[10/7/25 12:31AM] Deli Afk used command ::dissovleall | Player rights = PLAYER	
+[10/7/25 12:31AM] Deli Afk used command ::empty | Player rights = PLAYER	
+[10/7/25 12:36AM] Deli Afk used command ::afk | Player rights = PLAYER	
+[10/7/25 12:36AM] Deli Afk used command ::afk | Player rights = PLAYER	
+[10/7/25 04:24AM] Deli Afk used command ::render | Player rights = PLAYER	
+[10/9/25 12:07PM] Deli Afk used command ::afk | Player rights = PLAYER	
+[10/11/25 08:38AM] Deli Afk used command ::afk | Player rights = PLAYER	
+[10/11/25 08:38AM] Deli Afk used command ::afk | Player rights = PLAYER	
+[10/11/25 09:15AM] Deli Afk used command ::afk | Player rights = PLAYER	
+[10/11/25 09:15AM] Deli Afk used command ::afk | Player rights = PLAYER	

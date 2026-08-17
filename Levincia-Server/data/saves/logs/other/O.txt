@@ -1,0 +1,141 @@
+[10/18/25 08:00PM] Login. ip: 98.216.38.32, mac: null, uuid: EA-65-88-74-61-D9	
+[10/18/25 08:02PM] (CC) Help. Said: Yo i can't pick nothing up	
+[10/18/25 08:02PM] Picked up gr.Item PVM ticket, amount: 14	
+[10/18/25 08:02PM] PROGRESSION_ZONES|3036,4117,1|Said: Nvm	
+[10/18/25 08:02PM] (CC) Help. Said: Nvm it's showing now	
+[10/18/25 08:02PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:02PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:02PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:02PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/18/25 08:02PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:02PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:03PM] PROGRESSION_ZONES|3038,4116,1|Said: Yo	
+[10/18/25 08:03PM] PROGRESSION_ZONES|3038,4117,1|Said: Sup	
+[10/18/25 08:03PM] PROGRESSION_ZONES|3038,4116,1|Said: Can't see you but hi	
+[10/18/25 08:03PM] HOME_BANK|2784,4065,0|Said: ""train	
+[10/18/25 08:04PM] PROGRESSION_ZONES|3034,4121,5|Said: Woah	
+[10/18/25 08:04PM] PROGRESSION_ZONES|3032,4119,5|Said: Hello slayer	
+[10/18/25 08:04PM] PROGRESSION_ZONES|3032,4119,5|Said: Haah	
+[10/18/25 08:05PM] PROGRESSION_ZONES|3033,4120,5|Said: Nice title	
+[10/18/25 08:05PM] PROGRESSION_ZONES|3034,4119,5|Said: Which box?	
+[10/18/25 08:06PM] PROGRESSION_ZONES|3034,4119,5|Said: Blood sang	
+[10/18/25 08:06PM] PROGRESSION_ZONES|3036,4121,5|Said: Like this minigun ahha	
+[10/18/25 08:06PM] PROGRESSION_ZONES|3036,4121,5|Said: It's shredding	
+[10/18/25 08:07PM] PROGRESSION_ZONES|3033,4118,9|Said: Holy shit	
+[10/18/25 08:07PM] PROGRESSION_ZONES|3033,4118,9|Said: Lol	
+[10/18/25 08:08PM] (CC) Help. Said: Dang teleporting be slow	
+[10/18/25 08:08PM] HOME_BANK|2786,4064,0|Said: Might be my game	
+[10/18/25 08:08PM] HOME_BANK|2786,4064,0|Said: But be takinga  min to load	
+[10/18/25 08:08PM] HOME_BANK|2785,4069,0|Said: I doubt it it	
+[10/18/25 08:08PM] HOME_BANK|2785,4069,0|Said: It is	
+[10/18/25 08:09PM] HOME_BANK|2785,4069,0|Said: Because i have a mac lmao	
+[10/18/25 08:09PM] DEFAULT|2788,4055,0|Said: Lol i'm not	
+[10/18/25 08:09PM] DEFAULT|2778,4043,0|Said: Well i am	
+[10/18/25 08:09PM] DEFAULT|2778,4043,0|Said: But some spots i'm not	
+[10/18/25 08:10PM] DEFAULT|2778,4043,0|Said: :train	
+[10/18/25 08:19PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:19PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/18/25 08:19PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:19PM] Picked up gr.Item Starter bones, amount: 2	
+[10/18/25 08:19PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:19PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/18/25 08:19PM] Picked up gr.Item PVM ticket, amount: 14	
+[10/18/25 08:19PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:19PM] Picked up gr.Item Beginner Mystery box, amount: 14	
+[10/18/25 08:19PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:19PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:19PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:19PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/18/25 08:19PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:19PM] Picked up gr.Item Beginner Mystery box, amount: 14	
+[10/18/25 08:19PM] Picked up gr.Item Starter bones, amount: 2	
+[10/18/25 08:19PM] Picked up gr.Item PVM ticket, amount: 14	
+[10/18/25 08:19PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:19PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/18/25 08:19PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:19PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/18/25 08:20PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:20PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:20PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/18/25 08:20PM] Picked up gr.Item PvM Box, amount: 1	
+[10/18/25 08:20PM] Picked up gr.Item Starter bones, amount: 3	
+[10/18/25 08:20PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:20PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:20PM] Picked up gr.Item PvM Box, amount: 1	
+[10/18/25 08:22PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:22PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/18/25 08:22PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:22PM] Picked up gr.Item PvM Box, amount: 1	
+[10/18/25 08:22PM] Picked up gr.Item PvM Box, amount: 1	
+[10/18/25 08:22PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/18/25 08:22PM] Picked up gr.Item PvM Box, amount: 1	
+[10/18/25 08:23PM] Picked up gr.Item Starter bones, amount: 2	
+[10/18/25 08:23PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:23PM] Picked up gr.Item PvM Box, amount: 1	
+[10/18/25 08:23PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:23PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:23PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:23PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:24PM] Picked up gr.Item PvM Box, amount: 1	
+[10/18/25 08:24PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/18/25 08:24PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:24PM] Picked up gr.Item PvM Box, amount: 1	
+[10/18/25 08:24PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:24PM] Picked up gr.Item PvM Box, amount: 1	
+[10/18/25 08:24PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:26PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:26PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:26PM] Picked up gr.Item Beginner Mystery box, amount: 7	
+[10/18/25 08:27PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:27PM] Picked up gr.Item PvM Box, amount: 2	
+[10/18/25 08:27PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:27PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:27PM] Picked up gr.Item PVM ticket, amount: 7	
+[10/18/25 08:27PM] Picked up gr.Item Starter bones, amount: 2	
+[10/18/25 08:27PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:27PM] Picked up gr.Item Beginner Mystery box, amount: 7	
+[10/18/25 08:28PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:28PM] Picked up gr.Item Starter bones, amount: 1	
+[10/18/25 08:33PM] DEFAULT|2790,4086,0|Said: ;;home	
+[10/18/25 08:33PM] HOME_BANK|2783,4059,0|Said: Yo	
+[10/18/25 08:33PM] HOME_BANK|2783,4059,0|Said: Sup	
+[10/18/25 08:33PM] HOME_BANK|2783,4059,0|Said: :afk	
+[10/18/25 08:36PM] Player destroying item: -1, amount: 0	
+[10/18/25 08:36PM] Picked up gr.Item Vote scroll, amount: 10	
+[10/18/25 08:36PM] Player destroying item: -1, amount: 0	
+[10/18/25 08:36PM] Picked up gr.Item Levincia tokens, amount: 5000	
+[10/18/25 08:36PM] Player destroying item: -1, amount: 0	
+[10/18/25 08:47PM] Picked up gr.Item Leafy bones, amount: 1	
+[10/18/25 08:47PM] Picked up gr.Item Leafy bones, amount: 1	
+[10/18/25 08:47PM] Picked up gr.Item PVM ticket, amount: 1	
+[10/18/25 08:48PM] Picked up gr.Item Leafy bones, amount: 1	
+[10/18/25 08:48PM] Picked up gr.Item PvM Box, amount: 1	
+[10/18/25 08:49PM] Picked up gr.Item Leafy bones, amount: 2	
+[10/18/25 08:52PM] Picked up gr.Item Spider bones, amount: 1	
+[10/18/25 08:52PM] Picked up gr.Item Levincia tokens, amount: 1000	
+[10/18/25 08:52PM] Picked up gr.Item Shark, amount: 13	
+[10/18/25 08:52PM] Picked up gr.Item Spider bones, amount: 1	
+[10/18/25 08:52PM] Picked up gr.Item Spider bones, amount: 1	
+[10/18/25 08:52PM] Picked up gr.Item PVM ticket, amount: 100	
+[10/18/25 08:52PM] Picked up gr.Item Spider bones, amount: 1	
+[10/18/25 08:52PM] Picked up gr.Item PVM ticket, amount: 100	
+[10/18/25 08:52PM] Picked up gr.Item Prayer potion (4), amount: 17	
+[10/18/25 08:52PM] Picked up gr.Item Spider bones, amount: 1	
+[10/18/25 08:52PM] Picked up gr.Item Spider bones, amount: 1	
+[10/18/25 08:52PM] Picked up gr.Item PVM ticket, amount: 100	
+[10/18/25 08:52PM] Picked up gr.Item Spider bones, amount: 1	
+[10/18/25 08:53PM] Picked up gr.Item Spider bones, amount: 2	
+[10/18/25 08:54PM] Picked up gr.Item Levincia tokens, amount: 1000	
+[10/18/25 09:10PM] (CC) Help. Said: Yooo	
+[10/18/25 09:10PM] (CC) Help. Said: What's going on i'm active	
+[10/18/25 09:10PM] (CC) Help. Said: Fighting some spiders atm, wyd	
+[10/18/25 09:10PM] (CC) Help. Said: Boutta start coding :)	
+[10/18/25 09:14PM] (CC) Help. Said: Hell yea	
+[10/18/25 09:14PM] (CC) Help. Said: I haven't tried that yet, might have to check it out	
+[10/18/25 09:14PM] (CC) Help. Said: Supppp	
+[10/18/25 09:16PM] Picked up gr.Item PVM ticket, amount: 125	
+[10/18/25 09:16PM] Picked up gr.Item Levincia tokens, amount: 1250	
+[10/18/25 09:23PM] Picked up gr.Item Levincia tokens, amount: 1250	
+[10/18/25 09:23PM] Picked up gr.Item Levincia tokens, amount: 1250	
+[10/18/25 09:23PM] Picked up gr.Item PVM ticket, amount: 10	
+[10/18/25 09:23PM] Picked up gr.Item PvM Box (t2), amount: 1	

@@ -1,0 +1,6 @@
+[10/7/25 06:13PM] Player received drop: x1 $1 Scroll, id: 10946, amount: 1, from: Nephilim Warrior	
+[10/7/25 06:18PM] Player received drop: x1 Upgrade Token pack (100k), id: 15288, amount: 1, from: Nephilim Warrior	
+[10/9/25 01:46PM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Energy Skeleton	
+[10/9/25 03:08PM] Player received drop: x1 PvM ticket pack (10k), id: 22219, amount: 1, from: Arachne	
+[10/9/25 03:10PM] Player received drop: x1 Webby body, id: 19473, amount: 1, from: Arachne	
+[10/9/25 03:15PM] Player received drop: x1 Webby legs, id: 19472, amount: 1, from: Arachne	

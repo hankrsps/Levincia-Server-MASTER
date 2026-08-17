@@ -1,0 +1,2 @@
+[10/7/25 05:07AM] Login from host 82.172.191.165, serial number: 34-5A-60-6B-31-55, mac address:Default string20250623203624.000000+120	
+[10/7/25 05:38AM] Logout with password omhoogLogout from host 82.172.191.165, serial number: 34-5A-60-6B-31-55, mac address:Default string20250623203624.000000+120	

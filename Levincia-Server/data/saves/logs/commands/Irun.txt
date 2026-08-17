@@ -1,0 +1,7 @@
+[10/7/25 10:46AM] Irun used command ::shops | Player rights = PLAYER	
+[10/7/25 10:46AM] Irun used command ::bank | Player rights = PLAYER	
+[10/7/25 10:47AM] Irun used command ::bank | Player rights = PLAYER	
+[10/7/25 10:47AM] Irun used command ::iron | Player rights = PLAYER	
+[10/7/25 10:47AM] Irun used command ::ironzone | Player rights = PLAYER	
+[10/7/25 10:51AM] Irun used command ::ref | Player rights = PLAYER	
+[10/7/25 10:52AM] Irun used command ::TRAIN | Player rights = PLAYER	

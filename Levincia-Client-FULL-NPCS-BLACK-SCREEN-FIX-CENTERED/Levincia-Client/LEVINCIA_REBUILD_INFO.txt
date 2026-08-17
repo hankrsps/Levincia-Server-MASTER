@@ -1,0 +1,26 @@
+LEVINCIA WORKING-BASE REBUILD
+
+Base:
+- levincia-client-main(4).zip (older clean client snapshot)
+
+Preserved unchanged:
+- Client.java login/packet handling
+- region/map loading logic
+- cache downloader/configuration
+- rendering/game loop
+- all other original client source
+
+Merged from newer progression build:
+- Progression ItemDefinition additions (Frostborn, Bloodforged, Toxic, Storm,
+  Void Scythe, Infernal, Shadow, Dragon)
+- NPC IDs 10050-10055 (Infernal/Shadow/Dragon midgame NPCs)
+
+MobDefinition safety:
+- New NPCs are in a separate applyLevinciaMidgameNpcs helper.
+- The giant original legacy switch was NOT split or rewritten.
+
+Build:
+- Standalone Maven POM
+- Java 11
+- RuneLite repository
+- JavaFX 11.0.2 dependencies

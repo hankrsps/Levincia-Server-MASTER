@@ -1,0 +1,145 @@
+[10/7/25 05:32AM] Login. ip: 185.229.152.8, mac: 1704564220201222225854.000000+060, uuid: 04-92-26-D2-AB-E3	
+[10/7/25 05:45AM] (CC) Help. Said: Yoyoyoyo	
+[10/7/25 06:01AM] PROGRESSION_ZONES|3034,4118,17|Said: Ayooo	
+[10/7/25 06:01AM] PROGRESSION_ZONES|3034,4118,17|Said: This is good right?	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3034,4120,17|Said: How long does it go on for?	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3034,4120,17|Said: How many phases?	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3034,4120,17|Said: And if i teleport to the starter phases again, do i go here or 1	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3034,4120,17|Said: Wonderful	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3034,4120,17|Said: I'ma bank and open some of these things then	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3034,4120,17|Said: This whip	
+[10/7/25 06:02AM] PROGRESSION_ZONES|3034,4120,17|Said: Is hella slushy	
+[10/7/25 06:03AM] PROGRESSION_ZONES|3034,4120,17|Said: R-rated sexual slinginess on this	
+[10/7/25 06:03AM] PROGRESSION_ZONES|3034,4120,17|Said: Xd	
+[10/7/25 06:03AM] HOME_BANK|2784,4059,0|Said: Any way to increase the fov	
+[10/7/25 06:03AM] HOME_BANK|2784,4059,0|Said: Or range generated	
+[10/7/25 06:04AM] HOME_BANK|2784,4059,0|Said: Can barely see 12 steps ahead	
+[10/7/25 06:22AM] Has just redeemed a $10 Bond successfully!	
+[10/7/25 06:22AM] Has just redeemed a $50 Bond successfully!	
+[10/7/25 06:28AM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 06:30AM] Opened a cracker containing a Green partyhat on Delicious	
+[10/7/25 06:31AM] DEFAULT|2785,4046,0|Said: Whatd u get	
+[10/7/25 06:37AM] VOTE_BOSS|3428,4115,4|Said: Wait what are max levels	
+[10/7/25 06:37AM] VOTE_BOSS|3428,4115,4|Said: Sick	
+[10/7/25 06:37AM] VOTE_BOSS|3426,4115,4|Said: Hank	
+[10/7/25 06:37AM] VOTE_BOSS|3426,4115,4|Said: In summoner icon tab	
+[10/7/25 06:38AM] VOTE_BOSS|3426,4115,4|Said: It says wolf gives 1%	
+[10/7/25 06:38AM] VOTE_BOSS|3426,4115,4|Said: When i drop or examine him	
+[10/7/25 06:38AM] VOTE_BOSS|3426,4115,4|Said: It says 7%	
+[10/7/25 06:38AM] VOTE_BOSS|3426,4115,4|Said: Which is correct	
+[10/7/25 06:38AM] VOTE_BOSS|3426,4115,4|Said: This staff is p sick	
+[10/7/25 06:55AM] (CC) Help. Said: Collector ring does the same as collector necklace?	
+[10/7/25 06:55AM] (CC) Help. Said: So it's a waste to have both, if i have a better necklace	
+[10/7/25 06:55AM] (CC) Help. Said: Or do they have charges like the starter one?	
+[10/7/25 06:59AM] (CC) Help. Said: All the collector items have charges ye?	
+[10/7/25 06:59AM] (CC) Help. Said: Ah dope	
+[10/7/25 07:07AM] Picked up gr.Item Divine spirit shield, amount: 2	
+[10/7/25 07:07AM] Picked up gr.Item Sorrow bow, amount: 1	
+[10/7/25 07:07AM] Picked up gr.Item Sorrow bow, amount: 1	
+[10/7/25 07:07AM] Picked up gr.Item Diabolical boots, amount: 1	
+[10/7/25 07:09AM] (CC) Help. Said: Have fun bro	
+[10/7/25 07:12AM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 07:20AM] DEFAULT|2786,4047,0|Said: Spoon	
+[10/7/25 07:20AM] DEFAULT|2786,4047,0|Said: You got any tips for a beginner	
+[10/7/25 07:22AM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 07:24AM] DEFAULT|2784,4046,0|Said: Is the 2kc pet good af	
+[10/7/25 07:25AM] DEFAULT|2783,4045,0|Said: What are you working towards?	
+[10/7/25 07:38AM] DEFAULT|2790,4045,0|Said:   ::upgrade	
+[10/7/25 07:44AM] (CC) Help. Said: Wait dissolving gives me invention exp	
+[10/7/25 07:44AM] (CC) Help. Said: Broooos this changes everything	
+[10/7/25 07:45AM] (CC) Help. Said: When i tp with crystal key where tf do i arrive	
+[10/7/25 07:46AM] (CC) Help. Said: Any tp that takes me here?	
+[10/7/25 07:47AM] (CC) Help. Said: Any way to mass-dissolve items?	
+[10/7/25 07:47AM] (CC) Help. Said: Entire inv then?	
+[10/7/25 07:47AM] (CC) Help. Said: Or is that what im hovering	
+[10/7/25 07:49AM] Picked up gr.Item Levincia tokens, amount: 90	
+[10/7/25 07:50AM] Picked up gr.Item Levincia tokens, amount: 56000	
+[10/7/25 07:50AM] Picked up gr.Item Levincia tokens, amount: 56000	
+[10/7/25 07:58AM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 08:03AM] (CC) Help. Said: You just grinding easy tasks?	
+[10/7/25 08:07AM] (CC) Help. Said: Bueno!	
+[10/7/25 08:08AM] SLAYERMULTI|1884,5224,0|Said: Yoyoyooyoyoy	
+[10/7/25 08:08AM] SLAYERMULTI|1885,5218,0|Said: What the fguck	
+[10/7/25 08:08AM] SLAYERMULTI|1885,5218,0|Said: Weapon	
+[10/7/25 08:08AM] SLAYERMULTI|1885,5218,0|Said: Are you using	
+[10/7/25 08:09AM] SLAYERMULTI|1888,5222,0|Said: I need that aoe 	
+[10/7/25 08:09AM]  Receiving item from trade with History Hawk Id: 8412, amount: 1	
+[10/7/25 08:09AM] SLAYERMULTI|1889,5224,0|Said: Holy shit	
+[10/7/25 08:10AM] SLAYERMULTI|1889,5224,0|Said: How do i get those	
+[10/7/25 08:10AM] SLAYERMULTI|1891,5229,0|Said: What shops sell it?	
+[10/7/25 08:11AM] SLAYERMULTI|1888,5230,0|Said: Ahwhawhahahahahahahha	
+[10/7/25 08:11AM] SLAYERMULTI|1888,5230,0|Said: Wtf am i shooting bandos or what	
+[10/7/25 08:11AM] SLAYERMULTI|1889,5227,0|Said: Hahahahah	
+[10/7/25 08:11AM] SLAYERMULTI|1885,5227,0|Said: Ty bro	
+[10/7/25 08:17AM] (CC) Help. Said: God bless it	
+[10/7/25 08:17AM] (CC) Help. Said: Like a slayer ring... but infinite!	
+[10/7/25 08:18AM] (CC) Help. Said: Hank is there some sort of aggro potion on here?	
+[10/7/25 08:19AM] (CC) Help. Said: Is there inf prayer on here?	
+[10/7/25 08:20AM] (CC) Help. Said: Inf prayer bonus? dope	
+[10/7/25 08:23AM] (CC) Help. Said: How did you get more of the packs deliciousness	
+[10/7/25 08:25AM] (CC) Help. Said: Oh shit you got 4!	
+[10/7/25 08:26AM] DEFAULT|2783,4045,0|Said: Yo wtf is that soulsplit effect	
+[10/7/25 08:26AM] DEFAULT|2783,4045,0|Said: You both have	
+[10/7/25 08:41AM] (CC) Help. Said: Hank lemme see that in my inventory real quick	
+[10/7/25 08:41AM] (CC) Help. Said: The platinum key ahhahahah	
+[10/7/25 08:41AM] (CC) Help. Said: I was joking	
+[10/7/25 08:43AM] Picked up gr.Item Holy symbol, amount: 1	
+[10/7/25 08:51AM] DEFAULT|2795,4066,0|Said: Spoon what gives u inf prayer	
+[10/7/25 08:51AM] DEFAULT|2792,4066,0|Said: Aah ok	
+[10/7/25 08:55AM] (CC) Help. Said: How do i acquire an aura	
+[10/7/25 09:14AM] (CC) Help. Said: How tf i buy from item exchange	
+[10/7/25 09:18AM] (CC) Help. Said: Aaah fack	
+[10/7/25 09:20AM] HELLRAISER|3107,5531,0|Said: Your dmg is waaay higher wtf	
+[10/7/25 09:21AM] HELLRAISER|3107,5531,0|Said: Any other way to get your wep?	
+[10/7/25 09:21AM] HELLRAISER|3107,5531,0|Said: Lemme see that in my inv realquick ;););)	
+[10/7/25 09:23AM] HELLRAISER|3110,5534,0|Said: You know what deity attachments do?	
+[10/7/25 10:08AM] (CC) Help. Said: Can it not be made scalable with server population?	
+[10/7/25 10:08AM] (CC) Help. Said: More on = more hp	
+[10/7/25 10:09AM] (CC) Help. Said: Is there an item tier list somewhere	
+[10/7/25 10:09AM] (CC) Help. Said: Or a place to search them to compare	
+[10/7/25 10:10AM] (CC) Help. Said: Oooh perfect ty	
+[10/7/25 10:11AM] (CC) Help. Said: Btw, i thought the 2x kc pet was gonna count for slayer	
+[10/7/25 10:11AM] (CC) Help. Said: Is it meant to? or what does it do then?	
+[10/7/25 10:14AM] (CC) Help. Said: Is there a way to block slayer tasks?	
+[10/7/25 10:15AM] (CC) Help. Said: The droprates on these monsters is absolutely giga	
+[10/7/25 10:16AM] (CC) Help. Said: 1/3k for any item hahahaha	
+[10/7/25 10:26AM] Login. ip: 185.229.152.8, mac: 1704564220201222225854.000000+060, uuid: 04-92-26-D2-AB-E3	
+[10/7/25 10:27AM] (CC) Help. Said: What'd you update	
+[10/7/25 10:28AM] (CC) Help. Said: Noice	
+[10/7/25 10:29AM] (CC) Help. Said: How do i get case keys?	
+[10/7/25 10:34AM] VOTE_BOSS|3431,4115,4|Said: Dont laugh at mine	
+[10/7/25 10:34AM] VOTE_BOSS|3431,4115,4|Said: Spoon with the godstaff	
+[10/7/25 10:35AM] Gudekompleks received x1 2X Damage Scroll (30 Min) from Vote Boss!	
+[10/7/25 10:37AM] VOTE_BOSS|3429,4116,4|Said: Ima go eat bois	
+[10/7/25 10:37AM] VOTE_BOSS|3421,4122,4|Said: Catch u both later	
+[10/7/25 10:38AM] (CC) Help. Said: Wtf these whispering trees do	
+[10/7/25 11:37AM] DEFAULT|2794,4066,0|Said: Wait	
+[10/7/25 11:37AM] DEFAULT|2794,4066,0|Said: Are we not smaller than before	
+[10/7/25 11:37AM] HOME_BANK|2790,4066,0|Said: Or am i retarded	
+[10/7/25 11:38AM] HOME_BANK|2788,4065,0|Said: Hahahahahah	
+[10/7/25 11:38AM] (CC) Help. Said: Hank you there bro	
+[10/7/25 12:17PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 12:20PM] (CC) Help. Said: What items give inf prayer other than cape?	
+[10/7/25 12:55PM] (CC) Help. Said: Yo hank what do i do with pet fragments	
+[10/7/25 12:55PM] (CC) Help. Said: Where at?	
+[10/7/25 12:56PM] (CC) Help. Said: No upgrade option when i rightclick	
+[10/7/25 12:56PM] (CC) Help. Said: On hellraiser pet	
+[10/7/25 12:56PM] (CC) Help. Said: How tf you keep getting these quill packs babyyyy	
+[10/7/25 01:02PM] Picked up gr.Item Rancid flour, amount: 1	
+[10/7/25 01:03PM] (CC) Help. Said: Yo hank	
+[10/7/25 01:03PM] (CC) Help. Said: What are enchanted herbs for	
+[10/7/25 01:07PM] Login. ip: 185.229.152.8, mac: 1704564220201222225854.000000+060, uuid: 04-92-26-D2-AB-E3	
+[10/7/25 01:08PM] Login. ip: 185.229.152.8, mac: 1704564220201222225854.000000+060, uuid: 04-92-26-D2-AB-E3	
+[10/7/25 01:13PM] (CC) Help. Said: Hank my man, what do enchanted herbs do	
+[10/7/25 01:13PM] (CC) Help. Said: Anywhere that i can see quests?	
+[10/7/25 01:13PM] (CC) Help. Said: I got them from daganoth kings	
+[10/7/25 01:14PM] (CC) Help. Said: Oh so i skipped to the end by finding the daganoth kings	
+[10/7/25 01:15PM] Picked up gr.Item Empty bucket, amount: 1	
+[10/7/25 01:21PM] Picked up gr.Item Rancid flour, amount: 1	
+[10/7/25 01:27PM] Has just redeemed a $1 Scroll successfully!	
+[10/7/25 01:41PM] Has just redeemed a $50 Bond successfully!	
+[10/7/25 01:42PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 01:42PM] Has just redeemed a $25 Bond successfully!	
+[10/7/25 01:44PM] (CC) Help. Said: Night bois	
+[10/7/25 01:44PM] (CC) Help. Said: Ima catch u later	
+[10/7/25 01:47PM] Player destroying item: -1, amount: 0	

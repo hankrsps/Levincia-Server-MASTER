@@ -1,0 +1,64 @@
+[10/8/25 12:30PM] Login. ip: 94.6.188.222, mac: 20250606024532.000000+060, uuid: C8-A3-E8-81-72-A4	
+[10/8/25 12:32PM] Login. ip: 94.6.188.222, mac: 20250606024532.000000+060, uuid: C8-A3-E8-81-72-A4	
+[10/8/25 12:45PM] Player destroying item: -1, amount: 0	
+[10/8/25 01:04PM] PROGRESSION_ZONES|3032,4121,17|Said: Hi	
+[10/8/25 01:05PM] PROGRESSION_ZONES|3032,4121,17|Said: Ty	
+[10/8/25 01:09PM] Player destroying item: 13740, amount: 1	
+[10/8/25 01:09PM] Player destroying item: -1, amount: 0	
+[10/9/25 09:11AM] Login. ip: 94.6.188.222, mac: 20250606024532.000000+060, uuid: C8-A3-E8-81-72-A4	
+[10/9/25 09:11AM] Login. ip: 94.6.188.222, mac: 20250606024532.000000+060, uuid: C8-A3-E8-81-72-A4	
+[10/9/25 09:12AM] Picked up gr.Item Holy symbol, amount: 1	
+[10/9/25 09:12AM] DEFAULT|2784,4054,0|Said: Hey	
+[10/9/25 09:15AM] Has just redeemed a $10 Bond successfully!	
+[10/9/25 09:15AM] Has just redeemed a $100 Bond successfully!	
+[10/9/25 09:19AM] Has just redeemed a $25 Bond successfully!	
+[10/9/25 09:23AM] Picked up gr.Item PVM ticket, amount: 10	
+[10/9/25 09:23AM] Picked up gr.Item PVM ticket, amount: 10	
+[10/9/25 09:23AM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/9/25 09:24AM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/9/25 09:24AM] Has just redeemed a $1 Scroll successfully!	
+[10/9/25 09:26AM] Picked up gr.Item Levincia tokens, amount: 100	
+[10/9/25 09:26AM] Picked up gr.Item PVM ticket, amount: 10	
+[10/9/25 09:26AM] Picked up gr.Item PVM ticket, amount: 10	
+[10/9/25 09:27AM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/9/25 09:27AM] Picked up gr.Item PVM ticket, amount: 10	
+[10/9/25 09:27AM] Picked up gr.Item Elite dragon bones, amount: 2	
+[10/9/25 09:36AM] ZONES2|2325,3891,0|Said:  ::bossevent	
+[10/9/25 09:50AM] Player destroying item: -1, amount: 0	
+[10/9/25 10:13AM] Mystima received x1 Indravox platebody from Joyx Golem!	
+[10/9/25 10:13AM] Has just redeemed a $1 Scroll successfully!	
+[10/9/25 10:13AM] Mystima received x1 Indravox platelegs from Joyx Golem!	
+[10/9/25 10:23AM] Mystima received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/9/25 10:47AM] Player destroying item: -1, amount: 0	
+[10/9/25 10:47AM] Player destroying item: -1, amount: 0	
+[10/9/25 10:51AM] Mystima received x1 Ring of wealth from Shetani!	
+[10/9/25 10:57AM] Player destroying item: -1, amount: 0	
+[10/9/25 10:57AM] Picked up gr.Item Pet fragment, amount: 1	
+[10/9/25 11:45AM] Picked up gr.Item Raw Fury shark, amount: 2	
+[10/9/25 12:13PM] PEST_CONTROL_GAME|2656,2590,0|Said: True	
+[10/11/25 01:54AM] Login. ip: 94.6.188.222, mac: 20250606024532.000000+060, uuid: C8-A3-E8-81-72-A4	
+[10/11/25 03:52AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 04:05AM] Has just redeemed a $1 Scroll successfully!	
+[10/11/25 04:14AM] HELLRAISER|3107,5531,0|Said: Elite staff	
+[10/11/25 04:14AM] HELLRAISER|3107,5531,0|Said: 10k	
+[10/11/25 04:15AM]  Receiving item from trade with Ezpz Ghijf Id: 17011, amount: 1	
+[10/11/25 04:15AM] HOME_BANK|2784,4064,0|Said: Tyvm	
+[10/11/25 04:40AM] Login. ip: 94.6.188.222, mac: 20250606024532.000000+060, uuid: C8-A3-E8-81-72-A4	
+[10/11/25 04:43AM] Login. ip: 94.6.188.222, mac: 20250606024532.000000+060, uuid: C8-A3-E8-81-72-A4	
+[10/11/25 04:46AM] Mystima received x1 Crest part 2 from Wild Graahk!	
+[10/11/25 05:07AM] VOTE_BOSS|3428,4115,4|Said: Hey	
+[10/11/25 05:24AM] Player destroying item: -1, amount: 0	
+[10/11/25 05:33AM] Mystima received x1 $5 Bond from Nephilim Warrior!	
+[10/11/25 05:35AM] Has just redeemed a $5 Bond successfully!	
+[10/11/25 05:38AM] Mystima received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/11/25 05:45AM] SLAYER_CHAMPION|3488,4697,0|Said: We can try	
+[10/11/25 05:53AM] Login. ip: 94.6.188.222, mac: 20250606024532.000000+060, uuid: C8-A3-E8-81-72-A4	
+[10/11/25 05:54AM] Login. ip: 94.6.188.222, mac: 20250606024532.000000+060, uuid: C8-A3-E8-81-72-A4	
+[10/11/25 05:54AM] PEST_CONTROL_BOAT|2661,2638,0|Said: Anyone else dc?	
+[10/11/25 06:00AM] Login. ip: 94.6.188.222, mac: 20250606024532.000000+060, uuid: C8-A3-E8-81-72-A4	
+[10/11/25 06:04AM] Picked up gr.Item Levincia tokens, amount: 2000	
+[10/11/25 06:04AM] Picked up gr.Item Levincia tokens, amount: 2000	
+[10/11/25 06:04AM] Picked up gr.Item PVM ticket, amount: 150	
+[10/11/25 06:26AM] Login. ip: 94.6.188.222, mac: 20250606024532.000000+060, uuid: C8-A3-E8-81-72-A4	
+[10/12/25 01:08AM] Login. ip: 94.6.188.222, mac: 20250606024532.000000+060, uuid: C8-A3-E8-81-72-A4	
+[10/12/25 03:28AM] DEFAULT|2766,4066,0|Said:  ::platinum	

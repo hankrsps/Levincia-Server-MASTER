@@ -1,0 +1,6 @@
+[10/11/25 11:11PM] Player picked up item: Starter bones, id: 23402, amount: 1, owner: Yoshii	
+[10/11/25 11:11PM] Player picked up item: PVM ticket, id: 5022, amount: 7, owner: Yoshii	
+[10/12/25 08:23PM] Player picked up item: Global ticket, id: 23229, amount: 1, owner: Yoshii	
+[10/12/25 08:23PM] Player picked up item: Levincia tokens, id: 12855, amount: 5000, owner: Yoshii	
+[10/12/25 08:23PM] Player picked up item: PVM ticket, id: 5022, amount: 1000, owner: Yoshii	
+[10/12/25 08:23PM] Player picked up item: Crystal key, id: 989, amount: 2, owner: Yoshii	

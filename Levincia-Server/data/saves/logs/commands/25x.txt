@@ -1,0 +1,6 @@
+[10/11/25 02:56PM] 25x used command ::bank | Player rights = PLAYER	
+[10/11/25 03:29PM] 25x used command ::bank | Player rights = EMERALD_DONATOR	
+[10/11/25 03:29PM] 25x used command ::bank | Player rights = EMERALD_DONATOR	
+[10/11/25 03:29PM] 25x used command ::bank | Player rights = EMERALD_DONATOR	
+[10/11/25 03:30PM] 25x used command ::shops | Player rights = EMERALD_DONATOR	
+[10/11/25 03:31PM] 25x used command ::bank | Player rights = EMERALD_DONATOR	

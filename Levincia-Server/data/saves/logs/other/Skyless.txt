@@ -1,0 +1,64 @@
+[10/11/25 07:49PM] Login. ip: 84.35.84.124, mac: CND0533Q2220250525161438.000000+060, uuid: 6C-02-E0-5D-77-22	
+[10/11/25 07:50PM] (CC) Help. Said: Is this fully released yet?	
+[10/11/25 10:38PM] Login. ip: 84.35.84.124, mac: CND0533Q2220250525161438.000000+060, uuid: 6C-02-E0-5D-77-22	
+[10/11/25 10:38PM] (CC) Help. Said: Wheres the globals	
+[10/11/25 10:39PM] DEFAULT|2785,4040,0|Said: <::vboss	
+[10/11/25 10:42PM] VOTE_BOSS|3426,4118,4|Said: <mine	
+[10/11/25 10:42PM] VOTE_BOSS|3426,4118,4|Said: Mine	
+[10/13/25 06:09PM] Login. ip: 84.35.84.124, mac: CND0533Q2220250525161438.000000+060, uuid: 6C-02-E0-5D-77-22	
+[10/13/25 06:10PM] (CC) Help. Said: Help at voteboss?	
+[10/13/25 06:14PM] (CC) Help. Said: Yo	
+[10/13/25 06:15PM] (CC) Help. Said: Going wc now and iwaiting for that event	
+[10/13/25 06:17PM] (CC) Help. Said: How can i get bonds for rank?	
+[10/13/25 06:17PM] (CC) Help. Said: Need ::bank xd	
+[10/13/25 06:18PM] Has just redeemed a $5 Bond successfully!	
+[10/13/25 06:18PM] Has just redeemed a $25 Bond successfully!	
+[10/13/25 06:18PM] Has just redeemed a $50 Bond successfully!	
+[10/13/25 06:18PM] Has just redeemed a $1 Scroll successfully!	
+[10/13/25 06:19PM] (CC) Help. Said: Oh ye xd	
+[10/13/25 06:19PM] (CC) Help. Said: Didnt knew there was starter tasks	
+[10/13/25 06:19PM] Has just redeemed a $25 Bond successfully!	
+[10/13/25 06:23PM] Skyless received x1 $1 Scroll from Nephilim Warrior!	
+[10/13/25 06:26PM] HOME_BANK|2784,4065,0|Said: ;;vozzath	
+[10/13/25 06:26PM] Has just redeemed a $1 Scroll successfully!	
+[10/13/25 06:30PM] GUARDIAN|2656,3801,0|Said: Hm s thst	
+[10/13/25 06:30PM] GUARDIAN|2656,3801,0|Said: Xd	
+[10/13/25 06:30PM] GUARDIAN|2656,3801,0|Said: New	
+[10/13/25 06:30PM] GUARDIAN|2656,3801,0|Said: Idk	
+[10/13/25 06:31PM] GUARDIAN|2656,3801,0|Said: My gear is so shit	
+[10/13/25 06:31PM] GUARDIAN|2656,3801,0|Said: Xd	
+[10/13/25 06:36PM]  Receiving item from trade with History Hawk Id: 18888, amount: 1	
+[10/13/25 06:36PM]  Receiving item from trade with History Hawk Id: 12630, amount: 1	
+[10/13/25 06:36PM] GUARDIAN|2652,3803,0|Said: Tyty	
+[10/13/25 06:36PM] GUARDIAN|2656,3800,0|Said: Whas bext	
+[10/13/25 06:36PM] GUARDIAN|2656,3800,0|Said: Next	
+[10/13/25 06:36PM] GUARDIAN|2656,3800,0|Said: :p	
+[10/13/25 06:39PM] Has just redeemed a $25 Bond successfully!	
+[10/13/25 06:41PM]  Receiving item from trade with History Hawk Id: 17011, amount: 1	
+[10/13/25 06:41PM] GUARDIAN|2656,3799,0|Said: Tyty	
+[10/13/25 06:45PM] (CC) Help. Said: Yo hank help us here xd	
+[10/13/25 06:49PM] (CC) Help. Said: Is tere any donor boss or som? :p	
+[10/13/25 06:50PM] Skyless received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/13/25 06:53PM] Skyless received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/13/25 06:55PM] Has just redeemed a $5 Bond successfully!	
+[10/13/25 06:56PM] (CC) Help. Said: Gz	
+[10/13/25 07:06PM] Skyless received x1 Upgrade Token pack (100k) from Nephilim Warrior!	
+[10/13/25 07:08PM] Skyless received x1 $1 Scroll from Nephilim Warrior!	
+[10/13/25 07:08PM] Has just redeemed a $1 Scroll successfully!	
+[10/13/25 07:22PM] (CC) Help. Said: Slayer boss is up	
+[10/13/25 07:44PM] (CC) Help. Said: Tp event doesnt work	
+[10/13/25 07:45PM] (CC) Help. Said: Can ya tele me there?	
+[10/13/25 07:49PM] Picked up gr.Item Donator Aura, amount: 1	
+[10/13/25 07:49PM] Picked up gr.Item Quill's Card Pack, amount: 3	
+[10/13/25 07:50PM] Picked up gr.Item Owner cape goodiebag, amount: 1	
+[10/13/25 07:50PM] Picked up gr.Item Collector Necklace III, amount: 1	
+[10/13/25 07:50PM] Picked up gr.Item Owner cape, amount: 1	
+[10/13/25 07:50PM] Picked up gr.Item Sanguinesti Legends staff, amount: 1	
+[10/13/25 07:51PM] Picked up gr.Item Collector Necklace III, amount: 1	
+[10/13/25 07:51PM] Picked up gr.Item Collector Ring III, amount: 1	
+[10/13/25 07:52PM] Picked up gr.Item Owner cape goodiebag, amount: 1	
+[10/13/25 07:54PM] Has just redeemed a $1 Scroll successfully!	
+[10/13/25 07:54PM] EVENTS_ROOM|1696,4264,0|Said: Think its done	
+[10/13/25 07:54PM] EVENTS_ROOM|1696,4264,0|Said: Noething on chest	
+[10/13/25 07:54PM] Picked up gr.Item Owner cape goodiebag, amount: 1	
+[10/13/25 07:54PM] Picked up gr.Item Sanguinesti Legends staff, amount: 1	
