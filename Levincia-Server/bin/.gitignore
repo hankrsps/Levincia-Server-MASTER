@@ -1,7 +1,42 @@
-/ItemDefs.txt
-/data/
-/drops/
-/lib/
-/src/
-/libs/
-/pom.xml
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Java
+*.class
+out/
+
+# Kotlin
+.kotlin/
+
+# Logs
+*.log
+logs/
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+
+# IDE/compiler caches
+bin/
+classes/
+
+# Don't commit local environment/config secrets
+.env
+.env.*

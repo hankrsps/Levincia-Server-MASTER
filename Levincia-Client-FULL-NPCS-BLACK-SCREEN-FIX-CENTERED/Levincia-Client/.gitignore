@@ -1,1 +1,75 @@
-/target/
+# ==========================================
+# Levincia Client - Git Ignore
+# ==========================================
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Java compiled files
+*.class
+out/
+bin/
+
+# Kotlin
+.kotlin/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Local environment / secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Crash/error dumps
+hs_err_pid*
+replay_pid*
+
+# Maven release files
+pom.xml.releaseBackup
+release.properties
+
+# Generated archives
+*.jar
+*.war
+
+# ==========================================
+# IMPORTANT:
+# Do NOT ignore your actual client source,
+# cache/model resources, sprites, or data.
+# We want those available in the repository.
+# ==========================================
