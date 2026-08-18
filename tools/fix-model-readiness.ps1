@@ -13,72 +13,67 @@ $backup = "$modelPath.readiness-backup"
 if (-not (Test-Path $backup)) {
     [System.IO.File]::Copy($modelPath, $backup)
     Write-Host "Backup created: $backup"
+} else {
+    Write-Host "Backup already exists: $backup"
 }
 
-$oldGet = @'
-	public static Model get(int model) {
-		final byte[] data = getData(model);
-		if (data != null) {
-			return new Model(data, model);
-		}
-		aOnDemandFetcherParent_1662.get(model);
-		return null;
-	}
-'@
-
-$newGet = @'
-	public static Model get(int model) {
+# Match Java methods regardless of CRLF/LF line endings or indentation differences.
+$getPattern = '(?s)public\s+static\s+Model\s+get\s*\(\s*int\s+model\s*\)\s*\{.*?aOnDemandFetcherParent_1662\.get\s*\(\s*model\s*\)\s*;\s*return\s+null\s*;\s*\}'
+$getReplacement = @'
+public static Model get(int model) {
 		byte[] data = getData(model);
 		if (data != null) {
 			return new Model(data, model);
 		}
 
-		// The Levincia on-demand fetcher can satisfy packed-cache model requests
-		// synchronously. Re-check immediately instead of forcing a later game tick.
+		// Levincia's packed-cache loader can satisfy the request synchronously.
 		aOnDemandFetcherParent_1662.get(model);
 		data = getData(model);
 		return data == null ? null : new Model(data, model);
 	}
 '@
 
-$oldReady = @'
-	public static boolean method463(int model) {
-		final byte[] data = getData(model);
-		if (data != null) {
-			return true;
-		}
-		aOnDemandFetcherParent_1662.get(model);
-		return false;
-	}
-'@
-
-$newReady = @'
-	public static boolean method463(int model) {
+$readyPattern = '(?s)public\s+static\s+boolean\s+method463\s*\(\s*int\s+model\s*\)\s*\{.*?aOnDemandFetcherParent_1662\.get\s*\(\s*model\s*\)\s*;\s*return\s+false\s*;\s*\}'
+$readyReplacement = @'
+public static boolean method463(int model) {
 		if (getData(model) != null) {
 			return true;
 		}
 
 		// Packed models are loaded synchronously by OnDemandFetcher.get().
-		// Re-check now so valid cached models do not falsely hold the region at -3.
 		aOnDemandFetcherParent_1662.get(model);
 		return getData(model) != null;
 	}
 '@
 
-if (-not $text.Contains('return data == null ? null : new Model(data, model);')) {
-    if (-not $text.Contains($oldGet)) {
-        throw 'Could not find the expected Model.get(int) block. No file was written.'
+$changed = $false
+
+if ($text -notmatch 'return\s+data\s*==\s*null\s*\?\s*null\s*:\s*new\s+Model\s*\(\s*data\s*,\s*model\s*\)\s*;') {
+    $matches = [regex]::Matches($text, $getPattern)
+    if ($matches.Count -ne 1) {
+        throw "Expected exactly one Model.get(int) block, found $($matches.Count). No file was written."
     }
-    $text = $text.Replace($oldGet, $newGet)
+    $text = [regex]::Replace($text, $getPattern, $getReplacement, 1)
+    $changed = $true
 }
 
-if (-not $text.Contains('return getData(model) != null;')) {
-    if (-not $text.Contains($oldReady)) {
-        throw 'Could not find the expected Model.method463(int) block. No file was written.'
+if ($text -notmatch 'return\s+getData\s*\(\s*model\s*\)\s*!=\s*null\s*;') {
+    $matches = [regex]::Matches($text, $readyPattern)
+    if ($matches.Count -ne 1) {
+        throw "Expected exactly one Model.method463(int) block, found $($matches.Count). No file was written."
     }
-    $text = $text.Replace($oldReady, $newReady)
+    $text = [regex]::Replace($text, $readyPattern, $readyReplacement, 1)
+    $changed = $true
 }
 
+if (-not $changed) {
+    Write-Host ''
+    Write-Host 'Levincia model readiness repair is already applied.'
+    exit 0
+}
+
+# Preserve Windows-friendly CRLF line endings in the local Java source.
+$text = $text -replace "`r?`n", "`r`n"
 $utf8NoBom = New-Object System.Text.UTF8Encoding($false)
 [System.IO.File]::WriteAllText($modelPath, $text, $utf8NoBom)
 
