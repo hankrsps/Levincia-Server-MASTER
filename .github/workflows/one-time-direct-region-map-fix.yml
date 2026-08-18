@@ -102,9 +102,10 @@ jobs:
           p.write_text(s)
           PY
 
-      - name: Remove one-time workflow and commit
+      - name: Remove one-time files and commit
         run: |
           rm -f .github/workflows/one-time-direct-region-map-fix.yml
+          rm -f .github/trigger-direct-map-fix.txt
           git config user.name 'Levincia Repair Bot'
           git config user.email 'actions@users.noreply.github.com'
           git add -A
