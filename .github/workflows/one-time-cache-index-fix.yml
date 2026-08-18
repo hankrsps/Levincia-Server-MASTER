@@ -1,0 +1,61 @@
+name: One-time Levincia cache index repair
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: github.event.issue.title == 'Levincia cache index repair'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fix map cache index routing
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+
+          p = Path('Levincia-Client-Master/Levincia-Client/src/main/java/org/necrotic/client/cache/ondemand/OnDemandFetcher.java')
+          s = p.read_text()
+
+          # Cache slots are zero based: decompressor[4] == main_file_cache.idx4.
+          s = s.replace(
+              '''\tprivate int cacheIndexForType(int dataType) {\n\t\t// Levincia stores map/landscape data in main_file_cache.idx4.\n\t\t// Client decompressor slot 5 corresponds to idx4.\n\t\treturn dataType == 3 ? 5 : dataType + 1;\n\t}''',
+              '''\tprivate int cacheIndexForType(int dataType) {\n\t\t// Cache slots are zero based: type 3 maps -> decompressor[4] -> idx4.\n\t\treturn dataType + 1;\n\t}'''
+          )
+
+          # Remove the earlier off-by-one explicit map routing.
+          s = s.replace('main_file_cache.idx4 (decompressor slot 5)',
+                        'main_file_cache.idx4 (decompressor slot 4)')
+          s = s.replace('clientInstance.decompressors.length > 5',
+                        'clientInstance.decompressors.length > 4')
+          s = s.replace('clientInstance.decompressors[5]',
+                        'clientInstance.decompressors[4]')
+
+          if 'return dataType == 3 ? 5 : dataType + 1;' in s:
+              raise SystemExit('old cache index routing still present')
+          if 'clientInstance.decompressors[5]' in s:
+              raise SystemExit('explicit bad map slot 5 still present')
+          if 'return dataType + 1;' not in s:
+              raise SystemExit('correct cache index routing was not installed')
+
+          p.write_text(s)
+          PY
+
+      - name: Clean one-time workflows and commit
+        run: |
+          rm -f .github/workflows/one-time-cache-index-fix.yml
+          rm -f .github/workflows/one-time-direct-region-map-fix.yml
+          git config user.name 'Levincia Repair Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          git commit -m 'Fix map cache index to idx4'
+          git push origin HEAD:main
