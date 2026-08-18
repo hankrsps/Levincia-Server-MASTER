@@ -712,11 +712,29 @@ public final class OnDemandFetcher extends OnDemandFetcherParent implements Runn
 			onDemandData_1.setId(fileID);
 			onDemandData_1.incomplete = true;
 
+			queue.insertHead(onDemandData_1);
+
+			// Levincia stores maps locally in main_file_cache.idx4 (decompressor slot 5).
+			// Complete local map requests immediately so terrainData/objectData are filled
+			// without waiting on the legacy update-server queue.
+			if (dataType == 3
+					&& clientInstance != null
+					&& clientInstance.decompressors != null
+					&& clientInstance.decompressors.length > 5
+					&& clientInstance.decompressors[5] != null) {
+				byte[] localMap = clientInstance.decompressors[5].decompress(fileID);
+				if (localMap != null) {
+					onDemandData_1.setBuffer(localMap);
+					synchronized (incompleteList) {
+						incompleteList.pushHead(onDemandData_1);
+					}
+					return;
+				}
+			}
+
 			synchronized (loadRequestList) {
 				loadRequestList.pushHead(onDemandData_1);
 			}
-
-			queue.insertHead(onDemandData_1);
 		}
 	}
 
