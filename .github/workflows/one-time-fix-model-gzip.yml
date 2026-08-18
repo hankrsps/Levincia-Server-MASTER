@@ -1,0 +1,52 @@
+name: One-time Levincia model gzip repair
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fix packed model gzip handling
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('Levincia-Client-Master/Levincia-Client/src/main/java/org/necrotic/client/cache/ondemand/OnDemandFetcher.java')
+          s = p.read_text()
+
+          old = '''\t@Override\n\tpublic void get(int i) {\n\t\ttry {\n\t\t\tif (clientInstance != null\n\t\t\t\t\t&& clientInstance.decompressors != null\n\t\t\t\t\t&& clientInstance.decompressors.length > 1\n\t\t\t\t\t&& clientInstance.decompressors[1] != null) {\n\t\t\t\tbyte[] packedModel = clientInstance.decompressors[1].decompress(i);\n\t\t\t\tif (packedModel != null) {\n\t\t\t\t\tModel.load(packedModel, i);\n\t\t\t\t\treturn;\n\t\t\t\t}\n\t\t\t}\n\t\t} catch (Exception e) {\n\t\t\tSystem.out.println("[LEVINCIA MODEL CACHE] Failed direct model load: " + i);\n\t\t}\n\t\trequestFileData(0, i);\n\t}'''
+
+          new = '''\t@Override\n\tpublic void get(int i) {\n\t\ttry {\n\t\t\tif (clientInstance != null\n\t\t\t\t\t&& clientInstance.decompressors != null\n\t\t\t\t\t&& clientInstance.decompressors.length > 1\n\t\t\t\t\t&& clientInstance.decompressors[1] != null) {\n\t\t\t\tbyte[] packedModel = clientInstance.decompressors[1].decompress(i);\n\t\t\t\tif (packedModel != null) {\n\t\t\t\t\ttry (GZIPInputStream gzip = new GZIPInputStream(new ByteArrayInputStream(packedModel));\n\t\t\t\t\t\t ByteArrayOutputStream out = new ByteArrayOutputStream()) {\n\t\t\t\t\t\tbyte[] buffer = new byte[8192];\n\t\t\t\t\t\tint read;\n\t\t\t\t\t\twhile ((read = gzip.read(buffer)) != -1) {\n\t\t\t\t\t\t\tout.write(buffer, 0, read);\n\t\t\t\t\t\t}\n\t\t\t\t\t\tModel.load(out.toByteArray(), i);\n\t\t\t\t\t\treturn;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t}\n\t\t} catch (Exception e) {\n\t\t\tSystem.out.println("[LEVINCIA MODEL CACHE] Failed direct model load: " + i + " - " + e.getMessage());\n\t\t}\n\t\trequestFileData(0, i);\n\t}'''
+
+          if old not in s:
+              if 'ByteArrayOutputStream out = new ByteArrayOutputStream()' in s:
+                  print('GZIP model fix already present.')
+              else:
+                  raise SystemExit('Expected packed-model loader block not found; refusing unsafe patch')
+          else:
+              s = s.replace(old, new, 1)
+              p.write_text(s)
+          PY
+
+      - name: Remove workflow and commit
+        run: |
+          rm -f .github/workflows/one-time-fix-model-gzip.yml
+          git config user.name 'Levincia Repair Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'Fix packed model gzip decoding'
+          git push origin HEAD:main
