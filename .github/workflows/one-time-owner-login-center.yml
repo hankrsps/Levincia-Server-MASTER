@@ -1,0 +1,70 @@
+name: One-time owner and login centering repair
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Patch Xslayer owner rights and centered login inputs
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+
+          # --- Server: force Xslayer to OWNER after save/login data is loaded ---
+          server = Path('Levincia-Server/src/main/java/com/ruse/net/login/LoginDecoder.java')
+          s = server.read_text()
+          anchor = '''        if (response == LoginResponses.LOGIN_SUCCESSFUL) {\n'''
+          owner = '''        if (response == LoginResponses.LOGIN_SUCCESSFUL) {\n\n            // Levincia master owner account. Apply after PlayerLoading so the\n            // local character JSON does not need to be edited or committed.\n            if (player.getUsername().equalsIgnoreCase("Xslayer")) {\n                player.setRights(PlayerRights.OWNER);\n            }\n'''
+          if 'player.getUsername().equalsIgnoreCase("Xslayer")' not in s:
+              if anchor not in s:
+                  raise SystemExit('Login success anchor not found')
+              s = s.replace(anchor, owner, 1)
+              server.write_text(s)
+
+          # --- Client: move login text/hitboxes back into the centered panel ---
+          client = Path('Levincia-Client-Master/Levincia-Client/src/main/java/org/necrotic/client/Client.java')
+          c = client.read_text()
+
+          # The current UI draws username/password at x=517, visibly outside the
+          # centered panel. Keep the original y values and move only the x anchor.
+          c = c.replace('loginOffsetX + 517, 0xFFFFFF, myUsername + "|"',
+                        'loginOffsetX + 350, 0xFFFFFF, myUsername + "|"')
+          c = c.replace('loginOffsetX + 517, 0xFFFFFF, myUsername,',
+                        'loginOffsetX + 350, 0xFFFFFF, myUsername,')
+          c = c.replace('loginOffsetX + 517, 0xFFFFFF, getStars(password) + "|"',
+                        'loginOffsetX + 350, 0xFFFFFF, getStars(password) + "|"')
+          c = c.replace('loginOffsetX + 517, 0xFFFFFF, getStars(password),',
+                        'loginOffsetX + 350, 0xFFFFFF, getStars(password),')
+
+          # Match mouse hover/click areas to the centered fields. There are two
+          # identical x checks in handleHovers (normal login and auth state).
+          c = c.replace('mouseX >= 515 && mouseX <= 695',
+                        'mouseX >= 300 && mouseX <= 500')
+
+          client.write_text(c)
+          PY
+
+      - name: Remove one-time workflow and commit
+        run: |
+          rm -f .github/workflows/one-time-owner-login-center.yml
+          git config user.name 'Levincia Repair Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'Make Xslayer owner and recenter login fields'
+          git push origin HEAD:main
