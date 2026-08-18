@@ -83,8 +83,14 @@ if (!(Test-Path $sourceIdx)) { throw "Source idx1 not found: $sourceIdx" }
 if (!(Test-Path $sourceDat)) { throw "Source dat not found: $sourceDat" }
 New-Item -ItemType Directory -Force -Path $targetDir | Out-Null
 
-# Roll back the experimental FF FE -> read525Model routing, but leave the diagnostics intact.
 $text = [System.IO.File]::ReadAllText($modelFile)
+$original = @'
+		if (data[data.length - 1] == -1 && data[data.length - 2] == -1) {
+			read622Model(data, modelId);
+		} else {
+			readOldModel(data);
+		}
+'@
 $experimental = @'
 		if (data[data.length - 1] == -1 && data[data.length - 2] == -1) {
 			read622Model(data, modelId);
@@ -94,24 +100,63 @@ $experimental = @'
 			readOldModel(data);
 		}
 '@
-$original = @'
-		if (data[data.length - 1] == -1 && data[data.length - 2] == -1) {
-			read622Model(data, modelId);
-		} else {
-			readOldModel(data);
+$diagnostic = @'
+		String levinciaDecoder;
+		try {
+			if (data[data.length - 1] == -1 && data[data.length - 2] == -1) {
+				levinciaDecoder = "622";
+				read622Model(data, modelId);
+			} else if (data[data.length - 1] == -2 && data[data.length - 2] == -1) {
+				levinciaDecoder = "525";
+				read525Model(data, modelId);
+			} else {
+				levinciaDecoder = "old";
+				readOldModel(data);
+			}
+
+			if (modelId == 22383) {
+				System.out.println("[LEVINCIA MODEL 22383] decoder=" + levinciaDecoder
+						+ " bytes=" + data.length
+						+ " vertices=" + numberOfVerticeCoordinates
+						+ " faces=" + anInt1630
+						+ " textures=" + anInt1642
+						+ " faceColor=" + (face_color == null ? "null" : face_color.length)
+						+ " facesA=" + (faces_a == null ? "null" : faces_a.length)
+						+ " verticesX=" + (verticesXCoordinate == null ? "null" : verticesXCoordinate.length));
+			}
+		} catch (Throwable t) {
+			if (modelId == 22383) {
+				System.out.println("[LEVINCIA MODEL 22383 ERROR] " + t.getClass().getName() + ": " + t.getMessage());
+				t.printStackTrace();
+			}
+			throw t;
 		}
 '@
 
-if ($text.Contains($experimental)) {
-    $rollbackBackup = "$modelFile.before-phase-restore"
-    if (!(Test-Path $rollbackBackup)) { Copy-Item $modelFile $rollbackBackup }
+$rollbackBackup = "$modelFile.before-phase-restore"
+if (!(Test-Path $rollbackBackup)) { Copy-Item $modelFile $rollbackBackup }
+
+if ($text.Contains($diagnostic)) {
+    $text = $text.Replace($diagnostic,$original)
+    [System.IO.File]::WriteAllText($modelFile,$text,[System.Text.UTF8Encoding]::new($false))
+    Write-Host '[OK] Removed model 22383 diagnostic and restored original decoder routing.'
+} elseif ($text.Contains($experimental)) {
     $text = $text.Replace($experimental,$original)
     [System.IO.File]::WriteAllText($modelFile,$text,[System.Text.UTF8Encoding]::new($false))
     Write-Host '[OK] Restored original model decoder routing.'
 } elseif ($text.Contains($original)) {
     Write-Host '[OK] Original model decoder routing is already active.'
 } else {
-    throw 'Could not locate the expected decoder-routing block in Model.java. Nothing was changed.'
+    Write-Host '[WARN] Exact block did not match. Trying tolerant regex rollback...'
+    $pattern = '(?s)\s*String\s+levinciaDecoder;\s*try\s*\{.*?throw\s+t;\s*\}'
+    if ([regex]::IsMatch($text,$pattern)) {
+        $replacement = "`r`n" + ($original -replace "`n","`r`n")
+        $text = [regex]::Replace($text,$pattern,[System.Text.RegularExpressions.MatchEvaluator]{ param($m) $replacement },1)
+        [System.IO.File]::WriteAllText($modelFile,$text,[System.Text.UTF8Encoding]::new($false))
+        Write-Host '[OK] Tolerant rollback succeeded; original decoder routing restored.'
+    } else {
+        throw 'Could not locate the decoder-routing or diagnostic block in Model.java. No model files were changed.'
+    }
 }
 
 $stamp = Get-Date -Format 'yyyyMMdd-HHmmss'
