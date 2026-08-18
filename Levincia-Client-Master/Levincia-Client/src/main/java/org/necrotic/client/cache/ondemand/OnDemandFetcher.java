@@ -39,7 +39,7 @@ public final class OnDemandFetcher extends OnDemandFetcherParent implements Runn
 		int exceptions = 0;
 		for (int element : mapIndices2) {
 			try {
-				byte abyte[] = clientInstance.decompressors[5].decompress(element);
+				byte abyte[] = clientInstance.decompressors[4].decompress(element);
 				File map = new File(Signlink.getCacheDirectory() + "/mapdata/" + element + ".gz");
 				FileOutputStream fos = new FileOutputStream(map);
 				fos.write(abyte);
@@ -51,7 +51,7 @@ public final class OnDemandFetcher extends OnDemandFetcherParent implements Runn
 		}
 		for (int element : mapIndices3) {
 			try {
-				byte abyte[] = clientInstance.decompressors[5].decompress(element);
+				byte abyte[] = clientInstance.decompressors[4].decompress(element);
 				File map = new File(Signlink.getCacheDirectory() + "/mapdata/" + element + ".gz");
 				FileOutputStream fos = new FileOutputStream(map);
 				fos.write(abyte);
@@ -155,9 +155,8 @@ public final class OnDemandFetcher extends OnDemandFetcherParent implements Runn
 
 
 	private int cacheIndexForType(int dataType) {
-		// Levincia stores map/landscape data in main_file_cache.idx4.
-		// Client decompressor slot 5 corresponds to idx4.
-		return dataType == 3 ? 5 : dataType + 1;
+		// Cache slots are zero based: type 3 maps -> decompressor[4] -> idx4.
+		return dataType + 1;
 	}
 
 	public OnDemandFetcher() {
@@ -714,15 +713,15 @@ public final class OnDemandFetcher extends OnDemandFetcherParent implements Runn
 
 			queue.insertHead(onDemandData_1);
 
-			// Levincia stores maps locally in main_file_cache.idx4 (decompressor slot 5).
+			// Levincia stores maps locally in main_file_cache.idx4 (decompressor slot 4).
 			// Complete local map requests immediately so terrainData/objectData are filled
 			// without waiting on the legacy update-server queue.
 			if (dataType == 3
 					&& clientInstance != null
 					&& clientInstance.decompressors != null
-					&& clientInstance.decompressors.length > 5
-					&& clientInstance.decompressors[5] != null) {
-				byte[] localMap = clientInstance.decompressors[5].decompress(fileID);
+					&& clientInstance.decompressors.length > 4
+					&& clientInstance.decompressors[4] != null) {
+				byte[] localMap = clientInstance.decompressors[4].decompress(fileID);
 				if (localMap != null) {
 					onDemandData_1.setBuffer(localMap);
 					synchronized (incompleteList) {
