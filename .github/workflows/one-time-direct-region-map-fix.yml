@@ -1,0 +1,112 @@
+name: One-time direct region map repair
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Patch Client direct map fallback
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('Levincia-Client-Master/Levincia-Client/src/main/java/org/necrotic/client/Client.java')
+          s = p.read_text()
+
+          if 'import java.util.zip.GZIPInputStream;' not in s:
+              s = s.replace('import java.util.zip.CRC32;', 'import java.util.zip.CRC32;\nimport java.util.zip.GZIPInputStream;', 1)
+
+          helper_anchor = '''    private int getMapLoadingState() {'''
+          helper = '''    private byte[] loadLevinciaMapFromCache(int fileId) {
+        try {
+            if (fileId < 0 || decompressors == null || decompressors.length <= 5 || decompressors[5] == null) {
+                return null;
+            }
+            byte[] packed = decompressors[5].decompress(fileId);
+            if (packed == null) {
+                return null;
+            }
+            try (GZIPInputStream gzip = new GZIPInputStream(new ByteArrayInputStream(packed));
+                 ByteArrayOutputStream out = new ByteArrayOutputStream()) {
+                byte[] buffer = new byte[8192];
+                int read;
+                while ((read = gzip.read(buffer)) != -1) {
+                    out.write(buffer, 0, read);
+                }
+                return out.toByteArray();
+            }
+        } catch (Exception e) {
+            System.out.println("[LEVINCIA MAP CACHE] Failed local map load: " + fileId + " - " + e.getMessage());
+            return null;
+        }
+    }
+
+'''
+          if 'private byte[] loadLevinciaMapFromCache' not in s:
+              if helper_anchor not in s:
+                  raise SystemExit('getMapLoadingState anchor not found')
+              s = s.replace(helper_anchor, helper + helper_anchor, 1)
+
+          old_terrain = '''            if (terrainData[i] == null && floorMap[i] != -1) {
+                levinciaLoadDebug("WAITING FOR TERRAIN: slot=" + i
+                        + " file=" + floorMap[i]
+                        + " mapCoord=" + mapCoordinates[i]);
+                return -1;
+            }'''
+          new_terrain = '''            if (terrainData[i] == null && floorMap[i] != -1) {
+                terrainData[i] = loadLevinciaMapFromCache(floorMap[i]);
+                if (terrainData[i] == null) {
+                    levinciaLoadDebug("WAITING FOR TERRAIN: slot=" + i
+                            + " file=" + floorMap[i]
+                            + " mapCoord=" + mapCoordinates[i]);
+                    return -1;
+                }
+            }'''
+          if old_terrain in s:
+              s = s.replace(old_terrain, new_terrain, 1)
+          elif 'terrainData[i] = loadLevinciaMapFromCache(floorMap[i]);' not in s:
+              raise SystemExit('terrain wait block not found')
+
+          old_object = '''            if (objectData[i] == null && objectMap[i] != -1) {
+                levinciaLoadDebug("WAITING FOR OBJECT MAP: slot=" + i
+                        + " file=" + objectMap[i]
+                        + " mapCoord=" + mapCoordinates[i]);
+                return -2;
+            }'''
+          new_object = '''            if (objectData[i] == null && objectMap[i] != -1) {
+                objectData[i] = loadLevinciaMapFromCache(objectMap[i]);
+                if (objectData[i] == null) {
+                    levinciaLoadDebug("WAITING FOR OBJECT MAP: slot=" + i
+                            + " file=" + objectMap[i]
+                            + " mapCoord=" + mapCoordinates[i]);
+                    return -2;
+                }
+            }'''
+          if old_object in s:
+              s = s.replace(old_object, new_object, 1)
+          elif 'objectData[i] = loadLevinciaMapFromCache(objectMap[i]);' not in s:
+              raise SystemExit('object wait block not found')
+
+          p.write_text(s)
+          PY
+
+      - name: Remove one-time workflow and commit
+        run: |
+          rm -f .github/workflows/one-time-direct-region-map-fix.yml
+          git config user.name 'Levincia Repair Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          git commit -m 'Load region maps directly from idx4'
+          git push origin HEAD:main
