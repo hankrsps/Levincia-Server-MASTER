@@ -51,6 +51,7 @@ public class Configuration {
 	public static boolean DEPTH_BUFFER = true;
 
 	public static final int[] REPACK_INDICIES = {
+			1,
 			4
 	};
 
