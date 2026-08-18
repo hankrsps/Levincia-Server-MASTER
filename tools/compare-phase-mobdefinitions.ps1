@@ -71,7 +71,7 @@ foreach ($path in $paths) {
         $phase = $npc - 9000
         $block = Get-CaseBlock -Lines $lines -NpcId $npc
         if ($null -eq $block) {
-            Add-Line "Phase $phase / NPC $npc: NOT FOUND"
+            Add-Line "Phase $phase / NPC ${npc}: NOT FOUND"
             $entry["P$phase"] = 'missing'
             continue
         }
