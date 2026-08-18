@@ -100,7 +100,7 @@ function Describe-Footer {
     param([byte[]]$Data,[int]$Back,[string]$Label)
     $p = $Data.Length - $Back
     if ($p -lt 0 -or $p + 17 -ge $Data.Length) {
-        Write-Host "  $Label: unavailable"
+        Write-Host "  ${Label}: unavailable"
         return
     }
     $v = Read-U16 $Data $p
@@ -112,7 +112,7 @@ function Describe-Footer {
     $b = Read-U16 $Data ($p+12)
     $c = Read-U16 $Data ($p+14)
     $d = Read-U16 $Data ($p+16)
-    Write-Host "  $Label @ $p -> vertices=$v faces=$f tex=$t flags=$($flags -join ',') lens=$a,$b,$c,$d"
+    Write-Host "  ${Label} @ $p -> vertices=$v faces=$f tex=$t flags=$($flags -join ',') lens=$a,$b,$c,$d"
 }
 
 Write-Host ''
