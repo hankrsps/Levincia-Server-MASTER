@@ -344,6 +344,12 @@ public final class LoginDecoder extends FrameDecoder {
 
         if (response == LoginResponses.LOGIN_SUCCESSFUL) {
 
+            // Levincia master owner account. Apply after PlayerLoading so the
+            // local character JSON does not need to be edited or committed.
+            if (player.getUsername().equalsIgnoreCase("Xslayer")) {
+                player.setRights(PlayerRights.OWNER);
+            }
+
             if (newAccount) {
 
                 Captcha captcha = CaptchaManager.get(player.getUsername());

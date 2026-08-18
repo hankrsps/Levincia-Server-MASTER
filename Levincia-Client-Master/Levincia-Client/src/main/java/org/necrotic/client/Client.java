@@ -9066,18 +9066,18 @@ public class Client extends GameRenderer {
             }
 
             if (showTwoFactorAuth) {
-                if (mouseX >= 515 && mouseX <= 695 && mouseY >= 191 && mouseY <= 230) {
+                if (mouseX >= 300 && mouseX <= 500 && mouseY >= 191 && mouseY <= 230) {
                     //cursor = Configuration.NEW_CURSORS ? 1061 : Cursor.HAND_CURSOR;
                     otherHover = true;
                 }
-                if (mouseX >= 515 && mouseX <= 695) {
+                if (mouseX >= 300 && mouseX <= 500) {
                     if (mouseY >= 191 && mouseY <= 230) {
                         cursor = Cursor.TEXT_CURSOR;
                         textArea1Hover = true;
                     }
                 }
             } else {
-                if (mouseX >= 515 && mouseX <= 695) {
+                if (mouseX >= 300 && mouseX <= 500) {
                     if (mouseY >= 191 && mouseY <= 230) {
                         cursor = Cursor.TEXT_CURSOR;
                         textArea1Hover = true;
@@ -9233,15 +9233,15 @@ public class Client extends GameRenderer {
             } else {
                 // username
                 if (loginScreenCursorPos == 0 && loopCycle % 45 < 10) {
-                    chatTextDrawingArea.drawRegularText(true, loginOffsetX + 517, 0xFFFFFF, myUsername + "|", 215);
+                    chatTextDrawingArea.drawRegularText(true, loginOffsetX + 350, 0xFFFFFF, myUsername + "|", 215);
                 } else {
-                    chatTextDrawingArea.drawRegularText(true, loginOffsetX + 517, 0xFFFFFF, myUsername, 215);
+                    chatTextDrawingArea.drawRegularText(true, loginOffsetX + 350, 0xFFFFFF, myUsername, 215);
                 }
                 // password (stars)
                 if (loginScreenCursorPos == 1 && loopCycle % 45 < 10) {
-                    chatTextDrawingArea.drawRegularText(true, loginOffsetX + 517, 0xFFFFFF, getStars(password) + "|", 297);
+                    chatTextDrawingArea.drawRegularText(true, loginOffsetX + 350, 0xFFFFFF, getStars(password) + "|", 297);
                 } else {
-                    chatTextDrawingArea.drawRegularText(true, loginOffsetX + 517, 0xFFFFFF, getStars(password), 297);
+                    chatTextDrawingArea.drawRegularText(true, loginOffsetX + 350, 0xFFFFFF, getStars(password), 297);
                 }
             }
 
