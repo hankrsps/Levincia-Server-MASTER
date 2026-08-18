@@ -1,0 +1,120 @@
+name: One-time direct Client map fallback repair
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  patch:
+    if: github.event.issue.title == 'Run direct Client map fallback repair'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Patch Client map loading state
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+
+          p = Path('Levincia-Client-Master/Levincia-Client/src/main/java/org/necrotic/client/Client.java')
+          s = p.read_text()
+
+          anchor = '''    private int getMapLoadingState() {'''
+          helper = '''    private byte[] loadLevinciaMapDirect(int fileId) {
+        try {
+            if (fileId < 0 || decompressors == null || decompressors.length <= 4 || decompressors[4] == null) {
+                return null;
+            }
+            byte[] packed = decompressors[4].decompress(fileId);
+            if (packed == null) {
+                System.out.println("[LEVINCIA MAP DIRECT] idx4 file not found: " + fileId);
+                return null;
+            }
+            try (java.util.zip.GZIPInputStream gzip = new java.util.zip.GZIPInputStream(new ByteArrayInputStream(packed));
+                 ByteArrayOutputStream out = new ByteArrayOutputStream()) {
+                byte[] buffer = new byte[8192];
+                int read;
+                while ((read = gzip.read(buffer)) != -1) {
+                    out.write(buffer, 0, read);
+                }
+                byte[] decoded = out.toByteArray();
+                System.out.println("[LEVINCIA MAP DIRECT] loaded idx4 file=" + fileId + " bytes=" + decoded.length);
+                return decoded;
+            }
+        } catch (Exception e) {
+            System.out.println("[LEVINCIA MAP DIRECT] failed file=" + fileId + " - " + e.getClass().getSimpleName() + ": " + e.getMessage());
+            return null;
+        }
+    }
+
+'''
+          if 'private byte[] loadLevinciaMapDirect(int fileId)' not in s:
+              if anchor not in s:
+                  raise SystemExit('getMapLoadingState anchor not found')
+              s = s.replace(anchor, helper + anchor, 1)
+
+          old_terrain = '''            if (terrainData[i] == null && floorMap[i] != -1) {
+                levinciaLoadDebug("WAITING FOR TERRAIN: slot=" + i
+                        + " file=" + floorMap[i]
+                        + " mapCoord=" + mapCoordinates[i]);
+                return -1;
+            }'''
+          new_terrain = '''            if (terrainData[i] == null && floorMap[i] != -1) {
+                terrainData[i] = loadLevinciaMapDirect(floorMap[i]);
+                if (terrainData[i] == null) {
+                    levinciaLoadDebug("WAITING FOR TERRAIN: slot=" + i
+                            + " file=" + floorMap[i]
+                            + " mapCoord=" + mapCoordinates[i]);
+                    return -1;
+                }
+            }'''
+          if old_terrain in s:
+              s = s.replace(old_terrain, new_terrain, 1)
+          elif 'terrainData[i] = loadLevinciaMapDirect(floorMap[i]);' not in s:
+              raise SystemExit('terrain wait block not found')
+
+          old_object = '''            if (objectData[i] == null && objectMap[i] != -1) {
+                levinciaLoadDebug("WAITING FOR OBJECT MAP: slot=" + i
+                        + " file=" + objectMap[i]
+                        + " mapCoord=" + mapCoordinates[i]);
+                return -2;
+            }'''
+          new_object = '''            if (objectData[i] == null && objectMap[i] != -1) {
+                objectData[i] = loadLevinciaMapDirect(objectMap[i]);
+                if (objectData[i] == null) {
+                    levinciaLoadDebug("WAITING FOR OBJECT MAP: slot=" + i
+                            + " file=" + objectMap[i]
+                            + " mapCoord=" + mapCoordinates[i]);
+                    return -2;
+                }
+            }'''
+          if old_object in s:
+              s = s.replace(old_object, new_object, 1)
+          elif 'objectData[i] = loadLevinciaMapDirect(objectMap[i]);' not in s:
+              raise SystemExit('object wait block not found')
+
+          p.write_text(s)
+          PY
+
+      - name: Remove one-time workflow and commit
+        shell: bash
+        run: |
+          rm -f .github/workflows/one-time-direct-client-map-fallback.yml
+          git config user.name 'Levincia Repair Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          git commit -m 'Load terrain and object maps directly from idx4'
+          git push origin HEAD:main
+
+      - name: Close trigger issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue close "${{ github.event.issue.number }}" --reason completed
