@@ -16,10 +16,10 @@ public class Configuration {
 	public final static String CLIENT_NAME = "Levincia";
 	public final static String CACHE_DIRECTORY_NAME = "." + CLIENT_NAME;
 	public static final String SETTINGS_DIRECTORY_NAME = "." + Configuration.CLIENT_NAME + "_data";
-	public static final boolean FORCE_CACHE_UPDATE = true;
+	public static final boolean FORCE_CACHE_UPDATE = false;
 
 	public static final boolean IS_RUNNING_WINDOWS = true;
-	public static final boolean STOP_CACHE_UPDATES = false;
+	public static final boolean STOP_CACHE_UPDATES = true;
 	public static final boolean DROPBOX_MODE = false;
 	public final static boolean JAGCACHED_ENABLED = false;
 	public final static String JAGCACHED_HOST = "";
