@@ -25,7 +25,7 @@ public final class OnDemandFetcher extends OnDemandFetcherParent implements Runn
 	 */
 	public int getChecksum(int type, int id) {
 		int crc = 0;
-		byte[] data = clientInstance.decompressors[type + 1].decompress(id);
+		byte[] data = clientInstance.decompressors[cacheIndexForType(type)].decompress(id);
 		if (data != null) {
 			int length = data.length - 2;
 			crc32.reset();
@@ -39,7 +39,7 @@ public final class OnDemandFetcher extends OnDemandFetcherParent implements Runn
 		int exceptions = 0;
 		for (int element : mapIndices2) {
 			try {
-				byte abyte[] = clientInstance.decompressors[4].decompress(element);
+				byte abyte[] = clientInstance.decompressors[5].decompress(element);
 				File map = new File(Signlink.getCacheDirectory() + "/mapdata/" + element + ".gz");
 				FileOutputStream fos = new FileOutputStream(map);
 				fos.write(abyte);
@@ -51,7 +51,7 @@ public final class OnDemandFetcher extends OnDemandFetcherParent implements Runn
 		}
 		for (int element : mapIndices3) {
 			try {
-				byte abyte[] = clientInstance.decompressors[4].decompress(element);
+				byte abyte[] = clientInstance.decompressors[5].decompress(element);
 				File map = new File(Signlink.getCacheDirectory() + "/mapdata/" + element + ".gz");
 				FileOutputStream fos = new FileOutputStream(map);
 				fos.write(abyte);
@@ -72,7 +72,7 @@ public final class OnDemandFetcher extends OnDemandFetcherParent implements Runn
 	 */
 	public int getVersion(int type, int id) {
 		int version = 1;
-		byte[] data = clientInstance.decompressors[type + 1].decompress(id);
+		byte[] data = clientInstance.decompressors[cacheIndexForType(type)].decompress(id);
 		if (data != null) {
 			int length = data.length - 2;
 			version = ((data[length] & 0xff) << 8) + (data[length + 1] & 0xff);
@@ -153,6 +153,13 @@ public final class OnDemandFetcher extends OnDemandFetcherParent implements Runn
 	private byte[] modelIndices;
 	public int anInt1349;
 
+
+	private int cacheIndexForType(int dataType) {
+		// Levincia stores map/landscape data in main_file_cache.idx4.
+		// Client decompressor slot 5 corresponds to idx4.
+		return dataType == 3 ? 5 : dataType + 1;
+	}
+
 	public OnDemandFetcher() {
 		requested = new Deque();
 		statusString = "";
@@ -179,7 +186,7 @@ public final class OnDemandFetcher extends OnDemandFetcherParent implements Runn
 			waiting = true;
 			byte abyte0[] = null;
 			if (clientInstance.decompressors[0] != null) {
-				abyte0 = clientInstance.decompressors[onDemandData.getDataType() + 1].decompress(onDemandData.getId());
+				abyte0 = clientInstance.decompressors[cacheIndexForType(onDemandData.getDataType())].decompress(onDemandData.getId());
 			}
 			if (Configuration.JAGCACHED_ENABLED) {
 				if (!crcMatches(crcs[onDemandData.getDataType()][onDemandData.getId()], abyte0)) {
@@ -442,7 +449,7 @@ public final class OnDemandFetcher extends OnDemandFetcherParent implements Runn
 			if (clientInstance.decompressors[0] == null) {
 				return;
 			}
-			byte[] abyte0 = clientInstance.decompressors[i + 1].decompress(j);
+			byte[] abyte0 = clientInstance.decompressors[cacheIndexForType(i)].decompress(j);
 			if (crcMatches(crcs[i][j], abyte0)) {
 				// return;
 			}
@@ -654,7 +661,7 @@ public final class OnDemandFetcher extends OnDemandFetcherParent implements Runn
 				}
 				if (expectedSize + completedSize >= buf.length && current != null) {
 					if (clientInstance.decompressors[0] != null) {
-						clientInstance.decompressors[current.getDataType() + 1].method234(buf.length, buf, current.getId());
+						clientInstance.decompressors[cacheIndexForType(current.getDataType())].method234(buf.length, buf, current.getId());
 					}
 					if (!current.incomplete && current.getDataType() == 3) {
 						current.incomplete = true;
