@@ -72,20 +72,40 @@ if ($wi -notmatch 'LEVINCIA PROGRESSION WEAPON INTERFACES') {
     }
     $wi = $wi.Replace($needle, $replacement)
 
-    # Make the existing name-based classifier a fallback only.
-    $firstIf = "`t`t`tif (lowerName.contains(\"staff\")  || lowerName.contains(\"sceptre\")) {"
-    $fallbackIf = "`t`t`tif (weaponInterface == null) {`r`n`t`t`t`tif (lowerName.contains(\"staff\")  || lowerName.contains(\"sceptre\")) {"
-    if ($wi.Contains($firstIf)) {
-        $wi = $wi.Replace($firstIf, $fallbackIf)
-        $marker = "`t`t`t} else if (lowerName.contains(\"scythe\")) {`r`n`t`t`t`tweaponInterface = WeaponInterface.SCYTHE;`r`n`t`t`t}"
-        $markerReplacement = $marker + "`r`n`t`t`t}"
-        if (!$wi.Contains($marker)) {
-            throw 'Could not close WeaponInterfaces fallback classifier safely. Nothing changed.'
-        }
-        $wi = $wi.Replace($marker, $markerReplacement)
-    } else {
+    $firstClassifier = @'
+			if (lowerName.contains("staff")  || lowerName.contains("sceptre")) {
+'@
+    if (!$wi.Contains($firstClassifier)) {
+        $firstClassifier = @'
+			if (lowerName.contains("staff") || lowerName.contains("sceptre")) {
+'@
+    }
+    if (!$wi.Contains($firstClassifier)) {
         throw 'Could not find WeaponInterfaces name classifier. Nothing changed.'
     }
+
+    $fallbackStart = @'
+			if (weaponInterface == null) {
+				if (lowerName.contains("staff")  || lowerName.contains("sceptre")) {
+'@
+    if ($firstClassifier -notmatch '  \|\| ') {
+        $fallbackStart = @'
+			if (weaponInterface == null) {
+				if (lowerName.contains("staff") || lowerName.contains("sceptre")) {
+'@
+    }
+    $wi = $wi.Replace($firstClassifier, $fallbackStart)
+
+    $scytheTail = @'
+			} else if (lowerName.contains("scythe")) {
+				weaponInterface = WeaponInterface.SCYTHE;
+			}
+'@
+    if (!$wi.Contains($scytheTail)) {
+        throw 'Could not close WeaponInterfaces fallback classifier safely. Nothing changed.'
+    }
+    $scytheTailReplacement = $scytheTail + "`t`t`t}`r`n"
+    $wi = $wi.Replace($scytheTail, $scytheTailReplacement)
 
     Set-Content -LiteralPath $weaponInterfaces -Value $wi -Encoding UTF8
     Write-Host '[OK] Progression weapon interfaces mapped.'
@@ -120,10 +140,7 @@ if ($ms -notmatch '22579, 22587, 22595, 22603, 22616, 22624, 22632') {
 }
 
 # -----------------------------------------------------------------------------
-# 3) Attack animation correction for the one name that would otherwise be
-#    caught by the generic "sword" rule despite using the 2H interface.
-#    Other progression melee weapons can use their newly-correct FightType
-#    animations naturally.
+# 3) Attack animation correction for Infernal Greatsword.
 # -----------------------------------------------------------------------------
 $wa = Get-Content -LiteralPath $weaponAnimations -Raw
 
