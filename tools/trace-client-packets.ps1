@@ -20,21 +20,31 @@ if (-not (Test-Path $backupFile)) {
     Write-Host "Backup created: $backupFile"
 }
 
-# Trace the decoded opcode and packet-size mode while the region loader is waiting
-# for the first player-update packet. Insert immediately after PACKET_SIZES lookup.
+$newline = if ($text.Contains("`r`n")) { "`r`n" } else { "`n" }
+
+# Trace decoded opcodes while the client is waiting for its first player update.
 $pattern1 = '(?m)(\s*pktSize\s*=\s*SizeConstants\.PACKET_SIZES\[pktType\];\s*)'
-$replacement1 = '$1' + "`r`n                if (aBoolean1080) {`r`n                    System.out.println(\"[LEVINCIA PACKET RX] decodedType=\" + pktType + \" sizeMode=\" + pktSize + \" availableAfterOpcode=\" + available);`r`n                }`r`n"
+$trace1 = @'
+                if (aBoolean1080) {
+                    System.out.println("[LEVINCIA PACKET RX] decodedType=" + pktType + " sizeMode=" + pktSize + " availableAfterOpcode=" + available);
+                }
+'@
+$trace1 = $trace1 -replace "`r?`n", $newline
+$replacement1 = '$1' + $newline + $trace1
 $newText = [regex]::Replace($text, $pattern1, $replacement1, 1)
 
 if ($newText -eq $text) {
     throw 'Could not find the PACKET_SIZES assignment in Client.parsePacket(). No file was written.'
 }
-
 $text = $newText
 
-# Add an unmistakable marker when opcode 81 actually reaches its switch case.
+# Mark the exact moment opcode 81 reaches its switch case.
 $pattern2 = '(?m)(\s*case\s+81\s*:\s*)'
-$replacement2 = '$1' + "`r`n                    System.out.println(\"[LEVINCIA PACKET81 RX] size=\" + pktSize);`r`n"
+$trace2 = @'
+                    System.out.println("[LEVINCIA PACKET81 RX] size=" + pktSize);
+'@
+$trace2 = $trace2 -replace "`r?`n", $newline
+$replacement2 = '$1' + $newline + $trace2
 $newText = [regex]::Replace($text, $pattern2, $replacement2, 1)
 
 if ($newText -eq $text) {
