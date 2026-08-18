@@ -287,12 +287,20 @@ public final class OnDemandFetcher extends OnDemandFetcherParent implements Runn
 					&& clientInstance.decompressors[1] != null) {
 				byte[] packedModel = clientInstance.decompressors[1].decompress(i);
 				if (packedModel != null) {
-					Model.load(packedModel, i);
-					return;
+					try (GZIPInputStream gzip = new GZIPInputStream(new ByteArrayInputStream(packedModel));
+						 ByteArrayOutputStream out = new ByteArrayOutputStream()) {
+						byte[] buffer = new byte[8192];
+						int read;
+						while ((read = gzip.read(buffer)) != -1) {
+							out.write(buffer, 0, read);
+						}
+						Model.load(out.toByteArray(), i);
+						return;
+					}
 				}
 			}
 		} catch (Exception e) {
-			System.out.println("[LEVINCIA MODEL CACHE] Failed direct model load: " + i);
+			System.out.println("[LEVINCIA MODEL CACHE] Failed direct model load: " + i + " - " + e.getMessage());
 		}
 		requestFileData(0, i);
 	}
