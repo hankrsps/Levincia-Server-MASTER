@@ -17,6 +17,14 @@ function Get-Newline([string]$text) {
     return "`n"
 }
 
+# Repair the bad first version if it inserted a literal backslash-t into Java.
+$serverPre = [System.IO.File]::ReadAllText($serverFile)
+if ($serverPre.Contains('\tprivate static int levinciaRawTraceCount')) {
+    $serverPre = $serverPre.Replace('\tprivate static int levinciaRawTraceCount', "`tprivate static int levinciaRawTraceCount")
+    [System.IO.File]::WriteAllText($serverFile, $serverPre, [System.Text.UTF8Encoding]::new($false))
+    Write-Host 'Repaired literal \t in PacketEncoder.java.'
+}
+
 # ---------------- CLIENT ----------------
 $client = [System.IO.File]::ReadAllText($clientFile)
 $cnl = Get-Newline $client
@@ -69,12 +77,11 @@ if (-not $server.Contains('[LEVINCIA RAW TX]')) {
         Write-Host "Server backup created: $serverBackup"
     }
 
-    # Add a small trace counter field so normal gameplay cannot flood the console forever.
     $fieldPattern = '(?m)(private\s+final\s+IsaacRandom\s+encoder\s*;)'
-    $fieldReplacement = '$1' + $snl + $snl + "\tprivate static int levinciaRawTraceCount = 0;"
+    $fieldReplacement = '$1' + $snl + $snl + "`tprivate static int levinciaRawTraceCount = 0;"
     $newServer = [regex]::Replace($server, $fieldPattern, $fieldReplacement, 1)
     if ($newServer -eq $server) {
-        throw 'Could not find PacketEncoder encoder field. Client trace may have been written; restore its backup if needed.'
+        throw 'Could not find PacketEncoder encoder field. No server trace was installed.'
     }
     $server = $newServer
 
@@ -97,7 +104,7 @@ $1buffer.writeByte(levinciaRawHeader);
     $newServer = [regex]::Replace($server, $writePattern, $serverInsert, 1)
 
     if ($newServer -eq $server) {
-        throw 'Could not find PacketEncoder opcode write. Client trace may have been written; restore its backup if needed.'
+        throw 'Could not find PacketEncoder opcode write. No server trace was installed.'
     }
 
     [System.IO.File]::WriteAllText($serverFile, $newServer, [System.Text.UTF8Encoding]::new($false))
@@ -111,4 +118,3 @@ Write-Host 'Raw packet alignment tracing installed successfully.'
 Write-Host 'Rebuild BOTH server and client, log in once, then copy:'
 Write-Host '  [LEVINCIA RAW TX] from the server'
 Write-Host '  [LEVINCIA RAW RX] from the client'
-Write-Host 'especially the final TX lines immediately before opcode=81 and the matching RX lines.'
