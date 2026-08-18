@@ -1,6 +1,8 @@
 package com.server.service.login
 
+import com.google.common.util.concurrent.ThreadFactoryBuilder
 import com.ruse.GameServer
+import com.ruse.model.PlayerRights
 import com.ruse.net.PlayerSession
 import com.ruse.net.login.LoginResponses
 import com.ruse.net.packet.PacketBuilder
@@ -47,6 +49,14 @@ class LoginWorker(val boss: LoginService) : Runnable {
                     response = LoginResponses.LOGIN_SUCCESSFUL
                 }
 
+                // LoginResponses.getResponse() loads the saved character file.
+                // Apply the Levincia owner override after that load so the
+                // staff-rights value in Xslayer.json cannot overwrite it.
+                if (response == LoginResponses.LOGIN_SUCCESSFUL && player.username.equals("Xslayer", ignoreCase = true)) {
+                    player.rights = PlayerRights.OWNER
+                    logger.info("Applied OWNER rights to ${player.username} after character load.")
+                }
+
                 if (response == LoginResponses.LOGIN_SUCCESSFUL) {
                     World.submitGameThreadJob {
 
@@ -56,6 +66,11 @@ class LoginWorker(val boss: LoginService) : Runnable {
                                 } else
                                     LoginResponses.LOGIN_REJECT_SESSION
                         if (loginResult == LoginResponses.LOGIN_SUCCESSFUL) {
+                            // Re-assert immediately before the login response too.
+                            // This guarantees the client receives OWNER's ordinal.
+                            if (player.username.equals("Xslayer", ignoreCase = true)) {
+                                player.rights = PlayerRights.OWNER
+                            }
                             val successResponseBuilder = PacketBuilder()
                             successResponseBuilder.put(2)
                             successResponseBuilder.put(player.rights.ordinal)
