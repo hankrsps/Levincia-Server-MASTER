@@ -7,6 +7,7 @@ import org.necrotic.client.cache.Archive;
 import org.necrotic.client.cache.node.Deque;
 import org.necrotic.client.cache.node.NodeSubList;
 import org.necrotic.client.io.ByteBuffer;
+import org.necrotic.client.world.Model;
 
 import java.io.*;
 import java.net.Socket;
@@ -279,6 +280,20 @@ public final class OnDemandFetcher extends OnDemandFetcherParent implements Runn
 
 	@Override
 	public void get(int i) {
+		try {
+			if (clientInstance != null
+					&& clientInstance.decompressors != null
+					&& clientInstance.decompressors.length > 1
+					&& clientInstance.decompressors[1] != null) {
+				byte[] packedModel = clientInstance.decompressors[1].decompress(i);
+				if (packedModel != null) {
+					Model.load(packedModel, i);
+					return;
+				}
+			}
+		} catch (Exception e) {
+			System.out.println("[LEVINCIA MODEL CACHE] Failed direct model load: " + i);
+		}
 		requestFileData(0, i);
 	}
 
