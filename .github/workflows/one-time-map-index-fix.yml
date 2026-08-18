@@ -1,0 +1,59 @@
+name: One-time Levincia map index repair
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Patch map cache index routing
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('Levincia-Client-Master/Levincia-Client/src/main/java/org/necrotic/client/cache/ondemand/OnDemandFetcher.java')
+          s = p.read_text()
+
+          helper = '''\n\tprivate int cacheIndexForType(int dataType) {\n\t\t// Levincia stores map/landscape data in main_file_cache.idx4.\n\t\t// Client decompressor slot 5 corresponds to idx4.\n\t\treturn dataType == 3 ? 5 : dataType + 1;\n\t}\n'''
+
+          anchor = '\tpublic OnDemandFetcher() {'
+          if 'cacheIndexForType(int dataType)' not in s:
+              if anchor not in s:
+                  raise SystemExit('OnDemandFetcher constructor anchor not found')
+              s = s.replace(anchor, helper + '\n' + anchor, 1)
+
+          replacements = {
+              'clientInstance.decompressors[type + 1].decompress(id)': 'clientInstance.decompressors[cacheIndexForType(type)].decompress(id)',
+              'clientInstance.decompressors[onDemandData.getDataType() + 1].decompress(onDemandData.getId())': 'clientInstance.decompressors[cacheIndexForType(onDemandData.getDataType())].decompress(onDemandData.getId())',
+              'clientInstance.decompressors[current.getDataType() + 1].method234(buf.length, buf, current.getId())': 'clientInstance.decompressors[cacheIndexForType(current.getDataType())].method234(buf.length, buf, current.getId())',
+              'clientInstance.decompressors[i + 1].decompress(j)': 'clientInstance.decompressors[cacheIndexForType(i)].decompress(j)',
+              'clientInstance.decompressors[4].decompress(element)': 'clientInstance.decompressors[5].decompress(element)',
+          }
+          for old, new in replacements.items():
+              s = s.replace(old, new)
+
+          p.write_text(s)
+          PY
+
+      - name: Remove one-time workflow and commit
+        run: |
+          rm -f .github/workflows/one-time-map-index-fix.yml
+          git config user.name 'Levincia Repair Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'Fix Levincia map cache index routing'
+          git push origin HEAD:main
