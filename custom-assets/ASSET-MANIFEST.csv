@@ -1,0 +1,4 @@
+name,category,source_page,license,source_format,target,status,notes
+CC0 Angel Wing,wings,OpenGameArt Angel Wing,CC0,3D source,wearable back-slot,planned,First wing compatibility test
+CC0 Animated Auras,auras,OpenGameArt Auras,CC0,PNG sequence 512x512 60 frames,client cosmetic VFX,planned,First aura renderer compatibility test
+CC0 Low Poly RPG Armor,armor,OpenGameArt Low Poly RPG Pack,CC0,FBX OBJ Blend,wearable armor,planned,Use armor/helmet pieces only
