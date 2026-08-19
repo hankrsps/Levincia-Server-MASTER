@@ -1,0 +1,8 @@
+key,name,category,source_page,license,formats,notes
+armor_fantasy,Modular Character Outfits - Fantasy,armor,https://quaternius.com/packs/modularcharacteroutfitsfantasy.html,CC0,FBX OBJ glTF Blend,Armor/outfit compatibility test; use wearable outfit pieces only
+wing_angel,Angel Wing,wings,https://opengameart.org/content/angel-wing,CC0,FBX PNG,Small first 3D wing compatibility test
+boss_monsters,Ultimate Monsters,bosses,https://quaternius.com/packs/ultimatemonsters.html,CC0,FBX OBJ glTF Blend,Animated monster pool for boss/NPC compatibility testing
+aura_loop,Auras,auras,https://opengameart.org/content/auras,CC0,PNG sequence SBSAR,Animated aura renderer test; 512x512 60-frame loops
+map_dungeon,Modular Dungeons Pack,maps,https://quaternius.com/packs/modulardungeon.html,CC0,FBX OBJ Blend,Use a few floor wall doorway and decoration pieces first
+map_village,Medieval Village MegaKit,maps,https://quaternius.com/packs/medievalvillagemegakit.html,CC0,FBX OBJ glTF Blend,Later town/home environment library
+map_ruins,Ultimate Modular Ruins Pack,maps,https://quaternius.com/packs/ultimatemodularruins.html,CC0,FBX OBJ Blend,Later ruins/endgame environment library
