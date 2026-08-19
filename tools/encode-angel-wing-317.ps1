@@ -34,7 +34,7 @@ SRC = r'''$srcFull'''
 RAW = r'''$rawFull'''
 GZ = r'''$gzFull'''
 SCALE = 220.0
-FACE_COLOR = 127  # neutral/bright classic 317 HSL for first compatibility test
+FACE_COLOR = 127
 
 
 def signed_smart(v):
@@ -74,9 +74,6 @@ def parse_obj(path):
 
 
 def build_pair(verts, faces):
-    # The source asset is a single wing. Keep it as one side and create a mirrored
-    # copy for the other side. Center the source vertically/depth-wise, while
-    # moving it slightly away from X=0 so the two wings meet at the player's back.
     xs = [v[0] for v in verts]
     ys = [v[1] for v in verts]
     zs = [v[2] for v in verts]
@@ -86,18 +83,14 @@ def build_pair(verts, faces):
     width = maxx - minx
     cy = (miny + maxy) * 0.5
     cz = (minz + maxz) * 0.5
-
-    # Normalize the original wing around its own X center, then place it to the right.
     cx = (minx + maxx) * 0.5
     gap = width * 0.03
     shift = width * 0.5 + gap
     right = [(x - cx + shift, y - cy, z - cz) for x,y,z in verts]
     left = [(-x, y, z) for x,y,z in right]
-
     outv = right + left
     off = len(right)
     outf = list(faces)
-    # Reverse winding on the mirrored copy.
     outf += [(a+off, c+off, b+off) for a,b,c in faces]
     return outv, outf
 
@@ -105,8 +98,6 @@ def build_pair(verts, faces):
 def quantize(verts):
     out = []
     for x,y,z in verts:
-        # Blender OBJ exporter uses Y-up by default. RuneScape model Y grows downward,
-        # hence the sign flip. Z remains depth from the player's back.
         qx = int(round(x * SCALE))
         qy = int(round(-y * SCALE))
         qz = int(round(z * SCALE))
@@ -117,7 +108,6 @@ def quantize(verts):
 def encode(vertices, faces):
     if len(vertices) > 65535 or len(faces) > 65535:
         raise ValueError('classic 317 model count exceeds unsigned-short capacity')
-
     vertex_flags = bytearray()
     xstream = bytearray(); ystream = bytearray(); zstream = bytearray()
     px = py = pz = 0
@@ -132,9 +122,6 @@ def encode(vertices, faces):
         if dy: ystream += signed_smart(dy)
         if dz: zstream += signed_smart(dz)
         px,py,pz = x,y,z
-
-    # Use face type 1 for every triangle. It is less compressed than types 2/3/4,
-    # but deterministic and exactly matches readOldModel's type-1 path.
     face_types = bytearray()
     indexstream = bytearray()
     last = 0
@@ -145,27 +132,13 @@ def encode(vertices, faces):
         indexstream += signed_smart(a - last); last = a
         indexstream += signed_smart(b - last); last = b
         indexstream += signed_smart(c - last); last = c
-
     colors = bytearray()
     for _ in faces:
         colors += struct.pack('>H', FACE_COLOR)
-
-    # Optional streams disabled for the first compatibility model:
-    # face-render-type=0, constant priority=0, alpha=0, face-skin=0, vertex-skin=0,
-    # texture-count=0.
     body = bytes(vertex_flags) + bytes(face_types) + bytes(indexstream) + bytes(colors) + bytes(xstream) + bytes(ystream) + bytes(zstream)
-    footer = struct.pack(
-        '>HHBBBBBBHHHH',
-        len(vertices), len(faces), 0,
-        0, 0, 0, 0, 0,
-        len(xstream), len(ystream), len(zstream), len(indexstream)
-    )
+    footer = struct.pack('>HHBBBBBBHHHH', len(vertices), len(faces), 0, 0, 0, 0, 0, 0, len(xstream), len(ystream), len(zstream), len(indexstream))
     assert len(footer) == 18
-    return body + footer, {
-        'vertex_flags': len(vertex_flags), 'face_types': len(face_types),
-        'index_stream': len(indexstream), 'colors': len(colors),
-        'x_stream': len(xstream), 'y_stream': len(ystream), 'z_stream': len(zstream)
-    }
+    return body + footer, {'vertex_flags': len(vertex_flags), 'face_types': len(face_types), 'index_stream': len(indexstream), 'colors': len(colors), 'x_stream': len(xstream), 'y_stream': len(ystream), 'z_stream': len(zstream)}
 
 verts, faces = parse_obj(SRC)
 if not verts or not faces:
@@ -173,13 +146,13 @@ if not verts or not faces:
 paired_v, paired_f = build_pair(verts, faces)
 qv = quantize(paired_v)
 raw, sizes = encode(qv, paired_f)
-
 os.makedirs(os.path.dirname(RAW), exist_ok=True)
 with open(RAW, 'wb') as f:
     f.write(raw)
-with gzip.open(GZ, 'wb', compresslevel=9, mtime=0) as g:
-    g.write(raw)
-
+# gzip.open() does not accept mtime on every Python version. GzipFile does.
+with open(GZ, 'wb') as gz_out:
+    with gzip.GzipFile(filename='', mode='wb', fileobj=gz_out, compresslevel=9, mtime=0) as g:
+        g.write(raw)
 mins = tuple(min(v[i] for v in qv) for i in range(3))
 maxs = tuple(max(v[i] for v in qv) for i in range(3))
 print('LEVINCIA_317_ENCODE_OK=1')
@@ -207,11 +180,9 @@ Write-Host ''
 if ($LASTEXITCODE -ne 0) {
     throw "317 encoding failed with exit code $LASTEXITCODE"
 }
-
 if (!(Test-Path -LiteralPath $outRaw) -or !(Test-Path -LiteralPath $outGz)) {
     throw 'Encoder completed but expected output files were not produced.'
 }
-
 Write-Host ''
 Write-Host '[OK] Angel Wings encoded as a staging-only classic 317 model.'
 Write-Host "Raw:  $outRaw"
