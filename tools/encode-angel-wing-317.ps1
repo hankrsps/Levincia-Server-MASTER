@@ -19,8 +19,8 @@ $rawFull=[System.IO.Path]::GetFullPath($outRaw); $gzFull=[System.IO.Path]::GetFu
 $python=@"
 import gzip,os,struct,math
 SRC=r'''$srcFull'''; RAW=r'''$rawFull'''; GZ=r'''$gzFull'''
-SCALE=190.0; PLAYER_Y_OFFSET=-150; PLAYER_Z_OFFSET=18
-# 317 HSL palette values: pale/bright feather tones plus a restrained warm-gold accent.
+# Final fit pass: 10% smaller than the approved 190-scale white/gold version.
+SCALE=171.0; PLAYER_Y_OFFSET=-150; PLAYER_Z_OFFSET=18
 WHITE_BRIGHT=127
 WHITE_MID=126
 WHITE_SHADE=125
@@ -49,15 +49,11 @@ def pair(vs,fs):
     return r+l,fs+[(a+o,c+o,b+o)for a,b,c in fs]
 def face_color(vs,f):
     a,b,c=(vs[f[0]],vs[f[1]],vs[f[2]])
-    cx=(a[0]+b[0]+c[0])/3.0; cy=(a[1]+b[1]+c[1])/3.0
-    maxx=max(abs(v[0]) for v in vs) or 1.0
-    # Gold is kept to the inner/root area and a small lower-edge accent.
-    inner=abs(cx)/maxx
+    cx=(a[0]+b[0]+c[0])/3.0;cy=(a[1]+b[1]+c[1])/3.0
+    maxx=max(abs(v[0]) for v in vs)or 1.0;inner=abs(cx)/maxx
     if inner<0.19:return GOLD_LIGHT
     if inner<0.29 and cy<0:return GOLD_DEEP
-    # Remaining feathers get three close white values for visible definition without textures.
-    ux=b[0]-a[0];uy=b[1]-a[1];uz=b[2]-a[2];vx=c[0]-a[0];vy=c[1]-a[1];vz=c[2]-a[2]
-    nz=ux*vy-uy*vx
+    ux=b[0]-a[0];uy=b[1]-a[1];vx=c[0]-a[0];vy=c[1]-a[1];nz=ux*vy-uy*vx
     if nz>0.002:return WHITE_BRIGHT
     if nz<-0.002:return WHITE_SHADE
     return WHITE_MID
@@ -87,15 +83,15 @@ print('LEVINCIA_317_ENCODE_OK=1');print('MODEL_ID=100500');print('STYLE=WHITE_GO
 "@
 [System.IO.File]::WriteAllText($py,$python,(New-Object System.Text.UTF8Encoding($false)))
 Write-Host ''
-Write-Host '=== Levincia Angel Wings White/Gold Visual Encoder ==='
+Write-Host '=== Levincia Angel Wings Final Fit Encoder ==='
 Write-Host "Input: $inputObj"
-Write-Host 'Model: 100500 | Scale: 190 | Position: Y=-150 Z=+18'
+Write-Host 'Model: 100500 | Scale: 171 (10% smaller than 190) | Position: Y=-150 Z=+18'
 Write-Host 'Style: white feather shading + gold root accents'
 & $blender --background --python $py
 if($LASTEXITCODE-ne 0){throw "317 encoding failed with exit code $LASTEXITCODE"}
 if(!(Test-Path -LiteralPath $outRaw)-or!(Test-Path -LiteralPath $outGz)){throw 'Expected output files were not produced.'}
 Write-Host ''
-Write-Host '[OK] Angel Wings re-encoded with white/gold face shading.'
+Write-Host '[OK] Angel Wings re-encoded 10% smaller with white/gold shading preserved.'
 Write-Host 'NEXT:'
 Write-Host '  powershell -ExecutionPolicy Bypass -File .\tools\install-angel-wings-direct-loader.ps1'
 Write-Host 'Then completely restart the client and test item 22640.'
