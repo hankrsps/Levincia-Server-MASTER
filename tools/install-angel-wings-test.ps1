@@ -19,7 +19,6 @@ foreach ($required in @($itemDefPath, $modelSource, $validator, $rawModel)) {
     }
 }
 
-# Revalidate before touching the loose model staging directory.
 & powershell -ExecutionPolicy Bypass -File $validator -Path $rawModel
 if ($LASTEXITCODE -ne 0) {
     throw 'Angel Wings model validation failed. Nothing was installed.'
@@ -35,8 +34,15 @@ Copy-Item -LiteralPath $modelSource -Destination $modelTarget -Force
 Write-Host "[OK] Staged model 100500 -> $modelTarget"
 
 $text = [System.IO.File]::ReadAllText($itemDefPath)
+$hadBom = $text.Length -gt 0 -and [int][char]$text[0] -eq 0xFEFF
+if ($hadBom) {
+    $text = $text.TrimStart([char]0xFEFF)
+    Write-Host '[FIX] Removed UTF-8 BOM from ItemDefinition.java.'
+}
+
+$changed = $false
 if ($text -match 'customId\s*==\s*22640') {
-    Write-Host '[OK] ItemDefinition 22640 already exists; Java file left unchanged.'
+    Write-Host '[OK] ItemDefinition 22640 already exists.'
 } else {
     $needle = 'if (customId == 22070) { // sword'
     $idx = $text.IndexOf($needle, [System.StringComparison]::Ordinal)
@@ -70,9 +76,15 @@ if ($text -match 'customId\s*==\s*22640') {
 '@
 
     $text = $text.Insert($idx, $block)
-    [System.IO.File]::WriteAllText($itemDefPath, $text, (New-Object System.Text.UTF8Encoding($false)))
+    $changed = $true
     Write-Host '[OK] Added ItemDefinition 22640 -> model 100500.'
     Write-Host "[BACKUP] $backupJava"
+}
+
+# Always rewrite without BOM if one was present, even when item 22640 already exists.
+if ($changed -or $hadBom) {
+    [System.IO.File]::WriteAllText($itemDefPath, $text, (New-Object System.Text.UTF8Encoding($false)))
+    Write-Host '[OK] ItemDefinition.java saved as UTF-8 without BOM.'
 }
 
 Write-Host ''
