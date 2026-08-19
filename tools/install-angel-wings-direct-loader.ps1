@@ -32,7 +32,6 @@ New-Item -ItemType Directory -Force -Path $customDir | Out-Null
 Copy-Item -LiteralPath $source100500 -Destination $customTarget -Force
 Write-Host "[OK] Direct custom model staged -> $customTarget"
 
-# Prevent the normal index1 repacker from touching either experimental ID.
 foreach ($id in 100500,99000) {
     $p = Join-Path $index1 "$id.gz"
     if (Test-Path -LiteralPath $p) {
@@ -42,7 +41,6 @@ foreach ($id in 100500,99000) {
     }
 }
 
-# Point item 22640 back to dedicated ID 100500 so it cannot collide with an existing cache model.
 $itemText = [System.IO.File]::ReadAllText($itemDefPath)
 $itemOriginal = $itemText
 $itemText = $itemText.Replace('itemDef.modelID = 99000;', 'itemDef.modelID = 100500;')
@@ -94,7 +92,8 @@ if ($fetchText -match 'LEVINCIA CUSTOM MODEL 100500') {
 				e.printStackTrace();
 			}
 		}
-		'@
+		
+'@
 
     Copy-Item -LiteralPath $fetcherPath -Destination "$fetcherPath.angel-direct-backup-$stamp" -Force
     $fetchText = $fetchText.Insert($insertAt, $direct)
