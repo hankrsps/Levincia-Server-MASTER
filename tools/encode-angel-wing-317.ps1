@@ -23,9 +23,8 @@ $gzFull = [System.IO.Path]::GetFullPath($outGz)
 $python = @"
 import gzip, os, struct
 SRC=r'''$srcFull'''; RAW=r'''$rawFull'''; GZ=r'''$gzFull'''
-SCALE=220.0; FACE_COLOR=127
-# Classic player models use negative Y upward. The previous centered model rendered at the feet,
-# so lift the wing pair into the upper-torso/back region for the first wearable positioning pass.
+# Reduced from 220 after the first in-game positioning pass was reported a little too large.
+SCALE=190.0; FACE_COLOR=127
 PLAYER_Y_OFFSET=-150
 PLAYER_Z_OFFSET=18
 
@@ -74,23 +73,24 @@ raw=encode(q,fs); os.makedirs(os.path.dirname(RAW),exist_ok=True); open(RAW,'wb'
 with open(GZ,'wb') as out:
     with gzip.GzipFile(filename='',mode='wb',fileobj=out,compresslevel=9,mtime=0) as g: g.write(raw)
 mins=tuple(min(v[i] for v in q) for i in range(3)); maxs=tuple(max(v[i] for v in q) for i in range(3))
-print('LEVINCIA_317_ENCODE_OK=1'); print('MODEL_ID=100500'); print('PLAYER_Y_OFFSET=%d PLAYER_Z_OFFSET=%d'%(PLAYER_Y_OFFSET,PLAYER_Z_OFFSET))
+print('LEVINCIA_317_ENCODE_OK=1'); print('MODEL_ID=100500'); print('SCALE=%s PLAYER_Y_OFFSET=%d PLAYER_Z_OFFSET=%d'%(SCALE,PLAYER_Y_OFFSET,PLAYER_Z_OFFSET))
 print('VERTICES=%d FACES=%d RAW_BYTES=%d GZIP_BYTES=%d'%(len(q),len(fs),len(raw),os.path.getsize(GZ)))
 print('BOUNDS_MIN=%s BOUNDS_MAX=%s'%(mins,maxs)); print('RAW='+RAW); print('GZ='+GZ)
 "@
 [System.IO.File]::WriteAllText($py, $python, (New-Object System.Text.UTF8Encoding($false)))
 Write-Host ''
-Write-Host '=== Levincia Angel Wings Back Position Encoder ==='
+Write-Host '=== Levincia Angel Wings Fit Encoder ==='
 Write-Host "Blender: $blender"
 Write-Host "Input:   $inputObj"
 Write-Host 'Model ID: 100500 (direct custom loader)'
-Write-Host 'Position pass: Y=-150, Z=+18'
+Write-Host 'Scale pass: 190 (previous 220)'
+Write-Host 'Position: Y=-150, Z=+18'
 Write-Host ''
 & $blender --background --python $py
 if ($LASTEXITCODE -ne 0) { throw "317 encoding failed with exit code $LASTEXITCODE" }
 if (!(Test-Path -LiteralPath $outRaw) -or !(Test-Path -LiteralPath $outGz)) { throw 'Encoder completed but expected output files were not produced.' }
 Write-Host ''
-Write-Host '[OK] Re-encoded Angel Wings with player-back positioning.'
+Write-Host '[OK] Re-encoded Angel Wings at a smaller wearable scale.'
 Write-Host "Raw:  $outRaw"
 Write-Host "Gzip: $outGz"
 Write-Host ''
