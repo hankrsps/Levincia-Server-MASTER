@@ -15,7 +15,11 @@ if ($bytes.Length -lt 18) {
 }
 
 function U16([byte[]]$b, [int]$o) {
-    return (($b[$o] -shl 8) -bor $b[$o + 1])
+    # Cast each byte to Int32 before shifting. PowerShell can otherwise preserve
+    # byte-width semantics and discard the high byte (e.g. 0x06D4 becomes 0x00D4).
+    $hi = [int]$b[$o]
+    $lo = [int]$b[$o + 1]
+    return (($hi -shl 8) -bor $lo)
 }
 
 $footer = $bytes.Length - 18
@@ -86,5 +90,5 @@ if ($textureOffset + ($textures * 6) -gt $footer) {
     throw 'INVALID: texture stream exceeds footer boundary.'
 }
 
-Write-Host '[OK] Footer and stream layout match Levincia readOldModel().' 
+Write-Host '[OK] Footer and stream layout match Levincia readOldModel().'
 Write-Host 'This is still staging-only; no cache files were modified.'
