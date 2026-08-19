@@ -15,10 +15,10 @@ New-Item -ItemType Directory -Force -Path $outDir | Out-Null
 $candidates = @()
 $cmd = Get-Command blender.exe -ErrorAction SilentlyContinue
 if ($cmd) { $candidates += $cmd.Source }
-$candidates += Get-ChildItem 'C:\Program Files\Blender Foundation' -Recurse -Filter blender.exe -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName
-$candidates = $candidates | Where-Object { $_ -and (Test-Path -LiteralPath $_) } | Select-Object -Unique
+$candidates += @(Get-ChildItem 'C:\Program Files\Blender Foundation' -Recurse -Filter blender.exe -ErrorAction SilentlyContinue | Select-Object -ExpandProperty FullName)
+$candidates = @($candidates | Where-Object { $_ -and (Test-Path -LiteralPath $_) } | Select-Object -Unique)
 
-if (!$candidates -or $candidates.Count -eq 0) {
+if ($candidates.Count -eq 0) {
     Write-Host ''
     Write-Host 'Blender was not found.'
     Write-Host 'This conversion uses Blender only as a command-line format converter; no 3D modeling work is required.'
@@ -29,7 +29,7 @@ if (!$candidates -or $candidates.Count -eq 0) {
     exit 2
 }
 
-$blender = $candidates[0]
+$blender = $candidates | Select-Object -First 1
 
 $python = @"
 import bpy, os
@@ -37,14 +37,11 @@ import bpy, os
 src = r'''$((Resolve-Path -LiteralPath $inputFbx).Path)'''
 dst = r'''$([System.IO.Path]::GetFullPath($outObj))'''
 
-# Clean scene.
 bpy.ops.object.select_all(action='SELECT')
 bpy.ops.object.delete(use_global=False)
 
-# Import FBX.
 bpy.ops.import_scene.fbx(filepath=src)
 
-# Keep only mesh objects and apply transforms.
 for obj in list(bpy.context.scene.objects):
     if obj.type != 'MESH':
         bpy.data.objects.remove(obj, do_unlink=True)
@@ -59,7 +56,6 @@ for obj in bpy.context.scene.objects:
 
 os.makedirs(os.path.dirname(dst), exist_ok=True)
 
-# Blender 4.x uses wm.obj_export; older versions use export_scene.obj.
 if hasattr(bpy.ops.wm, 'obj_export'):
     bpy.ops.wm.obj_export(filepath=dst, export_materials=True)
 else:
@@ -86,7 +82,6 @@ if (!(Test-Path -LiteralPath $outObj)) {
     throw 'Blender completed but no OBJ was produced.'
 }
 
-# Copy textures beside the converted model for later inspection.
 $textureSrc = '.\custom-assets\incoming\wings\angel-wing-test\textures'
 $textureDst = Join-Path $outDir 'textures'
 if (Test-Path -LiteralPath $textureSrc) {
