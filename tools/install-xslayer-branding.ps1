@@ -24,24 +24,26 @@ function New-LevinciaRedScreen {
         $bg=New-Object System.Drawing.Drawing2D.LinearGradientBrush($rect,[System.Drawing.Color]::FromArgb(7,7,10),[System.Drawing.Color]::FromArgb(92,4,12),25)
         $g.FillRectangle($bg,$rect); $bg.Dispose()
 
-        # Red moon / glow.
         foreach($r in @(250,205,160,115)) {
             $a=[Math]::Max(10,55-[int]($r/6))
             $b=New-Object System.Drawing.SolidBrush([System.Drawing.Color]::FromArgb($a,255,22,36))
             $g.FillEllipse($b,520-[int]($r/2),35-[int]($r/5),$r,$r); $b.Dispose()
         }
-        # Gothic horizon silhouettes.
+
         $sil=New-Object System.Drawing.SolidBrush([System.Drawing.Color]::FromArgb(220,5,5,8))
         $g.FillRectangle($sil,0,390,765,113)
         foreach($x in @(25,85,145,590,645,705)) {
-            $height=70+(($x*7)%90)
-            $g.FillRectangle($sil,$x,390-$height,34,$height)
-            $pts=@((New-Object System.Drawing.Point($x-6,390-$height)),(New-Object System.Drawing.Point($x+17,355-$height)),(New-Object System.Drawing.Point($x+40,390-$height)))
+            $height = 70 + (($x * 7) % 90)
+            $towerTop = 390 - $height
+            $g.FillRectangle($sil,$x,$towerTop,34,$height)
+            $p1 = [System.Drawing.Point]::new(($x - 6), $towerTop)
+            $p2 = [System.Drawing.Point]::new(($x + 17), ($towerTop - 35))
+            $p3 = [System.Drawing.Point]::new(($x + 40), $towerTop)
+            [System.Drawing.Point[]]$pts = @($p1,$p2,$p3)
             $g.FillPolygon($sil,$pts)
         }
         $sil.Dispose()
 
-        # Crimson frame and center panel.
         $frame=New-Object System.Drawing.Pen([System.Drawing.Color]::FromArgb(210,215,25,35),3)
         $g.DrawRectangle($frame,7,7,750,488); $frame.Dispose()
         $panel=New-Object System.Drawing.SolidBrush([System.Drawing.Color]::FromArgb(215,8,8,11))
@@ -71,7 +73,10 @@ function New-LevinciaRedScreen {
         $g.DrawString('Created for Xslayer',$small,$muted,(New-Object System.Drawing.RectangleF(0,468,765,20)),$fmt)
         $fmt.Dispose();$title.Dispose();$sub.Dispose();$small.Dispose();$white.Dispose();$red.Dispose();$muted.Dispose()
         $bmp.Save($Path,[System.Drawing.Imaging.ImageFormat]::Png)
-    } finally {$g.Dispose();$bmp.Dispose()}
+    } finally {
+        $g.Dispose()
+        $bmp.Dispose()
+    }
 }
 
 Write-Host ''
@@ -87,6 +92,6 @@ Copy-Item -LiteralPath $loginPng -Destination $liveLogin -Force
 
 Write-Host "[OK] Generated: $loginPng"
 Write-Host "[OK] Installed directly to: $liveLogin"
-Write-Host "[OK] Size: 765x503"
+Write-Host '[OK] Size: 765x503'
 Write-Host ''
 Write-Host 'Completely close and restart the client now.'
