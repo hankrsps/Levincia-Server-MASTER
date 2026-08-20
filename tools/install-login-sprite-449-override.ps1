@@ -15,45 +15,47 @@ foreach ($f in @($spritesMap,$clientJava,$loginPng)) {
 
 # Patch SpritesMap.get() so sprite 449 comes from the loose Levincia login PNG.
 $text = [System.IO.File]::ReadAllText($spritesMap)
-$original = $text
-$needle = @'
-	public Sprite get(int id) {
-		if (id < 0) {
-'@
-$replacement = @'
-	public Sprite get(int id) {
-		if (id == 449) {
-			try {
-				File customLogin = new File(System.getProperty("user.home") + File.separator + ".Levincia" + File.separator + "levincia_login.png");
-				if (customLogin.exists()) {
-					BufferedImage image = ImageIO.read(customLogin);
-					if (image != null) {
-						if (image.getType() != BufferedImage.TYPE_INT_ARGB) {
-							image = convert(image, BufferedImage.TYPE_INT_ARGB);
-						}
-						int[] pixels = ((DataBufferInt) image.getRaster().getDataBuffer()).getData();
-						Sprite sprite = new Sprite(image.getWidth(), image.getHeight(), 0, 0, pixels);
-						map.put(id, sprite);
-						System.out.println("[LEVINCIA-LOGIN] Loaded loose sprite 449: " + customLogin.getAbsolutePath());
-						return sprite;
-					}
-				}
-			} catch (IOException e) {
-				System.err.println("[LEVINCIA-LOGIN] Failed loading loose sprite 449: " + e.getMessage());
-			}
-		}
-		if (id < 0) {
+
+$overrideBody = @'
+
+                if (id == 449) {
+                        try {
+                                File customLogin = new File(System.getProperty("user.home") + File.separator + ".Levincia" + File.separator + "levincia_login.png");
+                                if (customLogin.exists()) {
+                                        BufferedImage image = ImageIO.read(customLogin);
+                                        if (image != null) {
+                                                if (image.getType() != BufferedImage.TYPE_INT_ARGB) {
+                                                        image = convert(image, BufferedImage.TYPE_INT_ARGB);
+                                                }
+                                                int[] pixels = ((DataBufferInt) image.getRaster().getDataBuffer()).getData();
+                                                Sprite sprite = new Sprite(image.getWidth(), image.getHeight(), 0, 0, pixels);
+                                                map.put(id, sprite);
+                                                System.out.println("[LEVINCIA-LOGIN] Loaded loose sprite 449: " + customLogin.getAbsolutePath());
+                                                return sprite;
+                                        }
+                                }
+                        } catch (IOException e) {
+                                System.err.println("[LEVINCIA-LOGIN] Failed loading loose sprite 449: " + e.getMessage());
+                        }
+                }
 '@
 
 if ($text.Contains('[LEVINCIA-LOGIN] Loaded loose sprite 449')) {
     Write-Host '[OK] SpritesMap.java already has the sprite 449 override.'
-} elseif ($text.Contains($needle)) {
+} else {
+    # Formatting in this source varies between tabs/spaces and CRLF/LF, so match only
+    # the Java method declaration and inject immediately after its opening brace.
+    $pattern = '(?m)(public\s+Sprite\s+get\s*\(\s*int\s+id\s*\)\s*\{)'
+    $match = [regex]::Match($text, $pattern)
+    if (!$match.Success) {
+        throw 'Could not find public Sprite get(int id) method in SpritesMap.java. Nothing changed.'
+    }
+
     Copy-Item -LiteralPath $spritesMap -Destination "$spritesMap.login449-backup-$stamp" -Force
-    $text = $text.Replace($needle,$replacement)
+    $insertAt = $match.Index + $match.Length
+    $text = $text.Insert($insertAt, $overrideBody)
     [System.IO.File]::WriteAllText($spritesMap,$text,(New-Object System.Text.UTF8Encoding($false)))
     Write-Host '[OK] Patched SpritesMap.java: sprite 449 now loads .Levincia\levincia_login.png first.'
-} else {
-    throw 'Could not find SpritesMap.get() insertion point. Nothing changed.'
 }
 
 # Replace player-visible Hank branding in the scrolling login banner only.
