@@ -1,0 +1,38 @@
+name: Beginner Phase Build
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'Levincia-Server/**'
+      - 'Levincia-Client-Master/Levincia-Client/**'
+      - '.github/workflows/beginner-phase-build.yml'
+  pull_request:
+    paths:
+      - 'Levincia-Server/**'
+      - 'Levincia-Client-Master/Levincia-Client/**'
+      - '.github/workflows/beginner-phase-build.yml'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Java 11
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '11'
+          cache: maven
+
+      - name: Build server
+        working-directory: Levincia-Server
+        run: mvn -B -DskipTests package
+
+      - name: Build client
+        working-directory: Levincia-Client-Master/Levincia-Client
+        run: mvn -B -DskipTests package
