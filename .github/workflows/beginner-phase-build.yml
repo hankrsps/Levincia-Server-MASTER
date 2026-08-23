@@ -6,11 +6,15 @@ on:
     paths:
       - 'Levincia-Server/**'
       - 'Levincia-Client-Master/Levincia-Client/**'
+      - 'tools/run-server.ps1'
+      - 'run-server.bat'
       - '.github/workflows/beginner-phase-build.yml'
   pull_request:
     paths:
       - 'Levincia-Server/**'
       - 'Levincia-Client-Master/Levincia-Client/**'
+      - 'tools/run-server.ps1'
+      - 'run-server.bat'
       - '.github/workflows/beginner-phase-build.yml'
   workflow_dispatch:
 
@@ -32,6 +36,19 @@ jobs:
       - name: Build server
         working-directory: Levincia-Server
         run: mvn -B -DskipTests package
+
+      - name: Verify required server runtime data
+        working-directory: Levincia-Server
+        shell: bash
+        run: |
+          test -f data/clipping/map_index
+          test -f data/def/txt/items.txt
+          test -f data/def/json/npc_definitions.json
+          test -f data/def/json/drops.json
+          test -f data/def/json/world_shops.json
+          test -f data/saves/seasonpass/info.txt
+          test -f data/saves/dailyrewards.txt
+          echo "Required Levincia runtime data is present."
 
       - name: Build client
         working-directory: Levincia-Client-Master/Levincia-Client

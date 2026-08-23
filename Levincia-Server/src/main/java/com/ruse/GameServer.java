@@ -8,7 +8,7 @@ import java.util.logging.Logger;
 //import com.ruse.tools.discord.Discord;
 
 /**
- * The starting point of Ruse.
+ * The starting point of Levincia.
  *
  * @author Gabriel
  * @author Samy
@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 public class GameServer {
 
     private static final GameLoader loader = new GameLoader(GameSettings.GAME_PORT);
-    private static final Logger logger = Logger.getLogger("Ruse");
+    private static final Logger logger = Logger.getLogger("Levincia");
     private static boolean updating;
     public static void main(String[] params) {
         Runtime.getRuntime().addShutdownHook(new ShutdownHook());
