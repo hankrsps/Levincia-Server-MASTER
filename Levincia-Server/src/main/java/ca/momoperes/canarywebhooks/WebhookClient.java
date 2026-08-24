@@ -4,12 +4,21 @@ import java.io.IOException;
 import java.net.URI;
 import java.util.ArrayList;
 
-import org.apache.http.client.fluent.Request;
+import org.apache.http.client.config.CookieSpecs;
+import org.apache.http.client.config.RequestConfig;
+import org.apache.http.client.fluent.Executor;
 import org.apache.http.client.fluent.Response;
+import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.ContentType;
+import org.apache.http.entity.StringEntity;
 import org.json.simple.JSONObject;
 
 public class WebhookClient implements Runnable {
+
+	private static final Executor HTTP = Executor.newInstance();
+	private static final RequestConfig REQUEST_CONFIG = RequestConfig.custom()
+			.setCookieSpec(CookieSpecs.IGNORE_COOKIES)
+			.build();
 
 	private final URI target;
 	private WebhookIdentifier identifier;
@@ -28,7 +37,6 @@ public class WebhookClient implements Runnable {
 			@Override
 			public void run() {
 				PayloadObject object = payload.toObject();
-				// // System.out.println(object.toJSONString());
 				try {
 					final Response responsed = executePost(object);
 					list.add(responsed);
@@ -52,7 +60,10 @@ public class WebhookClient implements Runnable {
 	}
 
 	public Response executePost(String body, ContentType contentType) throws IOException {
-		return Request.Post(target).bodyString(body, contentType).execute();
+		HttpPost post = new HttpPost(target);
+		post.setConfig(REQUEST_CONFIG);
+		post.setEntity(new StringEntity(body, contentType));
+		return HTTP.execute(post);
 	}
 
 	public Response executePost(JSONObject object) throws IOException {
